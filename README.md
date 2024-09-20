@@ -37,7 +37,7 @@ Nos visualizamos como la principal referencia en tecnología de refrigeración p
 |Soy estudiante de 8to ciclo en la carrera Ingeniería de Software. Me considero alguien bastante práctico, directo y honesto. Puedo manejar diversos lenguajes y frameworks ya que un objetivo a corto plazo sería convertirme en un Full Stacks. Siento que aprendo rápido y no tengo problemas con trabajar con diferentes lenguajes o entornos.| <img src="/Chapter1/images/student_piero.png" width="1250"/>|
 |||
 
-| Sánchez Ramírez, Diego Antonio|  |
+| Diego Antonio Sánchez Ramírez |  |
 |----------|----------|
 |Soy un estudiante de la carrera de Ing. De Software en la Universidad de Ciencias Aplicadas (UPC). Estoy familiarizado con los lenguajes de programación C + + y HTML5, CSS y JS. Estoy en vías de aprender otros lenguajes para ser un ingeniero flexible a cualquier necesidad o problema que se presente.| <img src="/Chapter1/images/student_diego.png" width="1250"/>|
 |||
