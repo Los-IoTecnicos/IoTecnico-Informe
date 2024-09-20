@@ -254,3 +254,25 @@ _____________________
       - [6.2.1.8. Team Collaboration Insights during Sprint](/README.md#6218-team-collaboration-insights-during-sprint)
 
 
+## Student Outcome 
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
