@@ -22,6 +22,7 @@
   <li>Patrocinio Escalante, Leonardo Walt (U20201705)</li>
   <li>Sánchez Ramírez, Diego Antonio (U202021367)</li>
   <li>Zamora Rivera, Ismael Sebastian (u202116671)</li>
+  <li>prueba</li>
 </ul>
 
 **<h3>Setiembre, 2024</h3>**
