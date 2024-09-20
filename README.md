@@ -105,10 +105,13 @@ Entrevista 1:
 - **Nombre completo:** Gerardo Nunez
 - **Edad:** 55 años
 - **Distrito:** Puente Piedra
-- **Screenshot del video:** 
-- **URL del video en Microsoft Stream:** 
+- **Screenshot del video:**
+
+  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista1_Administrador.png" width="500" height="300">
+  
+- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - **Timing de la entrevista:** 0:00 -14:55
-- **Duración de la entrevista:** 
+- **Duración de la entrevista:** 15 minutos
 
 **Resumen:**
 
@@ -126,10 +129,13 @@ Entrevista 1:
 - **Nombre completo:** Gabriela Gijón Yupanqui Terrones
 - **Edad:** 20 años
 - **Distrito:** Puente Piedra
-- **Screenshot del video:** 
-- **URL del video en Microsoft Stream:** 
-- **Timing de la entrevista:** 
-- **Duración de la entrevista:** 
+- **Screenshot del video:**
+
+  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista1_Empleado.png" width="500" height="300">
+  
+- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Timing de la entrevista:** 14:56 - 23:09
+- **Duración de la entrevista:** 8 minutos
 
 **Resumen:** 
   
@@ -148,10 +154,13 @@ Entrevista 2:
 - **Nombre completo:** Gabriel Abarca
 - **Edad:** 23 años 
 - **Distrito:** San Martín de Porres 
-- **Screenshot del video:** 
-- **URL del video en Microsoft Stream:** 
-- **Timing de la entrevista:** Cocinero en un restaurante 
-- **Duración de la entrevista:** 7 meses
+- **Screenshot del video:**
+
+  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista2_Empleado.png" width="500" height="300">
+  
+- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Timing de la entrevista:** 23:10 - 29:05
+- **Duración de la entrevista:** 6 minutos
 
 **Resumen:** 
 
@@ -168,12 +177,16 @@ Entrevista 3:
 - **Nombre completo:** Yuceli Yamile Villanueva Fernandez
 - **Edad:** 21 años 
 - **Distrito:** Independencia
-- **Screenshot del video:** 
-- **URL del video en Microsoft Stream:** 
+- **Screenshot del video:**
+
+  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista3_Empleado.png" width="500" height="300">
+  
+- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - **Timing de la entrevista:** 29:06 – 34:53
-- **Duración de la entrevista:** 
+- **Duración de la entrevista:** 6 minutos
 
 **Resumen:** 
+
 Yuceli Yamile Villanueva Fernández, de 21 años, vive en el distrito de Independencia y cuenta con 2 años de experiencia trabajando en el sector de restaurantes. Durante la entrevista, Yamile explicó que en su lugar de trabajo utilizan métodos tradicionales de refrigeración, gestionando tres equipos: uno destinado a verduras y frutas, otro para pollo, carnes y mariscos, y un tercero reservado para emergencias. Este enfoque les permite mantener los alimentos en buen estado, aunque han experimentado algunas pérdidas debido a fallos en los equipos de refrigeración.
 
 En cuanto a su uso de tecnología, Yamile es usuaria de un smartphone con sistema operativo Android, y en su día a día prefiere navegar en internet utilizando Chrome, manteniéndose conectada principalmente a través de redes sociales como WhatsApp y Facebook. Está interesada en mejorar sus habilidades en la gestión de restaurantes y considera que adoptar tecnologías que optimicen las operaciones diarias sería clave para su desarrollo profesional.
@@ -187,12 +200,16 @@ Entrevista 4:
 - **Nombre completo:** Reynaldo Arevalo
 - **Edad:** 49 años
 - **Distrito:** Miraflores
-- **Screenshot del video:** 
-- **URL del video en Microsoft Stream:** 
+- **Screenshot del video:**
+  
+  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista4_Empleado.png" width="500" height="300">
+
+- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - **Timing de la entrevista:** 34:54 - 50:07
-- **Duración de la entrevista:** 
+- **Duración de la entrevista:** 15 minutos
 
 **Resumen:** 
+
 Reynaldo Arévalo, de 49 años, es el gerente del restaurante Vaca Loca, ubicado en el distrito de Miraflores, Lima. Con 17 años de experiencia en el sector de la gastronomía, Reynaldo ha pasado por diversas áreas, comenzando en el almacén y progresando por sectores como pastelería, panadería, logística y operaciones, hasta llegar a su actual posición como gerente. Su extensa trayectoria le ha permitido adquirir un amplio conocimiento sobre la operación integral de restaurantes.
 
 En cuanto a la logística de su negocio, Reynaldo implementa el sistema FIFO (First In-First Out), asegurándose de que los insumos que ingresan primero al almacenamiento sean utilizados antes que los más recientes. Este método le ha permitido optimizar la gestión de sus inventarios y reducir el desperdicio de productos perecederos.
@@ -207,10 +224,13 @@ Entrevista 5:
 - **Nombre completo:** Esmeralda Aliaga Patano
 - **Edad:** 21 años
 - **Distrito:** Surco
-- **Screenshot del video:** 
-- **URL del video en Microsoft Stream:** 
+- **Screenshot del video:**
+
+  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista5_Empleado.png" width="500" height="300">
+  
+- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - **Timing de la entrevista:** 50:08 – 1:02:15
-- **Duración de la entrevista:** 
+- **Duración de la entrevista:** 12 minutos
 
 **Resumen:** 
 
@@ -235,25 +255,37 @@ En este segmento, analizamos las respuestas de los técnicos de aire acondiciona
 
 A continuación, se muestra la preferencia de los técnicos por el diagnóstico remoto en los sistemas de refrigeración.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis1_Tecnico.png" width="500" height="300">
+
 **Análisis 2: Revisión de sensores como principal problema**
 
 La siguiente imagen ilustra la percepción de los técnicos sobre la revisión de sensores como el principal problema en el mantenimiento.
+
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis2_Tecnico.png" width="500" height="300">
 
 **Análisis 3: Experiencia en revisar grandes instalaciones**
 
 La imagen a continuación muestra la experiencia de los técnicos en la revisión de grandes instalaciones de refrigeración.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis3_Tecnico.png" width="500" height="300">
+
 **Análisis 4: Ahorro de tiempo con sistema de notificaciones**
 
 La siguiente imagen destaca la opinión de los técnicos sobre el ahorro de tiempo que proporcionaría un sistema de notificaciones.
+
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis4_Empleado.png" width="500" height="300">
 
 **Análisis 5: Valoración de nuestra propuesta**
 
 A continuación, se presenta la valoración de nuestra propuesta por parte de los técnicos entrevistados.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis5_Tecnico.png" width="500" height="300">
+
 **Análisis 6: Interés en la implementación de más sensores**
 
 La imagen muestra el interés de los técnicos en la implementación de más sensores en los sistemas de aire acondicionado.
+
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis6_Tecnico.png" width="500" height="300">
 
 **Segmento: Personal de restaurante**
 
@@ -263,21 +295,31 @@ En este segmento, analizamos las respuestas del personal de restaurante para ent
 
 A continuación, se muestra el uso de múltiples equipos de refrigeración en los restaurantes según el personal entrevistado.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis1_Empleado.png" width="500" height="300">
+
 **Análisis 2: Método de gestión de inventarios tradicional**
 
 La siguiente imagen ilustra los métodos de gestión de inventarios utilizados por el personal de restaurante.
+
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis2_Empleado.png" width="500" height="300">
 
 **Análisis 3: Disposición a probar un nuevo sistema de refrigeración**
 
 La imagen a continuación muestra la disposición del personal de restaurante a probar nuevos sistemas de refrigeración.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis3_Empleado.png" width="500" height="300">
+
 **Análisis 4: Preferencia de facilidad de uso**
 
 La siguiente imagen destaca la preferencia del personal de restaurante por sistemas de refrigeración fáciles de usar.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis3_Empleado.png" width="500" height="300">
+
 **Análisis 5: Interés en optimización de procesos**
 
 A continuación, se presenta el interés del personal de restaurante en la optimización de procesos mediante nuestra solución propuesta.
+
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis5_Empleado.png" width="500" height="300">
 
 **Conclusión del segmento: Técnicos de aire acondicionado/sistema de refrigeración**
 
@@ -304,11 +346,14 @@ En esta sección, incluimos la elaboración de las fichas de User Persona. La se
 
 En este segmento, nos enfocamos en Diego, un técnico comprometido y detallista que se enorgullece de mantener los sistemas de refrigeración y aire acondicionado en óptimas condiciones. Es reconocido por su puntualidad y habilidades para resolver problemas rápidamente.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/UserPersona_Tecnico.png" width="600" height="1000">
+
 
 ##### Segmento objetivo: Personal de restaurante
 
 En este segmento, nos enfocamos en Carlos, un gerente de restaurante con 20 años de experiencia en el rubro de la cocina. Carlos trabaja y reside en el centro de Lima y presenta algunos inconvenientes al momento de realizar el control de la temperatura de los productos.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/UserPersona_Personal.png" width="600" height="1000">
 
 #### 2.3.2. User Task Matrix
 
@@ -349,10 +394,13 @@ Como equipo, hemos creado User Journey Maps para cada una de nuestras User Perso
 
 En este segmento, nos enfocamos en el personal de mantenimiento del software. El User Journey Map describe el proceso de supervisión, diagnóstico, investigación, resolución de problemas, actualización y optimización del sistema. A continuación, se muestra una imagen que ilustra las etapas, experiencias e ideas/oportunidades del personal de mantenimiento en el escenario actual.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/UserJourney_Mantenimiento.png" width="1000" height="600">
 
 ##### Segmento Objetivo: Personal del Restaurante
 
 En este segmento, nos enfocamos en el personal del restaurante. El User Journey Map describe el proceso de monitoreo de insumos, identificación de fluctuaciones de temperatura, investigación de causas, toma de acciones inmediatas, registro de incidentes y preparación para inspecciones. A continuación, se muestra una imagen que ilustra las etapas, experiencias e ideas/oportunidades del personal del restaurante en el escenario actual.
+
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/UserJourney_Personal.png" width="1000" height="600">
 
 
 #### 2.3.4. Empathy Mapping
@@ -363,11 +411,13 @@ En esta sección, nos enfocamos en el personal de Mantenimiento del Software y P
 
 En este segmento, nos enfocamos en los técnicos y especialistas en mantenimiento de software. El Empathy Map describe sus responsabilidades, necesidades y experiencias en el contexto actual, sin nuestra solución.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/EmpathyMap_Mantenimiento.png" width="1000" height="800">
 
 ### Segmento Objetivo: Personal del Restaurante
 
 En este segmento, nos enfocamos en los empleados de cocina y almacén en restaurantes. El Empathy Map describe sus responsabilidades, necesidades y experiencias en el contexto actual, sin nuestra solución.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/EmpathyMap_Personal.png" width="1000" height="800">
 
 #### 2.3.5. As-is Scenario Mapping
 
@@ -377,11 +427,13 @@ En esta sección, presentamos el proceso de As-Is Scenario Mapping, donde, como 
 
 En este segmento, nos enfocamos en el personal de mantenimiento del software. El As-Is Scenario Mapping describe el proceso actual de revisión de alertas, diagnóstico y reparación de fallos, y actualización del sistema. A continuación, se muestra una imagen que ilustra las etapas, acciones, pensamientos y sentimientos del personal de mantenimiento en el escenario actual.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/As_is_Scenario_Mantenimiento.png" width="700" height="400">
 
 ### Segmento Objetivo: Personal del Restaurante
 
 En este segmento, nos enfocamos en el personal del restaurante. El As-Is Scenario Mapping describe el proceso actual de ingreso de insumos al almacén, verificación manual de temperaturas y registro manual del inventario. A continuación, se muestra una imagen que ilustra las etapas, acciones, pensamientos y sentimientos del personal del restaurante en el escenario actual.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/As_is_Scenario_Personal.png" width="700" height="400">
 
 
 ### 2.4. Ubiquitous Language
