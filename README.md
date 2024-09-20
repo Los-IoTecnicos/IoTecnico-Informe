@@ -102,44 +102,23 @@ Para cada segmento, realizamos de 3 a 5 entrevistas. Indicamos la información d
 **Técnico de aire acondicionado/sistema de refrigeración**
 
 Entrevista 1:
-- **Nombre completo:** 
-- **Edad:** 
-- **Distrito:** 
+- **Nombre completo:** Gerardo Nunez
+- **Edad:** 55 años
+- **Distrito:** Puente Piedra
 - **Screenshot del video:** 
 - **URL del video en Microsoft Stream:** 
-- **Timing de la entrevista:** 
+- **Timing de la entrevista:** 0:00 -14:55
 - **Duración de la entrevista:** 
 
 **Resumen:**
-  
-  
 
-Entrevista 2:
-- **Nombre completo:** 
-- **Edad:** 
-- **Distrito:** 
-- **Screenshot del video:** 
-- **URL del video en Microsoft Stream:** 
-- **Timing de la entrevista:** 
-- **Duración de la entrevista:** 
+Gerardo Núñez, de 55 años, vive en el distrito de San Miguel y trabaja como técnico independiente en aire acondicionado, con 26 años de experiencia en el rubro. Durante la entrevista, Gerardo compartió su experiencia en la reparación y mantenimiento de sistemas de aire acondicionado, describiendo los pasos que sigue habitualmente para resolver problemas. Primero, revisa el software del sistema para detectar posibles fallas. Si no encuentra problemas allí, procede a revisar los sensores, ya que en muchas ocasiones las lecturas erróneas provienen de ellos y no del software o del hardware. Finalmente, inspecciona el equipo físico para identificar cualquier falla en el propio aire acondicionado.
 
-**Resumen:** 
+Gerardo mencionó que uno de los mayores desafíos que enfrenta en lugares grandes, donde se utilizan múltiples equipos, es tener que revisar manualmente cada sensor, lo que puede ser tedioso. Aunque con la experiencia ha desarrollado ciertos métodos para agilizar la identificación de problemas, considera que no siempre es suficiente.
 
-  
-  
+Cuando le presentamos nuestra idea, mostró un gran interés en la posibilidad de recibir diagnósticos de los sistemas directamente en su celular, lo que, según él, le ahorraría mucho tiempo y facilitaría su trabajo diario. Además, resaltó la importancia de un sistema de notificaciones directas para que, en caso de fallas, él sea el primero en enterarse y pueda actuar rápidamente, ya que en situaciones donde los productos refrigerados son delicados, el tiempo de respuesta es crucial para evitar pérdidas.
 
-Entrevista 3:
-- **Nombre completo:** 
-- **Edad:** 
-- **Distrito:** 
-- **Screenshot del video:** 
-- **URL del video en Microsoft Stream:** 
-- **Timing de la entrevista:** 
-- **Duración de la entrevista:** 
-
-**Resumen:** 
-
-  
+Al finalizar la entrevista, Gerardo sugirió una mejora adicional para nuestra solución: la colocación de más sensores dentro de los aires acondicionados, distribuidos en puntos críticos. Esto, según él, permitiría descartar fallas más rápido y optimizar aún más el proceso de diagnóstico, ahorrando tiempo y mejorando la eficiencia en las reparaciones.
 
 **Personal de Restaurante**
 
@@ -186,19 +165,132 @@ Tras conocer nuestra solución, Gabriel comentó que estarían dispuestos a acep
 
 
 Entrevista 3:
-- **Nombre completo:** 
-- **Edad:** 
-- **Distrito:** 
+- **Nombre completo:** Yuceli Yamile Villanueva Fernandez
+- **Edad:** 21 años 
+- **Distrito:** Independencia
 - **Screenshot del video:** 
 - **URL del video en Microsoft Stream:** 
-- **Timing de la entrevista:** 
+- **Timing de la entrevista:** 29:06 – 34:53
+- **Duración de la entrevista:** 
+
+**Resumen:** 
+Yuceli Yamile Villanueva Fernández, de 21 años, vive en el distrito de Independencia y cuenta con 2 años de experiencia trabajando en el sector de restaurantes. Durante la entrevista, Yamile explicó que en su lugar de trabajo utilizan métodos tradicionales de refrigeración, gestionando tres equipos: uno destinado a verduras y frutas, otro para pollo, carnes y mariscos, y un tercero reservado para emergencias. Este enfoque les permite mantener los alimentos en buen estado, aunque han experimentado algunas pérdidas debido a fallos en los equipos de refrigeración.
+
+En cuanto a su uso de tecnología, Yamile es usuaria de un smartphone con sistema operativo Android, y en su día a día prefiere navegar en internet utilizando Chrome, manteniéndose conectada principalmente a través de redes sociales como WhatsApp y Facebook. Está interesada en mejorar sus habilidades en la gestión de restaurantes y considera que adoptar tecnologías que optimicen las operaciones diarias sería clave para su desarrollo profesional.
+
+En términos de gestión de inventarios, Yamile resaltó la importancia de evitar que los productos caduquen, ya que las pérdidas por refrigeración defectuosa han sido un desafío en su lugar de trabajo. Según ella, un sistema de refrigeración ideal debería ofrecer facilidad de uso, monitoreo en tiempo real y alertas automáticas para prevenir posibles fallos, ayudando así a mantener la calidad de los productos y reducir las pérdidas.
+
+Finalmente, Yamile se mostró receptiva a la adopción de nuevas tecnologías, especialmente aquellas que le permitan gestionar el inventario de manera más eficiente a través de un dispositivo móvil. La solución propuesta le pareció prometedora y está interesada en ver cómo podría mejorar la operación diaria del restaurante y simplificar la gestión de los sistemas de refrigeración.
+
+
+Entrevista 4:
+- **Nombre completo:** Reynaldo Arevalo
+- **Edad:** 49 años
+- **Distrito:** Miraflores
+- **Screenshot del video:** 
+- **URL del video en Microsoft Stream:** 
+- **Timing de la entrevista:** 34:54 - 50:07
+- **Duración de la entrevista:** 
+
+**Resumen:** 
+Reynaldo Arévalo, de 49 años, es el gerente del restaurante Vaca Loca, ubicado en el distrito de Miraflores, Lima. Con 17 años de experiencia en el sector de la gastronomía, Reynaldo ha pasado por diversas áreas, comenzando en el almacén y progresando por sectores como pastelería, panadería, logística y operaciones, hasta llegar a su actual posición como gerente. Su extensa trayectoria le ha permitido adquirir un amplio conocimiento sobre la operación integral de restaurantes.
+
+En cuanto a la logística de su negocio, Reynaldo implementa el sistema FIFO (First In-First Out), asegurándose de que los insumos que ingresan primero al almacenamiento sean utilizados antes que los más recientes. Este método le ha permitido optimizar la gestión de sus inventarios y reducir el desperdicio de productos perecederos.
+
+Reynaldo es usuario de tecnología en su día a día, utilizando principalmente un smartphone con sistema operativo Android. Prefiere navegar en internet a través de Chrome y se mantiene conectado con su equipo y contactos mediante WhatsApp y Facebook. A pesar de su perfil gerencial, Reynaldo está abierto a adoptar tecnologías que puedan facilitar la operación del restaurante, siempre y cuando estas soluciones ofrezcan conveniencia y un claro beneficio operativo.
+
+En cuanto a su visión futura, Reynaldo tiene como principal objetivo profesional mejorar la eficiencia operativa de su restaurante mediante la implementación de tecnologías que optimicen procesos. Aunque le interesa la propuesta de solución que discutimos, especialmente por la posibilidad de gestionar el inventario desde un dispositivo móvil, expresó que no percibe una necesidad urgente de monitorear constantemente la temperatura de los refrigeradores. Esto se debe a que actualmente cuentan con un lector de temperatura que monitorea las cámaras de refrigeración las 24 horas del día, lo que le proporciona confianza en el sistema existente.
+
+Sin embargo, está dispuesto a explorar nuevas opciones si éstas ofrecen mejoras significativas en términos de eficiencia y reducción de costos operativos, siempre que se integren fácilmente con los procesos actuales y que no requieran cambios drásticos en la rutina del personal.
+
+Entrevista 5:
+- **Nombre completo:** Esmeralda Aliaga Patano
+- **Edad:** 21 años
+- **Distrito:** Surco
+- **Screenshot del video:** 
+- **URL del video en Microsoft Stream:** 
+- **Timing de la entrevista:** 50:08 – 1:02:15
 - **Duración de la entrevista:** 
 
 **Resumen:** 
 
-  
+Esmeralda Aliaga Patano, de 21 años, es una joven administradora de un restaurante en el distrito de Surco, Lima. Con 3 años de experiencia en el sector de restaurantes, Esmeralda se encarga de gestionar las operaciones diarias, incluyendo el manejo de los sistemas de refrigeración. Actualmente, el restaurante cuenta con tres equipos de refrigeración: uno destinado a frutas y verduras, otro para pollo, carnes y mariscos, y un tercero que se usa exclusivamente en casos de emergencia.
+
+Esmeralda menciona que utiliza con frecuencia su smartphone, principalmente un iPhone, así como su laptop, para gestionar diferentes aspectos del restaurante. Entre las aplicaciones y redes sociales que más usa para comunicarse y coordinar con su equipo, destacan Instagram y WhatsApp. Utiliza Safari como navegador y se considera una persona bastante familiarizada con la tecnología, aunque prefiere herramientas intuitivas y fáciles de usar.
+
+Durante la entrevista, Esmeralda expresó su interés en mejorar la eficiencia del proceso de refrigeración, pero sin sacrificar la simplicidad en su operación. Para ella, es crucial que cualquier solución nueva sea fácil de implementar, ya que su personal cuenta con diferentes niveles de familiaridad con la tecnología. Además, considera que una interfaz intuitiva y sencilla reduciría el tiempo necesario para entrenar al personal en el uso de un sistema nuevo.
+
+En cuanto a su percepción sobre nuestra solución de refrigeración automatizada, Esmeralda se mostró muy receptiva. Cree que podría ser una opción altamente viable para optimizar las operaciones del restaurante, especialmente si incluye características como monitoreo en tiempo real y alertas automáticas. Además, destacó que la practicidad y facilidad de uso son factores determinantes para adoptar nuevas tecnologías, lo que demuestra su enfoque en mejorar los procesos sin comprometer la calidad del servicio que ofrecen a los clientes.
+
 
 #### 2.2.3. Análisis de entrevistas
+
+En esta sección, realizamos un análisis por cada segmento objetivo, identificando con sustento estadístico (porcentajes) todas las características objetivas y subjetivas que representan los aspectos más comunes de cada segmento y que son necesarios para la construcción de los arquetipos. La fuente de información para este análisis proviene de las entrevistas registradas, evidenciando que cada característica tiene relación con las entrevistas y los resúmenes realizados.
+
+**Segmento: Técnicos de aire acondicionado/sistema de refrigeración**
+
+En este segmento, analizamos las respuestas de los técnicos de aire acondicionado y sistemas de refrigeración para identificar sus preferencias y desafíos más comunes. A continuación, se presentan las imágenes que resumen los hallazgos clave de las entrevistas.
+
+**Análisis 1: Preferencia de diagnóstico remoto**
+
+A continuación, se muestra la preferencia de los técnicos por el diagnóstico remoto en los sistemas de refrigeración.
+
+**Análisis 2: Revisión de sensores como principal problema**
+
+La siguiente imagen ilustra la percepción de los técnicos sobre la revisión de sensores como el principal problema en el mantenimiento.
+
+**Análisis 3: Experiencia en revisar grandes instalaciones**
+
+La imagen a continuación muestra la experiencia de los técnicos en la revisión de grandes instalaciones de refrigeración.
+
+**Análisis 4: Ahorro de tiempo con sistema de notificaciones**
+
+La siguiente imagen destaca la opinión de los técnicos sobre el ahorro de tiempo que proporcionaría un sistema de notificaciones.
+
+**Análisis 5: Valoración de nuestra propuesta**
+
+A continuación, se presenta la valoración de nuestra propuesta por parte de los técnicos entrevistados.
+
+**Análisis 6: Interés en la implementación de más sensores**
+
+La imagen muestra el interés de los técnicos en la implementación de más sensores en los sistemas de aire acondicionado.
+
+**Segmento: Personal de restaurante**
+
+En este segmento, analizamos las respuestas del personal de restaurante para entender mejor sus necesidades y preferencias en cuanto a la gestión de refrigeración e inventarios. A continuación, se presentan las imágenes que resumen los hallazgos clave de las entrevistas.
+
+**Análisis 1: Uso de múltiples equipos de refrigeración**
+
+A continuación, se muestra el uso de múltiples equipos de refrigeración en los restaurantes según el personal entrevistado.
+
+**Análisis 2: Método de gestión de inventarios tradicional**
+
+La siguiente imagen ilustra los métodos de gestión de inventarios utilizados por el personal de restaurante.
+
+**Análisis 3: Disposición a probar un nuevo sistema de refrigeración**
+
+La imagen a continuación muestra la disposición del personal de restaurante a probar nuevos sistemas de refrigeración.
+
+**Análisis 4: Preferencia de facilidad de uso**
+
+La siguiente imagen destaca la preferencia del personal de restaurante por sistemas de refrigeración fáciles de usar.
+
+**Análisis 5: Interés en optimización de procesos**
+
+A continuación, se presenta el interés del personal de restaurante en la optimización de procesos mediante nuestra solución propuesta.
+
+**Conclusión del segmento: Técnicos de aire acondicionado/sistema de refrigeración**
+
+El análisis de este segmento revela una fuerte preferencia por tecnologías que faciliten el diagnóstico remoto y la revisión de sensores, así como un interés significativo en soluciones que optimicen el tiempo de respuesta y proporcionen un monitoreo detallado. La valoración positiva de nuestra propuesta y el interés en la implementación de más sensores refuerzan la viabilidad de nuestras soluciones en este mercado.
+
+**Conclusión del segmento: Personal de restaurante**
+
+El análisis de este segmento muestra una clara necesidad de soluciones que puedan gestionar múltiples equipos de refrigeración y mejorar la gestión de inventarios. La disposición a probar nuevas tecnologías y la preferencia por sistemas fáciles de usar indican que nuestra propuesta tiene un alto potencial de aceptación. Además, el interés en la optimización de procesos refuerza la relevancia de nuestra solución en este mercado.
+
+**Conclusión General**
+
+En resumen, ambos segmentos muestran una fuerte preferencia por soluciones tecnológicas avanzadas que faciliten el diagnóstico, monitoreo y gestión de sistemas de refrigeración. La aceptación unánime de nuestra propuesta y el interés significativo en la implementación de nuevas tecnologías refuerzan la viabilidad y relevancia de nuestras soluciones en estos mercados. La adopción de estas tecnologías no sólo optimizará las operaciones y reducirá los tiempos de inactividad, sino que también mejorará la eficiencia y satisfacción general de los usuarios.
+
 
 ### 2.3. Needfinding
 
@@ -216,7 +308,6 @@ En este segmento, nos enfocamos en Diego, un técnico comprometido y detallista 
 ##### Segmento objetivo: Personal de restaurante
 
 En este segmento, nos enfocamos en Carlos, un gerente de restaurante con 20 años de experiencia en el rubro de la cocina. Carlos trabaja y reside en el centro de Lima y presenta algunos inconvenientes al momento de realizar el control de la temperatura de los productos.
-
 
 
 #### 2.3.2. User Task Matrix
