@@ -3,51 +3,61 @@
 ### 4.1.1.1 Candidate Context Discovery.
 
 **Step 1:** *Unstructured Exploration*
+
 Como primer paso en el EventStoring, iniciamos con una sesión de lluvia de ideas para identificar los eventos del dominio relacionados con el negocio analizado. Es fundamental expresar los acontecimientos del dominio en tiempo pasado para describir lo que ha ocurrido.
 
 <img src="/assets/images/unstructuredexploration.png" width="1250"/>
 
 **Step 2:** *Timelines*
+
 Como segundo paso, revisamos los eventos de dominio generados y los organizamos en el orden en que suceden en el dominio. Es decir, los eventos deben comenzar con un camino exitoso que describa un escenario comercial favorable. Finalmente, una vez completado este camino exitoso, se pueden incorporar escenarios alternativos.
 
 <img src="/assets/images/step2.png" width="1250"/>
 
 **Step 3:** *Paint Points*
+
 Después de organizar los eventos en una línea de tiempo, utilizamos esta visión general para destacar puntos clave a lo largo del proceso.
 
 <img src="/assets/images/step3.png" width="1250"/>
 
 **Step 4:** *Pivotal Points*
+
 Una vez que completamos nuestra línea de eventos con los puntos problemáticos, identificamos eventos comerciales clave que señalan un cambio en el contexto o en la fase. A estos los llamamos eventos principales, y los señalamos con una barra vertical que divide los eventos anteriores y posteriores a dicho evento.
 
 <img src="/assets/images/step4.png" width="1250"/>
 
 **Step 5:** *Commands*
+
 Los comandos de esta fase describen cómo ocurrió o se desarrolló el evento. En otras palabras, los comandos se escriben en forma de imperativo y especifican funciones del sistema en lugar de eventos del dominio.
 
 <img src="/assets/images/step5.png" width="1250"/>
 
 **Step 6:** *Policies*
+
 Nuestra búsqueda actual se centra en reglas de políticas de automatización con la capacidad de llevar a cabo estas instrucciones. Es decir, una política de automatización representa una situación en la que se ejecuta un comando en respuesta a un evento. Entonces, cuando ocurre un evento específico del dominio, el comando se ejecuta automáticamente.
 
 <img src="/assets/images/step6.png" width="1250"/>
 
 **Step 7:** *Read Models*
+
 El modelo de lectura es la representación de datos específica del dominio que el agente utiliza en esta etapa para determinar si debe ejecutar o no el comando. Por este motivo, definimos una vista de datos para cada comando, incluidas las notificaciones, los informes y los monitores del sistema.
 
 <img src="/assets/images/step7.png" width="1250"/>
 
 **Step 8:** *External Systems*
+
 En esta etapa finalizamos el modelo con los sistemas externos, es decir, se considera sistema externo a todo sistema que no forme parte del dominio en el que se está trabajando.
 
 <img src="/assets/images/step8.png" width="1250"/>
 
 **Step 9:** *Aggregates*
+
 Después de la introducción de todos los comandos y eventos, comenzamos a considerar ensamblar ideas similares en agregados que produzcan y reciban eventos.
 
 <img src="/assets/images/step9.png" width="1250"/>
 
 **Step 10:** *Bounded Contexts*
+
 Luego buscamos agregados que representen funciones estrechamente vinculadas o que estén asociadas en función de regulaciones y que tengan significado entre sí. Es decir, los candidatos naturales para los límites del contexto restringido se producen mediante agrupaciones de agregados.
 
 <img src="/assets/images/step10.png" width="1250"/>
