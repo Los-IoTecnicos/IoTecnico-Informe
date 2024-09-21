@@ -122,36 +122,33 @@ Este diagrama muestra un escenario de alerta de sensor de temperatura utilizando
 
 <img src="/assets/images/temperaturesensor.png" width="1250"/>
 
-El diagrama describe el proceso de creación y verificación de cuentas en un sistema de software. Comienza con la **comunicación entrante**, donde se reciben solicitudes de creación de cuenta. Luego, en la sección de **Lenguaje ubicuo**, se detallan los pasos de "Creación de cuenta", "Información iniciada" y "Cuenta acreditada". Finalmente, en la **comunicación saliente**, los mensajes se envían a un sistema de registro y a un proceso de verificación de cuentas, asegurando que las cuentas sean verificadas y registradas correctamente.
-
-
 ### 4.1.1.3 Bounded Context Canvases
 
 En esta sección, como equipo, diseñamos nuestros candidate bounded contexts, detallando los criterios de diseño. Seleccionamos cada bounded context por orden de importancia y elaboramos su Bounded Context Canvas. Este proceso iterativo incluye los pasos de Context Overview Definition, Business Rules Distillation & Ubiquitous Language Capture, Capability Analysis, Capability Layering (si aplica), Dependencies Capture, y Design Critique. Este enfoque nos permite definir claramente los límites y responsabilidades de cada contexto, asegurando una arquitectura coherente y eficiente.
 
-##### Account
+##### Iot Solutions
 
-Este diagrama detalla cómo gestionamos la creación y verificación de cuentas dentro de nuestro sistema.
+El diagrama describe cómo las acciones iniciadas desde la web, la aplicación móvil y la solución IoT recopilan datos, los envían para su análisis y luego calculan métricas que se devuelven a las aplicaciones web y móviles. Comienza con la comunicación entrante, donde se recopilan datos de diversas fuentes. Finalmente, en la comunicación saliente, los datos analizados y las métricas calculadas se envían de vuelta a las aplicaciones para su visualización.
 
-
-
-##### Collaborate & Request
-
-Este diagrama describe cómo los propietarios gestionan búsquedas o crean invitaciones, los miembros seleccionan correos electrónicos, los técnicos validan solicitudes o suben documentos, y los colaboradores reciben y envían solicitudes dentro del sistema
-
-
+<img src="/assets/images/Bounded_Context_Canvases_4.png" width="1250"/>
 
 ##### Inventory Management
 
-Este diagrama describe cómo se controla y actualiza el inventario, permitiendo visualizar si hay exceso o falta de productos, mediante la recepción y actualización de suministros en el sistema.
+El diagrama describe cómo se controla y actualiza el inventario, permitiendo visualizar si hay exceso o falta de productos, mediante la recepción y actualización de suministros en el sistema. Comienza con la comunicación entrante, donde se reciben suministros y se actualiza el inventario. Finalmente, en la comunicación saliente, los mensajes se envían para confirmar si los suministros fueron recibidos correctamente o si hubo algún error
 
+<img src="/assets/images/Bounded_Context_Canvases_3.png" width="1250"/>
 
+##### Collaborate & Request
 
-##### Iot Solutions
+El diagrama describe cómo los propietarios gestionan búsquedas o crean invitaciones, los miembros seleccionan correos electrónicos, los técnicos validan solicitudes o suben documentos, y los colaboradores reciben y envían solicitudes dentro del sistema. Comienza con la comunicación entrante, donde se reciben solicitudes de colaboración o búsqueda. Finalmente, en la comunicación saliente, los mensajes se envían a los colaboradores para completar las solicitudes.
 
-Este diagrama describe cómo las acciones iniciadas desde la web, la aplicación móvil y la solución IoT recopilan datos, los envían para su análisis y luego calculan métricas que se devuelven a las aplicaciones web y móviles.
+<img src="/assets/images/Bounded_Context_Canvases_2.png" width="1250"/>
 
+##### Account
 
+El diagrama describe el proceso de creación y verificación de cuentas en un sistema de software. Comienza con la comunicación entrante, donde se reciben solicitudes de creación de cuenta. Finalmente,en la comunicación saliente, los mensajes se envían a un sistema de registro y a un proceso de verificación de cuentas, asegurando que las cuentas sean verificadas y registradas correctamente.
+
+<img src="/assets/images/Bounded_Context_Canvases_1.png" width="1250"/>
 
 ### 4.1.2 Context Mapping
 
