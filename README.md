@@ -94,59 +94,148 @@ Sabremos que hemos tenido éxito cuando el personal de los restaurantes reporte 
 
 ### 1.2.2.2. Lean UX Assumptions.
 
-**User Assumptions**
+### **User Assumptions**
 
-Par
+Para esta sección, crearemos supuestos de cómo serían nuestros segmentos objetivos para poder tener una idea principal de sus características y poder refutarlos luego con una investigación y análisis más profundos:
 
-**User's Outcomes & Benefits**
+#### **Segmentos Objetivos**
 
-Para poder realizar los beneficios que nuestros usuarios y clientes van a conseguir mediante nuestro producto, realizaremos las siguientes preguntas:
+#### **Personal de Restaurante**
 
-Qué es lo que mis clientes van a conseguir si utilizan mi producto o servicio?
+- **Edad**: Persona mayor en un rango de 22-50 años.  
+- **Estado civil**: Soltero o casado.
+- **Trabajo**: Pueden ser gerentes, personal de cocina, recepcionistas o mozos.  
+  - La carga de trabajo puede variar según el cargo que ejercen (6-8 horas de trabajo).
+  
+- **Necesidades**:
+  - Poder pagar los estudios, de ellos mismos o de sus hijos.
+  - Cubrir los gastos del hogar.
+  
+- **Obstáculos**:
+  - Altas cargas de trabajo en horarios variables.
+  - Limitaciones en la gestión de inventarios y control de insumos debido a la falta de herramientas tecnológicas automatizadas.
+  
+---
 
-Para el primer segmento, que son el personal del restaurantes, podran conseguir una gestion de inventarios y un control de sus insumos, con la finalidad de poder
+#### **Técnico de Mantenimiento**
 
-Finalmente, nuestro segundo segmento conformado por tecnicos de mantenimiento, dispodran de un sistema donde podran acceder solicitudes de diferentes restaurantes que estan por su localidad
+- **Edad**: Persona en un rango de 25-55 años.
+- **Estado civil**: Soltero, casado o con hijos.
+- **Trabajo**: Especialistas en mantenimiento de equipos de refrigeración, aire acondicionado y sistemas relacionados.
+  - Trabajan de forma independiente o para empresas, con jornadas que pueden variar según las solicitudes de los clientes.
 
-Qué beneficios podrian ellos ganar usandolo?
-
-Nuestra solucion realiza las siguientes
-
-Segmento objetivo: Personal de restaurante
-
-#### Registro eficiente de espacios de inventario
-
-#### Control automatizado de temperaturas
-
-#### Monitoreo de temperaturas en tiempo real
-
-Segmento objetivo: Tecnico de mantenimiento
-
-#### Mayor bolsa de trabajo:
-Los usuarios que accedan a nuestro servicio podran disponer de un repertorio de ofertas o solicitudes de trabajos relacionados a su rubro, donde podran realizar busquedas por filtros (ubicación, monto, tipo de mantenimiento, etc).
-
-#### Diagnostico rapido ante fallos
-Los usuari
-#### Historial de trabajos realizados
-
-#### Vinculacion con Negocios
-
-Que comportamientos podrian de ellos observarse si ellos cumplen sus objetivos?
-
-
-Para ambos, casos podrian generar mayor acumulacion de capital, en el caso del personal de restaurante, mediante un mayor ahorro energetico. Por el otro lado, los tecnicos tendran mas ofertas de trabajo para que los cuales puedan escoger en nuestra solucion.
+- **Necesidades**:
+  - Tener acceso a trabajos constantes y mejor remunerados.
+  - Reducir los tiempos de diagnóstico de fallas para incrementar la eficiencia en sus intervenciones.
+  
+- **Obstáculos**:
+  - Dificultad para encontrar clientes o restaurantes que necesiten sus servicios de forma eficiente.
+  - Falta de herramientas tecnológicas para llevar un control adecuado de sus trabajos y historial de servicios.
 
 
-**Business Assumptions**
 
-**Business Outcomes & benefits**
+### **User's Outcomes & Benefits**
 
-Para poder conseguir esperados por nuestros clientes/usuarios, realizarmos un User Journey 
+Para definir los beneficios que nuestros usuarios y clientes van a obtener mediante nuestro producto, realizaremos las siguientes preguntas clave:
+
+#### ¿Qué es lo que mis clientes van a conseguir si utilizan mi producto o servicio?
+
+**Primer segmento: Personal de restaurantes**  
+El personal de restaurantes podrá:
+- Conseguir una **gestión eficiente de inventarios** que les permitirá mantener control sobre sus insumos, evitando pérdidas por caducidad o mal manejo.
+- Tener un **control automatizado de las temperaturas** de sus refrigeradoras y cámaras de almacenamiento, asegurando que los alimentos se mantengan en condiciones óptimas.
+- Optimizar la **gestión energética**, reduciendo el consumo innecesario de electricidad mediante la regulación automática de temperaturas.
+
+**Segundo segmento: Técnicos de mantenimiento**  
+Los técnicos de mantenimiento podrán:
+- Acceder a una **bolsa de trabajo** en la que encontrarán solicitudes de mantenimiento de restaurantes cercanos a su ubicación, facilitando la búsqueda de oportunidades laborales.
+- Tener acceso a un sistema de **diagnóstico rápido ante fallos** en los equipos de refrigeración, lo que les permitirá identificar y solucionar problemas con mayor eficiencia.
+- Llevar un **historial de trabajos realizados**, lo que les permitirá hacer seguimiento de sus intervenciones anteriores, facilitando futuras reparaciones.
+- Establecer una **vinculación directa con negocios**, lo que podría fomentar relaciones a largo plazo y garantizar un flujo constante de trabajos.
+
+#### ¿Qué beneficios podrían ellos ganar al usarlo?
+
+Nuestra solución ofrece los siguientes beneficios:
+
+**Segmento objetivo: Personal de restaurante**
+- **Registro eficiente de espacios de inventario**: Mantener un control más preciso de los insumos disponibles.
+- **Control automatizado de temperaturas**: Evitar fluctuaciones de temperatura que podrían comprometer la calidad de los alimentos.
+- **Monitoreo de temperaturas en tiempo real**: Recibir alertas cuando la temperatura de los refrigeradores se desvíe de los rangos permitidos, evitando la pérdida de insumos.
+
+**Segmento objetivo: Técnico de mantenimiento**
+- **Mayor bolsa de trabajo**: Tendrán acceso a múltiples oportunidades de empleo en su área de especialización.
+- **Diagnóstico rápido ante fallos**: Reducir el tiempo de inactividad de los equipos y agilizar los procesos de mantenimiento.
+- **Historial de trabajos realizados**: Facilitará el seguimiento de problemas recurrentes y mejorará la eficiencia de futuras reparaciones.
+- **Vinculación con negocios**: Establecer relaciones laborales duraderas con restaurantes que necesitan mantenimiento continuo.
+
+#### ¿Qué comportamientos podrían observarse si ellos cumplen sus objetivos?
+
+Para ambos segmentos, se podrían observar los siguientes comportamientos:
+
+- **Personal de restaurante**: Mayor eficiencia operativa y ahorro en costos, ya que un mejor control de inventarios y temperaturas reducirá el desperdicio de alimentos y el consumo energético.
+- **Técnicos de mantenimiento**: Mayor número de trabajos realizados y mejor gestión de su tiempo, al poder seleccionar las solicitudes más convenientes según su ubicación y especialización.
+
+### **Business Assumptions**
+
+Somos una empresa que busca dar soluciones alineadas con las últimas tecnologías disponibles en el mundo. De carácter abierto y recién conformado, contamos con poca experiencia en el rubro de la problemática que estamos eligiendo. Sin embargo, nuestro objetivo es innovar en el mercado objetivo con una solución disruptiva que se aleja de lo tradicional en Perú.
+
+### **Business Outcomes & Benefits**
+
+Para lograr los resultados esperados por nuestros clientes y usuarios, realizaremos un **User Journey** que nos permitirá identificar los puntos críticos de interacción entre el usuario y el sistema, asegurándonos de mejorar continuamente la experiencia y los beneficios ofrecidos.
+ 
  
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
 
- 
+Para los Hyphotesis statements, utilizaremos 
+
+ ---
+
+### 1. Monitoreo y Control de Temperatura
+
+- **Creemos que lograremos**: Un control de temperatura constante en las unidades de refrigeración, reduciendo riesgos a la seguridad alimentaria y mejorando la calidad de los alimentos.
+- **Si**: El personal del restaurante (gerentes y personal de cocina).
+- **Obtiene**: La capacidad de monitorear y mantener temperaturas óptimas en sus unidades de refrigeración de manera más constante, evitando fluctuaciones de temperatura.
+- **Con**: Un sistema que proporciona monitoreo en tiempo real, ajustes automáticos de temperatura y alertas proactivas.
+
+---
+
+### 2. Gestión de Inventarios
+
+- **Creemos que lograremos**: Mejor control de inventarios, reducción de errores y mejora en la rentabilidad.
+- **Si**: El personal del restaurante (gerentes, personal de cocina y responsables de inventarios).
+- **Obtiene**: Un manejo más preciso y en tiempo real del inventario, reduciendo desperdicios y minimizando errores.
+- **Con**: Una interfaz intuitiva para la gestión de inventarios en tiempo real que facilita el seguimiento de existencias y automatiza las actualizaciones.
+
+---
+
+### 3. Mantenimiento de Sensores
+
+- **Creemos que lograremos**: Procesos de mantenimiento más eficientes y mayor confiabilidad en el sistema de refrigeración.
+- **Si**: Los técnicos de mantenimiento.
+- **Obtiene**: La capacidad de calibrar, diagnosticar y mantener los sensores de temperatura de manera más eficiente, asegurando lecturas precisas.
+- **Con**: Una interfaz dedicada para la calibración, diagnóstico y mantenimiento de los sensores.
+
+---
+
+### 4. Usabilidad y Adopción
+
+- **Creemos que lograremos**: Alta adopción por parte de los usuarios y uso efectivo del sistema con una formación mínima.
+- **Si**: Todos los tipos de usuarios (empleados, técnicos y administradores).
+- **Obtiene**: Interfaz del sistema fácil de usar e intuitiva, que requiere poca o ninguna formación extensiva.
+- **Con**: Un diseño centrado en el usuario que tenga en cuenta los diferentes niveles de habilidad y necesidades específicas.
+
+---
+
+### 5. Integración y Compatibilidad
+
+- **Creemos que lograremos**: Una integración fluida con el hardware existente, reduciendo costos de transición y fomentando la adopción.
+- **Si**: Los restaurantes que usan diversos modelos de unidades de refrigeración y sensores.
+- **Obtiene**: La capacidad de implementar el nuevo sistema sin necesidad de costosas actualizaciones de hardware.
+- **Con**: Un sistema compatible con una amplia gama de modelos de unidades de refrigeración y sensores.
+
+---
+
 ### 1.2.2.4. Lean UX Canvas.
 
 <img src="/Report/images/ux_canvas.png" width="1250"/>
