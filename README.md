@@ -9,6 +9,8 @@ En esta sección, como equipo, identificamos y describimos a los principales com
 
 En esta sección, como equipo, realizamos un análisis competitivo para conocer mejor a nuestros competidores directos e indirectos. Este análisis nos permite evaluar nuestras fortalezas y ventajas competitivas en el mercado objetivo, así como identificar áreas en las que podemos innovar para obtener una ventaja aún mayor.
 
+<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis_competitivo.png">
+
 #### 2.1.2. Estrategias y tácticas frente a competidores
 
 1. **Estrategia de Diferenciación Tecnológica**
