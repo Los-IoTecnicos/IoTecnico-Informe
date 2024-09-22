@@ -152,7 +152,16 @@ El diagrama describe el proceso de creación y verificación de cuentas en un si
 
 ### 4.1.2 Context Mapping
 
-En esta sección, como equipo, explicamos y evidenciamos el proceso de elaboración de un conjunto de context maps, visualizaciones de las relaciones estructurales entre bounded contexts. Revisamos la información recolectada y la utilizamos para producir los diseños candidatos. Durante este proceso, consideramos preguntas clave como: “¿qué pasaría si movemos este capability a otro bounded context?” y “¿qué pasaría si creamos un shared service para reducir la duplicación entre múltiples bounded contexts?”.
+En esta sección, como equipo, explicamos y evidenciamos el proceso de elaboración de un conjunto de context maps, visualizaciones de las relaciones estructurales entre bounded contexts. Revisamos la información recolectada y la utilizamos para producir los diseños candidatos. 
+
+Account Management y Collaborate & Request están interconectados: El contexto de Account Management permite a los usuarios crear invitaciones para colaborar con otros, facilitando así la formación de equipos y la gestión conjunta de tareas. Esta interacción es fundamental para fomentar un entorno de trabajo colaborativo, donde la creación de cuentas y la participación de miembros se vuelven esenciales para el funcionamiento eficaz del sistema.
+
+Además, Account Management se relaciona con Inventory Management: En este contexto, los usuarios pueden acceder al registro de inventario, gestionar niveles de stock y supervisar aspectos críticos como la temperatura de los productos. Esta conexión asegura que los usuarios tengan control total sobre los recursos disponibles, optimizando la eficiencia operativa y permitiendo una rápida toma de decisiones.
+
+Por otro lado, IoT Solutions está vinculado con Inventory Management: La recopilación de datos a través de sensores IoT permite monitorear condiciones como temperatura y humedad, lo que es vital para la gestión adecuada del inventario. Esta relación garantiza que los datos en tiempo real se integren en la administración de inventario, proporcionando alertas y análisis que mejoran la precisión y la capacidad de respuesta ante problemas potenciales.
+
+Estas interacciones reflejan cómo cada bounded context se complementa y apoya, creando un ecosistema cohesivo que optimiza la gestión de cuentas, la colaboración, y el control del inventario a través de soluciones IoT. Este enfoque integrado proporciona a los usuarios una experiencia fluida y efectiva, alineando los procesos de negocio con las necesidades operativas del sistema. A través de este análisis, hemos identificado oportunidades para mejorar la eficiencia y la funcionalidad del sistema en su conjunto.
+
 
 ### 4.1.3 Software Architecture
 
