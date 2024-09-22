@@ -177,19 +177,38 @@ Para ambos segmentos, se podrían observar los siguientes comportamientos:
 
 ### **Business Assumptions**
 
-Somos una empresa que busca dar soluciones alineadas con las últimas tecnologías disponibles en el mundo. De carácter abierto y recién conformado, contamos con poca experiencia en el rubro de la problemática que estamos eligiendo. Sin embargo, nuestro objetivo es innovar en el mercado objetivo con una solución disruptiva que se aleja de lo tradicional en Perú.
+Somos una empresa que busca dar soluciones alineadas con las últimas tecnologías disponibles en el mundo. De carácter abierto y recién conformado, contamos con poca experiencia en el rubro de la problemática que estamos eligiendo. Sin embargo, nuestro objetivo es innovar en el mercado objetivo con una solución disruptiva que se aleja de lo tradicional en Perú. Además, adoptaermos un enfoque de aprendizaje continuo mediante ciclos de prueba y validación rápida. Esto significa que nuestras metas serían:
+
+- Testear nuestras hipótesis con prototipos funcionales mínimos (MVP) en los primeros clientes para obtener feedback constante y realizar iteraciones rápidas.
+  
+- Observar y medir el comportamiento de nuestros usuarios en escenarios reales de uso para ajustar nuestras soluciones según sus necesidades.
+  
+- Estar abiertos al cambio y ajustar nuestras prioridades conforme vayamos recolectando datos de uso, manteniendo siempre el enfoque en la mejora continua y la reducción de riesgos a través de experimentación.
 
 ### **Business Outcomes & Benefits**
 
-Para lograr los resultados esperados por nuestros clientes y usuarios, realizaremos un **User Journey** que nos permitirá identificar los puntos críticos de interacción entre el usuario y el sistema, asegurándonos de mejorar continuamente la experiencia y los beneficios ofrecidos.
+Para lograr los resultados esperados por nuestros clientes y usuarios, realizaremos un **User Journey: Pirate Metrics** que nos permitirá identificar los puntos críticos de interacción entre el usuario y el sistema, asegurándonos de mejorar continuamente la experiencia y los beneficios ofrecidos.
+
+#### Adquisición
+- Restaurantes: Los restaurantes serán atraídos por la posibilidad de implementar una solución integral que les permita monitorear en tiempo real la temperatura de los insumos almacenados en refrigeradores y cámaras de almacenamiento. Esto se logrará mediante la integración de sensores IoT que registran y reportan las condiciones de temperatura constantemente, lo cual les ayudará a evitar pérdidas por fallos en la cadena de frío y reducir costos operativos al optimizar el uso de energía.
+- Técnicos de mantenimiento: Los técnicos se sentirán atraídos por la posibilidad de acceder a una plataforma donde podrán encontrar fácilmente trabajos de mantenimiento en restaurantes locales que requieran soporte en sus equipos de refrigeración y otros electrodomésticos. Esto les abrirá una nueva bolsa de trabajo que centraliza las solicitudes de servicio, brindándoles una oportunidad única de incrementar sus ingresos de manera constante.
+
+#### Retención
+- Restaurantes: Para retener a los restaurantes, se les ofrecerá un sistema de monitoreo continuo de los sensores, enviando alertas automáticas cuando las temperaturas se desvíen de los rangos establecidos. Esta funcionalidad de prevención de fallos será clave para mantener la fidelidad de los usuarios, ya que evitará que sufran pérdidas por mal estado de los insumos.
+- Técnicos de mantenimiento: Los técnicos serán retenidos gracias al acceso a una base de datos de historial de mantenimiento, que les permitirá llevar un registro de los trabajos realizados. Además, la plataforma garantizará un flujo constante de oportunidades laborales cercanas, lo cual fomentará la lealtad hacia la solución al hacer su día a día más eficiente y rentable.
+#### Activación
+- Restaurantes: La activación se logrará al demostrar rápidamente el valor de los sensores de temperatura mediante un proceso de instalación sencillo y la entrega inmediata de alertas y reportes en tiempo real. Al implementar el sistema, los restaurantes podrán visualizar de manera clara los beneficios del control automatizado, como la reducción de riesgos en la conservación de insumos.
+ Técnicos de mantenimiento: Los técnicos podrán activar su perfil y empezar a recibir solicitudes de trabajo de manera inmediata, con notificaciones automáticas sobre los restaurantes que necesiten sus servicios. Al ofrecer una plataforma fácil de usar, los técnicos podrán rápidamente empezar a trabajar y ver los beneficios en forma de ingresos adicionales.
+#### Ingresos
+- Restaurantes: Los restaurantes generarán ingresos al reducir las pérdidas de insumos por mal almacenamiento o fallos en el equipo de refrigeración, optimizando así su operación. Además, la plataforma permitirá optimizar el consumo energético al regular automáticamente las temperaturas, generando ahorros significativos.
+- Técnicos de mantenimiento: Los técnicos podrán aumentar sus ingresos al tener acceso a una mayor cantidad de trabajos en su área local, permitiendo optimizar sus tiempos y especializarse en intervenciones rápidas y eficientes. El acceso a la plataforma les garantizará oportunidades laborales constantes, lo que se traducirá en un flujo de ingresos más predecible.
+#### Recomendación
+- Restaurantes: Los restaurantes satisfechos recomendarán la solución a otros negocios del rubro, destacando los beneficios del monitoreo de temperatura automatizado y la capacidad de evitar pérdidas por insumos dañados. Además, resaltarán la facilidad de uso de la plataforma y los ahorros energéticos obtenidos.
+- Técnicos de mantenimiento: Los técnicos que encuentren valor en la plataforma recomendarán a otros colegas debido a la facilidad para encontrar trabajo y a la posibilidad de recibir solicitudes en tiempo real. La vinculación directa con los restaurantes también les permitirá establecer relaciones laborales duraderas, lo cual incentivará la recomendación del sistema a otros profesionales.
  
  
 
 ### 1.2.2.3. Lean UX Hypothesis Statements.
-
-Para los Hyphotesis statements, utilizaremos 
-
- ---
 
 ### 1. Monitoreo y Control de Temperatura
 
