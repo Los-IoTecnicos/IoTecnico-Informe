@@ -56,5 +56,24 @@ En esta sección, como equipo, presentamos el Impact Mapping del modelo de negoc
 
 ### 3.4. Product Backlog
 
+En esta sección, como equipo, presentamos el Product Backlog desarrollado para el proyecto, donde se priorizan los User Stories según su valor para el negocio. El proceso de organización incluyó la asignación de Story Points y la clasificación de cada historia, asegurando que los elementos más valiosos, como aquellos relacionados con la Landing Page y la experiencia del usuario, se abordarán en los primeros sprints. Para la elaboración del backlog, se siguió un enfoque iterativo, ajustando las prioridades de acuerdo con los objetivos del proyecto y las necesidades de los stakeholders.
+
+| #  | User Story ID | Título                              | Descripción                                                                                                                   | Story Points |
+|----|---------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1  | US013         | Navegación Intuitiva                | Como visitante, deseo navegar de manera intuitiva en la Landing Page para encontrar fácilmente la información que busco.       | 3            |
+| 2  | US014         | Detalles de los Planes de Servicio  | Como visitante, deseo ver detalles claros y comparativos sobre los planes de servicio para elegir el que mejor se adapte.      | 3            |
+| 3  | US015         | Testimonios y Casos de Éxito        | Como visitante, deseo ver testimonios de clientes y casos de éxito para evaluar la eficacia y satisfacción de otros usuarios.   | 2            |
+| 4  | US001         | Monitoreo en Tiempo Real            | Como personal de restaurantes, deseo ver la temperatura en tiempo real de las unidades de refrigeración para garantizar la seguridad alimentaria. | 5            |
+| 5  | US002         | Ajuste de Configuración             | Como personal de restaurantes, deseo ajustar la configuración de la temperatura en las unidades de refrigeración para adaptarla a las necesidades de almacenamiento. | 5            |
+| 6  | US003         | Alertas de Temperatura              | Como personal de restaurantes, deseo recibir alertas cuando la temperatura se desvíe de los parámetros para tomar medidas correctivas inmediatas. | 5            |
+| 7  | US006         | Alertas de Fallos del Sistema       | Como personal de mantenimiento del software, deseo recibir alertas de fallos en el sistema para intervenir rápidamente.         | 3            |
+| 8  | US007         | Registro de Inventario              | Como personal de restaurantes, deseo registrar las entradas y salidas de productos en el inventario para evitar el desperdicio. | 3            |
+| 9  | US008         | Generación de Reportes              | Como personal de restaurantes, deseo generar reportes de inventario para analizar tendencias y tomar decisiones informadas.     | 3            |
+| 10 | US009         | Consulta del Historial              | Como personal de restaurantes, deseo consultar el historial de inventario para hacer ajustes proactivos en la gestión de productos. | 5            |
+| 11 | US012         | Interfaz Intuitiva                  | Como personal de restaurantes, deseo tener una interfaz fácil de usar para gestionar la temperatura y el inventario sin errores. | 2            |
+| 12 | US004         | Calibración de Sensores             | Como personal de mantenimiento del software, deseo calibrar los sensores para asegurar lecturas precisas y un funcionamiento correcto. | 5            |
+| 13 | US005         | Diagnóstico de Sensores             | Como personal de mantenimiento del software, deseo diagnosticar problemas en los sensores para solucionarlos rápidamente.       | 5            |
+| 14 | US010         | Actualización de Software           | Como personal de mantenimiento del software, deseo actualizar el software del sistema de refrigeración para mejorar su rendimiento. | 3            |
+| 15 | US011         | Historial de Mantenimiento          | Como personal de mantenimiento del software, deseo acceder al historial de mantenimiento para planificar futuras intervenciones. | 3            |
 
 ## Requirements Specification
