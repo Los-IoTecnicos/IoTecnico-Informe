@@ -52,6 +52,8 @@ En esta sección, como equipo, presentamos y describimos los User Stories elabor
 
 ### 3.3. Impact Mapping
 
+En esta sección, como equipo, presentamos el Impact Mapping del modelo de negocio digital, elaborado en la herramienta indicada. Identificamos Business Goals siguiendo criterios SMART, junto con Actors (User Personas) relacionados con los objetivos. En la columna Impact, se detallan los cambios de comportamiento esperados de los User Personas, y en Deliverables, las acciones que el negocio digital puede tomar para lograr estos impactos. Finalmente, se incluyen los User Stories en formato "Como [rol], deseo [acción] para [objetivo]" que permiten obtener los Deliverables.
+
 ### 3.4. Product Backlog
 
 
