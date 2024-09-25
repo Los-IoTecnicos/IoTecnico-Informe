@@ -31,11 +31,16 @@ Los colores seleccionados para la marca y el diseño de la página son fundament
 - **Colores Secundarios:** 
   - #8289EF: Este tono más claro de morado crea un contraste suave, brindando armonía en el diseño y una sensación de claridad.
   - #FFFFFF (Blanco): Refuerza la limpieza y simplicidad, permitiendo que los elementos clave de la interfaz sobresalgan.
+
+    <img src="assets/images/Body.jpg">
+    
 - **Otros Colores Relacionados al Diseño:**
   - #5A588C: Un tono intermedio que refuerza la sobriedad y seriedad de la plataforma.
   - #262A73: Un azul oscuro que comunica estabilidad y confianza.
   - #464A8C: Un color de transición que armoniza los elementos visuales y aporta profundidad.
   - #F2EBDF: Un color neutro que proporciona balance y suaviza la paleta.
+
+    <img src="assets/images/WebColors.jpg">
 
 **Typography** 
 
@@ -49,6 +54,9 @@ Hemos seleccionado una tipografía que combina modernidad y elegancia, asegurand
     - H3: 36 px
     - H4: 32 px
     - H5: 24 px
+
+      <img src="assets/images/Heading.jpg">
+      
 - **Body Font: Arvo** 
   Elegimos Arvo para el texto corporal por su estilo serif, que proporciona un contraste elegante con los títulos. Es una fuente versátil y fácil de leer en diversos tamaños.
   - Tamaños:
@@ -56,6 +64,8 @@ Hemos seleccionado una tipografía que combina modernidad y elegancia, asegurand
     - 18 px
     - 16 px
     - 14 px
+
+      <img src="assets/images/Body.jpg">
 
 **Spacing Guidelines**
 
