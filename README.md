@@ -48,24 +48,13 @@ Hemos seleccionado una tipografía que combina modernidad y elegancia, asegurand
 
 - **Heading Font: Secular One** 
   Los títulos utilizan esta tipografía para crear una sensación impactante y clara. Es una fuente sans-serif moderna que ayuda a destacar secciones clave.
-  - Tamaños:
-    - H1: 48 px
-    - H2: 40 px
-    - H3: 36 px
-    - H4: 32 px
-    - H5: 24 px
-
-      <img src="assets/images/Heading.jpg">
+  
+  <img src="assets/images/Heading.jpg">
       
 - **Body Font: Arvo** 
   Elegimos Arvo para el texto corporal por su estilo serif, que proporciona un contraste elegante con los títulos. Es una fuente versátil y fácil de leer en diversos tamaños.
-  - Tamaños:
-    - 20 px
-    - 18 px
-    - 16 px
-    - 14 px
 
-      <img src="assets/images/Body.jpg">
+  <img src="assets/images/Body.jpg">
 
 **Spacing Guidelines**
 
@@ -89,6 +78,133 @@ FrostChef adopta un tono formal, serio y confiable, apropiado para negocios que 
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
 
 En esta sección, explicamos e ilustramos las decisiones sobre los estándares visuales y de interacción para responsive web interfaces, mobile application interfaces y IoT application user interfaces. Detallamos cómo se aplican estos estándares para asegurar una experiencia de usuario coherente y efectiva en todas las plataformas.
+
+
+### Web Style Guidelines
+
+#### Visual Standards
+
+**Color Palette**  
+
+La paleta de colores mantiene la coherencia visual a lo largo de toda la plataforma web de FrostChef, proporcionando una sensación de modernidad y tecnología avanzada:
+
+- **Color Primario:** #5D58D3
+- **Color Secundario:** #8289EF
+- **Color de Fondo:** #F2EBDF
+- **Textos:** #FFFFFF y #262A73
+
+**Typography** 
+
+- **Heading:** Secular One (Sans-Serif)
+  - H1: 48 px
+  - H2: 40 px
+  - H3: 36 px
+  - H4: 32 px
+  - H5: 24 px
+- **Body:** Arvo (Serif)
+  - Body Text Sizes: 20 px, 18 px, 16 px, 14 px
+
+**Images**
+
+Las imágenes utilizadas deben ser de alta calidad, centradas en mostrar el ambiente de trabajo de los restaurantes y el funcionamiento del sistema FrostChef. Deben estar bien alineadas con la temática culinaria y tecnológica. Es recomendable utilizar imágenes con licencia o propias.
+
+**Spacing** 
+
+- **Márgenes y rellenos:** Mínimo de 20 px alrededor de los elementos de contenido.
+- **Separación entre elementos relacionados:** 10 px.
+- **Separación entre secciones:** 30 px para mantener la claridad visual y facilitar la navegación.
+
+#### Interaction Standards
+
+**Responsive Design** 
+La web debe ser completamente receptiva, adaptándose fluidamente desde pantallas grandes (desktop) hasta dispositivos móviles y tablets. Elementos como el menú y las tablas de datos deben reorganizarse para mejorar la usabilidad en pantallas más pequeñas.
+
+**Accessibility**
+
+Implementar un diseño accesible que cumpla con los estándares WCAG (Web Content Accessibility Guidelines). Utilizar contraste alto y asegurar que todos los elementos visuales tengan descripciones en texto alternativo.
+
+**Web Interaction Example**
+
+**Image:** Mostrar un ejemplo del diseño responsive en desktop, tablet, y móvil.
+
+
+### Mobile Style Guidelines
+
+#### Visual Standards
+
+**Color Palette**
+
+La paleta de colores mantiene la misma consistencia que la versión web, con pequeños ajustes para una mejor visibilidad en pantallas móviles.
+
+- **Primario:** #5D58D3
+- **Secundario:** #8289EF
+- **Fondo:** #F2EBDF
+- **Textos:** #FFFFFF y #262A73
+
+**Typography**
+
+- **Heading:** Secular One
+  - Tamaños ajustados para pantallas más pequeñas:
+    - H1: 32 px
+    - H2: 28 px
+    - H3: 24 px
+- **Body:** Arvo
+  - Tamaños del cuerpo del texto: 16 px, 14 px
+
+#### Interaction Standards
+
+**Touch Interactions** 
+
+Los botones y elementos interactivos deben tener un tamaño mínimo de 44x44 px para garantizar que sean fáciles de tocar con los dedos. Además, los botones deben tener suficiente espacio entre ellos para evitar toques accidentales.
+
+**Gestures**
+
+Implementar gestos comunes como deslizar para eliminar elementos, tirar para refrescar, y zoom en gráficos para mejorar la experiencia en dispositivos móviles.
+
+**Mobile Interaction Example**
+
+**Image:** Mostrar un ejemplo de una pantalla móvil con botones interactivos grandes, optimizados para interacción táctil.
+
+
+### IoT Style Guidelines
+
+
+#### Visual Standards
+
+**Color Palette** 
+
+La paleta de colores es coherente con las otras interfaces, pero con mayor enfoque en el contraste para asegurar una visibilidad clara en dispositivos IoT, que pueden estar en entornos con poca luz o condiciones cambiantes.
+
+- **Primario:** #5D58D3
+- **Secundario:** #8289EF
+- **Indicadores de estado:**
+  - Temperatura óptima: #4CAF50 (Verde)
+  - Advertencia: #FFEB3B (Amarillo)
+  - Error o fallo: #F44336 (Rojo)
+
+**Typography** 
+
+- **Heading:** Secular One
+  - Tamaños:
+    - H1: 28 px
+    - H2: 24 px
+- **Body:** Arvo
+  - Tamaños del cuerpo del texto: 16 px, 14 px
+
+#### Interaction Standards
+
+**Simple UI** 
+
+Las interfaces de los dispositivos IoT deben ser minimalistas, mostrando solo la información más relevante (por ejemplo, temperaturas actuales, estado de los sensores, alertas). Los botones deben ser grandes y fáciles de localizar.
+
+**Real-Time Feedback**
+
+Las interfaces IoT deben ofrecer actualizaciones en tiempo real sobre el estado del sistema, incluidas alertas de temperatura, fallos de sensores, o problemas en la gestión de inventarios.
+
+**IoT Interaction Example**
+
+**Image:** Mostrar un ejemplo de un dispositivo IoT con pantallas que incluyen alertas de temperatura y botones grandes y sencillos para interacción directa.
+
 
 ## 5.2. Information Architecture
 
