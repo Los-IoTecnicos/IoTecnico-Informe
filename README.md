@@ -8,8 +8,73 @@ En esta sección, como equipo, sentamos las bases para contar con un repositorio
 
 ### 5.1.1. General Style Guidelines
 
-Aquí explicamos las decisiones y referencias visuales sobre conceptos generales básicos como Branding, Typography, Colors y Spacing, así como las dimensiones a adoptar para el tono de comunicación y lenguaje aplicado (Divertido/Serio, Formal/Casual, Respetuoso/Irreverente, Entusiasta/Sereno).
+FrostChef se posiciona como una marca innovadora en el mundo culinario, ofreciendo soluciones tecnológicas avanzadas para la gestión de inventarios y el control de temperaturas en restaurantes. Nuestro enfoque es conectar la modernidad con la eficiencia, brindando una plataforma elegante, intuitiva y funcional.
 
+**Misión** 
+
+Simplificar la gestión de inventarios y el control de temperatura en restaurantes con tecnología inteligente, reduciendo desperdicios alimentarios y mejorando la eficiencia operativa.
+
+**Visión** 
+
+Convertirnos en el referente global de soluciones tecnológicas para la industria alimentaria, ofreciendo productos que aseguran calidad y precisión en la conservación de alimentos.
+
+**Público Objetivo** 
+
+Restaurantes de diversos tamaños, desde pequeñas cafeterías hasta grandes cadenas, interesados en optimizar sus procesos logísticos y reducir el desperdicio de alimentos.
+
+**Brand Colors** 
+
+Los colores seleccionados para la marca y el diseño de la página son fundamentales para transmitir el tono moderno y tecnológico que buscamos:
+
+- **Color Primario: #5D58D3** 
+  Este tono de morado evoca creatividad, innovación y confianza. Representa la fusión entre tecnología y eficiencia que FrostChef ofrece a sus clientes.
+- **Colores Secundarios:** 
+  - #8289EF: Este tono más claro de morado crea un contraste suave, brindando armonía en el diseño y una sensación de claridad.
+  - #FFFFFF (Blanco): Refuerza la limpieza y simplicidad, permitiendo que los elementos clave de la interfaz sobresalgan.
+- **Otros Colores Relacionados al Diseño:**
+  - #5A588C: Un tono intermedio que refuerza la sobriedad y seriedad de la plataforma.
+  - #262A73: Un azul oscuro que comunica estabilidad y confianza.
+  - #464A8C: Un color de transición que armoniza los elementos visuales y aporta profundidad.
+  - #F2EBDF: Un color neutro que proporciona balance y suaviza la paleta.
+
+**Typography** 
+
+Hemos seleccionado una tipografía que combina modernidad y elegancia, asegurando legibilidad en todos los dispositivos:
+
+- **Heading Font: Secular One** 
+  Los títulos utilizan esta tipografía para crear una sensación impactante y clara. Es una fuente sans-serif moderna que ayuda a destacar secciones clave.
+  - Tamaños:
+    - H1: 48 px
+    - H2: 40 px
+    - H3: 36 px
+    - H4: 32 px
+    - H5: 24 px
+- **Body Font: Arvo** 
+  Elegimos Arvo para el texto corporal por su estilo serif, que proporciona un contraste elegante con los títulos. Es una fuente versátil y fácil de leer en diversos tamaños.
+  - Tamaños:
+    - 20 px
+    - 18 px
+    - 16 px
+    - 14 px
+
+**Spacing Guidelines**
+
+Para asegurar una experiencia de usuario cómoda y eficiente, seguiremos las siguientes pautas de espaciado:
+
+- **Margen y Relleno:** 
+  - Un espacio mínimo de 20 px alrededor de los elementos de contenido.
+  - Un espacio de 10 px entre elementos relacionados.
+- **Separación de Secciones:**
+  - Utilizar un espaciado de 30 px para dividir secciones o elementos distintos, asegurando claridad visual y facilitando la navegación.
+
+**Tone and Communication** 
+
+FrostChef adopta un tono formal, serio y confiable, apropiado para negocios que buscan soluciones tecnológicas robustas para sus operaciones. A la vez, mantiene un enfoque moderno y accesible, alineado con los valores de innovación y eficiencia.
+
+- **Divertido/Serio:** Serio, enfocado en soluciones prácticas.
+- **Formal/Casual:** Formal, dado que nuestro target incluye restaurantes que buscan mejorar su eficiencia operativa.
+- **Respetuoso/Irreverente:** Respetuoso, destacando la importancia de la conservación y calidad alimentaria.
+- **Entusiasta/Sereno:** Sereno, transmitiendo control y precisión en cada aspecto de la gestión.
 
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
 
