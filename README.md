@@ -188,34 +188,197 @@ En esta sección, como equipo, presentamos y explicamos los Deployment Diagrams.
 En este capítulo, como equipo, explicamos y presentamos nuestra propuesta para la perspectiva táctica del diseño de la solución de software. Incluimos una sección interna por cada bounded context, detallando las clases identificadas y su documentación.
 
 ### 4.2.1 Bounded Context: Account
+
+| Nombre     | Account          |
+|------------|------------------|
+| Descripción| Gestión de cuentas de usuario. |
+| **Atributos** | **Relaciones** | **Métodos** |
+| `accountID` | String | Composición | `Role` | `createAccount()` |
+| `email`     | String | Agregación | `UserProfile` | `authenticate()` |
+| `password`  | String | | | `updateProfile()` |
+| `roles`     | List<Role> | | | `assignRole()` |
+
 #### 4.2.1.1 Domain Layer
+
+El Domain Layer de Account contiene la lógica de negocio relacionada con la gestión de cuentas de usuario, como creación, autenticación, roles y permisos.
+
+  Entidades:
+- **Account:** Almacena la información básica del usuario, como el correo electrónico, contraseña y roles.
+- **Role:** Define los permisos asignados a los usuarios (administrador, técnico, personal de restaurante).
+  
+  Servicios:
+- **AccountService:** Proporciona las operaciones relacionadas con la creación de cuentas, autenticación y gestión de perfiles.
+- **RoleService:** Maneja las asignaciones de roles y permisos a cada cuenta.
+  
 #### 4.2.1.2 Interface Layer
+
+  Descripción: El Interface Layer proporciona las interfaces y controladores que permiten la interacción entre los usuarios y el sistema.
+  
+  Componentes:
+- **AccountController:** Maneja las solicitudes HTTP relacionadas con el inicio de sesión, registro y actualización de perfiles.
+- **SessionManager:** Gestiona las sesiones de usuario y el estado de autenticación.
+- **ProfileView:** Proporciona las interfaces de usuario para visualizar y actualizar la información de la cuenta.
+  
 #### 4.2.1.3 Application Layer
+
+  Descripción: El Application Layer coordina las operaciones entre el dominio y la infraestructura, manejando las reglas de negocio para las cuentas de usuario.
+  Servicios:
+- **AuthenticationService:** Proporciona la autenticación de usuarios, validación de credenciales y generación de tokens.
+- **UserProfileService:** Gestiona las interacciones entre la capa de dominio y la interfaz de usuario para actualizar la información de la cuenta.
+  
 #### 4.2.1.4 Infrastructure Layer
+  Descripción: El Infrastructure Layer soporta las operaciones relacionadas con la persistencia de datos, redes y almacenamiento de credenciales de usuarios.
+  Componentes:
+- **AccountRepository:** Almacena y recupera información de las cuentas desde la base de datos.
+- **SecurityManager:** Proporciona la encriptación de contraseñas y seguridad en el acceso a los datos.
+- **EmailService:** Maneja las notificaciones por correo, como la recuperación de contraseñas o alertas de seguridad.
+
 #### 4.2.1.5 Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.1.6 Bounded Context Software Architecture Code Level Diagrams
 
 ### 4.2.2 Bounded Context: Collaborate & Request
+
+| Nombre     | Request          |
+|------------|------------------|
+| Descripción| Gestión de solicitudes de soporte técnico. |
+| **Atributos** | **Relaciones** | **Métodos** |
+| `requestID` | String | Composición | `TechnicianProfile` | `createRequest()` |
+| `description`| String | Agregación | `UserProfile` | `assignTechnician()` |
+| `status`    | String | | | `updateRequest()` |
+| `assignedTechnician` | TechnicianProfile | | | `closeRequest()` |
+
 #### 4.2.2.1 Domain Layer
+
+  Descripción: Gestiona la lógica de negocio para la creación y gestión de solicitudes de soporte técnico o invitaciones en el sistema.
+  
+  Entidades:
+- **Request:** Representa las solicitudes de soporte enviadas por los usuarios.
+- **TechnicianProfile:** Almacena la información de los técnicos asignados a resolver las solicitudes.
+
+  Servicios:
+- **RequestService:** Maneja la creación, actualización y seguimiento de las solicitudes de soporte.
+- 
 #### 4.2.2.2 Interface Layer
+
+  Descripción: Proporciona las interfaces que permiten a los usuarios enviar y gestionar solicitudes de soporte o invitaciones.
+  
+  Componentes:
+- **RequestController:** Controla las interacciones entre el usuario y el sistema para enviar solicitudes.
+- **InvitationController:** Permite la creación y envío de invitaciones a través del sistema.
+- **TechnicianDashboard:** Visualiza las solicitudes asignadas a cada técnico.
+  
 #### 4.2.2.3 Application Layer
+
+  Descripción: Coordina las interacciones entre las solicitudes de soporte y los técnicos encargados de resolverlas.
+  
+  Servicios:
+- **RequestManagementService:** Orquesta las operaciones de asignación de solicitudes a los técnicos y realiza seguimiento.
+- **InvitationService:** Gestiona la creación y envío de invitaciones dentro del sistema.
+  
 #### 4.2.2.4 Infrastructure Layer
+
+  Descripción: Gestiona las operaciones relacionadas con el almacenamiento y notificaciones de las solicitudes de soporte.
+  
+  Componentes:
+- **RequestRepository:** Almacena y recupera las solicitudes de soporte.
+- **NotificationService:** Envía alertas a los técnicos cuando se asigna una solicitud.
 #### 4.2.2.5 Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.2.6 Bounded Context Software Architecture Code Level Diagrams
 
 ### 4.2.3 Bounded Context: Inventory Management
+
+| Nombre     | Inventory        |
+|------------|------------------|
+| Descripción| Control de inventario y reabastecimiento. |
+| **Atributos** | **Relaciones** | **Métodos** |
+| `inventoryID` | String | Composición | `Item` | `addItem()` |
+| `location`   | String | Agregación | `RestaurantBranch` | `updateInventory()` |
+| `items`      | List<Item> | | | `checkStock()` |
+| `lowStockAlert` | Boolean | | | `generateReport()` |
+
 #### 4.2.3.1 Domain Layer
+
+  Descripción: Define la lógica de negocio para la gestión del inventario, control de stock y alertas de reabastecimiento.
+  
+  Entidades:
+- **Inventory:** Representa el inventario del restaurante y sus niveles de stock.
+- **Item:** Almacena la información de los insumos registrados en el sistema.
+  
+  Servicios:
+- **InventoryService:** Gestiona el control de entradas y salidas de insumos, así como las alertas de bajo stock.
+
 #### 4.2.3.2 Interface Layer
+
+  Descripción: Ofrece interfaces y APIs para gestionar y visualizar el inventario en tiempo real.
+  
+  Componentes:
+- **InventoryController:** Proporciona las interfaces de usuario para gestionar el inventario.
+- **InventoryView:** Visualiza los niveles de inventario y las alertas de reabastecimiento.
+- **IoTInventoryMonitor:** Integra los sensores IoT para monitorear los niveles de inventario.
+  
 #### 4.2.3.3 Application Layer
+
+  Descripción: Coordina la gestión de inventarios y las operaciones automáticas como el envío de alertas de bajo stock.
+  Servicios:
+- **StockMonitoringService:** Monitorea los niveles de stock en tiempo real utilizando los sensores IoT.
+- **ReplenishmentService:** Gestiona las órdenes de reabastecimiento cuando se detecta un bajo inventario.
+  
 #### 4.2.3.4 Infrastructure Layer
+
+  Descripción: Soporta las operaciones de almacenamiento y conectividad con los dispositivos IoT para la gestión del inventario.
+  
+  Componentes:
+- **InventoryRepository:** Almacena los datos de inventario y registros de entradas y salidas.
+- **IoTGateway:** Conecta los sensores de inventario con el sistema central para transmitir los datos en tiempo real.
+  
 #### 4.2.3.5 Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
 
 ### 4.2.4 Bounded Context: IoT Solutions
+
+| Nombre     | IoTSensor        |
+|------------|------------------|
+| Descripción| Monitoreo de temperatura en unidades de refrigeración. |
+| **Atributos** | **Relaciones** | **Métodos** |
+| `sensorID`  | String | Composición | `TemperatureController` | `monitorTemperature()` |
+| `location`  | String | Agregación | `RefrigerationUnit` | `adjustTemperature()` |
+| `temperature` | Float | | | `sendAlert()` |
+| `status`    | Boolean | | | `logData()` |
+
 #### 4.2.4.1 Domain Layer
+
+  Descripción: Gestiona la lógica de negocio relacionada con el monitoreo y control de los sensores IoT instalados en las unidades de refrigeración.
+  
+  Entidades:
+- **IoTSensor:** Representa los sensores de temperatura instalados en los equipos de refrigeración.
+- **TemperatureController:** Maneja los ajustes automáticos de las temperaturas en base a los datos recogidos por los sensores.
+  
+Servicios:
+- **IoTMonitoringService:** Monitorea en tiempo real los datos de los sensores IoT y ajusta las temperaturas según sea necesario.
+  
 #### 4.2.4.2 Interface Layer
+  Descripción: Proporciona las interfaces para que los usuarios puedan monitorear y ajustar los datos de los sensores IoT.
+  
+  Componentes:
+- **IoTControlPanel:** Visualiza los datos de los sensores y permite a los usuarios ajustar manualmente las temperaturas.
+- **TemperatureDashboard:** Muestra los datos históricos y las tendencias de temperatura para mejorar la toma de decisiones.
+  
 #### 4.2.4.3 Application Layer
+
+  Descripción: Coordina las interacciones entre los sensores IoT y los controladores de temperatura para mantener la temperatura óptima.
+  
+  Servicios:
+- **TemperatureAdjustmentService:** Coordina los ajustes de temperatura automáticos en base a los datos de los sensores.
+- **AlertService:** Envía notificaciones cuando se detectan temperaturas fuera del rango óptimo.
+  
 #### 4.2.4.4 Infrastructure Layer
+
+  Descripción: Gestiona la conectividad y almacenamiento de los datos generados por los sensores IoT.
+  
+  Componentes:
+- **IoTDataStorage:** Almacena los datos generados por los sensores IoT.
+- **SensorGateway:** Conecta los sensores IoT con el sistema central para la transmisión de datos en tiempo real.
+  
 #### 4.2.4.5 Bounded Context Software Architecture Component Level Diagrams
 #### 4.2.4.6 Bounded Context Software Architecture Code Level Diagrams
 
