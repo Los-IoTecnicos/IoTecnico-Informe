@@ -32,7 +32,7 @@ Los colores seleccionados para la marca y el diseño de la página son fundament
   - #8289EF: Este tono más claro de morado crea un contraste suave, brindando armonía en el diseño y una sensación de claridad.
   - #FFFFFF (Blanco): Refuerza la limpieza y simplicidad, permitiendo que los elementos clave de la interfaz sobresalgan.
 
-    <img src="assets/images/Body.jpg">
+    <img src="assets/images/BrandColors.jpg">
     
 - **Otros Colores Relacionados al Diseño:**
   - #5A588C: Un tono intermedio que refuerza la sobriedad y seriedad de la plataforma.
