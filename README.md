@@ -173,6 +173,19 @@ _____________________
 </tbody>
 </table>
 
+# Project Report Collaboration Insights
+## Project Report
+<img src="/assets/images/report.PNG">
+
+Link: https://github.com/Los-IoTecnicos/IoTecnico-Informe/tree/main
+
+TB1: El equipo ha cumplido con éxito los puntos solicitados para la entrega. Durante el proceso de adaptación al entorno documental, enfrentamos algunos desafíos al estructurar y convertir el archivo. Sin embargo, a pesar de estos inconvenientes, estamos satisfechos de haber alcanzado los objetivos propuestos.
+
+TP: En esta segunda entrega, el equipo ha mejorado significativamente en la creación del informe utilizando Markdown, aprovechando la versatilidad de esta herramienta para integrar código HTML. Nos complace informar que hemos cumplido plenamente con los puntos requeridos en el entregable. Asimismo, cabe resaltar el progreso notable tanto en la optimización de la página de inicio como en el desarrollo de la aplicación web.
+
+### Analiticos para el TB1
+
+
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
   - [1.1. Startup Profile](/README.md#11-startup-profile)
