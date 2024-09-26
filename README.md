@@ -284,7 +284,40 @@ Al utilizar estas etiquetas simples y coherentes, facilitamos la navegación y m
 
 ### 5.2.3. SEO Tags and Meta Tags
 
-En esta sección, incluimos los SEO Tags y Meta Tags junto con los valores que asignaremos en las principales páginas de la experiencia tanto a nivel del sitio web estático (Landing Page) como Web Application. Incluimos Title, Meta Tags Description, Keywords, Author como mínimo. Del mismo modo, para las aplicaciones móviles u otros productos digitales que se exponen vía un app store, incluimos los elementos de ASO (App Store Optimization) como App Title, App keywords, App subtitle, App description.
+Para mejorar la visibilidad en motores de búsqueda y optimizar la presentación de nuestro Sistema Inteligente de Gestión de Temperatura y Control de Inventarios para Restaurantes, implementaremos una estrategia enfocada en SEO (Search Engine Optimization) para nuestras páginas web y ASO (App Store Optimization) para las aplicaciones móviles. A continuación, se detallan los principales elementos a utilizar para asegurar un buen posicionamiento y claridad en la presentación del producto.
+
+#### Para el Sitio Web Estático (Landing Page) y Web Application:
+
+**Title:**
+
+- **Landing Page:** "Sistema Inteligente de Refrigeración y Gestión de Inventarios para Restaurantes"
+- **Web Application:** "Gestión de Temperatura y Control de Inventarios - Optimiza tu Restaurante"
+
+**Meta Description:**
+
+- **Landing Page:** "Revoluciona la forma en que tu restaurante maneja la refrigeración: Control preciso, menos desperdicio y calidad garantizada."
+- **Web Application:** "Asegura la frescura de tus insumos con monitoreo de temperatura en tiempo real y gestiona tu inventario eficientemente. Evita desperdicios y mejora la operación de tu restaurante."
+
+**Meta Keywords:**
+
+- **Landing Page:** "refrigeración inteligente, control de inventarios, gestión de restaurantes, monitoreo de temperatura, IoT para restaurantes"
+- **Web Application:** "gestión de inventarios, monitoreo de insumos, control de temperatura, IoT, restaurantes, sistema de refrigeración"
+
+**Author:**
+
+- **Landing Page y Web Application:** MediCare Solutions
+
+#### Para Aplicaciones Móviles y Otros Productos Digitales:
+
+**App Title:** "RefrigeraPro: Gestión Inteligente de Temperatura e Inventarios"
+
+**App Subtitle:** "Optimiza la refrigeración y reduce desperdicios en tu restaurante"
+
+**App Keywords:** "refrigeración, inventarios, IoT, monitoreo de temperatura, restaurantes"
+
+**App Description:** "RefrigeraPro te permite gestionar eficientemente la temperatura de tus insumos y controlar el inventario de tu restaurante en tiempo real. Con notificaciones de alerta y reportes de estado, evita el desperdicio y garantiza la frescura de tus productos. Descarga ahora y optimiza la operación de tu restaurante."
+
+Nuestra estrategia SEO y ASO asegura que tanto la página web como la aplicación móvil representen claramente los beneficios clave del sistema, destacando la optimización del control de temperatura y la eficiencia en la gestión de inventarios.
 
 ### 5.2.4. Searching Systems
 
