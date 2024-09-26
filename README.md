@@ -390,7 +390,7 @@ Con esta propuesta de diseño para las aplicaciones, buscamos no solo transmitir
 
 El diseño del sitio web de nuestro desarrollo de software se presentará en esta sección. para proporcionar una mejor comprensión del contenido que se mostrará en la plataforma. La página de destino está diseñada para que la información esté centrada y fácilmente visible para los usuarios porque es adecuada para las pantallas de los computadores. Además, se muestra una barra de navegación para facilitar la navegación del usuario y brindarle la mejor experiencia posible.
 
-### #Desktop Web Browser
+#### Desktop Web Browser
 
 - **Sección Home:**
 
@@ -427,27 +427,28 @@ Se mostrará una vista preliminar del sitio web, detallando el contenido por sec
 
 - **Sección Home:**
 
-<img src="assets/images/.jpg">
+<img src="assets/images/MockHome.jpg" width="1050">
 
 - **Sección Nosotros:**
 
-<img src="assets/images/.jpg">
+<img src="assets/images/MockNosotros.jpg">
 
 - **Sección Servicios:**
 
-<img src="assets/images/.jpg">
+<img src="assets/images/MockServicios.jpg">
 
 - **Sección Testimonios:**
 
-<img src="assets/images/.jpg">
+<img src="assets/images/MockTestimonios.jpg">
 
 - **Sección Promociones:**
 
-<img src="assets/images/.jpg">
+<img src="assets/images/MockPromociones.jpg" width="1050">
 
 - **Sección Contactanos:**
 
-<img src="assets/images/.jpg">
+<img src="assets/images/MockContactanos.jpg">
+  
 
 
 ## 5.4. Applications UX/UI Design
