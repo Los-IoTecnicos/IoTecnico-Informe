@@ -321,11 +321,46 @@ Nuestra estrategia SEO y ASO asegura que tanto la página web como la aplicació
 
 ### 5.2.4. Searching Systems
 
-En esta sección, como equipo, explicamos qué medios de ayuda brindaremos al usuario para la búsqueda de datos dentro del producto digital. Nuestras decisiones sobre los sistemas de búsqueda están orientadas a evitar que los usuarios se sientan perdidos entre el volumen de información. Especificamos qué opciones de búsqueda ofrecerán las aplicaciones, con qué filtros contará el usuario en cada caso y cómo lucirán los datos después de la búsqueda, garantizando una experiencia de búsqueda efectiva y satisfactoria.
+Hemos diseñado un enfoque integral para los sistemas de búsqueda que permita a los usuarios encontrar la información necesaria de manera rápida y eficiente. Buscamos prevenir la sensación de pérdida entre el gran volumen de datos, proporcionando diversas opciones de búsqueda y filtros. A continuación, detallamos las opciones de búsqueda que ofreceremos, los filtros disponibles y cómo se presentarán los datos después de una búsqueda exitosa:
+
+#### Opciones de Búsqueda:
+- **Búsqueda por Palabras Clave:** Los usuarios podrán realizar búsquedas utilizando palabras clave específicas relacionadas con la información deseada, como "temperatura", "inventario", "alertas", o "insumos".
+- **Búsqueda Avanzada:** Implementaremos una opción de búsqueda avanzada que permitirá a los usuarios refinar sus consultas mediante filtros adicionales, como tipo de insumo, fecha de ingreso al inventario, o rango de temperatura.
+
+#### Filtros Disponibles:
+- **Filtros por Categoría:** Los usuarios podrán filtrar los resultados de la búsqueda por categorías específicas, tales como:
+  - **Temperaturas Registradas:** Visualizar datos sobre las temperaturas de los insumos.
+  - **Historial de Inventarios:** Acceder a información sobre entradas y salidas de insumos.
+  - **Alertas:** Filtrar por alertas de temperatura o inventarios bajos.
+- **Filtros por Fecha:** Los usuarios tendrán la opción de filtrar los resultados por fecha, permitiendo visualizar solo la información relevante dentro de un período específico.
+- **Filtros por Tipo de Insumo:** Los usuarios podrán seleccionar diferentes tipos de insumos (por ejemplo, lácteos, carnes, verduras) para obtener información más específica relacionada con el control de temperatura y gestión de inventarios.
+
+#### Presentación de Datos Después de la Búsqueda:
+Una vez que se haya realizado una búsqueda exitosa, los datos se presentarán de manera clara y organizada para facilitar la revisión por parte del usuario. Utilizaremos un diseño limpio y estructurado que mostrará los resultados de manera ordenada, con opciones para expandir detalles adicionales si es necesario. Los resultados se mostrarán en un formato de lista o cuadrícula, según la naturaleza de la información, destacando los detalles importantes (como temperatura actual, fecha de ingreso y estado del insumo) para ayudar al usuario a identificar rápidamente la información relevante.
+
+#### Ejemplo de Filtro de Búsqueda:
+- **Búsqueda por Palabras Clave:** El usuario busca "temperatura" y recibe resultados que incluyen todos los registros de temperatura de los insumos.
+- **Filtro por Fecha:** El usuario ajusta el filtro para mostrar solo los registros de temperatura de la última semana.
+- **Filtro por Categoría:** El usuario selecciona "Temperaturas Registradas" para ver solo los datos relevantes.
+
+Al ofrecer estas opciones de búsqueda y filtros, así como una presentación clara de los datos, esperamos proporcionar a nuestros usuarios una experiencia de búsqueda efectiva que les permita encontrar rápidamente la información que necesitan dentro de nuestro producto digital.
 
 ### 5.2.5. Navigation Systems
 
-En esta sección, como equipo, explicamos cuáles serán las acciones y técnicas que guiarán a los usuarios a través del Landing Page y las aplicaciones, permitiéndoles cumplir sus metas e interactuar de forma satisfactoria con el producto. Detallamos de qué maneras los usuarios irán recorriendo el contenido, asegurando una navegación intuitiva y eficiente que facilite el acceso a la información y funcionalidades clave.
+Nuestra estrategia de navegación está diseñada para guiar a los usuarios de manera efectiva, facilitando que alcancen sus objetivos y tengan una interacción satisfactoria con nuestro producto. A continuación, detallamos las acciones y técnicas que implementaremos para lograr este objetivo:
+
+#### Para el Landing Page:
+- **Menú de Navegación Claro:** Implementaremos un menú de navegación claro y accesible, que incluirá secciones como "Nosotros", "Servicios", "Testimonios", "Testimonios", "Promociones" y "Contactanos". Esto permitirá a los usuarios explorar el contenido de manera intuitiva y acceder rápidamente a la información que estén buscando.
+- **Llamadas a la Acción (CTA) Destacadas:** Colocaremos llamadas a la acción (CTA) estratégicamente ubicadas en el Landing Page, invitando a los usuarios a realizar acciones específicas como "Solicitar una Demostración", "Registrarse" y "Descargar la Aplicación". Estas CTA estarán diseñadas para ser visualmente atractivas y claras, captando la atención del usuario de inmediato.
+- **Scroll Suave y Secciones Bien Definidas:** El diseño del Landing Page facilitará un scroll suave y fluido, con secciones bien definidas que permitirán a los usuarios navegar cómodamente y comprender la estructura del contenido. Esto garantizará una experiencia de usuario agradable y sin confusiones.
+
+#### Para las Aplicaciones:
+- **Interfaz Intuitiva y Fácil de Usar:** Diseñaremos una interfaz de usuario intuitiva y fácil de usar en nuestras aplicaciones, con elementos de navegación claramente identificados. Los usuarios podrán moverse entre las diferentes secciones de la aplicación de manera fluida, accediendo fácilmente a funciones clave como el monitoreo de temperatura y la gestión de inventarios.
+- **Barra de Navegación Inferior (Aplicación móvil) o Lateral (Aplicación web):** Implementaremos una barra de navegación inferior en la aplicación móvil y una barra lateral en la aplicación web, que proporcionará acceso rápido a las funciones principales de la aplicación, como "Inicio", "Monitoreo", "Inventario", "Alertas" y "Perfil del Usuario". Esto permitirá a los usuarios acceder rápidamente a las áreas de la aplicación que más utilizan.
+- **Flujo de Tareas Guiado:** Guiamos a los usuarios a través de un flujo de tareas bien definido y estructurado. Esto incluirá pasos claros para realizar funciones clave, como añadir un insumo, configurar alertas de temperatura y revisar el historial de inventario. Proporcionaremos indicaciones visuales y mensajes contextuales que aseguren que los usuarios puedan completar sus tareas de manera eficiente y sin confusiones.
+- **Acceso Rápido a Recursos de Ayuda:** Incluirá accesos directos a recursos de ayuda, como preguntas frecuentes y tutoriales, que los usuarios pueden consultar en cualquier momento para resolver dudas o problemas que surjan durante su interacción con el sistema.
+
+Al implementar estas acciones y técnicas de navegación, garantizaremos que los usuarios puedan recorrer el contenido de nuestro Landing Page y aplicaciones de manera fluida y satisfactoria, cumpliendo así sus objetivos y maximizando su experiencia con nuestro producto.
 
 ## 5.3. Landing Page UI Design
 
