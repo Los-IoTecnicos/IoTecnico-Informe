@@ -364,11 +364,58 @@ Al implementar estas acciones y técnicas de navegación, garantizaremos que los
 
 ## 5.3. Landing Page UI Design
 
-En esta sección, como equipo, elaboramos la propuesta de UI para el Landing Page. Explicaremos cómo traducimos las decisiones de diseño y arquitectura de información en una interfaz de usuario atractiva y funcional. Detallamos los elementos visuales y de interacción que conforman la Landing Page, asegurando una experiencia de usuario coherente y alineada con nuestros objetivos de diseño.
+Nuestro enfoque en el diseño de la interfaz de usuario (UI) y la experiencia del usuario (UX) para las aplicaciones del Sistema Inteligente de Gestión de Temperatura y Control de Inventarios para Restaurantes se basa en la traducción de nuestras decisiones de diseño y arquitectura de información en una experiencia intuitiva, funcional y visualmente atractiva para nuestros usuarios. Cada elemento de diseño ha sido considerado cuidadosamente para garantizar que refleje la identidad de nuestra marca, mientras que al mismo tiempo facilita la interacción y comprensión del contenido para los usuarios. A continuación, presentamos nuestra propuesta de diseño para las aplicaciones, destacando cómo se reflejan nuestras decisiones de diseño y arquitectura de información en la interfaz de usuario. Propuesta de Diseño para las Aplicaciones:
+
+- **Identidad Visual Coherente:** Utilizamos una paleta de colores, tipografías y logotipos que reflejan la identidad de nuestra marca. Los elementos de diseño se mantendrán coherentes a lo largo de todas las pantallas de la aplicación, creando una experiencia unificada que refuerza la marca y facilita la navegación.
+
+- **Diseño Responsivo:** Las aplicaciones están diseñadas para adaptarse fluidamente a diferentes dispositivos y tamaños de pantalla, garantizando una experiencia óptima tanto en dispositivos móviles como en computadoras de escritorio. Esto incluye un diseño que prioriza la usabilidad en pantallas táctiles y la disposición de los elementos para facilitar la interacción.
+
+- **Navegación Intuitiva:** Implementaremos una navegación clara y fácil de entender, con una barra de navegación inferior en la aplicación móvil y lateral en la aplicación web que destaca las funciones principales. Esto guiará a los usuarios a través de las diferentes secciones de la aplicación, como "Monitoreo", "Inventario", "Alertas" y "Perfil de Usuario", asegurando que puedan encontrar rápidamente lo que necesitan.
+
+- **Flujo de Tareas Guiado:** Diseñaremos flujos de tareas bien definidos que guiarán a los usuarios en funciones clave, como agregar insumos o configurar alertas de temperatura. Incluirá instrucciones visuales y mensajes contextuales que aseguran que los usuarios puedan completar sus tareas de manera eficiente y sin confusiones.
+
+- **Llamadas a la Acción (CTA) Claras:** Colocaremos CTA estratégicamente a lo largo de la aplicación, invitando a los usuarios a realizar acciones específicas, como "Agregar Insumo", "Configurar Alerta" o "Revisar Historial". Estas CTA estarán diseñadas para ser atractivas y fáciles de identificar, motivando a los usuarios a interactuar con el sistema.
+
+- **Secciones Bien Definidas:** Organizaremos el contenido de las aplicaciones en secciones claramente definidas, con títulos descriptivos y llamativos que faciliten la comprensión del contenido y la navegación. Cada sección estará estructurada para que los usuarios puedan acceder a la información que necesitan de manera rápida y eficiente.
+
+- **Uso de Imágenes y Gráficos Atractivos:** Incorporaremos gráficos y visualizaciones de datos que complementen la información presentada, como gráficos de tendencias de temperatura o representaciones visuales de inventarios. Esto ayudará a captar la atención de los usuarios y facilitará la comprensión de los datos.
+
+- **Optimización de Velocidad de Carga:** Nos aseguraremos de que el diseño de las aplicaciones esté optimizado para una rápida velocidad de carga, garantizando una experiencia de usuario fluida y sin demoras, lo que es crucial para los usuarios en entornos de trabajo activos.
+
+- **Inclusión de Recursos de Ayuda y Soporte:** Integraremos accesos directos a recursos de ayuda, como tutoriales y preguntas frecuentes, que los usuarios pueden consultar en cualquier momento para resolver dudas o problemas que surjan durante su interacción con el sistema.
+
+Con esta propuesta de diseño para las aplicaciones, buscamos no solo transmitir la información de manera clara y efectiva, sino también crear una experiencia visualmente atractiva y coherente que refuerce la identidad de nuestra marca y maximice la satisfacción del usuario al interactuar con nuestro producto.
 
 ### 5.3.1. Landing Page Wireframe
 
-Esta sección incluye una sección interna donde presentamos y explicamos los Wireframes del Landing Page para Desktop Web Browser y Mobile Web Browser. En la propuesta y la explicación, evidenciamos la aplicación de los principios, elementos de diseño, diseño inclusivo y arquitectura de información. Utilizamos las herramientas indicadas para crear wireframes que reflejen claramente la estructura y funcionalidad de la Landing Page.
+El diseño del sitio web de nuestro desarrollo de software se presentará en esta sección. para proporcionar una mejor comprensión del contenido que se mostrará en la plataforma. La página de destino está diseñada para que la información esté centrada y fácilmente visible para los usuarios porque es adecuada para las pantallas de los computadores. Además, se muestra una barra de navegación para facilitar la navegación del usuario y brindarle la mejor experiencia posible.
+
+### #Desktop Web Browser
+
+- **Sección Home:**
+
+<img src="assets/images/WireframeHome.jpg">
+
+- **Sección Nosotros:**
+
+<img src="assets/images/WireframeNosotros.jpg">
+
+- **Sección Servicios:**
+
+<img src="assets/images/WireframeServicios.jpg">
+
+- **Sección Testimonios:**
+
+<img src="assets/images/WireframeTestimonios.jpg">
+
+- **Sección Promociones:**
+
+<img src="assets/images/WireframePromociones.jpg">
+
+- **Sección Contactanos: **
+
+<img src="assets/images/WireframeContactanos.jpg">
+  
 
 ### 5.3.2. Landing Page Mock-up
 
