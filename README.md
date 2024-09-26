@@ -289,14 +289,20 @@ En el Diccionario de Clases, hemos incluido 2 clases principales: MaintenanceReq
 
 ### 4.2.3 Bounded Context: Inventory Management
 
-En el dominio de Collaborate $ Request se centra en gestionar la logica de negocio para la creacion y gestión de solicitudes al personas tecnico
+En el dominio de Inventory Management se centra en gestionar la logica del inventario, control de insumos y alertas.
 
 **Diccionario de Clases:**
 
-En el Diccionario de Clases, hemos incluido 2 clases principales: MaintenanceRequest y Technician. Estas clases
- representan los elementos el funcionamiento de las solicitudes al personal tecnico
+En el Diccionario de Clases, hemos incluido 4 clases principales: InventoryItem, InventoryReport, CoolingUnit y TemperatureSensor. Estas clases representan los elementos del funcionamiento del inventario y control de insumos.
 
- 
+<img src="/assets/images/Inventory.jpg"/>
+
+<img src="/assets/images/InventoryReport.jpg"/>
+
+<img src="/assets/images/Cooling.jpg"/>
+
+<img src="/assets/images/TemperatureSensor.jpg"/>
+
 #### 4.2.3.1 Domain Layer
 
   Descripción: Define la lógica de negocio para la gestión del inventario, control de stock y alertas de reabastecimiento.
