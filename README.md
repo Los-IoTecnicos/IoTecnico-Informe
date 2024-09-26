@@ -189,14 +189,22 @@ En este capítulo, como equipo, explicamos y presentamos nuestra propuesta para 
 
 ### 4.2.1 Bounded Context: Account
 
-| Nombre     | Account          |
-|------------|------------------|
-| Descripción| Gestión de cuentas de usuario. |
-| **Atributos** | **Relaciones** | **Métodos** |
-| `accountID` | String | Composición | `Role` | `createAccount()` |
-| `email`     | String | Agregación | `UserProfile` | `authenticate()` |
-| `password`  | String | | | `updateProfile()` |
-| `roles`     | List<Role> | | | `assignRole()` |
+| Nombre     | Device     |
+|------------|------------|
+| Relaciones | Sensor     |
+| Descripción| Dispositivos que agrupan varios sensores. |
+
+| Atributos    | Tipo   | Visibilidad |
+|--------------|--------|-------------|
+| deviceId     | int    | private     |
+| deviceName   | String | private     |
+| sensors      | string | private     |
+
+| Métodos                |
+|------------------------|
+| `addSensor()`          |
+| `getSensors()`         |
+| `sendMetricsToServer()`|
 
 #### 4.2.1.1 Domain Layer
 
