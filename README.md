@@ -188,7 +188,15 @@ En esta sección, como equipo, presentamos y explicamos los Deployment Diagrams.
 En este capítulo, como equipo, explicamos y presentamos nuestra propuesta para la perspectiva táctica del diseño de la solución de software. Incluimos una sección interna por cada bounded context, detallando las clases identificadas y su documentación.
 
 ### 4.2.1 Bounded Context: Account
+El dominio de Account se centra en gestionar todas las interacciones y operaciones
+asociadas con cuentas de usuario. Este dominio es responsable de manejar las cuentas de usuario, tanto para
+editar como para actualizar su membresía.
 
+**Diccionario de Clases:**
+
+ En el Diccionario de Clases, hemos incluido 2 clases principales: UsserAccount y Role. Estas clases
+ representan los elementos esenciales de nuestra plataforma y definen las entidades y se relaciona con el rol que tendra cada usuario en la plataforma
+<img src="/assets/images/UserAccount.png"/>
 
 <img src="/assets/images/Role1.png"/>
 
