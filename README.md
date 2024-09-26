@@ -89,10 +89,6 @@ En esta sección, como equipo, especificamos y describimos los productos de soft
 
 ### 6.1.2. Source Code Management
 
-En esta sección, como equipo, establecemos los medios y el esquema de organización para el seguimiento de modificaciones utilizando GitHub como plataforma y sistema de control de versiones. Incluimos el URL del repositorio de GitHub para cada producto y explicamos cómo implementaremos GitFlow como workflow de control de versiones, detallando las convenciones para nombrar branches y releases, y aplicando Conventional Commits para los mensajes de commits.
-
-### 6.1.2. Source Code Management
-
 Nuestro equipo ha adoptado GitHub como plataforma principal para el control de versiones y la gestión del código fuente. Implementamos una estrategia de ramificación basada en GitFlow, adaptada a nuestras necesidades específicas, para garantizar un flujo de trabajo eficiente y una gestión de código robusta.
 
 #### Repositorios de GitHub
@@ -197,7 +193,146 @@ Esta estructura nos permite mantener un desarrollo ordenado, facilitar la colabo
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
-En esta sección, como equipo, explicamos las referencias y convenciones que adoptaremos para nombrar elementos y programar en los lenguajes utilizados en la solución (HTML, CSS, JavaScript, TypeScript, Java, C#, Kotlin, Swift, Gherkin). Aplicamos nomenclatura en inglés y seguimos convenciones estándar para asegurar un código limpio y consistente.
+Para mantener la consistencia y legibilidad de nuestro código a lo largo del proyecto, hemos adoptado las siguientes guías de estilo y convenciones para los diferentes lenguajes y tecnologías que utilizamos. Estas pautas se basan en las mejores prácticas de la industria y se adaptan a las necesidades específicas de nuestro proyecto.
+
+#### HTML
+
+Seguimos las recomendaciones del "HTML Style Guide and Coding Conventions" de W3Schools y el "Google HTML/CSS Style Guide":
+
+1. **Declaración del tipo de documento**:
+   - Siempre incluir al inicio del documento: `<!DOCTYPE html>`
+
+2. **Uso de minúsculas**:
+   - Utilizar minúsculas para todos los nombres de elementos y atributos.
+   - Ejemplo: `<body>`, `<section>`, `<div class="container">`
+
+3. **Comillas en atributos**:
+   - Usar comillas dobles para los valores de los atributos.
+   - Ejemplo: `<img src="image.jpg" alt="Descripción de la imagen">`
+
+4. **Indentación**:
+   - Utilizar 2 espacios para la indentación.
+   - Mantener una estructura clara y jerárquica.
+
+5. **Comentarios**:
+   - Usar comentarios para explicar secciones complejas o no evidentes.
+   - Formato: `<!-- Comentario -->`
+
+#### CSS
+
+Adoptamos las siguientes convenciones basadas en el "Google HTML/CSS Style Guide":
+
+1. **Nomenclatura de clases**:
+   - Usar kebab-case para los nombres de clases.
+   - Ejemplo: `.header-navigation`, `.user-profile`
+
+2. **Selectores**:
+   - Evitar selectores demasiado específicos para mejorar la reutilización.
+   - Preferir clases sobre IDs para estilos reutilizables.
+
+3. **Propiedades**:
+   - Ordenar las propiedades alfabéticamente dentro de cada regla.
+   - Usar notación abreviada cuando sea posible.
+   - Ejemplo: `margin: 10px 20px;` en lugar de definir cada lado por separado.
+
+4. **Valores**:
+   - Omitir unidades para valores cero: `margin: 0;` en lugar de `margin: 0px;`
+   - Usar notación hexadecimal de 3 caracteres cuando sea posible: `#fff` en lugar de `#ffffff`
+
+#### JavaScript/TypeScript
+
+Seguimos las directrices del "Google JavaScript Style Guide" y "Google TypeScript Style Guide":
+
+1. **Nomenclatura**:
+   - Variables y funciones: camelCase
+   - Clases y tipos: PascalCase
+   - Constantes: UPPER_SNAKE_CASE
+
+2. **Declaración de variables**:
+   - Preferir `const` sobre `let`. Usar `let` solo cuando sea necesario reasignar.
+   - Evitar `var`.
+
+3. **Funciones**:
+   - Preferir funciones de flecha para funciones anónimas.
+   - Ejemplo: `const suma = (a, b) => a + b;`
+
+4. **Semicolons**:
+   - Usar punto y coma al final de cada declaración.
+
+5. **Comillas**:
+   - Preferir comillas simples para strings.
+   - Usar comillas invertidas para template literals.
+
+#### Angular (TypeScript)
+
+Adoptamos las recomendaciones de la "Angular Style Guide":
+
+1. **Estructura de archivos**:
+   - Un componente por archivo.
+   - Nombrar archivos siguiendo el patrón: `feature-name.type.ts`
+   - Ejemplo: `user-profile.component.ts`, `authentication.service.ts`
+
+2. **Componentes**:
+   - Usar el decorador `@Component` con un selector en kebab-case.
+   - Ejemplo: `selector: 'app-user-profile'`
+
+3. **Servicios**:
+   - Usar el decorador `@Injectable` con `providedIn: 'root'` para servicios singleton.
+
+4. **Módulos**:
+   - Agrupar funcionalidades relacionadas en módulos.
+   - Nombrar módulos con el sufijo `Module`.
+   - Ejemplo: `UserModule`, `AuthenticationModule`
+
+#### Java (Spring Boot)
+
+Seguimos las convenciones del "Google Java Style Guide" y las recomendaciones de "Spring Boot Features":
+
+1. **Nomenclatura**:
+   - Clases: PascalCase
+   - Métodos y variables: camelCase
+   - Constantes: UPPER_SNAKE_CASE
+
+2. **Organización de paquetes**:
+   - Estructura basada en funcionalidades.
+   - Ejemplo: `com.iotecnicos.usermanagement`, `com.iotecnicos.authentication`
+
+3. **Anotaciones de Spring**:
+   - Usar anotaciones apropiadas: `@RestController`, `@Service`, `@Repository`
+   - Configurar componentes con `@Autowired` para inyección de dependencias.
+
+4. **API RESTful**:
+   - Usar `@GetMapping`, `@PostMapping`, etc., para definir endpoints.
+   - Seguir principios RESTful en el diseño de la API.
+
+#### Gherkin (para archivos .feature)
+
+Adoptamos las "Gherkin Conventions for Readable Specifications":
+
+1. **Estructura**:
+   - Usar el formato "Given-When-Then" para los escenarios.
+   - Utilizar "And" para pasos adicionales dentro de cada sección.
+
+2. **Lenguaje**:
+   - Escribir en inglés, usando un lenguaje claro y conciso.
+   - Evitar jerga técnica en las descripciones de escenarios.
+
+3. **Escenarios**:
+   - Comenzar cada escenario con "Scenario:" seguido de un título descriptivo.
+   - Mantener los escenarios cortos y enfocados en una sola funcionalidad.
+
+Ejemplo:
+```gherkin
+Feature: User Authentication
+
+Scenario: Successful login
+  Given the user is on the login page
+  When they enter valid credentials
+  And they click the login button
+  Then they should be redirected to the dashboard
+```
+
+Estas convenciones y guías de estilo nos ayudarán a mantener un código limpio, consistente y fácil de mantener a lo largo de todo el proyecto. Todos los miembros del equipo deben adherirse a estas pautas para asegurar la calidad y uniformidad del código.
 
 ### 6.1.4. Software Deployment Configuration
 
