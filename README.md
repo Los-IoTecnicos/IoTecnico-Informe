@@ -11,11 +11,12 @@ En esta sección, como equipo, introducimos y resumimos el proceso realizado, pr
 
 En este segmento, nos enfocamos en el personal de restaurante. El To-Be Scenario Mapping describe cómo el sistema mejorará la gestión de insumos, la supervisión de temperaturas y la gestión del inventario. A continuación, se muestra una imagen que ilustra los pasos, acciones, pensamientos y sentimientos del personal de restaurante en el nuevo escenario.
 
-
+<img src="assets/images/To-Be Scenario Mapping Personal del Restaurante.PNG">
 
 #### Segmento Objetivo: Personal de Mantenimiento del Software
 En este segmento, nos enfocamos en el personal de mantenimiento del software. El To-Be Scenario Mapping describe cómo el sistema mejorará el monitoreo, diagnóstico y actualización del software. A continuación, se muestra una imagen que ilustra los pasos, acciones, pensamientos y sentimientos del personal de mantenimiento en el nuevo escenario.
 
+<img src="assets/images/To-Be Scenario Mapping Personal del mantenimiento.PNG">
 
 ### 3.2. User Stories
 
