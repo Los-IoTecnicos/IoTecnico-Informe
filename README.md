@@ -212,11 +212,75 @@ En esta sección, como equipo, planteamos las decisiones y el sustento que dirig
 
 ### 5.2.1. Organization Systems
 
-En esta sección, como equipo, explicamos en qué grupos de información aplicaremos cuáles sistemas de organización. Incluimos la explicación de en qué casos se aplicará la organización visual del contenido: de forma jerárquica (visual hierarchy), organización secuencial (step-by-step to accomplish) o matricial. También explicamos en qué casos utilizaremos qué esquemas de categorización de contenido: alfabético, cronológico, por tópicos, según audiencia (grupos de usuarios).
+Organizaremos el contenido de forma estratégica para asegurar que los usuarios puedan navegar fácilmente por las interfaces, encontrar la información relevante y cumplir sus objetivos de manera eficiente. A continuación, explicamos los sistemas de organización seleccionados, así como sus aplicaciones en diferentes áreas del sistema.
+
+#### Organización Visual del Contenido
+
+**Jerárquica (Visual Hierarchy):**
+Este enfoque se utilizará principalmente en la Dashboard del sistema, donde los elementos más importantes y críticos se destacarán visualmente. En este caso, la prioridad será resaltar indicadores clave como:
+
+- Temperaturas críticas de los insumos en tiempo real.
+- Alertas de inventario que requieran acciones inmediatas.
+- Notificaciones de fallos de sensores o problemas técnicos.
+
+Los elementos secundarios, como reportes históricos y tendencias de temperatura, se ubicarán en niveles inferiores para mantener la claridad visual y dar protagonismo a lo más urgente.
+
+**Organización Secuencial (Step-by-Step):**
+Este sistema será útil para guiar a los usuarios a través de tareas críticas que requieren un flujo de pasos definidos, como:
+
+- Proceso de ajuste manual de temperatura: Los usuarios seguirán un flujo claro y paso a paso para ajustar los valores de temperatura manualmente cuando sea necesario.
+- Registro de productos en inventario: El proceso de entrada de nuevos productos al sistema seguirá una secuencia de pasos que permita registrar características como nombre, cantidad, fecha de caducidad, y ubicación.
+- Proceso de configuración inicial del sistema de refrigeración: Este proceso permitirá a los técnicos configurar el sistema siguiendo pasos secuenciales, asegurando que todo esté ajustado correctamente para el monitoreo y control automático.
+
+**Matricial:**
+Aplicaremos este enfoque en áreas donde se requiere analizar información interrelacionada de manera eficiente. Ejemplos clave incluyen:
+
+- Reportes de inventario: Los datos se mostrarán de manera matricial, permitiendo comparar entradas y salidas de productos, temperaturas históricas de los insumos, y alertas de vencimiento. Esto facilitará la comprensión de cómo las condiciones de almacenamiento han afectado la vida útil de los productos.
+- Calendarios de mantenimiento: Las fechas de mantenimiento programado de los sensores y equipos de refrigeración se mostrarán en una matriz de calendario para que los usuarios puedan visualizar las tareas programadas a lo largo del tiempo y evitar interrupciones en el servicio.
+
+#### Esquemas de Categorización de Contenido
+
+**Alfabético:**
+Este esquema se utilizará en casos donde sea útil ordenar listas o información en un orden predecible. Por ejemplo:
+
+- Listado de insumos en inventario: Los insumos se organizarán alfabéticamente para facilitar su búsqueda rápida, permitiendo a los usuarios filtrar por nombre y categoría.
+- Catálogo de productos: El listado de todos los productos que el sistema maneja se presentará en orden alfabético para asegurar que la navegación sea rápida y eficiente.
+
+**Cronológico:**
+Cuando sea necesario ordenar la información según el tiempo, aplicaremos una organización cronológica. Algunos ejemplos incluyen:
+
+- Historial de temperaturas de insumos: Las temperaturas registradas se mostrarán en orden cronológico para que los usuarios puedan revisar cómo ha fluctuado la temperatura de los productos en un periodo determinado.
+- Alertas de caducidad de productos: Las alertas de productos que están por vencer se organizarán según la proximidad de la fecha de caducidad, facilitando que los usuarios actúen en base a la urgencia.
+
+**Por Tópicos:**
+La categorización por tópicos permitirá agrupar información según las áreas específicas del sistema. Por ejemplo:
+
+- Gestión de inventarios: Los productos se clasificarán según su tipo (congelados, frescos, secos, etc.) para facilitar la gestión de inventarios y hacer que las alertas sean más contextuales.
+- Control de temperatura: Las temperaturas de distintos compartimientos o zonas de almacenamiento se agruparán por tópicos según el tipo de productos que contienen (carne, vegetales, lácteos, etc.).
 
 ### 5.2.2. Labeling Systems
 
-Aquí, como equipo, explicamos de qué maneras se representarán los datos, considerando simplicidad y buscando evitar la confusión para los visitantes y usuarios. Especificamos las etiquetas (con el mínimo número de palabras) a utilizar para representar los conjuntos de información y las asociaciones entre las mismas.
+Utilizaremos un sistema de etiquetado que prioriza la claridad, simplicidad y la fácil identificación de las funciones clave del sistema. El uso de etiquetas claras y directas mejorará la experiencia del usuario, facilitando la navegación y el acceso a la información relevante sin confusión. A continuación, detallamos las etiquetas seleccionadas y sus asociaciones.
+
+#### Etiquetas Simples y Claras
+Optaremos por etiquetas concisas, utilizando un mínimo número de palabras para representar claramente los conjuntos de información, basándonos en términos del dominio de la refrigeración y la gestión de inventarios en restaurantes. Cada etiqueta se asociará directamente a una funcionalidad o conjunto de datos relevante para los usuarios.
+
+#### Asociaciones Coherentes
+Cada etiqueta estará asociada de forma lógica y coherente con la información que representa. Esto asegura que los usuarios puedan navegar y acceder a los datos que necesitan con facilidad. Por ejemplo, la etiqueta "Control de Temperatura" agrupará funciones relacionadas exclusivamente con la monitorización y ajustes de temperaturas.
+
+#### Etiquetas Usadas:
+- **Temperatura Actual:** Muestra la temperatura en tiempo real de los compartimientos refrigerados donde se almacenan los insumos.
+- **Historial de Temperatura:** Sección que presenta un registro cronológico de las temperaturas pasadas de los productos en almacenamiento, útil para análisis de calidad.
+- **Alertas de Temperatura:** Etiqueta que indica las notificaciones cuando la temperatura supera los límites establecidos para la conservación óptima de los insumos.
+- **Inventario Disponible:** Muestra una lista de todos los productos disponibles en el inventario, incluyendo cantidades, fechas de caducidad y su ubicación en los compartimientos.
+- **Agregar Producto:** Etiqueta asociada al botón que permite a los usuarios añadir un nuevo producto al inventario, especificando datos como nombre, cantidad, y fecha de caducidad.
+- **Reportes de Inventario:** Sección que ofrece informes detallados sobre el inventario disponible, incluyendo entradas y salidas de productos, así como productos próximos a caducar.
+- **Alertas de Vencimiento:** Etiqueta que presenta las notificaciones sobre productos que están por caducar, organizados por fechas próximas.
+- **Configuración de Sensores:** Sección donde los usuarios pueden ajustar y calibrar los sensores de temperatura para asegurar mediciones precisas y confiables.
+- **Notificaciones de Fallos:** Etiqueta que muestra las alertas relacionadas con fallos en los sensores de temperatura u otros componentes del sistema.
+- **Ajustes del Sistema:** Área donde los usuarios pueden personalizar la configuración del sistema, como los límites de temperatura, las alertas de inventario, y las preferencias de notificación.
+
+Al utilizar estas etiquetas simples y coherentes, facilitamos la navegación y mejoramos la eficiencia del sistema, permitiendo a los usuarios realizar sus tareas de monitoreo, gestión de inventarios y ajustes del sistema de forma intuitiva.
 
 ### 5.2.3. SEO Tags and Meta Tags
 
