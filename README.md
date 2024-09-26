@@ -88,10 +88,10 @@ En esta sección, explicamos e ilustramos las decisiones sobre los estándares v
 
 La paleta de colores mantiene la coherencia visual a lo largo de toda la plataforma web de FrostChef, proporcionando una sensación de modernidad y tecnología avanzada:
 
-- **Color Primario:** #5D58D3
-- **Color Secundario:** #8289EF
-- **Color de Fondo:** #F2EBDF
-- **Textos:** #FFFFFF y #262A73
+- **Color Primario:** Púrpura (#5D58D3)
+- **Color Secundario:** Lavanda (#8289EF)
+- **Color de Fondo:** Marfil (#F2EBDF)
+- **Textos:** Blanco (#FFFFFF) y Azul Marino (#262A73)
 
 **Typography** 
 
@@ -136,10 +136,10 @@ Implementar un diseño accesible que cumpla con los estándares WCAG (Web Conten
 
 La paleta de colores mantiene la misma consistencia que la versión web, con pequeños ajustes para una mejor visibilidad en pantallas móviles.
 
-- **Primario:** #5D58D3
-- **Secundario:** #8289EF
-- **Fondo:** #F2EBDF
-- **Textos:** #FFFFFF y #262A73
+- **Color Primario:** Púrpura (#5D58D3)
+- **Color Secundario:** Lavanda (#8289EF)
+- **Color de Fondo:** Marfil (#F2EBDF)
+- **Textos:** Blanco (#FFFFFF) y Azul Marino (#262A73)
 
 **Typography**
 
@@ -175,8 +175,8 @@ Implementar gestos comunes como deslizar para eliminar elementos, tirar para ref
 
 La paleta de colores es coherente con las otras interfaces, pero con mayor enfoque en el contraste para asegurar una visibilidad clara en dispositivos IoT, que pueden estar en entornos con poca luz o condiciones cambiantes.
 
-- **Primario:** #5D58D3
-- **Secundario:** #8289EF
+- **Primario:** Púrpura (#5D58D3)
+- **Secundario:** Lavanda (#8289EF)
 - **Indicadores de estado:**
   - Temperatura óptima: #4CAF50 (Verde)
   - Advertencia: #FFEB3B (Amarillo)
@@ -412,18 +412,47 @@ El diseño del sitio web de nuestro desarrollo de software se presentará en est
 
 <img src="assets/images/WireframePromociones.jpg">
 
-- **Sección Contactanos: **
+- **Sección Contactanos:**
 
 <img src="assets/images/WireframeContactanos.jpg">
   
 
 ### 5.3.2. Landing Page Mock-up
 
-Esta sección presenta y explica los Mock-ups del Landing Page, tanto en su versión para Desktop Web Browser como Mobile Web Browser. En la propuesta y la explicación, evidenciamos la aplicación de los principios, elementos de diseño, diseño inclusivo y arquitectura de información, así como el Design System establecido para los productos digitales. Los mock-ups proporcionan una vista detallada y realista de la interfaz final, facilitando la validación y ajustes necesarios antes del desarrollo.
+Se mostrará una vista preliminar del sitio web, detallando el contenido por secciones, colores, estilos e imágenes que estén relacionadas con el propósito. Esto ayudará al usuario a tener una mejor experiencia y comprender fácilmente el propósito del sitio web. 
+
+**Principios fundamentales de diseño:** Se utilizaron principios de diseño para crear una página atractiva, fácil de usar y efectiva. La jerarquía, el equilibrio, el contraste, la repetición y el ritmo son algunos de estos principios. 
+
+**Componentes del diseño:** Para crear una página visualmente atractiva y atractiva, se utilizaron varios elementos de diseño. La tipografía, los colores, las imágenes y los iconos son algunos de estos componentes.
+
+- **Sección Home:**
+
+<img src="assets/images/.jpg">
+
+- **Sección Nosotros:**
+
+<img src="assets/images/.jpg">
+
+- **Sección Servicios:**
+
+<img src="assets/images/.jpg">
+
+- **Sección Testimonios:**
+
+<img src="assets/images/.jpg">
+
+- **Sección Promociones:**
+
+<img src="assets/images/.jpg">
+
+- **Sección Contactanos:**
+
+<img src="assets/images/.jpg">
+
 
 ## 5.4. Applications UX/UI Design
 
-Esta sección incluye secciones internas donde presentamos y explicamos la propuesta visual y de interacción para las aplicaciones que constituyen la experiencia de usuario con los productos digitales. Detallamos cómo cada aplicación se alinea con los principios de diseño y las necesidades de los usuarios, asegurando una experiencia coherente y satisfactoria en todas las plataformas.
+La propuesta visual y de interacción para las aplicaciones que componen la experiencia de usuario con nuestros productos digitales se presenta y explica en esta sección. Nuestro enfoque en el diseño de UX/UI para aplicaciones se centra en crear interfaces atractivas e intuitivas que mejoren la usabilidad y la satisfacción de ambos segmentos objetivos. Cada componente del diseño se ha estudiado minuciosamente para garantizar una experiencia de usuario consistente y eficiente. A continuación, abordamos nuestras aplicaciones con un enfoque en los aspectos visuales y de interacción.
 
 ### 5.4.1. Applications Wireframes
 
