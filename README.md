@@ -188,7 +188,7 @@ En esta sección, como equipo, presentamos y explicamos los Deployment Diagrams.
 En este capítulo, como equipo, explicamos y presentamos nuestra propuesta para la perspectiva táctica del diseño de la solución de software. Incluimos una sección interna por cada bounded context, detallando las clases identificadas y su documentación.
 
 ### 4.2.1 Bounded Context: Account
-<img src="/assets/images/UserAcount.png"/>
+
 
 <img src="/assets/images/Role1.png"/>
 
