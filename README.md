@@ -350,17 +350,239 @@ En esta sección, como equipo, registramos y explicamos el avance en términos d
 
 En esta sección, como equipo, especificamos los aspectos principales del Sprint Planning Meeting, a continuacion el cuadro de resumen del sprint planning meeting.
 
+<table border="1">
+    <tr>
+        <th>Sprint #</th>
+        <td>Sprint 1</td>
+    </tr>
+    <tr>
+        <th>Sprint Planning Background</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Date</th>
+        <td>25/09/2024</td>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <td>6:00 AM</td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>Discord</td>
+    </tr>
+    <tr>
+        <th>Prepared By</th>
+        <td>Diego Sánchez Ramírez</td>
+    </tr>
+    <tr>
+        <th>Attendees (to planning meeting)</th>
+        <td>Piero Márquez, Víctor Díaz, Leonardo Patrocinio, Juan Navarro y Ismael Zamora</td>
+    </tr>
+    <tr>
+        <th>Sprint n – 1 Review Summary</th>
+        <td>Se termino de Arreglar los contenidos de los capitulos 1 a 4</td>
+    </tr>
+    <tr>
+        <th>Sprint n – 1 Retrospective Summary</th>
+        <td>Se desplegó el landing page y se utilizará Angular para el desarrollo de la Aplicación Web</td>
+    </tr>
+    <tr>
+        <th>Sprint Goal & User Stories</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Sprint n Goal</th>
+        <td>Correción del Informe, despliegue de la Landing page y la Web Application consumiendo una Fake API.</td>
+    </tr>
+    <tr>
+        <th>Sprint n Velocity</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Sum of Story Points</th>
+        <td></td>
+    </tr>
+</table>
+
 #### 6.2.1.2. Sprint Backlog 1
 
 En esta sección, como equipo, presentamos una introducción que resume el objetivo principal del Sprint 1 y un screenshot del Board para el Sprint en la herramienta de control indicada, junto con el URL público del Board. Incluimos una tabla con los User Stories asignados al Sprint y los Work-items/Tasks resultantes.
+
+<table border="1">
+    <tr>
+        <th colspan="8">Sprint n</th>
+    </tr>
+    <tr>
+        <th colspan="2">User Story</th>
+        <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Description</th>
+        <th>Estimation (Hours)</th>
+        <th>Assigned To</th>
+        <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+<br>
 
 #### 6.2.1.3. Development Evidence for Sprint Review
 
 En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 1. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
 
+<table border="1">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>feat: consectetur adipiscing elit</td>
+        <td> </td>
+        <td>26/09/2024</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>feat: consectetur adipiscing elit</td>
+        <td> </td>
+        <td>26/09/2024</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>feat: consectetur adipiscing elit</td>
+        <td> </td>
+        <td>26/09/2024</td>
+    </tr>
+    <tr>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td>feat: consectetur adipiscing elit</td>
+        <td> </td>
+        <td>26/09/2024</td>
+    </tr>
+    
+   
+</table>
+
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 
-En esta sección, como equipo, explicamos y presentamos el conjunto de Unit Tests, Integration Tests y Acceptance Tests automatizados para los Web Services relacionados con los User Stories especificados en el Sprint. Incluimos los archivos .feature en Gherkin y los archivos Steps en el lenguaje de programación correspondiente. Detallamos la relación de tests diseñados, indicando las clases y comportamientos relacionados para los Unit Tests, y los User Stories relacionados para los Integration y Acceptance Tests. También proporcionamos la ruta del repositorio de control de versiones y los commits relacionados con los avances en Testing.
+Para esta entrega no se ha presentado un backend funcional, se presentó mediante API falsa, por lo que no se llevarán a cabo pruebas de unidad, integración y aceptación automatizada de webservices relacionados con las historias de usuario.
 
 #### 6.2.1.5. Execution Evidence for Sprint Review
 
