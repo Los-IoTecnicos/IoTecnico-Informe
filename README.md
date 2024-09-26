@@ -239,15 +239,15 @@ El Domain Layer de Account contiene la lógica de negocio relacionada con la ges
 #### 4.2.1.6 Bounded Context Software Architecture Code Level Diagrams
 
 ### 4.2.2 Bounded Context: Collaborate & Request
+En el dominio de Collaborate $ Request se centra en gestionar la logica de negocio para la creacion y gestión de solicitudes al personas tecnico
 
-| Nombre     | Request          |
-|------------|------------------|
-| Descripción| Gestión de solicitudes de soporte técnico. |
-| **Atributos** | **Relaciones** | **Métodos** |
-| `requestID` | String | Composición | `TechnicianProfile` | `createRequest()` |
-| `description`| String | Agregación | `UserProfile` | `assignTechnician()` |
-| `status`    | String | | | `updateRequest()` |
-| `assignedTechnician` | TechnicianProfile | | | `closeRequest()` |
+**Diccionario de Clases:**
+
+En el Diccionario de Clases, hemos incluido 2 clases principales: MaintenanceRequest y Technician. Estas clases
+ representan los elementos el funcionamiento de las solicitudes al personal tecnico
+<img src="/assets/images/Maintenance.jpg"/>
+
+<img src="/assets/images/Technician.jpg"/>
 
 #### 4.2.2.1 Domain Layer
 
@@ -289,15 +289,14 @@ El Domain Layer de Account contiene la lógica de negocio relacionada con la ges
 
 ### 4.2.3 Bounded Context: Inventory Management
 
-| Nombre     | Inventory        |
-|------------|------------------|
-| Descripción| Control de inventario y reabastecimiento. |
-| **Atributos** | **Relaciones** | **Métodos** |
-| `inventoryID` | String | Composición | `Item` | `addItem()` |
-| `location`   | String | Agregación | `RestaurantBranch` | `updateInventory()` |
-| `items`      | List<Item> | | | `checkStock()` |
-| `lowStockAlert` | Boolean | | | `generateReport()` |
+En el dominio de Collaborate $ Request se centra en gestionar la logica de negocio para la creacion y gestión de solicitudes al personas tecnico
 
+**Diccionario de Clases:**
+
+En el Diccionario de Clases, hemos incluido 2 clases principales: MaintenanceRequest y Technician. Estas clases
+ representan los elementos el funcionamiento de las solicitudes al personal tecnico
+
+ 
 #### 4.2.3.1 Domain Layer
 
   Descripción: Define la lógica de negocio para la gestión del inventario, control de stock y alertas de reabastecimiento.
