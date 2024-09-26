@@ -343,14 +343,16 @@ En el Diccionario de Clases, hemos incluido 4 clases principales: InventoryItem,
 
 ### 4.2.4 Bounded Context: IoT Solutions
 
-| Nombre     | IoTSensor        |
-|------------|------------------|
-| Descripción| Monitoreo de temperatura en unidades de refrigeración. |
-| **Atributos** | **Relaciones** | **Métodos** |
-| `sensorID`  | String | Composición | `TemperatureController` | `monitorTemperature()` |
-| `location`  | String | Agregación | `RefrigerationUnit` | `adjustTemperature()` |
-| `temperature` | Float | | | `sendAlert()` |
-| `status`    | Boolean | | | `logData()` |
+En el dominio de IoT Solutions se centra en gestionar la logica del monitoreo y control de sensores IoT que se encuentras en el equipo de refrigeracion.
+
+**Diccionario de Clases:**
+
+En el Diccionario de Clases, hemos incluido 2 clases principales: Sensor y Device. Estas clases representan los elementos del funcionamiento del monitoreo de los sensores IoT.
+
+<img src="/assets/images/Sensor.jpg"/>
+
+<img src="/assets/images/Device.jpg"/>
+
 
 #### 4.2.4.1 Domain Layer
 
