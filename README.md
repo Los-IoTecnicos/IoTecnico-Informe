@@ -10,9 +10,190 @@ En esta sección, como equipo, establecemos las decisiones y convenciones que pe
 
 En esta sección, como equipo, especificamos y describimos los productos de software que utilizaremos en el proyecto, indicando su propósito y cómo acceder a ellos. Esto incluye herramientas para Project Management, Requirements Management, Product UX/UI Design, Software Development, Software Testing, Software Deployment y Software Documentation. Nuestro objetivo es asegurar que todos los miembros del equipo tengan acceso a las herramientas necesarias para colaborar eficazmente en el ciclo de vida del proyecto.
 
+#### Project Management:
+
+1. **Markdown**
+   - **Propósito**: Crear y organizar la documentación del proyecto en archivos .md, permitiendo una fácil segmentación por capítulos. Facilita la generación de informes en PDF para entregas académicas.
+   - **Ruta**: Sintaxis básica de escritura y formato en GitHub
+
+2. **Git & GitHub**
+   - **Propósito**: Sistema de control de versiones distribuido para rastrear cambios en el código fuente y facilitar la colaboración entre los miembros del equipo.
+   - **Ruta de descarga Git**: https://git-scm.com/downloads
+   - **Ruta GitHub**: https://github.com/
+
+3. **Discord**
+   - **Propósito**: Plataforma de comunicación y colaboración para llamadas, chat en tiempo real y compartir archivos entre los miembros del equipo.
+   - **Ruta**: https://discord.com/download
+
+4. **Trello**
+   - **Propósito**: Herramienta de gestión de proyectos basada en tableros Kanban para organizar tareas, asignar responsabilidades y hacer seguimiento del progreso del proyecto.
+   - **Ruta**: https://trello.com/
+
+#### Product UX/UI Design:
+
+5. **Miro**
+   - **Propósito**: As-Is y To-Be Scenario Maps
+   - **Ruta**: https://miro.com/es/
+
+6. **Figma**
+   - **Propósito**: Diseño colaborativo de interfaces de usuario, creación de wireframes, mockups y prototipos interactivos.
+   - **Ruta**: https://www.figma.com/
+
+7. **Lucidchart**
+   - **Propósito**: Creación de diagramas de flujo, mapas mentales y diagramas de arquitectura para visualizar procesos y estructuras del proyecto.
+   - **Ruta**: https://www.lucidchart.com/
+
+8. **Vertabelo**
+   - **Propósito**: Herramienta gratuita para la elaboración de diagramas de base de datos.
+   - **Ruta**: https://vertabelo.com/
+
+9. **Structurizr**
+   - **Propósito**: Elaboración de diagramas C4.
+   - **Ruta**: https://structurizr.com/
+
+10. **UXPressia**
+    - **Propósito**: Elaboración de User Personas, Empathy Maps, Journey Maps e Impact Maps.
+    - **Ruta**: https://uxpressia.com/
+
+#### Software Development:
+
+11. **Visual Studio Code**
+    - **Propósito**: Editor de código principal para el desarrollo del frontend y backend, con extensiones para mejorar la productividad.
+    - **Ruta de descarga**: https://code.visualstudio.com/
+
+12. **Angular CLI**
+    - **Propósito**: Framework para el desarrollo del frontend de la aplicación web, facilitando la creación de componentes y servicios.
+    - **Instalación**: Ejecutar `npm install -g @angular/cli` después de instalar Node.js
+
+13. **Spring Boot**
+    - **Propósito**: Framework para el desarrollo del backend, proporcionando un entorno preconfigurado para aplicaciones Java.
+    - **Ruta**: https://spring.io/projects/spring-boot
+
+#### Software Deployment:
+
+14. **GitHub Pages**
+    - **Propósito**: Desplegar la landing Page.
+    - **Ruta**: https://pages.github.com/
+
+#### Software Documentation:
+
+15. **Swagger UI**
+    - **Propósito**: Herramienta para documentar y probar APIs RESTful generadas con Spring Boot.
+    - **Configuración**: Integrada en el proyecto Spring Boot mediante dependencias Maven.
+
+#### IoT Development:
+
+16. **Wokwi**
+    - **Propósito**: Simulador en línea para prototipar y probar circuitos Arduino y otros dispositivos IoT antes de la implementación física.
+    - **Ruta**: https://wokwi.com/
+
 ### 6.1.2. Source Code Management
 
 En esta sección, como equipo, establecemos los medios y el esquema de organización para el seguimiento de modificaciones utilizando GitHub como plataforma y sistema de control de versiones. Incluimos el URL del repositorio de GitHub para cada producto y explicamos cómo implementaremos GitFlow como workflow de control de versiones, detallando las convenciones para nombrar branches y releases, y aplicando Conventional Commits para los mensajes de commits.
+
+### 6.1.2. Source Code Management
+
+Nuestro equipo ha adoptado GitHub como plataforma principal para el control de versiones y la gestión del código fuente. Implementamos una estrategia de ramificación basada en GitFlow, adaptada a nuestras necesidades específicas, para garantizar un flujo de trabajo eficiente y una gestión de código robusta.
+
+#### Repositorios de GitHub
+
+Hemos establecido los siguientes repositorios para nuestros productos:
+
+1. **Landing Page**: 
+   [https://github.com/Los-IoTecnicos/LandingPage-IoTecnicos](https://github.com/Los-IoTecnicos/LandingPage-IoTecnicos)
+
+2. **Frontend Web Application**: 
+   [https://github.com/Los-IoTecnicos/Web-Application-Front](https://github.com/Los-IoTecnicos/Web-Application-Front)
+
+3. **Documentación del Proyecto**: 
+   [https://github.com/Los-IoTecnicos/IoTecnico-Informe](https://github.com/Los-IoTecnicos/IoTecnico-Informe)
+
+#### Implementación de GitFlow
+
+Nuestra implementación de GitFlow se basa en el modelo propuesto por Vincent Driessen, con algunas adaptaciones para optimizar nuestro flujo de trabajo:
+
+1. **Rama Principal (main)**:
+   - Denominación: `main`
+   - Propósito: Representa el estado de producción actual.
+   - Características: Siempre estable y lista para despliegue.
+
+2. **Rama de Desarrollo (develop)**:
+   - Denominación: `develop`
+   - Propósito: Integra las últimas características desarrolladas.
+   - Características: Punto de partida para nuevas funcionalidades, sometida a pruebas continuas.
+
+3. **Ramas de Funcionalidades (feature branches)**:
+   - Denominación: `feature/nombre-de-la-funcionalidad`
+   - Propósito: Desarrollo aislado de nuevas características.
+   - Características: Se ramifican desde `develop` y se fusionan de vuelta a ella.
+
+4. **Ramas de Lanzamiento (release branches)**:
+   - Denominación: `release/v{X.Y.Z}`
+   - Propósito: Preparación para un nuevo lanzamiento de producción.
+   - Características: Permite ajustes finales y correcciones menores antes del lanzamiento.
+
+5. **Ramas de Corrección Urgente (hotfix branches)**:
+   - Denominación: `hotfix/v{X.Y.Z+1}`
+   - Propósito: Correcciones críticas en producción.
+   - Características: Se ramifican desde `main` y se fusionan tanto en `main` como en `develop`.
+
+#### Convenciones de Nomenclatura
+
+1. **Ramas de Funcionalidades**:
+   - Formato: `feature/breve-descripcion-de-la-funcionalidad`
+   - Ejemplo: `feature/integracion-sensor-temperatura`
+
+2. **Ramas de Lanzamiento**:
+   - Formato: `release/vX.Y.Z`
+   - Ejemplo: `release/v1.2.0`
+
+3. **Ramas de Corrección Urgente**:
+   - Formato: `hotfix/vX.Y.Z`
+   - Ejemplo: `hotfix/v1.2.1`
+
+#### Versionado Semántico
+
+Adoptamos el Versionado Semántico 2.0.0 para nuestros lanzamientos:
+
+- **X** (Major): Cambios incompatibles con versiones anteriores
+- **Y** (Minor): Nuevas funcionalidades compatibles con versiones anteriores
+- **Z** (Patch): Correcciones de errores compatibles con versiones anteriores
+
+#### Convenciones para Commits
+
+Seguimos las directrices de Conventional Commits para mantener un historial de cambios claro y estructurado:
+
+```
+<tipo>[alcance opcional]: <descripción>
+
+[cuerpo opcional]
+
+[notas de pie opcionales]
+```
+
+Tipos de commits más comunes:
+- `feat`: Nueva funcionalidad
+- `fix`: Corrección de errores
+- `docs`: Cambios en la documentación
+- `style`: Cambios que no afectan el significado del código (espacios en blanco, formato, etc.)
+- `refactor`: Cambio de código que no corrige un error ni añade una característica
+- `test`: Adición o modificación de pruebas
+- `chore`: Cambios en el proceso de construcción o herramientas auxiliares
+
+Ejemplos:
+- `feat(auth): implementar autenticación de dos factores`
+- `fix(sensor): corregir lectura errónea del sensor de humedad`
+- `docs(README): actualizar instrucciones de instalación`
+
+#### Flujo de Trabajo
+
+1. Los desarrolladores crean ramas de funcionalidades desde `develop`.
+2. Al completar una funcionalidad, se crea un Pull Request para fusionar con `develop`.
+3. Las ramas de lanzamiento se crean desde `develop` cuando se prepara una nueva versión.
+4. Tras las pruebas finales, la rama de lanzamiento se fusiona en `main` y `develop`.
+5. Si se detectan errores críticos en producción, se crea una rama de corrección urgente desde `main`.
+
+Esta estructura nos permite mantener un desarrollo ordenado, facilitar la colaboración entre miembros del equipo y garantizar la estabilidad de nuestras versiones de producción.
 
 ### 6.1.3. Source Code Style Guide & Conventions
 
