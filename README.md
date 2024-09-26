@@ -122,24 +122,26 @@ Para cada segmento, realizamos de 3 a 5 entrevistas. Indicamos la información d
 Entrevista 1:
 - **Nombre completo:** Gerardo Nunez
 - **Edad:** 55 años
-- **Distrito:** Puente Piedra
+- **Distrito:** San Miguel
 - **Screenshot del video:**
 
   <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista1_Administrador.png" width="500" height="300">
   
-- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 0:00 -14:55
-- **Duración de la entrevista:** 15 minutos
+- **Duración de la entrevista:** 14 minutos 55 segundos
 
 **Resumen:**
 
-Gerardo Núñez, de 55 años, vive en el distrito de San Miguel y trabaja como técnico independiente en aire acondicionado, con 26 años de experiencia en el rubro. Durante la entrevista, Gerardo compartió su experiencia en la reparación y mantenimiento de sistemas de aire acondicionado, describiendo los pasos que sigue habitualmente para resolver problemas. Primero, revisa el software del sistema para detectar posibles fallas. Si no encuentra problemas allí, procede a revisar los sensores, ya que en muchas ocasiones las lecturas erróneas provienen de ellos y no del software o del hardware. Finalmente, inspecciona el equipo físico para identificar cualquier falla en el propio aire acondicionado.
+Gerardo Núñez, de 55 años, vive en el distrito de San Miguel y trabaja como técnico independiente en aire acondicionado. Con 26 años de experiencia, ha trabajado en la reparación y mantenimiento de sistemas de refrigeración, lo que le ha permitido desarrollar un enfoque meticuloso en la resolución de problemas. Durante la entrevista, mencionó que utiliza dispositivos tecnológicos como su smartphone Android y una laptop Microsoft en su vida cotidiana, aunque no están directamente relacionados con su trabajo. Entre las marcas que prefiere, destacó su admiración por Fluke, York y LG.
 
-Gerardo mencionó que uno de los mayores desafíos que enfrenta en lugares grandes, donde se utilizan múltiples equipos, es tener que revisar manualmente cada sensor, lo que puede ser tedioso. Aunque con la experiencia ha desarrollado ciertos métodos para agilizar la identificación de problemas, considera que no siempre es suficiente.
+Al ser preguntado sobre su proceso de diagnóstico, Gerardo explicó que primero revisa el software del sistema para detectar posibles fallas. Si no encuentra problemas allí, se enfoca en los sensores, ya que en muchas ocasiones las lecturas erróneas provienen de ellos. Finalmente, inspecciona el equipo físico para identificar cualquier fallo en el hardware. Un ejemplo reciente de un problema crítico que resolvió involucraba un mal funcionamiento del sensor en un sistema de refrigeración, el cual pudo detectar gracias a una revisión detallada.
+Uno de los mayores desafíos que enfrenta en su trabajo es tener que revisar manualmente cada sensor en instalaciones grandes, lo que puede ser tedioso y consumir mucho tiempo. Aunque ha implementado métodos para agilizar este proceso, comentó que no siempre son suficientes. En cuanto a sus frustraciones tecnológicas, mencionó sus horarios irregulares, la falta de comunicación clara en algunos trabajos, y las limitaciones presupuestarias que a veces impiden el acceso a las herramientas más modernas.
 
-Cuando le presentamos nuestra idea, mostró un gran interés en la posibilidad de recibir diagnósticos de los sistemas directamente en su celular, lo que, según él, le ahorraría mucho tiempo y facilitaría su trabajo diario. Además, resaltó la importancia de un sistema de notificaciones directas para que, en caso de fallas, él sea el primero en enterarse y pueda actuar rápidamente, ya que en situaciones donde los productos refrigerados son delicados, el tiempo de respuesta es crucial para evitar pérdidas.
+Cuando le presentamos nuestra propuesta, mostró gran interés en la posibilidad de recibir diagnósticos directamente en su dispositivo móvil Android. Según él, esto le ahorraría mucho tiempo y le permitiría trabajar de manera más eficiente. También valoró la idea de recibir notificaciones automáticas en tiempo real, lo que le ayudaría a actuar rápidamente en caso de fallas críticas, especialmente en situaciones que involucran productos refrigerados delicados, donde el tiempo de respuesta es crucial.
 
-Al finalizar la entrevista, Gerardo sugirió una mejora adicional para nuestra solución: la colocación de más sensores dentro de los aires acondicionados, distribuidos en puntos críticos. Esto, según él, permitiría descartar fallas más rápido y optimizar aún más el proceso de diagnóstico, ahorrando tiempo y mejorando la eficiencia en las reparaciones.
+Al finalizar la entrevista, Gerardo sugirió una mejora adicional para nuestra solución: la instalación de más sensores en puntos críticos de los sistemas de refrigeración. Esto, según él, no solo aceleraría el diagnóstico de fallas, sino que también mejoraría la eficiencia general en la reparación y mantenimiento de los equipos.
+
 
 **Personal de Restaurante**
 
@@ -151,21 +153,23 @@ Entrevista 1:
 
   <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista1_Empleado.png" width="500" height="300">
   
-- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 14:56 - 23:09
-- **Duración de la entrevista:** 8 minutos
+- **Duración de la entrevista:** 8 minutos 13 segundos
 
 **Resumen:** 
   
   La entrevista realizada a Gabriela Gijón Yupanqui Terrones, una joven de 20 años, nos comenta que actualmente vive en el distrito de Puente Piedra. Gabriela tiene 8 meses de experiencia como ayudante de cocina. En su día a día, el dispositivo que más usa es su smartphone con sistema operativo Android, y ocasionalmente utiliza una laptop. Prefiere marcas tecnológicas como Samsung y Huawei.
 
-  En cuanto a sus objetivos personales y profesionales, Gabriela aspira a convertirse en chef profesional y abrir su propio restaurante en los próximos años. Considera que la tecnología puede ayudarla a alcanzar estos objetivos facilitando la gestión del inventario, mejorando la eficiencia en la cocina y ofreciendo herramientas de aprendizaje en línea. Sin embargo, ha experimentado frustraciones con la conectividad y la falta de integración entre diferentes sistemas tecnológicos en su trabajo.
+En cuanto a sus objetivos personales y profesionales, Gabriela aspira a convertirse en chef profesional y abrir su propio restaurante en los próximos años. Considera que la tecnología puede ayudarle a alcanzar estos objetivos facilitando la gestión del inventario, mejorando la eficiencia en la cocina y ofreciendo herramientas de aprendizaje en línea. Sin embargo, ha experimentado frustraciones con la conectividad y la falta de integración entre diferentes sistemas tecnológicos en su trabajo.
 
-  Gabriela admira a empresas como Google y Microsoft por sus innovaciones y soluciones tecnológicas, y sigue a líderes como Sundar Pichai y Satya Nadella por su visión y liderazgo en la industria. En su trabajo, Gabriela utiliza dos equipos de refrigeración: uno para verduras y frutas, y otro para carnes, pollos y pescados. Actualmente, monitorean la temperatura manualmente y ajustan los equipos según sea necesario, realizando mantenimiento periódico para asegurar el buen funcionamiento.
+Gabriela admira a empresas como Google y Microsoft por sus innovaciones y soluciones tecnológicas, y sigue a líderes como Sundar Pichai y Satya Nadella por su visión y liderazgo en la industria. En su trabajo, Gabriela utiliza dos equipos de refrigeración: uno para verduras y frutas, y otro para carnes, pollos y pescados. Actualmente, monitorean la temperatura manualmente y ajustan los equipos según sea necesario, realizando mantenimiento periódico para asegurar el buen funcionamiento.
 
-  Tienen un protocolo básico para manejar fallos en los sistemas de refrigeración, que incluye la revisión y reparación inmediata de los equipos. Utilizan métodos convencionales para gestionar el inventario y han tenido algunas pérdidas debido a problemas de refrigeración. Gabriela sugiere que un sistema de refrigeración ideal debería ofrecer monitoreo en tiempo real, alertas automáticas y una interfaz fácil de usar.
+Tienen un protocolo básico para manejar fallos en los sistemas de refrigeración, que incluye la revisión y reparación inmediata de los equipos. Utilizan métodos convencionales para gestionar el inventario y han tenido algunas pérdidas debido a problemas de refrigeración. Gabriela sugiere que un sistema de refrigeración ideal debería ofrecer monitoreo en tiempo real, alertas automáticas y una interfaz fácil de usar.
 
-  Gabriela está abierta a adoptar nuevas tecnologías y prefiere gestionar el inventario desde un dispositivo móvil por su conveniencia. Al presentarle nuestra solución tecnológica, la consideró una idea muy innovadora y beneficiosa, especialmente para la gestión del inventario en restaurantes. Además, sugirió que la aplicación debería enviar notificaciones cuando un producto esté próximo a vencer.
+Gabriela está abierta a adoptar nuevas tecnologías y prefiere gestionar el inventario desde un dispositivo móvil por su conveniencia. Al presentarle nuestra solución tecnológica, la consideró una idea muy innovadora y beneficiosa, especialmente para la gestión del inventario en restaurantes. Además, sugirió que la aplicación debería enviar notificaciones cuando un producto esté próximo a vencer.
+
+
   
 
 Entrevista 2:
@@ -176,19 +180,19 @@ Entrevista 2:
 
   <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista2_Empleado.png" width="500" height="300">
   
-- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 23:10 - 29:05
-- **Duración de la entrevista:** 6 minutos
+- **Duración de la entrevista:** 5 minutos 55 segundos
 
 **Resumen:** 
 
-  La entrevista realizada a Gabriel Abarca, un joven cocinero de 23 años que vive en San Martín de Porres, nos proporciona información valiosa sobre su experiencia en la industria de restaurantes. Gabriel trabaja en un restaurante y cuenta con 7 meses de experiencia. Utiliza principalmente su smartphone y laptop, prefiriendo marcas como Android y Microsoft. En cinco años, se ve mejorando sus habilidades culinarias y avanzando en su carrera como chef. Utiliza Chrome como navegador web y WhatsApp y Facebook como sus principales redes sociales.
-  
-Gabriel nos comenta que en su restaurante cuentan con varios equipos de refrigeración dedicados a diferentes tipos de alimentos como verduras, carnes y salsas. Cuando ocurre un fallo en alguno de los equipos, transfieren el contenido a otra máquina que esté funcionando. Prioriza que los equipos de refrigeración sean fáciles de usar. Actualmente, gestionan la refrigeración y monitorean la temperatura de los sistemas manualmente, realizando ajustes frecuentes y siguiendo un protocolo para fallos que incluye la transferencia de contenido a otros equipos.
+Gabriel Abarca, de 23 años y residente de San Martín de Porres, trabaja como cocinero y tiene 7 meses de experiencia en la industria de restaurantes. Utiliza principalmente su smartphone Android y su laptop Microsoft, y sus marcas preferidas son Android y Microsoft. En cuanto a su navegador, suele usar Chrome y se mantiene conectado mediante WhatsApp y Facebook.
 
-En cuanto a la gestión de inventario, Gabriel menciona que llevan un registro manual para evitar que los productos caduquen, aunque han tenido pérdidas por problemas de refrigeración. Le gustaría ver características como facilidad de uso, monitoreo en tiempo real y alertas automáticas en un sistema de refrigeración ideal para su restaurante. Gabriel y su equipo están abiertos a adoptar nuevas tecnologías y prefieren gestionar el inventario desde dispositivos móviles.
+Gabriel explicó que en su restaurante cuentan con varios equipos de refrigeración para distintos alimentos, como verduras, carnes y salsas. En caso de fallos, transfieren el contenido a otros equipos en funcionamiento, siguiendo un protocolo básico. Mencionó que la gestión del inventario se hace manualmente y han experimentado pérdidas debido a fallos en la refrigeración.
 
-Tras conocer nuestra solución, Gabriel comentó que estarían dispuestos a aceptarla, ya que reduciría las visitas de mantenimiento y reparaciones, lo que siempre genera gastos y retrasos. Además, destacó la importancia de una comunicación clara con los dueños de los restaurantes para asegurar que las soluciones tecnológicas se implementen de manera efectiva.
+Para Gabriel, un sistema de refrigeración ideal debe ser fácil de usar y ofrecer monitoreo en tiempo real y alertas automáticas. Está abierto a nuevas tecnologías y prefiere gestionar el inventario desde su smartphone por la facilidad de acceso. Considera que la tecnología es clave para mejorar la eficiencia operativa en el restaurante.
+
+Cuando conoció nuestra solución, comentó que sería beneficiosa para reducir las visitas de mantenimiento y reparaciones, lo que generalmente implica costos adicionales y retrasos. También enfatizó la importancia de una comunicación clara entre el equipo del restaurante y los proveedores de tecnología para asegurar la correcta implementación de nuevas soluciones.
 
 
 Entrevista 3:
@@ -199,19 +203,19 @@ Entrevista 3:
 
   <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista3_Empleado.png" width="500" height="300">
   
-- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 29:06 – 34:53
-- **Duración de la entrevista:** 6 minutos
+- **Duración de la entrevista:** 5 minutos 47 segundos
 
 **Resumen:** 
 
-Yuceli Yamile Villanueva Fernández, de 21 años, vive en el distrito de Independencia y cuenta con 2 años de experiencia trabajando en el sector de restaurantes. Durante la entrevista, Yamile explicó que en su lugar de trabajo utilizan métodos tradicionales de refrigeración, gestionando tres equipos: uno destinado a verduras y frutas, otro para pollo, carnes y mariscos, y un tercero reservado para emergencias. Este enfoque les permite mantener los alimentos en buen estado, aunque han experimentado algunas pérdidas debido a fallos en los equipos de refrigeración.
+Yuceli Yamile Villanueva, de 21 años, vive en Independencia y tiene 2 años de experiencia en la industria de los restaurantes. En su trabajo, gestionan tres equipos de refrigeración, cada uno para diferentes productos: uno para frutas y verduras, otro para carnes y mariscos, y un tercero para emergencias. Yamile mencionó que han tenido pérdidas por fallos en los equipos de refrigeración, lo que resalta la necesidad de mejorar la eficiencia.
 
-En cuanto a su uso de tecnología, Yamile es usuaria de un smartphone con sistema operativo Android, y en su día a día prefiere navegar en internet utilizando Chrome, manteniéndose conectada principalmente a través de redes sociales como WhatsApp y Facebook. Está interesada en mejorar sus habilidades en la gestión de restaurantes y considera que adoptar tecnologías que optimicen las operaciones diarias sería clave para su desarrollo profesional.
+Yamile utiliza un smartphone Android y prefiere navegar por internet con Google Chrome, manteniéndose conectada a través de WhatsApp y Facebook. A nivel profesional, está interesada en mejorar sus habilidades de gestión de restaurantes y considera que la adopción de nuevas tecnologías es fundamental para su crecimiento.
 
-En términos de gestión de inventarios, Yamile resaltó la importancia de evitar que los productos caduquen, ya que las pérdidas por refrigeración defectuosa han sido un desafío en su lugar de trabajo. Según ella, un sistema de refrigeración ideal debería ofrecer facilidad de uso, monitoreo en tiempo real y alertas automáticas para prevenir posibles fallos, ayudando así a mantener la calidad de los productos y reducir las pérdidas.
+En cuanto a la gestión del inventario, Yamile destacó la importancia de evitar que los productos caduquen y sugirió que un sistema ideal debe ofrecer monitoreo en tiempo real y alertas automáticas. Además, mencionó que está abierta a nuevas tecnologías y que preferiría gestionar el inventario desde un dispositivo móvil, ya que le parece más conveniente y eficiente.
 
-Finalmente, Yamile se mostró receptiva a la adopción de nuevas tecnologías, especialmente aquellas que le permitan gestionar el inventario de manera más eficiente a través de un dispositivo móvil. La solución propuesta le pareció prometedora y está interesada en ver cómo podría mejorar la operación diaria del restaurante y simplificar la gestión de los sistemas de refrigeración.
+Cuando le presentamos nuestra solución, Yamile mostró un gran interés, destacando que simplificaría la operación del restaurante y mejoraría la gestión de los sistemas de refrigeración. La solución le pareció prometedora para reducir el desperdicio de alimentos y mejorar la calidad del servicio.
 
 
 Entrevista 4:
@@ -222,21 +226,19 @@ Entrevista 4:
   
   <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista4_Empleado.png" width="500" height="300">
 
-- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 34:54 - 50:07
-- **Duración de la entrevista:** 15 minutos
+- **Duración de la entrevista:** 15 minutos 13 segundos
 
 **Resumen:** 
 
-Reynaldo Arévalo, de 49 años, es el gerente del restaurante Vaca Loca, ubicado en el distrito de Miraflores, Lima. Con 17 años de experiencia en el sector de la gastronomía, Reynaldo ha pasado por diversas áreas, comenzando en el almacén y progresando por sectores como pastelería, panadería, logística y operaciones, hasta llegar a su actual posición como gerente. Su extensa trayectoria le ha permitido adquirir un amplio conocimiento sobre la operación integral de restaurantes.
+Reynaldo Arévalo, de 49 años, es gerente del restaurante Vaca Loca en Miraflores, con 17 años de experiencia en el sector gastronómico. A lo largo de su carrera, Reynaldo ha pasado por diversas áreas de la operación de un restaurante, lo que le ha permitido adquirir un amplio conocimiento sobre la logística y el manejo de inventarios. Actualmente, implementa el sistema FIFO (First In-First Out) para minimizar el desperdicio de productos.
 
-En cuanto a la logística de su negocio, Reynaldo implementa el sistema FIFO (First In-First Out), asegurándose de que los insumos que ingresan primero al almacenamiento sean utilizados antes que los más recientes. Este método le ha permitido optimizar la gestión de sus inventarios y reducir el desperdicio de productos perecederos.
+En su día a día, utiliza principalmente su smartphone Android y navega por internet usando Chrome, conectándose con su equipo a través de WhatsApp. Aunque está abierto a adoptar nuevas tecnologías, Reynaldo enfatizó que cualquier solución debe ofrecer un beneficio operativo claro y no complicar los procesos existentes.
 
-Reynaldo es usuario de tecnología en su día a día, utilizando principalmente un smartphone con sistema operativo Android. Prefiere navegar en internet a través de Chrome y se mantiene conectado con su equipo y contactos mediante WhatsApp y Facebook. A pesar de su perfil gerencial, Reynaldo está abierto a adoptar tecnologías que puedan facilitar la operación del restaurante, siempre y cuando estas soluciones ofrezcan conveniencia y un claro beneficio operativo.
+Reynaldo mencionó que en su restaurante ya cuentan con un lector de temperatura que monitorea los equipos de refrigeración las 24 horas del día, por lo que no ve una necesidad urgente de implementar un sistema de monitoreo adicional. Sin embargo, está dispuesto a explorar opciones que puedan reducir costos operativos y mejorar la eficiencia, siempre que sean fáciles de integrar y no requieran cambios drásticos en la rutina del personal.
 
-En cuanto a su visión futura, Reynaldo tiene como principal objetivo profesional mejorar la eficiencia operativa de su restaurante mediante la implementación de tecnologías que optimicen procesos. Aunque le interesa la propuesta de solución que discutimos, especialmente por la posibilidad de gestionar el inventario desde un dispositivo móvil, expresó que no percibe una necesidad urgente de monitorear constantemente la temperatura de los refrigeradores. Esto se debe a que actualmente cuentan con un lector de temperatura que monitorea las cámaras de refrigeración las 24 horas del día, lo que le proporciona confianza en el sistema existente.
-
-Sin embargo, está dispuesto a explorar nuevas opciones si éstas ofrecen mejoras significativas en términos de eficiencia y reducción de costos operativos, siempre que se integren fácilmente con los procesos actuales y que no requieran cambios drásticos en la rutina del personal.
+Tras conocer nuestra solución, Reynaldo comentó que estaría dispuesto a evaluarla si realmente ofrece mejoras significativas en la operación y se alinea con su objetivo de mejorar la eficiencia operativa del restaurante.
 
 Entrevista 5:
 - **Nombre completo:** Esmeralda Aliaga Patano
@@ -246,19 +248,19 @@ Entrevista 5:
 
   <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista5_Empleado.png" width="500" height="300">
   
-- **URL del video en Microsoft Stream:** [Entrevistas-IOTécnicos.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 50:08 – 1:02:15
-- **Duración de la entrevista:** 12 minutos
+- **Duración de la entrevista:** 12 minutos 07 segundos
 
 **Resumen:** 
 
-Esmeralda Aliaga Patano, de 21 años, es una joven administradora de un restaurante en el distrito de Surco, Lima. Con 3 años de experiencia en el sector de restaurantes, Esmeralda se encarga de gestionar las operaciones diarias, incluyendo el manejo de los sistemas de refrigeración. Actualmente, el restaurante cuenta con tres equipos de refrigeración: uno destinado a frutas y verduras, otro para pollo, carnes y mariscos, y un tercero que se usa exclusivamente en casos de emergencia.
+Esmeralda Aliaga, de 21 años, es administradora de un restaurante en el distrito de Surco, Lima, con 3 años de experiencia en la industria. En su restaurante, utilizan tres equipos de refrigeración: uno para frutas y verduras, otro para carnes y mariscos, y un tercero para emergencias. Esmeralda se encarga de gestionar las operaciones diarias, incluyendo el manejo de los sistemas de refrigeración.
 
-Esmeralda menciona que utiliza con frecuencia su smartphone, principalmente un iPhone, así como su laptop, para gestionar diferentes aspectos del restaurante. Entre las aplicaciones y redes sociales que más usa para comunicarse y coordinar con su equipo, destacan Instagram y WhatsApp. Utiliza Safari como navegador y se considera una persona bastante familiarizada con la tecnología, aunque prefiere herramientas intuitivas y fáciles de usar.
+Esmeralda menciona que utiliza con frecuencia su smartphone iPhone y su laptop para coordinar las operaciones del restaurante, prefiriendo herramientas tecnológicas que sean intuitivas y fáciles de usar. En cuanto a la tecnología, utiliza Safari como navegador y se comunica principalmente a través de Instagram y WhatsApp.
 
-Durante la entrevista, Esmeralda expresó su interés en mejorar la eficiencia del proceso de refrigeración, pero sin sacrificar la simplicidad en su operación. Para ella, es crucial que cualquier solución nueva sea fácil de implementar, ya que su personal cuenta con diferentes niveles de familiaridad con la tecnología. Además, considera que una interfaz intuitiva y sencilla reduciría el tiempo necesario para entrenar al personal en el uso de un sistema nuevo.
+Durante la entrevista, Esmeralda comentó que la simplicidad en la operación es clave para la adopción de nuevas tecnologías, ya que su equipo tiene diferentes niveles de familiaridad con la tecnología. Cree que cualquier solución nueva debe ser fácil de implementar y mejorar la eficiencia sin complicar la gestión diaria.
 
-En cuanto a su percepción sobre nuestra solución de refrigeración automatizada, Esmeralda se mostró muy receptiva. Cree que podría ser una opción altamente viable para optimizar las operaciones del restaurante, especialmente si incluye características como monitoreo en tiempo real y alertas automáticas. Además, destacó que la practicidad y facilidad de uso son factores determinantes para adoptar nuevas tecnologías, lo que demuestra su enfoque en mejorar los procesos sin comprometer la calidad del servicio que ofrecen a los clientes.
+Esmeralda mostró mucho interés en nuestra solución, destacando que las características de monitoreo en tiempo real y alertas automáticas serían muy útiles. Considera que la facilidad de uso es un factor determinante para adoptar nuevas tecnologías en su restaurante y que la solución podría ser una gran opción para optimizar las operaciones sin comprometer la calidad del servicio.
 
 
 #### 2.2.3. Análisis de entrevistas
