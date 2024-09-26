@@ -188,18 +188,10 @@ En esta sección, como equipo, presentamos y explicamos los Deployment Diagrams.
 En este capítulo, como equipo, explicamos y presentamos nuestra propuesta para la perspectiva táctica del diseño de la solución de software. Incluimos una sección interna por cada bounded context, detallando las clases identificadas y su documentación.
 
 ### 4.2.1 Bounded Context: Account
+<img src="/assets/images/UserAcount.png"/>
 
-| **Nombre**   | **Device**                                  |
-|--------------|---------------------------------------------|
-| **Relaciones** | Sensor                                     |
-|--------------|---------------------------------------------|
-| **Descripción** | Dispositivos que agrupan varios sensores. |
-|-----------------|---------------------------------------------|
-| **Atributos**  | **Tipo** | **Visibilidad** | **Métodos**                |
-|----------------|----------|-----------------|----------------------------|
-| deviceId       | int      | private         | `addSensor()`               |
-| deviceName     | String   | private         | `getSensors()`              |
-| sensors        | string   | private         | `sendMetricsToServer()`      |
+<img src="/assets/images/Role1.png"/>
+
 #### 4.2.1.1 Domain Layer
 
 El Domain Layer de Account contiene la lógica de negocio relacionada con la gestión de cuentas de usuario, como creación, autenticación, roles y permisos.
