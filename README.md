@@ -54,6 +54,8 @@ En esta sección, como equipo, presentamos y describimos los User Stories elabor
 
 En esta sección, como equipo, presentamos el Impact Mapping del modelo de negocio digital, elaborado en la herramienta indicada. Identificamos Business Goals siguiendo criterios SMART, junto con Actors (User Personas) relacionados con los objetivos. En la columna Impact, se detallan los cambios de comportamiento esperados de los User Personas, y en Deliverables, las acciones que el negocio digital puede tomar para lograr estos impactos. Finalmente, se incluyen los User Stories en formato "Como [rol], deseo [acción] para [objetivo]" que permiten obtener los Deliverables.
 
+<img src="assets/images/Impact Mapping.PNG">
+
 ### 3.4. Product Backlog
 
 En esta sección, como equipo, presentamos el Product Backlog desarrollado para el proyecto, donde se priorizan los User Stories según su valor para el negocio. El proceso de organización incluyó la asignación de Story Points y la clasificación de cada historia, asegurando que los elementos más valiosos, como aquellos relacionados con la Landing Page y la experiencia del usuario, se abordarán en los primeros sprints. Para la elaboración del backlog, se siguió un enfoque iterativo, ajustando las prioridades de acuerdo con los objetivos del proyecto y las necesidades de los stakeholders.
