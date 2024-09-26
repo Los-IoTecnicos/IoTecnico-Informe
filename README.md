@@ -211,7 +211,9 @@ Entrevista 3:
 
 Yuceli Yamile Villanueva, de 21 años, vive en Independencia y tiene 2 años de experiencia en la industria de los restaurantes. En su trabajo, gestionan tres equipos de refrigeración, cada uno para diferentes productos: uno para frutas y verduras, otro para carnes y mariscos, y un tercero para emergencias. Yamile mencionó que han tenido pérdidas por fallos en los equipos de refrigeración, lo que resalta la necesidad de mejorar la eficiencia.
 
-Yamile utiliza un smartphone Android y prefiere navegar por internet con Google Chrome, manteniéndose conectada a través de WhatsApp y Facebook. A nivel profesional, está interesada en mejorar sus habilidades de gestión de restaurantes y considera que la adopción de nuevas tecnologías es fundamental para su crecimiento.
+Yamile utiliza un smartphone Android y prefiere navegar por internet con Google Chrome, manteniéndose conectada a través de WhatsApp y Facebook. En su vida diaria, prefiere comprar electrodomésticos de la marca Electrolux, valorando la calidad que esta marca le ofrece.
+
+A nivel profesional, está interesada en mejorar sus habilidades de gestión de restaurantes y considera que la adopción de nuevas tecnologías es fundamental para su crecimiento.
 
 En cuanto a la gestión del inventario, Yamile destacó la importancia de evitar que los productos caduquen y sugirió que un sistema ideal debe ofrecer monitoreo en tiempo real y alertas automáticas. Además, mencionó que está abierta a nuevas tecnologías y que preferiría gestionar el inventario desde un dispositivo móvil, ya que le parece más conveniente y eficiente.
 
@@ -234,7 +236,7 @@ Entrevista 4:
 
 Reynaldo Arévalo, de 49 años, es gerente del restaurante Vaca Loca en Miraflores, con 17 años de experiencia en el sector gastronómico. A lo largo de su carrera, Reynaldo ha pasado por diversas áreas de la operación de un restaurante, lo que le ha permitido adquirir un amplio conocimiento sobre la logística y el manejo de inventarios. Actualmente, implementa el sistema FIFO (First In-First Out) para minimizar el desperdicio de productos.
 
-En su día a día, utiliza principalmente su smartphone Android y navega por internet usando Chrome, conectándose con su equipo a través de WhatsApp. Aunque está abierto a adoptar nuevas tecnologías, Reynaldo enfatizó que cualquier solución debe ofrecer un beneficio operativo claro y no complicar los procesos existentes.
+En su día a día, utiliza principalmente su smartphone Android y navega por internet usando Chrome, conectándose con su equipo a través de WhatsApp. Aunque está abierto a adoptar nuevas tecnologías, Reynaldo enfatizó que cualquier solución debe ofrecer un beneficio operativo claro y no complicar los procesos existentes. A reynaldo le gusta comprar sus electrodomésticos en la tienda La Curacao, ya que valora la calidad y el servicio que encuentre allí.
 
 Reynaldo mencionó que en su restaurante ya cuentan con un lector de temperatura que monitorea los equipos de refrigeración las 24 horas del día, por lo que no ve una necesidad urgente de implementar un sistema de monitoreo adicional. Sin embargo, está dispuesto a explorar opciones que puedan reducir costos operativos y mejorar la eficiencia, siempre que sean fáciles de integrar y no requieran cambios drásticos en la rutina del personal.
 
