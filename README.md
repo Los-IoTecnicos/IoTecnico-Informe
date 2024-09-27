@@ -404,33 +404,33 @@ Nos visualizamos como la principal referencia en tecnología de refrigeración p
 
 | Díaz Gonzales, Víctor Yordi  - u20211C384 |  |
 |----------|----------|
-|Actualmente ando estudiando la carrera de Ingeniería de Software. Mi pasión por la programación empezó a temprana edad, donde actualmente me permite investigar, analizar y solucionar problemas de la vida cotidiana. Mi objetivo es desarrollar software de calidad que den soluciones innovadoras a la población. Cabe enfatizar que busco la colaboración activa en equipo para llegar a tener éxito en las metas o proyectos. | <img src="/Chapter1/images/student_victor.png" width="1250"/>|
+|Actualmente ando estudiando la carrera de Ingeniería de Software. Mi pasión por la programación empezó a temprana edad, donde actualmente me permite investigar, analizar y solucionar problemas de la vida cotidiana. Mi objetivo es desarrollar software de calidad que den soluciones innovadoras a la población. Cabe enfatizar que busco la colaboración activa en equipo para llegar a tener éxito en las metas o proyectos. | <img src="assets/images/student_victor.png" width="1250"/>|
 |||
 
 |  Márquez, Piero Stefano - u201816402 |  |
 |----------|----------|
-|Soy estudiante de 8to ciclo en la carrera Ingeniería de Software. Me considero alguien bastante práctico, directo y honesto. Puedo manejar diversos lenguajes y frameworks ya que un objetivo a corto plazo sería convertirme en un Full Stacks. Siento que aprendo rápido y no tengo problemas con trabajar con diferentes lenguajes o entornos.| <img src="/Chapter1/images/student_piero.png" width="1250"/>|
+|Soy estudiante de 8to ciclo en la carrera Ingeniería de Software. Me considero alguien bastante práctico, directo y honesto. Puedo manejar diversos lenguajes y frameworks ya que un objetivo a corto plazo sería convertirme en un Full Stacks. Siento que aprendo rápido y no tengo problemas con trabajar con diferentes lenguajes o entornos.| <img src="assets/images/Piero.jpeg" width="1250"/>|
 |||
 
 | Navarro Chacon, Juan Jose - u20201f316 |  |
 |----------|----------|
-|Soy estudiante de la carrera Ingeniería de Software, actualmente estoy cursando el 8vo ciclo. Me considero una persona divertida, empática, responsable, creativa, honesta y sobre todo organizada en los planes que deseo realizar. Para el trabajo que vamos a realizar puedo aportar con el desarrollo del sistema, ya que tengo conocimientos ciertos lenguajes, además de ser responsable| <img src="/Chapter1/images/student_juanjose.png" width="1250"/>|
+|Soy estudiante de la carrera Ingeniería de Software, actualmente estoy cursando el 8vo ciclo. Me considero una persona divertida, empática, responsable, creativa, honesta y sobre todo organizada en los planes que deseo realizar. Para el trabajo que vamos a realizar puedo aportar con el desarrollo del sistema, ya que tengo conocimientos ciertos lenguajes, además de ser responsable| <img src="assets/images/Jose.png" width="1250"/>|
 |||
 
 | Patrocinio Escalante, Leonardo Walt -  u202017075 |  |
 |----------|----------|
-|Me considero una persona creativa, responsable y ordenada. Tengo experiencia trabajando en equipo, escucho las ideas de mis compañeros y me desempeño bien para el avance de los trabajos.| <img src="/Chapter1/images/student_leo.png" width="1250"/>|
+|Me considero una persona creativa, responsable y ordenada. Tengo experiencia trabajando en equipo, escucho las ideas de mis compañeros y me desempeño bien para el avance de los trabajos.| <img src="assets/images/Foto_Leonardo.png" width="1250"/>|
 |||
 
 
 | Sánchez Ramírez, Diego Antonio - u202021367 |  |
 |----------|----------|
-|Soy un estudiante de la carrera de Ing. De Software en la Universidad de Ciencias Aplicadas (UPC). Estoy familiarizado con los lenguajes de programación C + + y HTML5, CSS y JS. Estoy en vías de aprender otros lenguajes para ser un ingeniero flexible a cualquier necesidad o problema que se presente.| <img src="/Chapter1/images/student_diego.png" width="1250"/>|
+|Soy un estudiante de la carrera de Ing. De Software en la Universidad de Ciencias Aplicadas (UPC). Estoy familiarizado con los lenguajes de programación C + + y HTML5, CSS y JS. Estoy en vías de aprender otros lenguajes para ser un ingeniero flexible a cualquier necesidad o problema que se presente.| <img src="assets/images/diegosanchez.jpg" width="1250"/>|
 |||
 
 | Zamora Rivera, Ismael Sebastian - u202116671 |  |
 |----------|----------|
-|Me llamo Ismael Sebastian Zamora Rivera. Tengo 20 años y estudio Ingeniería de Software. He adquirido experiencia en lenguajes de programación como C++, Python, HTML y SQL, lo que me ha permitido desarrollar diversos proyectos. Además, he participado en proyectos colaborativos que me han ayudado a fortalecer mis habilidades interpersonales y adaptarme a diferentes situaciones. | <img src="/Chapter1/images/student_victor.png" width="1250"/>|
+|Me llamo Ismael Sebastian Zamora Rivera. Tengo 20 años y estudio Ingeniería de Software. He adquirido experiencia en lenguajes de programación como C++, Python, HTML y SQL, lo que me ha permitido desarrollar diversos proyectos. Además, he participado en proyectos colaborativos que me han ayudado a fortalecer mis habilidades interpersonales y adaptarme a diferentes situaciones. | <img src="assets/images/Ismael.jpg" width="1250"/>|
 |||
 
 # 1.2. Solution Profile
@@ -453,7 +453,7 @@ En los últimos años, la industria de la restauración ha experimentado un crec
 
 **Where (Dónde):** La problemática se presenta en restaurantes de cualquier tamaño y ubicación, pero es más crítica en aquellos con alta rotación de insumos perecederos.
 
-**How (Cómo:** Actualmente, los restaurantes enfrentan dificultades para monitorear las temperaturas en tiempo real y carecen de herramientas que integren este monitoreo con la gestión de inventarios, lo que lleva a ineficiencias operativas y posibles incumplimientos sanitarios.
+**How (Cómo):** Actualmente, los restaurantes enfrentan dificultades para monitorear las temperaturas en tiempo real y carecen de herramientas que integren este monitoreo con la gestión de inventarios, lo que lleva a ineficiencias operativas y posibles incumplimientos sanitarios.
 
 **How Much (Cuánto):** La falta de un sistema adecuado puede resultar en pérdidas económicas significativas debido al desperdicio de alimentos, multas por incumplimiento de normativas y pérdida de clientes debido a la baja calidad de los productos.
 
@@ -638,7 +638,7 @@ Para lograr los resultados esperados por nuestros clientes y usuarios, realizare
 
 ### 1.2.2.4. Lean UX Canvas.
 
-<img src="/Report/images/ux_canvas.png" width="1250"/>
+<img src="assets/images/Canvas.PNG" width="1250"/>
  
 # 1.3. Segmentos objetivo.
 
@@ -806,7 +806,7 @@ Entrevista 1:
 - **Distrito:** San Miguel
 - **Screenshot del video:**
 
-  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista1_Administrador.png" width="500" height="300">
+  <img src="assets/images/Entrevista1_Administrador.png" width="500" height="300">
   
 - **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 0:00 -14:55
@@ -832,7 +832,7 @@ Entrevista 1:
 - **Distrito:** Puente Piedra
 - **Screenshot del video:**
 
-  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista1_Empleado.png" width="500" height="300">
+  <img src="assets/images/Entrevista1_Empleado.png" width="500" height="300">
   
 - **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 14:56 - 23:09
@@ -859,7 +859,7 @@ Entrevista 2:
 - **Distrito:** San Martín de Porres 
 - **Screenshot del video:**
 
-  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista2_Empleado.png" width="500" height="300">
+  <img src="assets/images/Entrevista2_Empleado.png" width="500" height="300">
   
 - **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 23:10 - 29:05
@@ -882,7 +882,7 @@ Entrevista 3:
 - **Distrito:** Independencia
 - **Screenshot del video:**
 
-  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista3_Empleado.png" width="500" height="300">
+  <img src="assets/images/Entrevista3_Empleado.png" width="500" height="300">
   
 - **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 29:06 – 34:53
@@ -907,7 +907,7 @@ Entrevista 4:
 - **Distrito:** Miraflores
 - **Screenshot del video:**
   
-  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista4_Empleado.png" width="500" height="300">
+  <img src="assets/images/Entrevista4_Empleado.png" width="500" height="300">
 
 - **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 34:54 - 50:07
@@ -929,7 +929,7 @@ Entrevista 5:
 - **Distrito:** Surco
 - **Screenshot del video:**
 
-  <img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Entrevista5_Empleado.png" width="500" height="300">
+  <img src="assets/images/Entrevista5_Empleado.png" width="500" height="300">
   
 - **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201816402_upc_edu_pe/EahJSXaHYklIgnmEWVAu3iQB2tDMiFDWFMZHhio3ZmCejA?e=PIyIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Timing de la entrevista:** 50:08 – 1:02:15
@@ -958,7 +958,7 @@ En este segmento, analizamos las respuestas de los técnicos de aire acondiciona
 
 A continuación, se muestra la preferencia de los técnicos por el diagnóstico remoto en los sistemas de refrigeración.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis1_Tecnico.png" width="500" height="300">
+<img src="assets/images//Analisis1_Tecnico.png" width="500" height="300">
 
 **Análisis 2: Revisión de sensores como principal problema**
 
