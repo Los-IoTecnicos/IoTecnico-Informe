@@ -409,125 +409,17 @@ En esta sección, como equipo, especificamos los aspectos principales del Sprint
 
 En esta sección, como equipo, presentamos una introducción que resume el objetivo principal del Sprint 1 y un screenshot del Board para el Sprint en la herramienta de control indicada, junto con el URL público del Board. Incluimos una tabla con los User Stories asignados al Sprint y los Work-items/Tasks resultantes.
 
-<table border="1">
-    <tr>
-        <th colspan="8">Sprint n</th>
-    </tr>
-    <tr>
-        <th colspan="2">User Story</th>
-        <th colspan="6">Work-Item / Task</th>
-    </tr>
-    <tr>
-        <th>Id</th>
-        <th>Title</th>
-        <th>Id</th>
-        <th>Title</th>
-        <th>Description</th>
-        <th>Estimation (Hours)</th>
-        <th>Assigned To</th>
-        <th>Status (To-do / In-Process / To-Review / Done)</th>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
+| Sprint 1   |                                    |          |                                                                                                                                |             |                   |                  |                                                |
+|------------|------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------|------------------|------------------------------------------------|
+| User Story | Work-Item /Task                    |          |                                                                                                                                |             |                   |                  |                                                |
+| ID         | Title                              | Id       | Title                                                                                                                          | Description | Estimation(Hours) | Assigned To      | Status (To-do / In-Process / To-Review / Done) |
+| US013      | Navegación Intuitiva               | Tasks-01 | Diseñar la estructura inicial de la Landing Page Definir y crear la navegación básica Implementar un sistem de busqueda simple | -           | 8 Hours           | Diego Sánchez    | Done                                           |
+| US014      | Detalles de los Planes de Servicio | Tasks-02 | Crear la sección de comparación de planes                                                                                      | -           | 6 Hours           | Victor Yordi     | Done                                           |
+| US015      | Testimonios y Casos de Éxito       | Tasks-03 | Crear la sección de testimonios y casos de éxito                                                                               | -           | 6 Hours           | Piero Stefano    | Done                                           |
+| US007      | Registro de Inventario             | Tasks-04 | Desarrollar una página o panel                                                                                                 | -           | 6 Hours           | Juan Jose Chacon | Done                                           |
+| US009      | Consulta del Historial             | Tasks-05 | Desarrollar un formulario simple para agregar                                                                                  | -           | 6 Hours           | Leo Patrocinio   | Done                                           |
+| US012      | Interfaz Intuitiva                 | Tasks-06 | Desarrollar una vista simple para mostrar el estado actual                                                                     | -           | 6 Hours           | Ismael Zamora    | Done                                           |
+|            |                                    |          |                                                                                                                                |             |                   |                  |                                                |
 
 <br>
 
