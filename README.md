@@ -1711,11 +1711,14 @@ En esta sección, se muestra la interacción de los modulos de la aplicación we
 
 #### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
 
-<img src="assets/images/ "/>
+
+<img src="assets/images/iot_code.png" width="1250"/>
+
 
 #### 4.2.3.6.2 Bounded Context Database Design Diagram
 
-<img src="assets/images/ "/>
+<img src="assets/images/iot_database.png" width="1250"/>
+
 
 
 # Capítulo V: Solution UI/UX Design
