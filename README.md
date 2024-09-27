@@ -964,31 +964,31 @@ A continuación, se muestra la preferencia de los técnicos por el diagnóstico 
 
 La siguiente imagen ilustra la percepción de los técnicos sobre la revisión de sensores como el principal problema en el mantenimiento.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis2_Tecnico.png" width="500" height="300">
+<img src="assets/images/Analisis2_Tecnico.png" width="500" height="300">
 
 **Análisis 3: Experiencia en revisar grandes instalaciones**
 
 La imagen a continuación muestra la experiencia de los técnicos en la revisión de grandes instalaciones de refrigeración.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis3_Tecnico.png" width="500" height="300">
+<img src="assets/images//Analisis3_Tecnico.png" width="500" height="300">
 
 **Análisis 4: Ahorro de tiempo con sistema de notificaciones**
 
 La siguiente imagen destaca la opinión de los técnicos sobre el ahorro de tiempo que proporcionaría un sistema de notificaciones.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis4_Empleado.png" width="500" height="300">
+<img src="assets/images//Analisis4_Empleado.png" width="500" height="300">
 
 **Análisis 5: Valoración de nuestra propuesta**
 
 A continuación, se presenta la valoración de nuestra propuesta por parte de los técnicos entrevistados.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis5_Tecnico.png" width="500" height="300">
+<img src="assets/images//Analisis5_Tecnico.png" width="500" height="300">
 
 **Análisis 6: Interés en la implementación de más sensores**
 
 La imagen muestra el interés de los técnicos en la implementación de más sensores en los sistemas de aire acondicionado.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis6_Tecnico.png" width="500" height="300">
+<img src="assets/images//Analisis6_Tecnico.png" width="500" height="300">
 
 **Segmento: Personal de restaurante**
 
@@ -998,31 +998,31 @@ En este segmento, analizamos las respuestas del personal de restaurante para ent
 
 A continuación, se muestra el uso de múltiples equipos de refrigeración en los restaurantes según el personal entrevistado.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis1_Empleado.png" width="500" height="300">
+<img src="assets/images//Analisis1_Empleado.png" width="500" height="300">
 
 **Análisis 2: Método de gestión de inventarios tradicional**
 
 La siguiente imagen ilustra los métodos de gestión de inventarios utilizados por el personal de restaurante.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis2_Empleado.png" width="500" height="300">
+<img src="assets/images//Analisis2_Empleado.png" width="500" height="300">
 
 **Análisis 3: Disposición a probar un nuevo sistema de refrigeración**
 
 La imagen a continuación muestra la disposición del personal de restaurante a probar nuevos sistemas de refrigeración.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis3_Empleado.png" width="500" height="300">
+<img src="assets/images//Analisis3_Empleado.png" width="500" height="300">
 
 **Análisis 4: Preferencia de facilidad de uso**
 
 La siguiente imagen destaca la preferencia del personal de restaurante por sistemas de refrigeración fáciles de usar.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis3_Empleado.png" width="500" height="300">
+<img src="assets/images/Analisis3_Empleado.png" width="500" height="300">
 
 **Análisis 5: Interés en optimización de procesos**
 
 A continuación, se presenta el interés del personal de restaurante en la optimización de procesos mediante nuestra solución propuesta.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Analisis5_Empleado.png" width="500" height="300">
+<img src="assets/images/Analisis5_Empleado.png" width="500" height="300">
 
 **Conclusión del segmento: Técnicos de aire acondicionado/sistema de refrigeración**
 
@@ -1049,14 +1049,14 @@ En esta sección, incluimos la elaboración de las fichas de User Persona. La se
 
 En este segmento, nos enfocamos en Diego, un técnico comprometido y detallista que se enorgullece de mantener los sistemas de refrigeración y aire acondicionado en óptimas condiciones. Es reconocido por su puntualidad y habilidades para resolver problemas rápidamente.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/UserPersona_Tecnico.png" width="600" height="1000">
+<img src="assets/images/UserPersona_Tecnico.png" width="600" height="1000">
 
 
 ##### Segmento objetivo: Personal de restaurante
 
 En este segmento, nos enfocamos en Carlos, un gerente de restaurante con 20 años de experiencia en el rubro de la cocina. Carlos trabaja y reside en el centro de Lima y presenta algunos inconvenientes al momento de realizar el control de la temperatura de los productos.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/UserPersona_Personal.png" width="600" height="1000">
+<img src="assets/images/UserPersona_Personal.png" width="600" height="1000">
 
 #### 2.3.2. User Task Matrix
 
@@ -1097,13 +1097,13 @@ Como equipo, hemos creado User Journey Maps para cada una de nuestras User Perso
 
 En este segmento, nos enfocamos en el personal de mantenimiento del software. El User Journey Map describe el proceso de supervisión, diagnóstico, investigación, resolución de problemas, actualización y optimización del sistema. A continuación, se muestra una imagen que ilustra las etapas, experiencias e ideas/oportunidades del personal de mantenimiento en el escenario actual.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/UserJourney_Mantenimiento.png" width="1000" height="600">
+<img src="assets/images/UserJourney_Mantenimiento.png" width="1000" height="600">
 
 ##### Segmento Objetivo: Personal del Restaurante
 
 En este segmento, nos enfocamos en el personal del restaurante. El User Journey Map describe el proceso de monitoreo de insumos, identificación de fluctuaciones de temperatura, investigación de causas, toma de acciones inmediatas, registro de incidentes y preparación para inspecciones. A continuación, se muestra una imagen que ilustra las etapas, experiencias e ideas/oportunidades del personal del restaurante en el escenario actual.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/UserJourney_Personal.png" width="1000" height="600">
+<img src="assets/images/UserJourney_Personal.png" width="1000" height="600">
 
 
 #### 2.3.4. Empathy Mapping
@@ -1114,13 +1114,13 @@ En esta sección, nos enfocamos en el personal de Mantenimiento del Software y P
 
 En este segmento, nos enfocamos en los técnicos y especialistas en mantenimiento de software. El Empathy Map describe sus responsabilidades, necesidades y experiencias en el contexto actual, sin nuestra solución.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/EmpathyMap_Mantenimiento.png" width="1000" height="800">
+<img src="assets/images/EmpathyMap_Mantenimiento.png" width="1000" height="800">
 
 ### Segmento Objetivo: Personal del Restaurante
 
 En este segmento, nos enfocamos en los empleados de cocina y almacén en restaurantes. El Empathy Map describe sus responsabilidades, necesidades y experiencias en el contexto actual, sin nuestra solución.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/EmpathyMap_Personal.png" width="1000" height="800">
+<img src="assets/images/EmpathyMap_Personal.png" width="1000" height="800">
 
 #### 2.3.5. As-is Scenario Mapping
 
@@ -1130,13 +1130,13 @@ En esta sección, presentamos el proceso de As-Is Scenario Mapping, donde, como 
 
 En este segmento, nos enfocamos en el personal de mantenimiento del software. El As-Is Scenario Mapping describe el proceso actual de revisión de alertas, diagnóstico y reparación de fallos, y actualización del sistema. A continuación, se muestra una imagen que ilustra las etapas, acciones, pensamientos y sentimientos del personal de mantenimiento en el escenario actual.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/As_is_Scenario_Mantenimiento.png" width="700" height="400">
+<img src="assets/images/As_is_Scenario_Mantenimiento.png" width="700" height="400">
 
 ### Segmento Objetivo: Personal del Restaurante
 
 En este segmento, nos enfocamos en el personal del restaurante. El As-Is Scenario Mapping describe el proceso actual de ingreso de insumos al almacén, verificación manual de temperaturas y registro manual del inventario. A continuación, se muestra una imagen que ilustra las etapas, acciones, pensamientos y sentimientos del personal del restaurante en el escenario actual.
 
-<img src="https://github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/As_is_Scenario_Personal.png" width="700" height="400">
+<img src="assets/images/As_is_Scenario_Personal.png" width="700" height="400">
 
 
 ### 2.4. Ubiquitous Language
@@ -1282,61 +1282,61 @@ En esta sección, como equipo, explicamos y evidenciamos el proceso realizado pa
 
 Como primer paso en el EventStoring, iniciamos con una sesión de lluvia de ideas para identificar los eventos del dominio relacionados con el negocio analizado. Es fundamental expresar los acontecimientos del dominio en tiempo pasado para describir lo que ha ocurrido.
 
-<img src="/assets/images/unstructuredexploration.png" width="1250"/>
+<img src="assets/images/unstructuredexploration.png" width="1250"/>
 
 **Step 2:** *Timelines*
 
 Como segundo paso, revisamos los eventos de dominio generados y los organizamos en el orden en que suceden en el dominio. Es decir, los eventos deben comenzar con un camino exitoso que describa un escenario comercial favorable. Finalmente, una vez completado este camino exitoso, se pueden incorporar escenarios alternativos.
 
-<img src="/assets/images/step2.png" width="1250"/>
+<img src="assets/images/step2.png" width="1250"/>
 
 **Step 3:** *Paint Points*
 
 Después de organizar los eventos en una línea de tiempo, utilizamos esta visión general para destacar puntos clave a lo largo del proceso.
 
-<img src="/assets/images/step3.png" width="1250"/>
+<img src="assets/images/step3.png" width="1250"/>
 
 **Step 4:** *Pivotal Points*
 
 Una vez que completamos nuestra línea de eventos con los puntos problemáticos, identificamos eventos comerciales clave que señalan un cambio en el contexto o en la fase. A estos los llamamos eventos principales, y los señalamos con una barra vertical que divide los eventos anteriores y posteriores a dicho evento.
 
-<img src="/assets/images/step4.png" width="1250"/>
+<img src="assets/images/step4.png" width="1250"/>
 
 **Step 5:** *Commands*
 
 Los comandos de esta fase describen cómo ocurrió o se desarrolló el evento. En otras palabras, los comandos se escriben en forma de imperativo y especifican funciones del sistema en lugar de eventos del dominio.
 
-<img src="/assets/images/step5.png" width="1250"/>
+<img src="assets/images/step5.png" width="1250"/>
 
 **Step 6:** *Policies*
 
 Nuestra búsqueda actual se centra en reglas de políticas de automatización con la capacidad de llevar a cabo estas instrucciones. Es decir, una política de automatización representa una situación en la que se ejecuta un comando en respuesta a un evento. Entonces, cuando ocurre un evento específico del dominio, el comando se ejecuta automáticamente.
 
-<img src="/assets/images/step6.png" width="1250"/>
+<img src="assets/images/step6.png" width="1250"/>
 
 **Step 7:** *Read Models*
 
 El modelo de lectura es la representación de datos específica del dominio que el agente utiliza en esta etapa para determinar si debe ejecutar o no el comando. Por este motivo, definimos una vista de datos para cada comando, incluidas las notificaciones, los informes y los monitores del sistema.
 
-<img src="/assets/images/step7.png" width="1250"/>
+<img src="assets/images/step7.png" width="1250"/>
 
 **Step 8:** *External Systems*
 
 En esta etapa finalizamos el modelo con los sistemas externos, es decir, se considera sistema externo a todo sistema que no forme parte del dominio en el que se está trabajando.
 
-<img src="/assets/images/step8.png" width="1250"/>
+<img src="assets/images/step8.png" width="1250"/>
 
 **Step 9:** *Aggregates*
 
 Después de la introducción de todos los comandos y eventos, comenzamos a considerar ensamblar ideas similares en agregados que produzcan y reciban eventos.
 
-<img src="/assets/images/step9.png" width="1250"/>
+<img src="assets/images/step9.png" width="1250"/>
 
 **Step 10:** *Bounded Contexts*
 
 Luego buscamos agregados que representen funciones estrechamente vinculadas o que estén asociadas en función de regulaciones y que tengan significado entre sí. Es decir, los candidatos naturales para los límites del contexto restringido se producen mediante agrupaciones de agregados.
 
-<img src="/assets/images/step10.png" width="1250"/>
+<img src="assets/images/step10.png" width="1250"/>
 
 #### 4.1.1.2 Domain Message Flows Modeling
 
@@ -1346,22 +1346,22 @@ En esta sección, como equipo, explicamos y evidenciamos el proceso seguido para
   
 Este diagrama describe el proceso de creación y verificación de una cuenta. Muestra cómo un propietario de restaurante o técnico crea una cuenta a través de un sistema RUC, que luego envía datos personales registrados al sitio web o aplicación móvil. Tras esto, el usuario es registrado, recibe un correo de verificación y finalmente, el sistema confirma la verificación de la cuenta.
   
-<img src="/assets/images/accountcreationandverification.png" width="1250"/>
+<img src="assets/images/accountcreationandverification.png" width="1250"/>
 
   ##### Scenario: Collaborate & Request (Technical Issue Request)
 El diagrama "Collaborate & Request" muestra el proceso de creación y gestión de una solicitud de soporte técnico. Un propietario de restaurante selecciona el tipo de creación y envía una solicitud a través del sistema de "Collaborate & Request". La solicitud es enviada a una aplicación móvil o web donde un técnico puede leerla y luego aceptarla para proceder con la resolución del problema técnico.
 
-<img src="/assets/images/collaboraterequest.png" width="1250"/>
+<img src="assets/images/collaboraterequest.png" width="1250"/>
 
   ##### Scenario: Collaborate & Request (Invitation Creation)
 El segundo diagrama, "Collaborate & Request (Invitation Creation)", ilustra el proceso de creación y envío de invitaciones dentro de un sistema. El dueño del restaurante comienza seleccionando el tipo de creación, tras lo cual el sistema (Collaborate & Request) procede a crear una invitación. Luego, el sistema busca los correos electrónicos de los miembros a través de la aplicación web o móvil, y finalmente, las invitaciones se envían a través del sistema.
 
-<img src="/assets/images/invitationcreation.png" width="1250"/>
+<img src="assets/images/invitationcreation.png" width="1250"/>
 
   ##### Scenario: Temperature & Managment
 El siguiente diagrama describe un sistema de gestión de temperatura utilizando una solución IoT. Un dueño de restaurante o técnico inicializa un sensor de temperatura que envía los datos recolectados a la solución IoT. Esta solución procesa los datos, calcula la temperatura y los envía a una aplicación web o móvil para que el usuario pueda acceder a la información. El flujo de datos se muestra a través de eventos y comandos que conectan los diferentes sistemas y permiten la gestión eficiente de la temperatura en tiempo real.
 
-<img src="/assets/images/temperaturemanagment.png" width="1250"/>
+<img src="assets/images/temperaturemanagment.png" width="1250"/>
 
   ##### Scenario: Calculate and send Metrics
 El diagrama "Calculate and send Metrics", ilustra el proceso donde un dueño de restaurante interactúa con un sistema IoT para recopilar y enviar métricas a una aplicación web o móvil. A continuación, describo los pasos:
@@ -1371,22 +1371,22 @@ El diagrama "Calculate and send Metrics", ilustra el proceso donde un dueño de 
 **Send Metrics:** La aplicación envía las métricas calculadas.
 **Metrics Sent:** Las métricas se reciben en otra instancia de la aplicación.
 
-<img src="/assets/images/calculatemetrics.png" width="1250"/>
+<img src="assets/images/calculatemetrics.png" width="1250"/>
 
   ##### Scenario: Start Sensors to Collect Data
 El diagrama representa un sistema IoT en el que un **dueño de restaurante** inicializa los sensores para recopilar datos. El proceso comienza cuando el usuario envía un comando al sistema IoT para activar los sensores. Luego, el sistema recopila los datos y los envía a una **aplicación web o móvil**, donde se calculan los parámetros necesarios. Finalmente, los datos calculados se envían de vuelta a la aplicación para que el usuario pueda acceder a ellos.
 
-<img src="/assets/images/starsensors.png" width="1250"/>
+<img src="assets/images/starsensors.png" width="1250"/>
 
   ##### Scenario: Inventory Management
 El diagrama "Inventory Management" muestra el escenario de gestión de inventarios utilizando una solución IoT. El proceso comienza cuando el **dueño del restaurante** recibe suministros y los agrega al inventario. Una vez que los suministros son añadidos, el sistema de **gestión de inventarios** envía una alerta de bajo inventario al personal a través de la solución IoT. Si se necesita reabastecer, el inventario se actualiza automáticamente y el nivel de inventario se muestra en la **aplicación web o móvil**, donde el dueño puede monitorear la información en tiempo real.
 
-<img src="/assets/images/inventorymanagment.png" width="1250"/>
+<img src="assets/images/inventorymanagment.png" width="1250"/>
 
  ##### Scenario: Temperature sensor alert
 Este diagrama muestra un escenario de alerta de sensor de temperatura utilizando una solución IoT. El proceso comienza cuando el **dueño del restaurante o técnico** inicia el monitoreo de temperatura. El sistema IoT supervisa la temperatura y, si hay una anomalía, envía una alerta al personal a través de la **aplicación web o móvil**. El personal ajusta la temperatura según sea necesario. Una vez que la temperatura vuelve a estar dentro del rango adecuado, la aplicación actualiza la información para confirmar que el problema ha sido resuelto.
 
-<img src="/assets/images/temperaturesensor.png" width="1250"/>
+<img src="assets/images/temperaturesensor.png" width="1250"/>
 
 ### 4.1.1.3 Bounded Context Canvases
 
@@ -1396,25 +1396,25 @@ En esta sección, como equipo, diseñamos nuestros candidate bounded contexts, d
 
 El diagrama describe cómo las acciones iniciadas desde la web, la aplicación móvil y la solución IoT recopilan datos, los envían para su análisis y luego calculan métricas que se devuelven a las aplicaciones web y móviles. Comienza con la comunicación entrante, donde se recopilan datos de diversas fuentes. Finalmente, en la comunicación saliente, los datos analizados y las métricas calculadas se envían de vuelta a las aplicaciones para su visualización.
 
-<img src="/assets/images/Bounded_Context_Canvases_4.png" width="1250"/>
+<img src="assets/images/Bounded_Context_Canvases_4.png" width="1250"/>
 
 ##### Inventory Management
 
 El diagrama describe cómo se controla y actualiza el inventario, permitiendo visualizar si hay exceso o falta de productos, mediante la recepción y actualización de suministros en el sistema. Comienza con la comunicación entrante, donde se reciben suministros y se actualiza el inventario. Finalmente, en la comunicación saliente, los mensajes se envían para confirmar si los suministros fueron recibidos correctamente o si hubo algún error
 
-<img src="/assets/images/Bounded_Context_Canvases_3.png" width="1250"/>
+<img src="assets/images/Bounded_Context_Canvases_3.png" width="1250"/>
 
 ##### Collaborate & Request
 
 El diagrama describe cómo los propietarios gestionan búsquedas o crean invitaciones, los miembros seleccionan correos electrónicos, los técnicos validan solicitudes o suben documentos, y los colaboradores reciben y envían solicitudes dentro del sistema. Comienza con la comunicación entrante, donde se reciben solicitudes de colaboración o búsqueda. Finalmente, en la comunicación saliente, los mensajes se envían a los colaboradores para completar las solicitudes.
 
-<img src="/assets/images/Bounded_Context_Canvases_2.png" width="1250"/>
+<img src="assets/images/Bounded_Context_Canvases_2.png" width="1250"/>
 
 ##### Account
 
 El diagrama describe el proceso de creación y verificación de cuentas en un sistema de software. Comienza con la comunicación entrante, donde se reciben solicitudes de creación de cuenta. Finalmente,en la comunicación saliente, los mensajes se envían a un sistema de registro y a un proceso de verificación de cuentas, asegurando que las cuentas sean verificadas y registradas correctamente.
 
-<img src="/assets/images/Bounded_Context_Canvases_1.png" width="1250"/>
+<img src="assets/images/Bounded_Context_Canvases_1.png" width="1250"/>
 
 ### 4.1.2 Context Mapping
 
@@ -1438,25 +1438,25 @@ En esta sección, como equipo, presentamos y explicamos la representación de la
 
 En esta sección, como equipo, presentamos y explicamos el System Landscape Diagram. Este diagrama muestra una vista de alto nivel de todos los sistemas y componentes involucrados en la solución, sus interacciones y cómo se integran para formar el sistema completo.
 
-<img src="/assets/images/C4_Landscape.png" width="1250"/>
+<img src="assets/images/C4_Landscape.png" width="1250"/>
 
 #### 4.1.3.2 Software Architecture Context Level Diagrams
 
 En esta sección, como equipo, presentamos en imagen el context diagram. Este diagrama muestra el sistema como un recuadro en el centro, rodeado por sus usuarios y otros sistemas con los que interactúa. Utilizamos la herramienta indicada para la elaboración del diagrama y proporcionamos una explicación detallada del mismo, destacando las interacciones clave y los flujos de información entre los diferentes componentes del sistema
 
-<img src="/assets/images/C4_Context.png" width="1250"/>
+<img src="assets/images/C4_Context.png" width="1250"/>
 
 #### 4.1.3.3 Software Architecture Container Level Diagrams
 
 En esta sección, como equipo, presentamos y explicamos el Container Diagram. Este diagrama muestra los elementos de alto nivel de la arquitectura de software y cómo se distribuyen las responsabilidades entre ellos. También destacamos las principales decisiones de tecnología y cómo los containers se comunican entre sí, asegurando una integración eficiente y coherente de todos los componentes del sistema.
 
-<img src="/assets/images/C4_Container.png" width="1250"/>
+<img src="assets/images/C4_Container.png" width="1250"/>
 
 #### 4.1.3.4 Software Architecture Deployment Diagrams
 
 En esta sección, como equipo, presentamos y explicamos los Deployment Diagrams. Estos diagramas muestran cómo los componentes de software se despliegan en la infraestructura física o virtual, detallando la distribución de los componentes en servidores, contenedores, y otros recursos de infraestructura.
 
-<img src="/assets/images/C4_Deployment.png" width="1250"/>
+<img src="assets/images/C4_Deployment.png" width="1250"/>
 
 ## 4.2 Tactical-Level Domain-Driven Design
 
@@ -1472,9 +1472,9 @@ editar como para actualizar su membresía.
  En el Diccionario de Clases, hemos incluido 2 clases principales: UsserAccount y Role. Estas clases
  representan los elementos esenciales de nuestra plataforma y definen las entidades y se relaciona con el rol que tendra cada usuario en la plataforma
 
-<img src="/assets/images/UserAccount.png"/>
+<img src="assets/images/UserAccount.png"/>
 
-<img src="/assets/images/Role1.png"/>
+<img src="assets/images/Role1.png"/>
 
 #### 4.2.1.1 Domain Layer
 
@@ -1515,7 +1515,7 @@ El Domain Layer de Account contiene la lógica de negocio relacionada con la ges
 
 En esta sección, se muestra la interacción de los modulos de la aplicación web y sistemas externos en relacion al bounded context.
 
-<img src="/assets/images/C4_Account.png" width="1250"/>
+<img src="assets/images/C4_Account.png" width="1250"/>
 
 #### 4.2.1.6 Bounded Context Software Architecture Code Level Diagrams
 
@@ -1526,9 +1526,9 @@ En el dominio de Collaborate $ Request se centra en gestionar la logica de negoc
 
 En el Diccionario de Clases, hemos incluido 2 clases principales: MaintenanceRequest y Technician. Estas clases
  representan los elementos el funcionamiento de las solicitudes al personal tecnico
-<img src="/assets/images/Maintenance.jpg"/>
+<img src="assets/images/Maintenance.jpg"/>
 
-<img src="/assets/images/Technician.jpg"/>
+<img src="assets/images/Technician.jpg"/>
 
 #### 4.2.2.1 Domain Layer
 
@@ -1569,7 +1569,7 @@ En el Diccionario de Clases, hemos incluido 2 clases principales: MaintenanceReq
 
 En esta sección, se muestra la interacción de los modulos de la aplicación web y sistemas externos en relacion al bounded context.
 
-<img src="/assets/images/C4_Collab.png" width="1250"/>
+<img src="assets/images/C4_Collab.png" width="1250"/>
 
 #### 4.2.2.6 Bounded Context Software Architecture Code Level Diagrams
 
@@ -1581,13 +1581,13 @@ En el dominio de Inventory Management se centra en gestionar la logica del inven
 
 En el Diccionario de Clases, hemos incluido 4 clases principales: InventoryItem, InventoryReport, CoolingUnit y TemperatureSensor. Estas clases representan los elementos del funcionamiento del inventario y control de insumos.
 
-<img src="/assets/images/Inventory.jpg"/>
+<img src="assets/images/Inventory.jpg"/>
 
-<img src="/assets/images/InventoryReport.jpg"/>
+<img src="assets/images/InventoryReport.jpg"/>
 
-<img src="/assets/images/Cooling.jpg"/>
+<img src="assets/images/Cooling.jpg"/>
 
-<img src="/assets/images/TemperatureSensor.jpg"/>
+<img src="assets/images/TemperatureSensor.jpg"/>
 
 #### 4.2.3.1 Domain Layer
 
@@ -1628,7 +1628,7 @@ En el Diccionario de Clases, hemos incluido 4 clases principales: InventoryItem,
 
 En esta sección, se muestra la interacción de los modulos de la aplicación web, Edge API y los sensores  en relacion al bounded context.
 
-<img src="/assets/images/C4_Inventory.png" width="1250"/>
+<img src="assets/images/C4_Inventory.png" width="1250"/>
 
 #### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
 
@@ -1640,9 +1640,9 @@ En el dominio de IoT Solutions se centra en gestionar la logica del monitoreo y 
 
 En el Diccionario de Clases, hemos incluido 2 clases principales: Sensor y Device. Estas clases representan los elementos del funcionamiento del monitoreo de los sensores IoT.
 
-<img src="/assets/images/Sensor.jpg"/>
+<img src="assets/images/Sensor.jpg"/>
 
-<img src="/assets/images/Device.jpg"/>
+<img src="assets/images/Device.jpg"/>
 
 
 #### 4.2.4.1 Domain Layer
@@ -1682,7 +1682,7 @@ Servicios:
 #### 4.2.4.5 Bounded Context Software Architecture Component Level Diagrams
 En esta sección, se muestra la interacción de los modulos de la aplicación web, Edge API y los sensores  en relacion al bounded context.
 
-<img src="/assets/images/C4_IOT.png" width="1250"/>
+<img src="assets/images/C4_IOT.png" width="1250"/>
 
 #### 4.2.4.6 Bounded Context Software Architecture Code Level Diagrams
 # Capítulo V: Solution UI/UX Design
@@ -2641,7 +2641,7 @@ En esta sección, como equipo, explicamos cómo se han desarrollado las activida
 ## Conclusiones y recomendaciones
 ## Video About-the-Team
 ## Enlace al Video
-[Video Expo](https://drive.google.com/drive/folders/1XUXWfB3LqDMa2fjlEI7xLkeY8VWUU1Dm?usp=sharing)
+Video Expo: https://drive.google.com/drive/folders/1XUXWfB3LqDMa2fjlEI7xLkeY8VWUU1Dm?usp=sharing
 
 # Bibliografía
 1. **Arora, C. P. (2018).** *Refrigeration and air conditioning.* McGraw-Hill Education.
