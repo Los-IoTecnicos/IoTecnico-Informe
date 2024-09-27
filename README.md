@@ -246,6 +246,11 @@ El Domain Layer de Account contiene la lógica de negocio relacionada con la ges
 - **EmailService:** Maneja las notificaciones por correo, como la recuperación de contraseñas o alertas de seguridad.
 
 #### 4.2.1.5 Bounded Context Software Architecture Component Level Diagrams
+
+En esta sección, se muestra la interacción de los modulos de la aplicación web y sistemas externos en relacion al bounded context.
+
+<img src="/assets/images/C4_Account.png" width="1250"/>
+
 #### 4.2.1.6 Bounded Context Software Architecture Code Level Diagrams
 
 ### 4.2.2 Bounded Context: Collaborate & Request
@@ -295,6 +300,11 @@ En el Diccionario de Clases, hemos incluido 2 clases principales: MaintenanceReq
 - **RequestRepository:** Almacena y recupera las solicitudes de soporte.
 - **NotificationService:** Envía alertas a los técnicos cuando se asigna una solicitud.
 #### 4.2.2.5 Bounded Context Software Architecture Component Level Diagrams
+
+En esta sección, se muestra la interacción de los modulos de la aplicación web y sistemas externos en relacion al bounded context.
+
+<img src="/assets/images/C4_Collab.png" width="1250"/>
+
 #### 4.2.2.6 Bounded Context Software Architecture Code Level Diagrams
 
 ### 4.2.3 Bounded Context: Inventory Management
@@ -349,6 +359,11 @@ En el Diccionario de Clases, hemos incluido 4 clases principales: InventoryItem,
 - **IoTGateway:** Conecta los sensores de inventario con el sistema central para transmitir los datos en tiempo real.
   
 #### 4.2.3.5 Bounded Context Software Architecture Component Level Diagrams
+
+En esta sección, se muestra la interacción de los modulos de la aplicación web, Edge API y los sensores  en relacion al bounded context.
+
+<img src="/assets/images/C4_Inventory.png" width="1250"/>
+
 #### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
 
 ### 4.2.4 Bounded Context: IoT Solutions
@@ -399,6 +414,10 @@ Servicios:
 - **SensorGateway:** Conecta los sensores IoT con el sistema central para la transmisión de datos en tiempo real.
   
 #### 4.2.4.5 Bounded Context Software Architecture Component Level Diagrams
+En esta sección, se muestra la interacción de los modulos de la aplicación web, Edge API y los sensores  en relacion al bounded context.
+
+<img src="/assets/images/C4_IOT.png" width="1250"/>
+
 #### 4.2.4.6 Bounded Context Software Architecture Code Level Diagrams
 
 
