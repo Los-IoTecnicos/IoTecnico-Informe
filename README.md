@@ -2591,50 +2591,31 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
 
 En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 1. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
 
-<table border="1">
-    <tr>
-        <th>Repository</th>
-        <th>Branch</th>
-        <th>Commit Id</th>
-        <th>Commit Message</th>
-        <th>Commit Message Body</th>
-        <th>Commited on (Date)</th>
-    </tr>
-    <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td>feat: consectetur adipiscing elit</td>
-        <td> </td>
-        <td>26/09/2024</td>
-    </tr>
-    <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td>feat: consectetur adipiscing elit</td>
-        <td> </td>
-        <td>26/09/2024</td>
-    </tr>
-    <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td>feat: consectetur adipiscing elit</td>
-        <td> </td>
-        <td>26/09/2024</td>
-    </tr>
-    <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td>feat: consectetur adipiscing elit</td>
-        <td> </td>
-        <td>26/09/2024</td>
-    </tr>
-    
-   
-</table>
+| Repository             | Branch                         | Commit Id                                  | Commit Message                                                     | Commit Message Body                                                                                    | Commit on (Date) |
+|------------------------|--------------------------------|--------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------|
+| LandingPage-IoTecnicos | main                           | In40f08b75f7c2705848f212ad1a779816ae482a77 | Initial commit                                                     | -                                                                                                      | Sep 25, 2024     |
+| LandingPage-IoTecnicos | main                           | 332d70763a2abff30b80ef393d2fdd9be18691ea   | feat: add landing page                                             | -                                                                                                      | Sep 25, 2024     |
+| LandingPage-IoTecnicos | main                           | 6a5d16f61b056b377e9a6e643a9d8179b8245b3f   | Feat: documentation of landinpage                                  | -                                                                                                      | Sep 25, 2024     |
+| LandingPage-IoTecnicos | main                           | f969500662b09768621f15bd63fe5a34decc915b   | Fix: update title                                                  | -                                                                                                      | Sep 25, 2024     |
+| LandingPage-IoTecnicos | develop                        | 40f08b75f7c2705848f212ad1a779816ae482a77   | Initial commit                                                     |                                                                                                        | Sep 25, 2024     |
+| Web-Application-Front  | main                           | d9fe97abd98f92186283eb9100fb2434f42faa75   | Initial commit                                                     |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | develop                        | e334a4f619b7145a7d423345b970d403c13b8a66   | feat: merge the branch develop                                     |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | develop                        | 46c68165b0d89576eee8665574087c4c66057522   | Update db.json                                                     |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | develop                        | b6cc3bb39fc7b9d524fdf3dfca54af5e74833ee7   | Update inventary.component.ts                                      |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/account                | d0d99047a305fe6cd722483cbf803a03eb027a23   | feat: add acount of user                                           |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/account                | aada51b0e27acedaca2c0b3f568bd6a000478240   | update                                                             |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/collaborate            | 56dee9a79e18ea8d43db6cff673531330347ed18   | feat: Initial Home Component Added                                 |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/collaborate            | d4caebba1063ed5ffbe17b04e2983a376e0ac9f8   | feat: add Collaborate view                                         |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/history                | e334a4f619b7145a7d423345b970d403c13b8a66   | feat: merge the branch develop                                     |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/history                | 43cb223f5681d3e21291b3655c6620679c5c0bcd   | feat: add history                                                  |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/home                   | 865445385c28cb01da67bdea25bd87c42a1944d8   | feat: Add Angular Material & Component Grid List to Home Component |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/home                   | 9eb531ede7f374af730245c05ba469f46ecd3c24   | feat: New Font for Titles & new implemtation of card text          | Se implementa que cuando un equipo de refrigeración se encuentre activo, el texto salga de color verde | Sep 26, 2024     |
+| Web-Application-Front  | feature/home                   | c11bb5fa83e4385bf452baa161b529354a988bd6   | fix: Image & Font of MatGridList Component                         |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/refrigerator_equipment | e334a4f619b7145a7d423345b970d403c13b8a66   | feat: merge the branch develop                                     |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/refrigerator_equipment | d1231963fe9fba378916ceeafe8e0b1924e6e320   | UpdateHome                                                         |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/test                   | 1508197a86da7467e273ec18a1f946de4bcde4eb   | fix: update data                                                   |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/test                   | c6eb03fb1ee504cc5c8f493f61096abfc186a79c   | update                                                             |                                                                                                        | Sep 26, 2024     |
+| Web-Application-Front  | feature/test                   | c11f1e1d64b76df5b6b2ebc8355dd1eabf31c8a8   | feat: update md                                                    |                                                                                                        | Sep 27, 2024     |
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 
