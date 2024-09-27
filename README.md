@@ -2642,6 +2642,21 @@ En esta sección, como equipo, explicamos cómo se han desarrollado las activida
 
 # Conclusiones
 ## Conclusiones y recomendaciones
+
+**Conclusiones**
+
+En este inicio de proyecto, es natural enfrentar desafíos relacionados con la planificación y la coordinación del equipo. La falta de claridad en la asignación de fechas de entrega puede afectar el ritmo del desarrollo y la calidad de los entregables. Esto resalta la importancia de establecer un marco organizativo sólido desde el principio, donde se definan responsabilidades claras y se distribuyan tareas de manera equitativa, ajustando los tiempos según las capacidades de cada miembro. Mejorar la comunicación y el seguimiento de los avances, quizás mediante el uso de herramientas ágiles, permitirá al equipo adaptarse mejor a imprevistos y optimizar el trabajo colaborativo.
+
+**Recomendaciones**
+
+Si queremos mejorar en soluciones IoT, lo primero que debemos hacer es dominar bien las bases. Necesitamos saber no solo cómo programar, sino también cómo funcionan las redes, los protocolos y los sensores que vamos a usar. Nos conviene familiarizarnos con herramientas como Arduino o Raspberry Pi, porque esa experiencia nos ayudará cuando estemos diseñando nuestras propias soluciones.
+
+Aparte de la teoría, hay que meternos de lleno en proyectos prácticos. Si no estamos participando en hackathons o competencias, estamos perdiendo oportunidades de aprender. Ahí es donde aplicamos lo que hemos visto en clase y nos encontramos con problemas reales que necesitamos resolver.
+
+Otra cosa importante es que no podemos enfocarnos solo en el software. El hardware es clave en IoT, así que hay que dedicarle tiempo a entender cómo funcionan los microcontroladores y los sensores. Eso nos dará una visión más completa de lo que estamos desarrollando.
+
+Finalmente, no podemos quedarnos estancados. Tenemos que seguir aprendiendo con cursos especializados y estar atentos a las nuevas tendencias. Esto evoluciona rápido, así que si no nos mantenemos actualizados, nos quedamos atrás.
+
 ## Video About-the-Team
 ## Enlace al Video
 Video Expo: https://drive.google.com/drive/folders/1XUXWfB3LqDMa2fjlEI7xLkeY8VWUU1Dm?usp=sharing
