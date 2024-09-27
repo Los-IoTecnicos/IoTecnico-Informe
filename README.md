@@ -176,6 +176,9 @@ _____________________
 </table>
 
 # Project Report Collaboration Insights
+
+<img src="/assets/images/insights_tp.png">
+
 ## Project Report
 <img src="/assets/images/report.PNG">
 
