@@ -171,17 +171,25 @@ En esta sección, como equipo, presentamos y explicamos la representación de la
 
 En esta sección, como equipo, presentamos y explicamos el System Landscape Diagram. Este diagrama muestra una vista de alto nivel de todos los sistemas y componentes involucrados en la solución, sus interacciones y cómo se integran para formar el sistema completo.
 
+<img src="/assets/images/C4_Landscape.png" width="1250"/>
+
 #### 4.1.3.2 Software Architecture Context Level Diagrams
 
 En esta sección, como equipo, presentamos en imagen el context diagram. Este diagrama muestra el sistema como un recuadro en el centro, rodeado por sus usuarios y otros sistemas con los que interactúa. Utilizamos la herramienta indicada para la elaboración del diagrama y proporcionamos una explicación detallada del mismo, destacando las interacciones clave y los flujos de información entre los diferentes componentes del sistema
+
+<img src="/assets/images/C4_Context.png" width="1250"/>
 
 #### 4.1.3.3 Software Architecture Container Level Diagrams
 
 En esta sección, como equipo, presentamos y explicamos el Container Diagram. Este diagrama muestra los elementos de alto nivel de la arquitectura de software y cómo se distribuyen las responsabilidades entre ellos. También destacamos las principales decisiones de tecnología y cómo los containers se comunican entre sí, asegurando una integración eficiente y coherente de todos los componentes del sistema.
 
+<img src="/assets/images/C4_Container.png" width="1250"/>
+
 #### 4.1.3.4 Software Architecture Deployment Diagrams
 
 En esta sección, como equipo, presentamos y explicamos los Deployment Diagrams. Estos diagramas muestran cómo los componentes de software se despliegan en la infraestructura física o virtual, detallando la distribución de los componentes en servidores, contenedores, y otros recursos de infraestructura.
+
+<img src="/assets/images/C4_Deployment.png" width="1250"/>
 
 ## 4.2 Tactical-Level Domain-Driven Design
 
