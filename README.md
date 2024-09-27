@@ -1520,7 +1520,14 @@ En esta sección, se muestra la interacción de los modulos de la aplicación we
 
 <img src="assets/images/C4_Account.png" width="1250"/>
 
-#### 4.2.1.6 Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
+
+<img src="assets/images/Account_Code"/>
+
+#### 4.2.3.6.2 Bounded Context Database Design Diagram
+
+<img src="assets/images/account_database.png"/>
+
 
 ### 4.2.2 Bounded Context: Collaborate & Request
 En el dominio de Collaborate $ Request se centra en gestionar la logica de negocio para la creacion y gestión de solicitudes al personas tecnico
@@ -1574,7 +1581,14 @@ En esta sección, se muestra la interacción de los modulos de la aplicación we
 
 <img src="assets/images/C4_Collab.png" width="1250"/>
 
-#### 4.2.2.6 Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
+
+<img src="assets/images/Collaborate_Code.png"/>
+
+#### 4.2.3.6.2 Bounded Context Database Design Diagram
+
+<img src="assets/images/collaborate_database.png"/>
+
 
 ### 4.2.3 Bounded Context: Inventory Management
 
@@ -1633,7 +1647,15 @@ En esta sección, se muestra la interacción de los modulos de la aplicación we
 
 <img src="assets/images/C4_Inventory.png" width="1250"/>
 
-#### 4.2.3.6 Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
+
+<img src="assets/images/inventory_code.png"/>
+
+
+#### 4.2.3.6.2 Bounded Context Database Design Diagram
+
+<img src="assets/images/inv_database.png"/>
+
 
 ### 4.2.4 Bounded Context: IoT Solutions
 
@@ -1687,7 +1709,15 @@ En esta sección, se muestra la interacción de los modulos de la aplicación we
 
 <img src="assets/images/C4_IOT.png" width="1250"/>
 
-#### 4.2.4.6 Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
+
+<img src="assets/images/ "/>
+
+#### 4.2.3.6.2 Bounded Context Database Design Diagram
+
+<img src="assets/images/ "/>
+
+
 # Capítulo V: Solution UI/UX Design
 
 En esta sección, como equipo, abarcamos el planteamiento de la propuesta de UX/UI Design para la experiencia de usuario a través de todos los productos digitales con los que estos interactúan. Tomamos como base el conjunto de User Stories identificados, así como el Impact Map, para diseñar una experiencia de usuario coherente y efectiva.
