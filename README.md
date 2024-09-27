@@ -180,7 +180,7 @@ _____________________
 <img src="/assets/images/insights_tp.png">
 
 ## Project Report
-<img src="/assets/images/report.PNG">
+<img src="assets/images/report.PNG">
 
 Link: https://github.com/Los-IoTecnicos/IoTecnico-Informe/tree/main
 
@@ -190,6 +190,11 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
 
 ### Analiticos para el TB1
 
+<img src="assets/images/Analiticos TB1.PNG">
+
+### Analiticos para el TP
+
+<img src="assets/images/Anaiticos TP1.PNG">
 
 ## Contenido 
 - [Capítulo I: Introducción](/README.md#capítulo-i-introducción)
