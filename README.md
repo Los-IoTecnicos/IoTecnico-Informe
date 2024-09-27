@@ -162,6 +162,7 @@ Por otro lado, IoT Solutions está vinculado con Inventory Management: La recopi
 
 Estas interacciones reflejan cómo cada bounded context se complementa y apoya, creando un ecosistema cohesivo que optimiza la gestión de cuentas, la colaboración, y el control del inventario a través de soluciones IoT. Este enfoque integrado proporciona a los usuarios una experiencia fluida y efectiva, alineando los procesos de negocio con las necesidades operativas del sistema. A través de este análisis, hemos identificado oportunidades para mejorar la eficiencia y la funcionalidad del sistema en su conjunto.
 
+<img src="assets/images/Context Mapping.jpeg">
 
 ### 4.1.3 Software Architecture
 
@@ -196,6 +197,7 @@ editar como para actualizar su membresía.
 
  En el Diccionario de Clases, hemos incluido 2 clases principales: UsserAccount y Role. Estas clases
  representan los elementos esenciales de nuestra plataforma y definen las entidades y se relaciona con el rol que tendra cada usuario en la plataforma
+
 <img src="/assets/images/UserAccount.png"/>
 
 <img src="/assets/images/Role1.png"/>
