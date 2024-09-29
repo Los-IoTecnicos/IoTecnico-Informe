@@ -2665,18 +2665,74 @@ Para esta entrega no se ha presentado un backend funcional, se presentó mediant
 #### 6.2.1.5. Execution Evidence for Sprint Review
 
 Esta sección realizamos un resumen de lo alcanzado en el Sprint 1, presentando screenshots de las principales vistas implementadas. Incluimos un enlace a un video que ilustra y explica la visualización y navegación logradas durante el Sprint 1.
+Durante este sprint, se completaron los entregables: 
+
+- Primera versión de la Landing Page:
+  
+<img src="assets/images/LandingPage.jpg">
+
+- Primera versión de la Aplicación Web:
+
+Home:
+  
+<img src="assets/images/WebHome1.jpg">
+
+Inventory:
+
+<img src="assets/images/WebInventory1.jpg">
+
+
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
-En esta sección, como equipo, incluimos la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint 1. Comenzamos con una introducción que resume los logros en la documentación de Web Services, y proporcionamos una tabla con los Endpoints, acciones implementadas y enlaces a la documentación. También incluimos capturas de pantalla de la interacción con la documentación y la ruta del repositorio de Web Services con los commits relacionados.
+En el transcurso de este sprint, se empleó Json-server para simular el funcionamiento de nuestro servicio de backend mientras estaba en proceso de desarrollo.
+
+Products:
+
+<img src="assets/images/DBJson1.jpg">
+
+Refrigeratos:
+
+<img src="assets/images/DBJson2.jpg">
 
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 
-En esta sección, como equipo, resumimos los procesos realizados en relación con el Deployment durante el Sprint 1. Incluimos una introducción explicando las actividades de despliegue, como la creación de cuentas, configuración de recursos en cloud providers y automatización de Deployment. Proporcionamos capturas de pantalla y explicaciones de los pasos realizados para el despliegue de todos los productos digitales.
+En esta sección, como equipo, resumimos los procesos realizados en relación con el Deployment durante el Sprint 1. 
+
+- Primera versión de la Landing Page:
+  
+<img src="assets/images/LandingPage.jpg">
+
+Se puede acceder al landing page a traves del link: [Landing Page](https://yordidg.github.io/frostChef/)
+
+- Primera versión de la Aplicación Web:
+
+Home:
+  
+<img src="assets/images/WebHome1.jpg">
+
+<img src="assets/images/WebHome2.jpg">
+
+Collaborate:
+
+<img src="assets/images/WebCollaborate3.jpg">
+
+Inventory:
+
+<img src="assets/images/WebInventory1.jpg">
+
+Account:
+
+<img src="assets/images/WebAccount.jpg">
+
+Se puede acceder a la aplicación web a traves del link: [Web Application](https://frostchef.vercel.app/Front-End/home)
+
 
 #### 6.2.1.8. Team Collaboration Insights during Sprint
 
-En esta sección, como equipo, explicamos cómo se han desarrollado las actividades de implementación. Presentamos capturas de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo, junto con una interpretación de estos analíticos. Aseguramos que todos los miembros del equipo participen en la implementación de cada uno de los productos según corresponda en el Sprint 1. 
+En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 1.
+
+<img src="assets/images/Insights%20Sprint%201.jpg">
 
 # Conclusiones
 ## Conclusiones y recomendaciones
