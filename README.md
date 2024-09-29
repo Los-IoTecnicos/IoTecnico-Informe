@@ -433,7 +433,7 @@ Nos visualizamos como la principal referencia en tecnología de refrigeración p
 
 | Sánchez Ramírez, Diego Antonio - u202021367 |  |
 |----------|----------|
-|Soy un estudiante de la carrera de Ing. De Software en la Universidad de Ciencias Aplicadas (UPC). Estoy familiarizado con los lenguajes de programación C + + y HTML5, CSS y JS. Estoy en vías de aprender otros lenguajes para ser un ingeniero flexible a cualquier necesidad o problema que se presente.| <img src="assets/images/diegosanchez.jpg" width="1250"/>|
+|Soy un estudiante de la carrera de Ing. De Software en la Universidad de Ciencias Aplicadas (UPC). Estoy familiarizado con los lenguajes de programación C + + y HTML5, CSS y JS. Estoy en vías de aprender otros lenguajes para ser un ingeniero flexible a cualquier necesidad o problema que se presente.| <img src="assets/images/diegosanchez.jpg"  width="1250"/>|
 |||
 
 | Zamora Rivera, Ismael Sebastian - u202116671 |  |
@@ -1527,7 +1527,7 @@ En esta sección, se muestra la interacción de los modulos de la aplicación we
 
 #### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
 
-<img src="assets/images/Account_Code"/>
+<img src="assets/images/Account_Code.png"/>
 
 #### 4.2.3.6.2 Bounded Context Database Design Diagram
 
@@ -1842,6 +1842,11 @@ Las imágenes utilizadas deben ser de alta calidad, centradas en mostrar el ambi
 - **Separación entre elementos relacionados:** 10 px.
 - **Separación entre secciones:** 30 px para mantener la claridad visual y facilitar la navegación.
 
+ Example Landing Page:
+ 
+<img src="assets/images/LandingPage.jpg">
+
+
 #### Interaction Standards
 
 **Responsive Design** 
@@ -1853,7 +1858,7 @@ Implementar un diseño accesible que cumpla con los estándares WCAG (Web Conten
 
 **Web Interaction Example**
 
-**Image:** Mostrar un ejemplo del diseño responsive en desktop, tablet, y móvil.
+<img src="assets/images/WebInventory1.jpg">
 
 
 ### Mobile Style Guidelines
@@ -1888,10 +1893,6 @@ Los botones y elementos interactivos deben tener un tamaño mínimo de 44x44 px 
 **Gestures**
 
 Implementar gestos comunes como deslizar para eliminar elementos, tirar para refrescar, y zoom en gráficos para mejorar la experiencia en dispositivos móviles.
-
-**Mobile Interaction Example**
-
-**Image:** Mostrar un ejemplo de una pantalla móvil con botones interactivos grandes, optimizados para interacción táctil.
 
 
 ### IoT Style Guidelines
@@ -1928,11 +1929,6 @@ Las interfaces de los dispositivos IoT deben ser minimalistas, mostrando solo la
 **Real-Time Feedback**
 
 Las interfaces IoT deben ofrecer actualizaciones en tiempo real sobre el estado del sistema, incluidas alertas de temperatura, fallos de sensores, o problemas en la gestión de inventarios.
-
-**IoT Interaction Example**
-
-**Image:** Mostrar un ejemplo de un dispositivo IoT con pantallas que incluyen alertas de temperatura y botones grandes y sencillos para interacción directa.
-
 
 ## 5.2. Information Architecture
 
