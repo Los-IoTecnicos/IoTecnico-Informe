@@ -1654,7 +1654,7 @@ En esta sección, se muestra la interacción de los modulos de la aplicación we
 
 #### 4.2.3.6.1 Bounded Context Domain Layer Class Diagrams
 
-<img src="assets/images/inventory_code.png"/>
+<img src="assets/images/inventory_code.jpeg"/>
 
 
 #### 4.2.3.6.2 Bounded Context Database Design Diagram
@@ -2182,6 +2182,130 @@ La propuesta visual y de interacción para las aplicaciones que componen la expe
 ### 5.4.1. Applications Wireframes
 
 Esta sección incluye una sección interna donde presentamos y explicamos los Wireframes de las aplicaciones móviles. En la propuesta y la explicación, evidenciamos la aplicación de los principios, elementos de diseño, diseño inclusivo y arquitectura de información. Utilizamos las herramientas indicadas para crear wireframes que reflejen claramente la estructura y funcionalidad de las aplicaciones móviles.
+
+#### Login y Register
+
+##### Pantalla de Inicio de Sesión
+La pantalla de inicio de sesión se ha diseñado siguiendo principios de simplicidad y claridad, facilitando el acceso rápido a los usuarios registrados.
+
+- **Estructura**: La interfaz presenta un diseño limpio y minimalista, con los elementos centrados para una fácil visualización y acceso.
+- **Campos de entrada**: Se incluyen dos campos de entrada principales: "Usuario" y "Contraseña", claramente etiquetados para evitar confusiones.
+- **Opción de registro**: Para nuevos usuarios, se proporciona un enlace claro: "¿Eres nuevo/a? Crear una nueva cuenta", facilitando la transición al proceso de registro.
+
+Esta pantalla aplica principios de diseño inclusivo al usar un contraste adecuado entre el texto y el fondo, y etiquetas claras para cada campo de entrada.
+
+<img src="assets/images/Wireframes_Login.jpg">
+
+##### Pantalla de Registro
+La pantalla de registro se ha diseñado para recopilar la información necesaria de nuevos usuarios de manera eficiente y no invasiva.
+
+- **Estructura**: Se mantiene una disposición vertical de los elementos, facilitando el desplazamiento y la entrada de datos en dispositivos móviles.
+- **Campos de entrada**: Se incluyen campos para "Correo Electrónico", "Contraseña", "Nombre completo" y "Teléfono", cubriendo la información esencial para el registro.
+- **Términos y condiciones**: Se incorpora una casilla de verificación para aceptar los términos y condiciones, promoviendo la transparencia y el consentimiento informado.
+- **Botón de acción**: Un botón claramente visible con el texto "Crear cuenta" finaliza el proceso de registro.
+
+El diseño aplica principios de arquitectura de información al agrupar lógicamente los campos relacionados y presentarlos en un orden intuitivo.
+
+<img src="assets/images/Wireframes_Register.jpg">
+
+##### Pantalla de Confirmación
+Tras completar el registro, se muestra una pantalla de confirmación para informar al usuario sobre el siguiente paso en el proceso.
+
+- **Mensaje de confirmación**: Se presenta un mensaje claro: "Le hemos mandado un email de verificación...", indicando la acción realizada y qué debe esperar el usuario.
+- **Diseño minimalista**: La pantalla mantiene un diseño simple para no distraer del mensaje principal.
+
+Esta pantalla aplica principios de feedback inmediato, crucial para una buena experiencia de usuario, informando claramente sobre el estado del proceso de registro.
+
+<img src="assets/images/Wireframes_confirmationRegister.jpg">
+
+En conjunto, estos wireframes para Login y Register demuestran un enfoque en la usabilidad y la claridad de la información, aplicando principios de diseño inclusivo y una arquitectura de información lógica. La estructura y el flujo de las pantallas están diseñados para guiar al usuario de manera intuitiva a través del proceso de inicio de sesión o registro, minimizando la fricción y mejorando la experiencia general del usuario.
+
+
+#### Inventory
+
+##### 1. Vista General del Inventario
+La sección de Inventario de nuestra aplicación FrostChef ha sido diseñada para proporcionar una visión clara y eficiente del estado de los productos en las cámaras de refrigeración.
+
+**Principios de Diseño Aplicados:**
+- **Claridad Visual**: Utilizamos un diseño de tarjetas para cada producto, permitiendo una rápida identificación y acceso a la información.
+- **Jerarquía de Información**: Los datos más importantes (nombre, marca, cantidad) se muestran prominentemente en cada tarjeta.
+- **Codificación por Colores**: Implementamos un sistema de colores para indicar el estado de frescura de los productos, facilitando la gestión visual del inventario.
+
+**Elementos Clave:**
+1. **Barra de Navegación**: Situada en la parte superior, permite un acceso rápido a las secciones principales: Home, Inventario, y Colaboradores.
+2. **Vista de Cámara**: Muestra el estado general de una cámara de refrigeración específica, incluyendo detalles como nombre, estado, fecha de habilitación, próximo mantenimiento, consumo energético, capacidad y sector.
+3. **Lista de Productos**: Presenta los productos almacenados en la cámara seleccionada, con opciones para ver detalles o retirar el insumo.
+
+<img src="assets/images/Wireframes_Inventory1.jpg">
+
+##### 2. Gestión de Productos
+La aplicación ofrece funcionalidades robustas para la gestión de productos, desde la adición de nuevos ítems hasta el manejo de alertas y acciones sobre productos existentes.
+
+**Características Principales:**
+- **Adición de Productos**: Un formulario intuitivo permite agregar nuevos productos al inventario, capturando detalles esenciales como nombre, marca, fechas de ingreso y expiración, cantidad y categoría.
+- **Alertas y Notificaciones**: El sistema proporciona alertas visuales para productos que requieren atención, como aquellos cerca de su fecha de caducidad o que necesitan ser retirados.
+- **Acciones Rápidas**: Opciones para priorizar el uso de productos o marcarlos para retiro se presentan de manera clara y accesible.
+
+**Diseño Inclusivo:**
+- **Leyendas Explicativas**: Se incluyen leyendas que explican el significado de los códigos de colores y las diferentes acciones disponibles, mejorando la accesibilidad y comprensión para todos los usuarios.
+- **Feedback Visual**: Notificaciones claras confirman acciones como la adición de nuevos productos o la asignación a cámaras específicas.
+
+<img src="assets/images/Wireframes_Inventory2.jpg">
+
+##### 3. Flujo de Trabajo e Interacciones
+El diseño de la interfaz facilita un flujo de trabajo intuitivo para la gestión del inventario, permitiendo a los usuarios realizar tareas comunes de manera eficiente.
+
+**Flujos Clave:**
+1. **Asignación de Productos**: Los usuarios pueden asignar fácilmente nuevos productos a cámaras de refrigeración específicas.
+2. **Revisión de Detalles**: Al hacer clic en una tarjeta de producto, se despliega una vista detallada con todas las características relevantes.
+3. **Acciones de Gestión**: Opciones para retirar insumos o priorizar su uso están disponibles directamente desde la vista de lista.
+
+**Arquitectura de Información:**
+- **Agrupación Lógica**: Los productos se agrupan por cámara de refrigeración, facilitando la gestión por ubicación.
+- **Navegación Intuitiva**: La estructura de la aplicación permite moverse fácilmente entre la vista general del inventario y los detalles específicos de los productos.
+
+<img src="assets/images/Wireframes_Inventory3.jpg">
+
+En conjunto, estos wireframes demuestran un enfoque centrado en el usuario para la gestión de inventario, aplicando principios de diseño que facilitan la comprensión y el uso eficiente de la aplicación. La estructura y el flujo están diseñados para minimizar la carga cognitiva y maximizar la eficiencia operativa en el manejo de productos refrigerados.
+
+#### Wireframes: Colaboradores
+
+##### 1. Vista General de Colaboradores
+La sección de Colaboradores de nuestra aplicación FrostChef ha sido diseñada para proporcionar una gestión eficiente y clara del personal involucrado en el manejo del sistema de refrigeración del restaurante.
+
+**Principios de Diseño Aplicados:**
+- **Jerarquía Visual**: La información se presenta en una estructura clara, diferenciando entre el encargado del restaurante y el personal autorizado.
+- **Simplicidad**: El diseño utiliza tarjetas de información sencillas para cada miembro, facilitando la lectura rápida de datos importantes.
+- **Accesibilidad**: La opción para agregar nuevos miembros está claramente visible y accesible.
+
+**Elementos Clave:**
+1. **Barra de Navegación**: Mantiene la consistencia con otras secciones, permitiendo un acceso rápido a Home, Inventario y Colaboradores.
+2. **Categorías de Personal**: Divide claramente entre el encargado del restaurante, personal de restaurante autorizado y personal de mantenimiento autorizado.
+3. **Tarjetas de Información**: Cada colaborador se presenta en una tarjeta que muestra su nombre, email y número de celular.
+4. **Botón de Invitación**: Un botón prominente "Mandar invitación" permite iniciar el proceso de agregar nuevos miembros.
+
+<img src="assets/images/Wireframes_Colaborator1.jpg">
+
+##### 2. Proceso de Invitación de Nuevos Miembros
+El diseño facilita un proceso intuitivo y seguro para invitar a nuevos colaboradores al sistema.
+
+**Características Principales:**
+- **Formulario de Invitación**: Un formulario simple y directo que solicita el correo electrónico y el rol del nuevo miembro.
+- **Validación en Tiempo Real**: El sistema proporciona feedback inmediato sobre la validez del correo electrónico ingresado.
+- **Selección de Rol**: Un menú desplegable permite asignar fácilmente el rol apropiado al nuevo miembro.
+- **Confirmación de Acción**: Una notificación clara confirma el envío exitoso de la invitación.
+
+**Diseño Inclusivo y Arquitectura de Información:**
+- **Mensajes de Error Claros**: En caso de ingresar un correo inválido, se muestra un mensaje de error específico y visible.
+- **Flujo de Trabajo Guiado**: El proceso de invitación sigue un flujo lógico y fácil de entender, minimizando la posibilidad de errores.
+- **Feedback Visual**: Cada acción del usuario recibe una respuesta visual clara, mejorando la experiencia de uso.
+
+<img src="assets/images/Wireframes_Colaborator2.jpg">
+
+En conjunto, estos wireframes demuestran un enfoque centrado en el usuario para la gestión de colaboradores, aplicando principios de diseño que facilitan la comprensión y el uso eficiente de la aplicación. La estructura y el flujo están diseñados para simplificar el proceso de administración de personal, asegurando que solo los usuarios autorizados tengan acceso al sistema de refrigeración del restaurante.
+
+El diseño prioriza la claridad y la eficiencia, permitiendo a los encargados del restaurante gestionar fácilmente los permisos y accesos, lo cual es crucial para mantener la seguridad y la integridad del sistema de refrigeración. La interfaz intuitiva y las validaciones en tiempo real contribuyen a reducir errores y mejorar la experiencia general del usuario.
+
 
 ### 5.4.2. Applications Wireflow Diagrams
 
