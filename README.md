@@ -2400,15 +2400,19 @@ En esta sección, como equipo, especificamos y describimos los productos de soft
     - **Propósito**: Desplegar la landing Page.
     - **Ruta**: https://pages.github.com/
 
+15. **Vercel**
+    - **Propósito**: Desplegar la Aplicación Web.
+    - **Ruta**: https://vercel.com
+
 #### Software Documentation:
 
-15. **Swagger UI**
+16. **Swagger UI**
     - **Propósito**: Herramienta para documentar y probar APIs RESTful generadas con Spring Boot.
     - **Configuración**: Integrada en el proyecto Spring Boot mediante dependencias Maven.
 
 #### IoT Development:
 
-16. **Wokwi**
+17. **Wokwi**
     - **Propósito**: Simulador en línea para prototipar y probar circuitos Arduino y otros dispositivos IoT antes de la implementación física.
     - **Ruta**: https://wokwi.com/
 
