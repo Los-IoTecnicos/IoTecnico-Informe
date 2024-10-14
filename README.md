@@ -2663,6 +2663,24 @@ Estas convenciones y guías de estilo nos ayudarán a mantener un código limpio
 
 En esta sección, como equipo, especificamos la configuración del despliegue de la solución, detallando los pasos necesarios para desplegar cada uno de los productos digitales (Landing Page, Web Services, Web Applications, Mobile Applications, Embedded Applications) desde los repositorios de código fuente. Incluimos el Deployment Diagram del C4 Model para ilustrar el proceso.
 
+**Despliegue de la Landing Page**
+
+Para el despliegue de la Landing Page, se utilizo la plataforma Github Pages. A continuación, se detallan los pasos necesarios:
+
+- Configuración del Repositorio: El código fuente de la Landing Page se almacena en un repositorio en la plataforma Github.
+- Activación de Github Pages: Dentro de la configuración del repositorio, se activara Github Pages seleccionando la rama adecuada para que el contenido estático de la Landing Page sea despolegado automáticamente.
+- Personalización de Dominio: Opcionalmente, se puede configurar un dominio personalizado para la Landing Page en Github Pages, apuntando los registros DNS al dominio proporcionado por Github.
+
+**Despliegue de la Aplicación Web**
+
+Para el despliegue de la Aplicación Web, se utilizo la plataforma Vercel. A continuación, se detallan los pasos necesarios:
+
+- Configuración del Repositorio: El código fuente de la Aplicación Web será almacenado en un repositorio en la plataforma de Github.
+- Creación del Proyecto en Vercel: Se creará un nuevo proyecto en Vercel vinculado al repositorio que contiene el código fuente de la Aplicación Web. Cada vez que se realice un cambio en el repositorio, Vercel desplegará automáticamente la aplicación.
+- Configuración de Variables de Entorno: En Vercel, se configuración las variables de entorno necesarias para el correcto funcionamiento de la Aplicación Web, tales como Clave API, credenciales de acceso a servicios, etc.
+- Despliegue Automático: Vercel permite la integración continua (CI/CD), habilitando el despliegue automático en cada commit realizado en el repositorio.
+- Monitorización y Escalado: Vercel ofrece herramientas avanzadas para monitorizar el rendimiento de la Aplicación Web y escalarlo automáticamente según la demanda, asegurando que la aplicación mantenga un funcionamiento óptima bajo cualquier carga de trabajo.
+
 ## 6.2. Landing Page, Services & Applications Implementation
 
 En esta sección, como equipo, explicamos y evidenciamos el proceso de implementación, pruebas, documentación y despliegue del Landing Page, Web Services, Web Applications, Mobile Applications y Embedded Applications. Organizamos el trabajo en Sprints y documentamos el progreso en cada Sprint, incluyendo planificación, backlog, evidencia de desarrollo y colaboración del equipo.
