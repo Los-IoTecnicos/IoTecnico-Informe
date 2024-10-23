@@ -470,7 +470,7 @@ User Goal 1 : Agregar producto
 - **Unhappy Path:**
   Se ha generado un error al intentar agregar un producto.
 
-<img src="assets/images/wireflow1.png">
+<img src="assets/images/wireflow1fix.png">
 
 User Goal 2 : Mandar invitación
 
@@ -479,9 +479,16 @@ User Goal 2 : Mandar invitación
 - **Unhappy Path:**
   Se ha generado un error al intentar invitar a un usuario.
 
-<img src="assets/images/wireflow2.png">
+<img src="assets/images/wireflow2fix.png">
 
+User Goal 3 : Asignar Cámara de refrigeración
 
+- **Happy Path:**
+  Visualización regular. No se genera ningún error al asignar una cámara de refrigeración a un producto.
+- **Unhappy Path:**
+  Se ha generado un error al intentar asignar una cámara de refrigeración a un producto.
+
+<img src="assets/images/wireflow3.png">
 ### 5.4.3. Applications Mock-ups
 
 En esta sección, como equipo, presentamos y explicamos los Mock-ups de las aplicaciones. Nuestro objetivo es mostrar cómo se aplican los principios de diseño, elementos de diseño inclusivo y la arquitectura de información, así como el Design System establecido para nuestros productos digitales. Utilizamos las herramientas indicadas para crear mock-ups que reflejen fielmente la interfaz final de las aplicaciones, asegurando una experiencia de usuario coherente y atractiva.
