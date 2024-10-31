@@ -2890,10 +2890,11 @@ En esta sección, como equipo, mostramos cómo se han desarrollado las actividad
 
 ### 6.2.2. Sprint 2
 
-
-
+En esta sección, como equipo, registramos y explicamos el avance en términos de producto y trabajo colaborativo para el Sprint 2. Incluimos secciones internas para Sprint Planning, Sprint Backlog, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, y Team Collaboration Insights during Sprint.
 
 #### 6.2.2.1. Sprint Planning 2
+
+En esta sección, como equipo, especificamos los aspectos principales del Sprint Planning Meeting, a continuacion el cuadro de resumen del sprint planning meeting.
 
 <table border="1">
     <tr>
@@ -2951,6 +2952,8 @@ En esta sección, como equipo, mostramos cómo se han desarrollado las actividad
 </table>
 
 #### 6.2.2.2. Sprint Backlog 2
+
+En esta sección, como equipo, presentamos una introducción que resume el objetivo principal del Sprint 2 y un screenshot del Board para el Sprint en la herramienta de control indicada, junto con el URL público del Board. Incluimos una tabla con los User Stories asignados al Sprint y los Work-items/Tasks resultantes.
 
 <table border="1" cellpadding="8" cellspacing="0">
     <thead>
@@ -3059,7 +3062,6 @@ En esta sección, como equipo, mostramos cómo se han desarrollado las actividad
             <td>Piero Stefano</td>
             <td>To-do</td>
         </tr>
-        <!-- Continúa el patrón para los demás integrantes -->
         <tr>
             <td rowspan="3">US000</td>
             <td rowspan="3">[TÍTULO DEL USER STORY]</td>
@@ -3142,6 +3144,8 @@ En esta sección, como equipo, mostramos cómo se han desarrollado las actividad
 </table>
 
 #### 6.2.2.3. Development Evidence for Sprint Review
+
+En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 2. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
 
 <table border="1" cellpadding="8" cellspacing="0">
     <thead>
@@ -3256,36 +3260,35 @@ En esta sección, como equipo, mostramos cómo se han desarrollado las actividad
 
 
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
-
+En esta sección, el equipo presenta el conjunto de pruebas automatizadas realizadas durante el Sprint 2, incluyendo Unit Tests, Integration Tests y Acceptance Tests. Se detallan las clases y comportamientos asociados a cada test, y se incluyen ejemplos de los archivos .feature y Steps para los tests de BDD. También proporcionamos la ruta del repositorio y los commits relacionados con los avances en testing.
 
 #### 6.2.2.5. Execution Evidence for Sprint Review
-
+En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 2. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
-
+En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 2. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoin
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
-
+En esta sección, se resume el proceso de despliegue realizado durante el Sprint 2. Se detallan actividades como la creación de cuentas, configuración de recursos en proveedores de la nube, y la configuración de proyectos de desarrollo para integración o automatización del despliegue
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint
 
 En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2
 
-
-
 ### 6.3. Validation Interviews
+En esta sección, el equipo documenta y detalla las entrevistas de validación realizadas durante el proyecto. Las entrevistas incluyen la interacción de usuarios de los segmentos objetivo con la página de aterrizaje y las aplicaciones. Esta sección abarca el diseño de entrevistas, el registro de entrevistas y las evaluaciones según heurísticas, utilizando el formato de evaluación heurística indicado para el proyecto.
 
 #### 6.3.1. Diseño de Entrevistas
-
+En esta sección, detallamos el diseño de las entrevistas que utilizamos para recolectar información clave. Las entrevistas incluyen preguntas principales y complementarias dirigidas a cada segmento de interés. Aplicamos buenas prácticas de diseño de entrevistas y nos centramos en recolectar información demográfica (como género, edad, distrito de residencia, estado civil, familia, ocupación) y otras características (como personalidad, habilidades, marcas e influencias, dispositivos de preferencia, canales digitales de interacción, objetivos, frustraciones y biografía).
 
 #### 6.3.2. Registro de Entrevistas
-
+En esta sección, se detalla el registro de entrevistas, que incluye la información de los entrevistados y un resumen descriptivo de sus respuestas. Cada entrevista es registrada en video y se proporciona un enlace al video editado junto con el timing y duración de cada entrevista. Se recopilan tanto características objetivas como subjetivas para construir arquetipos basados en esta información.
 
 #### 6.3.3. Evaluaciones según heurísticas
-
+En esta sección, se detalla el proceso de evaluación de las sesiones de validación basado en heurísticas, abarcando aspectos como usabilidad, arquitectura de la información y el diseño inclusivo de la experiencia propuesta. Se utiliza la estructura del formato de evaluación heurística proporcionado en el Anexo D, siguiendo las directrices para evaluar la experiencia del usuario.
 
 ### 6.4. Video About-the-Product
-
+En esta sección, se presenta y describe el contenido del Video About-the-Product, dirigido a los visitantes de la Landing Page y usuarios de las Aplicaciones. El video explica el modelo de negocio y las características principales del software, y contiene al menos un testimonio positivo de un usuario que participó en las entrevistas de validación. Se incluye un screenshot del video, el URL de la versión publicada en Microsoft Stream y YouTube, y la duración del mismo.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
