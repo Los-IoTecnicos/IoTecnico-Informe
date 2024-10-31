@@ -2887,6 +2887,406 @@ En esta sección, como equipo, mostramos cómo se han desarrollado las actividad
 
 <img src="assets/images/Insights%20Sprint%201.jpg">
 
+
+### 6.2.2. Sprint 2
+
+
+
+
+#### 6.2.2.1. Sprint Planning 2
+
+<table border="1">
+    <tr>
+        <th>Sprint #</th>
+        <td>Sprint 2</td>
+    </tr>
+    <tr>
+        <th>Sprint Planning Background</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Date</th>
+        <td>30/10/2024</td>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <td>11:00 AM</td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>Google Meet</td>
+    </tr>
+    <tr>
+        <th>Prepared By</th>
+        <td>Diego Sánchez Ramírez</td>
+    </tr>
+    <tr>
+        <th>Attendees (to planning meeting)</th>
+        <td>Piero Márquez, Víctor Díaz, Leonardo Patrocinio, Juan Navarro y Ismael Zamora</td>
+    </tr>
+    <tr>
+        <th>Sprint n – 1 Review Summary</th>
+        <td> Se realizaron mejoras en la aplicación web, avance en la aplicación móvil, desarrollo del backend tanto para web como móvil, y se implementó el edge backend </td>
+    </tr>
+    <tr>
+        <th>Sprint n – 1 Retrospective Summary</th>
+        <td> Se completó las correciones del informe y se desplegó la Landing page con la Web Application consumiendo backend </td>
+    </tr>
+    <tr>
+        <th>Sprint Goal & User Stories</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Sprint 2 Goal</th>
+        <td> Mejoras en la aplicación web, avance de la aplicación móvil, desarrollo del backend para web y móvil, implementación del edge backend </td>
+    </tr>
+    <tr>
+        <th>Sprint n Velocity</th>
+        <td></td>
+    </tr>
+    <tr>
+        <th>Sum of Story Points</th>
+        <td></td>
+    </tr>
+</table>
+
+#### 6.2.2.2. Sprint Backlog 2
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+        <tr>
+            <th colspan="4">Sprint 2</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="2">Work-Item /Task</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3">US000</td>
+            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
+            <td>Tasks-01</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>2 Hours</td>
+            <td>Diego Sánchez</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-02</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Diego Sánchez</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-03</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Diego Sánchez</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US000</td>
+            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
+            <td>Tasks-04</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>2 Hours</td>
+            <td>Victor Yordi</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-05</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Victor Yordi</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-06</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Victor Yordi</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US000</td>
+            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
+            <td>Tasks-07</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>2 Hours</td>
+            <td>Piero Stefano</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-08</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Piero Stefano</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-09</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Piero Stefano</td>
+            <td>To-do</td>
+        </tr>
+        <!-- Continúa el patrón para los demás integrantes -->
+        <tr>
+            <td rowspan="3">US000</td>
+            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
+            <td>Tasks-10</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>2 Hours</td>
+            <td>Juan Jose Chacon</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-11</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Juan Jose Chacon</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-12</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Juan Jose Chacon</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US000</td>
+            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
+            <td>Tasks-13</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>2 Hours</td>
+            <td>Leo Patrocinio</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-14</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Leo Patrocinio</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-15</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Leo Patrocinio</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US000</td>
+            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
+            <td>Tasks-16</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>2 Hours</td>
+            <td>Ismael Zamora</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-17</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Ismael Zamora</td>
+            <td>To-do</td>
+        </tr>
+        <tr>
+            <td>Tasks-18</td>
+            <td>[TÍTULO DE LA TAREA]</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Ismael Zamora</td>
+            <td>To-do</td>
+        </tr>
+    </tbody>
+</table>
+
+#### 6.2.2.3. Development Evidence for Sprint Review
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit ID</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Commit Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Web-Application-Front</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Web-Application-Front</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Web-Application-Front</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Web-Application-Front</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Mobile-Application</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Mobile-Application</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Mobile-Application</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Mobile-Application</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Backend</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Backend</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Backend</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+        <tr>
+            <td>Backend</td>
+            <td>[BRANCH NAME]</td>
+            <td>[COMMIT ID]</td>
+            <td>[COMMIT MESSAGE]</td>
+            <td>[COMMIT BODY]</td>
+            <td>[DATE]</td>
+        </tr>
+    </tbody>
+</table>
+
+
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review
+
+
+#### 6.2.2.5. Execution Evidence for Sprint Review
+
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review
+
+
+#### 6.2.2.8. Team Collaboration Insights during Sprint
+
+En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2
+
+
+
+### 6.3. Validation Interviews
+
+#### 6.3.1. Diseño de Entrevistas
+
+
+#### 6.3.2. Registro de Entrevistas
+
+
+#### 6.3.3. Evaluaciones según heurísticas
+
+
+### 6.4. Video About-the-Product
+
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
