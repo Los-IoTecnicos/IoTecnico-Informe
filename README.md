@@ -2449,6 +2449,14 @@ Este prototipo en Figma muestra los principales flujos de interacción de la apl
 Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f316_upc_edu_pe/EY9qWfLvNtpNpZdtbHwO77sBGuEkSyWtdBqyqQmahRVMKA?e=lgaabc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
 
 
+#### Aplicacion Movíl
+Este prototipo en Figma muestra los principales flujos de interacción de la aplicación movíl, destacando la experiencia del usuario a través de sus funciones clave. En él se visualizan las transiciones entre pantallas, los puntos de interacción más importantes y cómo los usuarios navegan intuitivamente a través de la interfaz.
+
+<img src="assets/images/ProtypingMobile.png">
+
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/EVJ_0lTi9jFOgSHsuzW0wgcBnkcilVHnLNvRsqcdUJMppg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=62KaZk
+
+
 # Capítulo VI: Product Implementation, Validation & Deployment
 
 En esta sección, como equipo, explicamos y evidenciamos el proceso de implementar, comprobar, desplegar y validar la solución compuesta por los productos digitales que forman parte del alcance. Este capítulo abarca secciones para la organización del proceso de trabajo en Sprints, la descripción y prácticas asociadas a Software Configuration Management, el Video About-The-Product y las evidencias de Implementation, Testing, Deployment y Validations para cada uno de los productos, en términos del producto en sí y la colaboración por Sprint.
@@ -3906,14 +3914,245 @@ En esta sección, detallamos el diseño de las entrevistas que utilizamos para r
 #### 6.3.2. Registro de Entrevistas
 En esta sección, se detalla el registro de entrevistas, que incluye la información de los entrevistados y un resumen descriptivo de sus respuestas. Cada entrevista es registrada en video y se proporciona un enlace al video editado junto con el timing y duración de cada entrevista. Se recopilan tanto características objetivas como subjetivas para construir arquetipos basados en esta información.
 
-**Personal de Restaurantes:**
+**Personal de Restaurante**
 
 Entrevista 1:
+- **Nombre completo:** Esmeralda Aliaga Patano
+- **Edad:** 21 años
+- **Distrito:** Surco
+- **Screenshot del video:**
+
+  <img src="assets/images/Entrevistaweb1_Empleado.png" width="900" height="600">
+  
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/EVJ_0lTi9jFOgSHsuzW0wgcBnkcilVHnLNvRsqcdUJMppg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=62KaZk
+- **Timing de la entrevista:** 
+- **Duración de la entrevista:** 10
+
+**Resumen:** 10 minutos 30 segundos
+
+La entrevista con Esmeralda Aliaga, donde se le presentó la aplicación web Front Chef, se pudo obtener una valiosa retroalimentación sobre su experiencia como usuaria. Durante la prueba, Esmeralda interactuó tanto con la landing page como con las funcionalidades principales del sistema, mostrando una respuesta notablemente positiva hacia la interfaz y usabilidad general. Destacó la intuitividad de la landing page, apreciando particularmente la sección de testimonios que, según ella, genera confianza en la marca. La claridad en la presentación de precios y promociones fue un punto que valoró especialmente, ya que facilita la planificación presupuestaria para potenciales usuarios. En cuanto a la aplicación web, Esmeralda encontró el proceso de registro y la navegación general muy accesibles, sin requerir capacitación adicional para su comprensión. Mostró especial interés en las funcionalidades de gestión de equipos de refrigeración, el sistema de inventario y la gestión de personal, apreciando la capacidad de agregar elementos visuales como fotos de productos. Un aspecto que destacó fue el sistema de roles y permisos, que permite a diferentes miembros del equipo acceder y gestionar distintas áreas del sistema según su nivel de autorización, facilitando la delegación de responsabilidades sin comprometer el control general de las operaciones. Como sugerencia de mejora, Esmeralda propuso la implementación de un control de gastos más detallado y un sistema de seguimiento para productos que se están agotando, enfatizando la importancia del aspecto financiero para la sostenibilidad del negocio. Durante toda la interacción, demostró ser una usuaria metódica y enfocada en la eficiencia, valorando especialmente las características que permiten una gestión remota y autónoma del negocio. Su comodidad con la interacción digital y su apreciación por la accesibilidad multiplataforma refuerzan su perfil como una administradora moderna que busca soluciones tecnológicas que combinen simplicidad con funcionalidad completa para la gestión de restaurantes. La retroalimentación de Esmeralda valida la dirección del desarrollo de Front Chef, mientras que sus sugerencias proporcionan valiosas perspectivas para futuras mejoras del sistema.
+
 
 Entrevista 2:
+- **Nombre completo:** José Espinoza
+- **Edad:** 52 años 
+- **Distrito:** Cercado de Lima
+- **Screenshot del video:**
+
+  <img src="assets/images/Entrevistaweb2_Empleado.png" width="900" height="600">
+  
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/ETmvZi3lsZVFgDVky_B5ka8BhqfLo2vjDcPgKOfLuPSfEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lu2YsO
+- **Timing de la entrevista:** 
+- **Duración de la entrevista:** 6 minutos 44 segundos
+
+**Resumen:** 
+La entrevista realizada a José Espinoza, un administrador de restaurante de 52 años ubicado en el Cercado de Lima, se obtuvo una valiosa retroalimentación después de que probara la aplicación web Front Chef durante unos días. José demostró una adaptación positiva al sistema, destacando la simplicidad en la interacción inicial con la aplicación y el proceso de registro. Particularmente valoró la visualización inmediata del estado de las máquinas de refrigeración en la página principal, lo que refleja su enfoque en el monitoreo operativo. Su proceso de adaptación fue relativamente rápido, estimando que le tomó entre 2 a 3 días familiarizarse completamente con el sistema, aunque las funciones básicas las dominó en la primera hora de uso. En cuanto al diseño visual, José encontró la interfaz profesional y limpia, aunque sugirió mejorar el contraste en algunos botones para aumentar su visibilidad. Identificó algunos puntos de mejora en la experiencia de usuario, como la necesidad de hacer más intuitivo el acceso a los detalles de mantenimiento y la visualización de productos en cada equipo de refrigeración. Un aspecto significativo de su feedback fue la sugerencia de reorganizar las opciones de mantenimiento en una sección independiente para optimizar el flujo de trabajo diario. En términos de funcionalidad, José destacó la facilidad para realizar tareas básicas de gestión de inventario, aunque sugirió la implementación de campos predeterminados para agilizar el proceso de registro de productos. Mostró especial interés en la capacidad de monitorear parámetros de temperatura y humedad en tiempo real, contrastando positivamente con su método anterior de registro manual. En cuanto a sus hábitos de uso, José manifestó preferir el acceso desde PC para tareas extensas como inventarios completos, mientras aprovecha la versión móvil para verificaciones rápidas durante el servicio, demostrando un enfoque práctico en la gestión operativa. Entre las mejoras sugeridas, destacó la necesidad de incorporar un sistema de escaneo de códigos de barras, predicción de demanda y optimización en la velocidad de carga de algunos formularios. La retroalimentación de José resulta particularmente valiosa al provenir de un usuario con experiencia en la gestión tradicional de restaurantes, quien reconoce el valor agregado de la automatización y el control centralizado que ofrece Front Chef en comparación con los métodos manuales anteriores.
 
 #### 6.3.3. Evaluaciones según heurísticas
 En esta sección, se detalla el proceso de evaluación de las sesiones de validación basado en heurísticas, abarcando aspectos como usabilidad, arquitectura de la información y el diseño inclusivo de la experiencia propuesta. Se utiliza la estructura del formato de evaluación heurística proporcionado en el Anexo D, siguiendo las directrices para evaluar la experiencia del usuario.
+
+**UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**
+
+**Site o App a evaluar:** FrostChef
+
+**Tareas a evaluar: **
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un nuevo usuario
+2. Inicio de sesión en la aplicación
+3. Navegación al home y visualización de máquinas de refrigeración
+4. Acceso a los detalles de una máquina (temperatura, humedad, mantenimiento, etc.)
+5. Registro de un nuevo producto en el inventario
+6. Visualización y gestión de la lista de productos en el inventario
+7. Invitación a un nuevo colaborador (ingreso de correo y rol)
+8. Visualización y edición del perfil del usuario
+9. Cierre de sesión
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Generación de reportes de eficiencia en la gestión de temperatura
+2. Configuración de alertas para temperaturas anómalas
+3. Filtro de los productos
+
+
+
+**Escala de severidad:** 
+
+<table>
+  <tr>
+    <th>Nivel</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+  </tr>
+</table>
+
+
+**Tabla de Resumen:** 
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problema</th>
+    <th>Escala de severidad</th>
+    <th>Heurística/Principio violado(a)</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Mezcla de opciones de mantenimiento con monitoreo diario</td>
+    <td>2</td>
+    <td>Consistencia y estándares</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Falta de campos predeterminados en formulario de productos</td>
+    <td>2</td>
+    <td>Eficiencia y flexibilidad de uso</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ausencia de asignación directa de productos a máquinas</td>
+    <td>3</td>
+    <td>Eficiencia y flexibilidad de uso</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Formulario de invitación a colaboradores incompleto</td>
+    <td>2</td>
+    <td>Retroalimentación y visibilidad</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Opciones limitadas de filtrado en inventario</td>
+    <td>2</td>
+    <td>Flexibilidad y eficiencia de uso</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Inconsistencia en el diseño de la ventana de detalles de producto</td>
+    <td>3</td>
+    <td>Consistencia y estándares</td>
+  </tr>
+</table>
+
+
+
+**Descripción de problemas:** 
+
+
+**PROBLEMA #1:** Mezcla de opciones de mantenimiento con monitoreo diario  
+
+**Severidad:** 2   
+
+**Heurística violada:**  Consistencia y estándares
+
+**Problema:**  
+
+Las opciones de mantenimiento se presentan junto con las opciones de monitoreo diario, lo cual puede causar confusión en el usuario, que podría esperar que estén agrupadas de forma más lógica.
+
+<img src="assets/images/Heuristica1.png" >
+
+
+**Recomendación:**  
+Crear una sección separada exclusivamente para las opciones de mantenimiento, manteniéndola apartada de las funciones de monitoreo diario para mejorar la organización y facilitar la navegación.
+
+---
+
+**PROBLEMA #2:** Falta de campos predeterminados en formulario de productos  
+
+**Severidad:** 2
+**Heurística violada:** Eficiencia y flexibilidad de uso
+
+
+**Problema:**  
+El formulario de registro de productos no cuenta con campos predeterminados, lo que obliga a los usuarios a ingresar repetidamente datos comunes y les hace perder tiempo.
+
+<img src="assets/images/Heuristica2.png" >
+
+
+**Recomendación:**  
+Incluir opciones de campos predeterminados en el formulario para agilizar la entrada de datos y reducir la carga de trabajo para el usuario.
+
+---
+
+**PROBLEMA #3:** Ausencia de asignación directa de productos a máquinas  
+
+**Severidad:** 3   
+
+**Heurística violada:** Eficiencia y flexibilidad de uso 
+
+**Problema:**  
+Actualmente, al registrar un producto, no es posible asignarlo directamente a una máquina de refrigeración específica, lo cual genera pasos adicionales y retrasa el flujo de trabajo.
+
+<img src="assets/images/Heuristica3.png" >
+
+
+**Recomendación:**  
+Agregar una funcionalidad para asignar un producto a una máquina específica durante el proceso de registro, simplificando así la operación y aumentando la eficiencia.
+
+---
+
+**PROBLEMA #4:** Formulario de invitación a colaboradores incompleto   
+
+**Severidad:** 2   
+
+**Heurística violada:** Retroalimentación y visibilidad 
+
+**Problema:**  
+El formulario para invitar a colaboradores es básico y no proporciona suficientes opciones ni una confirmación clara al enviar la invitación, lo cual podría generar dudas en los usuarios sobre el éxito del proceso.
+
+<img src="assets/images/Heuristica4.png" >
+
+
+**Recomendación:**  
+Mejorar el formulario añadiendo más campos relevantes y proporcionando mensajes de confirmación claros al completar el envío.
+
+---
+
+**PROBLEMA #5:** Opciones limitadas de filtrado en inventario  
+
+**Severidad:** 2  
+
+**Heurística violada:** Flexibilidad y eficiencia de uso 
+
+**Problema:**  
+
+La sección de inventario ofrece pocas opciones de filtrado, lo cual dificulta la búsqueda específica de productos y puede hacer que los usuarios inviertan más tiempo en localizar lo que necesitan.
+
+<img src="assets/images/Heuristica5.png" >
+
+
+**Recomendación:**  
+Ampliar las opciones de filtrado en la sección de inventario para facilitar una búsqueda y organización más eficaces.
+
+---
+
+**PROBLEMA #6:** Inconsistencia en el diseño de la ventana de detalles de producto 
+
+**Severidad:** 3  
+
+**Heurística violada:** Consistencia y estándares
+
+**Problema:**  
+Al seleccionar "Ver Detalle" de un producto, se despliega un cuadro de diálogo que es una notificación del navegador y no un componente de la aplicación web. Esto resulta en una apariencia que no coincide con el diseño de la aplicación, afectando la coherencia visual y estética. La ventana no mantiene el estilo ni los colores característicos de la interfaz, lo que puede dar una impresión de falta de integración en el sistema.
+
+<img src="assets/images/Heuristica6.png" >
+
+
+**Recomendación:**  
+Implementar un cuadro de diálogo personalizado dentro de la aplicación, con los mismos colores, estilos y elementos de interfaz del resto de la página. Esto permitirá mantener la coherencia y mejorar la experiencia de usuario.
 
 ### 6.4. Video About-the-Product
 En esta sección, se presenta y describe el contenido del Video About-the-Product, dirigido a los visitantes de la Landing Page y usuarios de las Aplicaciones. El video explica el modelo de negocio y las características principales del software, y contiene al menos un testimonio positivo de un usuario que participó en las entrevistas de validación. Se incluye un screenshot del video, el URL de la versión publicada en Microsoft Stream y YouTube, y la duración del mismo.
