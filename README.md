@@ -298,9 +298,15 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             Organice la correcion de la primera versidel trabajo tb1 y me encargue de las correciones completas de todo el capitulo tres mejorando las user stories y el product backlong siguiendo las indicaciones del profesor.Tambien se fomento en el grupo tener una comunicacion clara y rapida ante cualquier duda o consulta que tenga algun integrante del equipo se usaron canales como Whatsapp para mensaje y discord para llamadas. Haciendo reuniones interdiarias para dialogar sobre los avances.</br></br>
             Patrocinio Escalante, Leonardo Walt</br>
             TB1:</br>
-            Desarrollé el perfil de la solución, utilizando el Lean UX Canvas para asegurar que todos los aspectos del producto estuvieran alineados con las necesidades del usuario y los objetivos del negocio. Realicé el mapeo del User Journey y la creación de Empathy Maps para comprender a profundidad las emociones y comportamientos de los usuarios en cada interacción con el sistema. A través de escenarios As-Is y To-Be, capturé el estado actual y futuro de los procesos, lo que nos ayudó a visualizar las mejoras necesarias. Implementé el lenguaje ubicuo para garantizar una comunicación clara entre todos los involucrados en el proyecto, y llevé a cabo sesiones de EventStorming y modelado de flujos de mensajes de dominio para definir cómo los eventos clave y los mensajes dentro del sistema interactúan de manera eficiente, asegurando que el diseño fuera coherente y adaptable.
+            Desarrollé el perfil de la solución, utilizando el Lean UX Canvas para asegurar que todos los aspectos del producto estuvieran alineados con las necesidades del usuario y los objetivos del negocio. Realicé el mapeo del User Journey y la creación de Empathy Maps para comprender a profundidad las emociones y comportamientos de los usuarios en cada interacción con el sistema. A través de escenarios As-Is y To-Be, capturé el estado actual y futuro de los procesos, lo que nos ayudó a visualizar las mejoras necesarias. Implementé el lenguaje ubicuo para garantizar una comunicación clara entre todos los involucrados en el proyecto, y llevé a cabo sesiones de EventStorming y modelado de flujos de mensajes de dominio para definir cómo los eventos clave y los mensajes dentro del sistema interactúan de manera eficiente, asegurando que el diseño fuera coherente y adaptable.</br>
             TP:</br>
-            </br></br>
+            Desarrollé las correcciones necesarias para garantizar una mejor alineación con las expectativas del proyecto. Presenté los avances en los lineamientos de estilo, la arquitectura de la información, y los mockups de la landing page, destacando cómo estos elementos contribuirán a la experiencia del usuario. También detallé los avances en la configuración del entorno de desarrollo web, la gestión del código fuente, y la guía de estilo y convenciones de código, explicando cómo estas prácticas mejoran la calidad y coherencia del desarrollo.
+            </br>
+            TB2:</br>
+            Desarrollé el avance de la aplicación móvil, ayudando a implementar funcionalidades clave y optimizando su rendimiento. También avancé con el informe del sprint 2, detallando los logros alcanzados y las áreas a mejorar. Además, realicé evaluaciones heurísticas basadas en entrevistas previas, lo cual me permitió identificar y sugerir ajustes que mejoran la usabilidad de la aplicación desde una perspectiva de usuario
+            </br>
+
+</br>
             Díaz Gonzales, Víctor Yordi</br>
             TB1:</br>
             Desarrollé y gestioné las user stories, asegurando que cada una reflejara las necesidades del proyecto y del usuario final. Además, implementé el enfoque de Tactical-Level Domain-Driven Design, lo que nos permitió identificar y organizar los distintos dominios y contextos acotados, como el Bounded Context: Account, mejorando la estructura del sistema. También trabajé en la definición de la Interface Layer y la Infrastructure Layer, facilitando una comunicación clara entre los distintos componentes del sistema. Para finalizar, llevé a cabo sesiones de EventStorming, lo que nos ayudó a identificar eventos clave y procesos dentro del sistema, logrando una visión integral del flujo de trabajo y sus interacciones.</br>
@@ -349,7 +355,11 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
       Nos apoyamos mutuamente revisando los escenarios As-Is y To-Be, logrando identificar mejoras y asegurar la adaptación del diseño al contexto del negocio.</br>
       TP:</br>
       Nos apoyamos para resolver dudas técnicas y unificar el estilo del código, facilitando el desarrollo efectivo y en equipo.</br>
-      </br></br>
+      </br>
+      TB2:</br>
+      Contribuí en el desarrollo de la aplicación móvil, así como en la redacción del informe de progreso del sprint 2. También realicé evaluaciones heurísticas basadas en las entrevistas previas, que sirvieron para optimizar la usabilidad y la experiencia de usuario de la aplicación.
+            </br>
+      </br>
       Díaz Gonzales, Víctor Yordi</br>
       TB1:</br>
       Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.</br>
