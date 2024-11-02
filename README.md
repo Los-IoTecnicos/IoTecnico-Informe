@@ -3845,30 +3845,66 @@ En esta sección, el equipo documenta y detalla las entrevistas de validación r
 #### 6.3.1. Diseño de Entrevistas
 En esta sección, detallamos el diseño de las entrevistas que utilizamos para recolectar información clave. Las entrevistas incluyen preguntas principales y complementarias dirigidas a cada segmento de interés. Aplicamos buenas prácticas de diseño de entrevistas y nos centramos en recolectar información demográfica (como género, edad, distrito de residencia, estado civil, familia, ocupación) y otras características (como personalidad, habilidades, marcas e influencias, dispositivos de preferencia, canales digitales de interacción, objetivos, frustraciones y biografía).
 
-Preguntas:
--	¿Qué tan fácil o difícil te resultó interactuar con la nueva landing page y la aplicación web?
--	¿Encontraste toda la información que necesitabas sin problemas?
--	¿Cuánto tiempo te llevaría familiarizarte con el sistema?
--	¿Qué te parece la apariencia general de la web (colores, diseño, iconos, etc.)?
--	¿Hay algo en la interfaz que te haya resultado confuso o que no entendiste de inmediato?
--	¿Sientes que las opciones para gestionar la refrigeración y el inventario están bien organizadas?
--	¿Pudiste realizar las tareas de gestión del inventario y monitoreo de la refrigeración fácilmente?
--	¿Te gustaría que el flujo de ciertas tareas se modificara para ser más intuitivo?
--	¿Hubo algún paso en particular que te pareció innecesario o difícil de encontrar?
--	¿Cómo fue la experiencia al monitorear la temperatura y registrar el inventario en el nuevo sistema?
--	¿Crees que el sistema facilita la gestión de la temperatura comparado con el método anterior?
--	¿Cómo calificarías la rapidez y efectividad de las alertas del sistema en situaciones críticas?
--	¿Prefieres acceder al sistema desde un dispositivo móvil o desde una PC? ¿Por qué?
--	¿Te parece útil la posibilidad de manejar las funciones de refrigeración e inventario desde un dispositivo móvil?
--	¿Experimentaste algún problema o error durante el uso del sistema?
--	¿Hay alguna funcionalidad que consideres que está faltando y que podría facilitarte el trabajo?
--	¿Te sientes cómodo usando el sistema o consideras que necesitas más capacitación?
--	¿Qué te ha gustado más del sistema de gestión de refrigeración e inventario?
--	¿Qué es lo que cambiarías o mejorarías?
--	¿Cómo describirías la diferencia entre este sistema y el que utilizabas antes?
+**Elementos a incluir en la sesion de validacion:**
+
+**Para la Landing Page:**
+
+1. **Interacción con la Landing Page:**
+
+    - ¿Qué tan fácil o difícil te resultó interactuar con la nueva landing page?
+    - ¿Encontraste toda la información que necesitabas sin problemas?
+    - ¿Qué te parece la apariencia general de la web (colores, diseño, iconos, etc.)?
+    - ¿Hay algo en la interfaz que te haya resultado confuso o que no entendiste de inmediato?
+
+2. **Navegación y Usabilidad:**
+
+    - ¿Sientes que las opciones están bien organizadas para gestionar la refrigeración y el inventario?
+    - ¿Te gustaría que el flujo de ciertas tareas se modificara para ser más intuitivo?
+
+3. **Valor Propuesto:**
+
+    - ¿Crees que el sistema facilita la gestión de la temperatura comparado con el método anterior?
+    - ¿Cómo describirías la diferencia entre este sistema y el que utilizabas antes?
+
+4. **Capacitación y Aprendizaje:**
+
+    - ¿Cuánto tiempo te llevaría familiarizarte con el sistema?
+    - ¿Te sientes cómodo usando el sistema o consideras que necesitas más capacitación?
+
+**Para las Aplicaciones (Web y Móvil):**
+
+5. **User Flows:**
+
+    - ¿Hubo algún paso en particular que te pareció innecesario o difícil de encontrar?
+    - ¿Experimentaste algún problema o error durante el uso del sistema?
+
+6. **Funcionalidades Clave:**
+
+    - ¿Pudiste realizar las tareas de gestión del inventario y monitoreo de la refrigeración fácilmente?
+    - ¿Cómo fue la experiencia al monitorear la temperatura y registrar el inventario en el nuevo sistema?
+    - ¿Cómo calificarías la rapidez y efectividad de las alertas del sistema en situaciones críticas?
+
+7. **Interacción y Diseño:**
+
+    - ¿Qué te parece la experiencia de usar la aplicación para gestionar la refrigeración e inventario?
+    - ¿Prefieres acceder al sistema desde un dispositivo móvil o desde una PC? ¿Por qué?
+
+8. **Feedback del Usuario:**
+
+    - ¿Te parece útil la posibilidad de manejar las funciones de refrigeración e inventario desde un dispositivo móvil?
+    - ¿Hay alguna funcionalidad que consideres que está faltando y que podría facilitarte el trabajo?
+    - ¿Qué te ha gustado más del sistema de gestión de refrigeración e inventario?
+    - ¿Qué cambiarías o mejorarías?
+
 
 #### 6.3.2. Registro de Entrevistas
 En esta sección, se detalla el registro de entrevistas, que incluye la información de los entrevistados y un resumen descriptivo de sus respuestas. Cada entrevista es registrada en video y se proporciona un enlace al video editado junto con el timing y duración de cada entrevista. Se recopilan tanto características objetivas como subjetivas para construir arquetipos basados en esta información.
+
+**Personal de Restaurantes:**
+
+Entrevista 1:
+
+Entrevista 2:
 
 #### 6.3.3. Evaluaciones según heurísticas
 En esta sección, se detalla el proceso de evaluación de las sesiones de validación basado en heurísticas, abarcando aspectos como usabilidad, arquitectura de la información y el diseño inclusivo de la experiencia propuesta. Se utiliza la estructura del formato de evaluación heurística proporcionado en el Anexo D, siguiendo las directrices para evaluar la experiencia del usuario.
