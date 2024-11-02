@@ -2355,6 +2355,32 @@ El diseño prioriza la claridad y la eficiencia, permitiendo a los encargados de
 ### 5.4.2. Applications Wireflow Diagrams
 
 Esta sección presenta la propuesta de Wireflows. Consideramos un Wireflow para cada User goal, teniendo en cuenta los User Persona para cada aplicación que forma parte del alcance. Utilizamos las herramientas indicadas para los Wireflows y redactamos el User goal, complementando con una explicación del flujo especificado.
+User Goal 1 : Agregar producto
+
+- **Happy Path:**
+  Visualización regular. No se genera ningún error al agregar un producto.
+- **Unhappy Path:**
+  Se ha generado un error al intentar agregar un producto.
+
+<img src="assets/images/wireflow1fix.png">
+
+User Goal 2 : Mandar invitación
+
+- **Happy Path:**
+  Visualización regular. No se genera ningún error al invitar a un usuario.
+- **Unhappy Path:**
+  Se ha generado un error al intentar invitar a un usuario.
+
+<img src="assets/images/wireflow2fix.png">
+
+User Goal 3 : Asignar Cámara de refrigeración
+
+- **Happy Path:**
+  Visualización regular. No se genera ningún error al asignar una cámara de refrigeración a un producto.
+- **Unhappy Path:**
+  Se ha generado un error al intentar asignar una cámara de refrigeración a un producto.
+
+<img src="assets/images/wireflow3.png">
 
 ### 5.4.3. Applications Mock-ups
 
@@ -2363,6 +2389,33 @@ En esta sección, como equipo, presentamos y explicamos los Mock-ups de las apli
 ### 5.4.4. Applications User Flow Diagrams
 
 En esta sección, como equipo, presentamos la propuesta de User Flows. Para cada User goal, considerando los User Persona de cada aplicación, desarrollamos User Flows consistentes con los Wireflows de los cuales se derivan. Incluimos los Mock-ups de las vistas o pantallas de las aplicaciones, junto con los flujos que constituyen la ruta esperada (happy path) y las rutas alternativas (unhappy paths). Utilizamos las herramientas indicadas para crear diagramas que detallan los flujos y condiciones especificados, proporcionando una visión clara de la navegación y la interacción del usuario.
+
+User Goal 1 : Agregar producto
+
+- **Happy Path:**
+  Visualización regular. No se genera ningún error al agregar un producto.
+- **Unhappy Path:**
+  Se ha generado un error al intentar agregar un producto.
+
+<img src="assets/images/userflow1.png">
+
+User Goal 2 : Mandar invitación
+
+- **Happy Path:**
+  Visualización regular. No se genera ningún error al invitar a un usuario.
+- **Unhappy Path:**
+  Se ha generado un error al intentar invitar a un usuario.
+
+<img src="assets/images/userflow2.png">
+
+User Goal 3 : Asignar Cámara de refrigeración
+
+- **Happy Path:**
+  Visualización regular. No se genera ningún error al asignar una cámara de refrigeración a un producto.
+- **Unhappy Path:**
+  Se ha generado un error al intentar asignar una cámara de refrigeración a un producto.
+
+<img src="assets/images/userflow3.png">
 
 ## 5.5. Applications Prototyping
 
