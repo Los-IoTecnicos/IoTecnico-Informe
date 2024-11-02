@@ -3955,7 +3955,7 @@ En esta sección, se detalla el proceso de evaluación de las sesiones de valida
 
 **Site o App a evaluar:** FrostChef
 
-**Tareas a evaluar: **
+**Tareas a evaluar:** 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 1. Registro de un nuevo usuario
