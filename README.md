@@ -3083,8 +3083,8 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
     </thead>
     <tbody>
         <tr>
-            <td rowspan="3">US000</td>
-            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
+            <td rowspan="1">US001</td>
+            <td rowspan="1">Monitoreo en Tiempo Real Web</td>
             <td>Tasks-01</td>
             <td>[TÍTULO DE LA TAREA]</td>
             <td>[DESCRIPCIÓN DE LA TAREA]</td>
@@ -3093,150 +3093,482 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
             <td>To-do</td>
         </tr>
         <tr>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td rowspan="11">US004</td>
+            <td rowspan="11">Calibración de Sensores IoT</td>
             <td>Tasks-02</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
-            <td>3 Hours</td>
-            <td>Diego Sánchez</td>
-            <td>To-do</td>
+            <td>IoT System Design Steps</td>
+            <td>Se realiza los 12 pasos para poder definir que sensores vamos a trabajar en el proyecto</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>Tasks-03</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Identificacion de los componentes o addons requeridos</td>
+            <td>Se investiga y diseña los posibles componentes que estaran conectados al microcontrolador para poder solventar las necesidades del proyecto.</td>
             <td>3 Hours</td>
-            <td>Diego Sánchez</td>
-            <td>To-do</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td rowspan="3">US000</td>
-            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
             <td>Tasks-04</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Desarrollo de la topología de los sensores</td>
+            <td>En wokwi, se agregan los componentes necesarios para desarrollar los sensores, ademas de la circutería</td>
             <td>2 Hours</td>
-            <td>Victor Yordi</td>
-            <td>To-do</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>Tasks-05</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
-            <td>3 Hours</td>
-            <td>Victor Yordi</td>
-            <td>To-do</td>
+            <td>Desarrollo de funcionalidad del sensor DHT22 (Temperatura/Humedad)</td>
+            <td>Desarrollar codigo en el sketch.ino para el funcionamiento del sensor de humedad/temperatura DHT22</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>Tasks-06</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
-            <td>3 Hours</td>
-            <td>Victor Yordi</td>
-            <td>To-do</td>
+            <td>Desarrollo de funcionalidad del sensor de Proximidad</td>
+            <td>Desarrollar el código en el sketch.ino para el funcionamiento del sensor de proximidad HC-SR04</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td rowspan="3">US000</td>
-            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
             <td>Tasks-07</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Desarrollo de la funcionalidad de sensor de gas metano (mq2)</td>
+            <td>Desarrollar código para el funcionamiento del sensor de gas metano MQ2 en sketch.ino</td>
             <td>2 Hours</td>
-            <td>Piero Stefano</td>
-            <td>To-do</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>Tasks-08</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
-            <td>3 Hours</td>
-            <td>Piero Stefano</td>
-            <td>To-do</td>
+            <td>Desarrollo de la funcionalidad de la pantalla LCD cristal</td>
+            <td>Desarrollar código para una pantalla de cristal LCD 16x02 para mostrar resultados al usuario</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>Tasks-09</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
-            <td>3 Hours</td>
-            <td>Piero Stefano</td>
-            <td>To-do</td>
+            <td>Desarrollar una concectvidad con el sistema back-end</td>
+            <td>Desarrollar conexión y respuesta de los sensores al sistema back-end y viceversa.</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
-        <tr>
-            <td rowspan="3">US000</td>
-            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
+          <tr>
             <td>Tasks-10</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Desarrollar endpoints para la lectura de los sensores IoT</td>
+            <td>Poder desarrollar un endpoint que interactue con una tabla que contega los atributos de los sensores.</td>
             <td>2 Hours</td>
-            <td>Juan Jose Chacon</td>
-            <td>To-do</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
-        <tr>
+          <tr>
             <td>Tasks-11</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
-            <td>3 Hours</td>
-            <td>Juan Jose Chacon</td>
-            <td>To-do</td>
-        </tr>
-        <tr>
-            <td>Tasks-12</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
-            <td>3 Hours</td>
-            <td>Juan Jose Chacon</td>
-            <td>To-do</td>
-        </tr>
-        <tr>
-            <td rowspan="3">US000</td>
-            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
-            <td>Tasks-13</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td> Desarrollar seguridad para los sensores</td>
+            <td>Revisar las direcciones MAC de cada sensores e desarrollar una seguridad ante cualquier manipulación no autorizada de estos.</td>
             <td>2 Hours</td>
-            <td>Leo Patrocinio</td>
-            <td>To-do</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>Tasks-12</td>
+            <td>Desarrollo de la funcionalidad de los LEDs</td>
+            <td>Desarrollar LEDs para mostrar indicios de que el sistema de sensores este en buen funcionamiento o no.</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
         </tr>
         <tr>
+            <td rowspan="1">US010</td>
+            <td rowspan="1">Actualización de Software IoT</td>
+            <td>Tasks-13</td>
+            <td>Desarrollo de una función para modificar la sensibilidad  de los sensores</td>
+            <td>A traves del sistema back-end, poder realizar ajustes en la sensibilidad de los sensores.</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="6">US023</td>
+            <td rowspan="6">API de equipos de refrigeración</td>
             <td>Tasks-14</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Definir el modelo de datos para los equipos de refrigeración</td>
+            <td>Crear el esquema de la base de datos para los equipos de refrigeración, con atributos como tipo de equipo, capacidad, estado, etc.</td>
             <td>3 Hours</td>
-            <td>Leo Patrocinio</td>
-            <td>To-do</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td>Tasks-15</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
-            <td>3 Hours</td>
-            <td>Leo Patrocinio</td>
-            <td>To-do</td>
+            <td>Implementar de registro de equipos de refrigeración</td>
+            <td>Crear los endpoints para el registro de los equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td rowspan="3">US000</td>
-            <td rowspan="3">[TÍTULO DEL USER STORY]</td>
             <td>Tasks-16</td>
-            <td>[TÍTULO DE LA TAREA]</td>
+            <td>Visualizacion de detalles  de equipos de refrigeración</td>
+            <td>Crear los endpoints para visualizar los detalles de los equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>Tasks-17</td>
+            <td>Actualizacion de detalles  de equipos de refrigeración</td>
+            <td>Crear los endpoints para actualizar los detalles de los equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>Tasks-18</td>
+            <td>Eliminacion de equipos de refrigeración</td>
+            <td>Crear los endpoints para eliminar los equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>Tasks-19</td>
+            <td>Implementar endpoint para reportar fallos en equipos de refrigeración</td>
+            <td>Desarrollar la funcionalidad que permita reportar fallos de equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="5">US025</td>
+            <td rowspan="5">API de gestión de inventarios</td>
+            <td>Tasks-20</td>
+            <td>Definir el modelo de datos para los insumos de inventario</td>
+            <td>Crear el esquema de la base de datos para los insumos, incluyendo atributos como nombre, cantidad, fecha de caducidad, etc.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-21</td>
+            <td>Implementar registro de productos para la gestion de inventario</td>
+            <td>Crear el endpoint para el registro de los productos para la gestion del inventario</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-22</td>
+            <td>Visualizar los detalles de los productos del inventario</td>
+            <td>Crear el endpoint para la visualizacion de los detalles de los productos  del inventario</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-23</td>
+            <td>Eliminar los productos del inventario</td>
+            <td>Crear el endpoint para eliminar los productos del inventario</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>Tasks-24</td>
+            <td>Actualizar los detalles de los productos del inventario</td>
+            <td>Crear el endpoint para actualizar los detalles de los productos del inventario</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="5">US021</td>
+            <td rowspan="5">API de gestión del restaurante</td>
+            <td>Tasks-25</td>
+            <td>Definir el modelo de datos para el restaurante</td>
+            <td>Crear el esquema de la base de datos para el restaurante</td>
+            <td>2 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-26</td>
+            <td>Implementacion registro del restaurante</td>
+            <td>Crear el endpoint para el registro del restaurante.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-27</td>
+            <td>Visualizacion de detalles del restaurante</td>
+            <td>Crear el endpoint para la visualizacion de los detalles del restaurante.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-28</td>
+            <td>Actualizacion de detalles del restaurante</td>
+            <td>Crear el endpoint para la actualizacion de los detalles del restaurante.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-29</td>
+            <td>Eliminacion del restaurante</td>
+            <td>Crear el endpoint para eliminar el restaurante.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US008</td>
+            <td rowspan="3">Generación de reportes de inventario</td>
+            <td>Tasks-30</td>
+            <td>Crear una una interfaz de los detalles de los insumos</td>
             <td>[DESCRIPCIÓN DE LA TAREA]</td>
             <td>2 Hours</td>
-            <td>Ismael Zamora</td>
+            <td>Juan Jose Navarro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-31</td>
+            <td>Generar una información de los estados en la que se encuentra el producto</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Juan Jose Navarro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-32</td>
+            <td>Crear una vista  que liste el estado del insumo</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Juan Jose Navarro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US026</td>
+            <td rowspan="3">Visualización de Equipos de refrigeración Mobile</td>
+            <td>Tasks-33</td>
+            <td>Crear interfaz de visualización de equipos</td>
+            <td>Diseñar la vista en la sección "Equipment" que muestre una tarjeta para cada equipo, con la imagen, estado y capacidad de almacenamiento.</td>
+            <td>2 Hours</td>
+            <td>Leonardo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-34</td>
+            <td>Implementar lógica para obtener datos de los equipos</td>
+            <td>Desarrollar la conexión con el backend para obtener la información de cada equipo y mostrarla en la sección "Equipment".</td>
+            <td>3 Hours</td>
+            <td>Leonardo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-35</td>
+            <td>Implementar vista de detalles del equipo</td>
+            <td>Desarrollar la lógica para mostrar la información detallada de cada equipo cuando se pulsa el botón "Ver detalles".</td>
+            <td>3 Hours</td>
+            <td>Leonardo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US027</td>
+            <td rowspan="3">Reporte de Errores en Equipos de refrigeración Mobile</td>
+            <td>Tasks-36</td>
+            <td>Implementar botón de reporte de error en equipos (Mobile)</td>
+            <td>Agregar un botón "Reportar Error" en cada tarjeta de equipo en la sección "Equipment".</td>
+            <td>2 Hours</td>
+            <td>Leonardo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-37</td>
+            <td>Implementar formulario de reporte de errores (Mobile)</td>
+            <td>Diseñar e implementar el formulario que permita al usuario describir el problema al pulsar "Reportar Error".</td>
+            <td>3 Hours</td>
+            <td>Leonardo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>Tasks-38</td>
+            <td>Implementar envío y confirmación del reporte (Mobile)</td>
+            <td>Desarrollar la lógica para enviar el reporte de error al backend y mostrar un mensaje de confirmación tras su envío exitoso..</td>
+            <td>3 Hours</td>
+            <td>Leonardo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US029</td>
+            <td rowspan="2">Registro de inventario Mobile</td>
+            <td>Tasks-39</td>
+            <td>Crear interfaz para añadir un producto</td>
+            <td>Diseñara una interfaz intuitiva para añadir un producto</td>
+            <td>2 Hours</td>
+            <td>Victor Dias</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-40</td>
+            <td>Implementar un formulario para register de  inventarios</td>
+            <td>Crear el formulario para añadir los productos</td>
+            <td>2 Hours</td>
+            <td>Victor Diaz</td>
             <td>To-do</td>
         </tr>
         <tr>
-            <td>Tasks-17</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
-            <td>3 Hours</td>
-            <td>Ismael Zamora</td>
-            <td>To-do</td>
+            <td rowspan="3">US028</td>
+            <td rowspan="3">Notificaciones de la aplicación mobile</td>
+            <td>Tasks-41</td>
+            <td>Crear vista de lista de notificaciones (Mobile)</td>
+            <td>Diseñar e implementar la vista que muestra todas las notificaciones recibidas, en formato de lista.</td>
+            <td>2 Hours</td>
+            <td>Leronado Patrocinio</td>
+            <td>Done</td>
         </tr>
         <tr>
-            <td>Tasks-18</td>
-            <td>[TÍTULO DE LA TAREA]</td>
+            <td>Tasks-42</td>
+            <td>Implementar lógica de recepción de notificaciones de error y vencimiento (Mobile)</td>
+            <td>Desarrollar la lógica para recibir notificaciones sobre errores en equipos de refrigeración y vencimiento de productos mediante el backend</td>
+            <td>2 Hours</td>
+            <td>Leronado Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-43</td>
+            <td>Implementar eliminación de notificaciones deslizando (Mobile)</td>
+            <td>Programar la funcionalidad que permite eliminar una notificación al deslizarla en la lista de la sección "Notificaciones"</td>
+            <td>3 Hours</td>
+            <td>Leronado Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">US030</td>
+            <td rowspan="2">Visualizacion de inventario Mobile - home</td>
+            <td>Tasks-44</td>
+            <td>Crear la interfaz para la lista de productos</td>
+            <td>Crear las cards para obtener la lista de los productos añadidos</td>
+            <td>2 Hours</td>
+            <td>Victor Diaz</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-45</td>
+            <td>Crear el un servicio para consumir el endopint del backend de la lista de productos</td>
+            <td>Desarrollar la conexión con el backend para obtener la información de cada los productos "Product".</td>
+            <td>3 Hours</td>
+            <td>Victor Diaz</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="3">US019</td>
+            <td rowspan="3">Interfaz intuitiva Mobile</td>
+            <td>Tasks-46</td>
+            <td>Diseñar interfaz intuitiva</td>
+            <td>Crear el diseño de la interfaz móvil para facilitar la navegación del usuario.</td>
+            <td>2 Hours</td>
+            <td>Leonardo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-47</td>
+            <td>Implementar mejoras en la navegación intuitiva</td>
+            <td>Desarrollar la lógica para implementar mejoras en la interfaz de usuario</td>
+            <td>2 Hours</td>
+            <td>Leonardo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-48</td>
+            <td>Pruebas de usabilidad</td>
+            <td>Realizar pruebas de usabilidad para asegurar que la interfaz es intuitiva.</td>
+            <td>3 Hours</td>
+            <td>Leonardo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <td rowspan="6">US031</td>
+            <td rowspan="6">Despliegue y conectividad</td>
+            <td>Tasks-49</td>
+            <td>Configurar el entorno de despliegue</td>
+            <td>Configurar el entorno adecuado para el despliegue de las aplicaciones y asegurar que todos los parámetros de red sean compatibles.</td>
+            <td>2 Hours</td>
+            <td>Falta</td>
+            <td>Falta</td>
+        </tr>
+        <tr>
+            <td>Tasks-50</td>
+            <td>Despliegue del Backend</td>
+            <td>Desplegar el backend de Frost Chef en Render.</td>
+            <td>1 Hours</td>
+            <td>Falta</td>
+            <td>Falta</td>
+        </tr>
+        <tr>
+            <td>Tasks-52</td>
+            <td>Implementar validación de conectividad</td>
+            <td>Programar la lógica que verifique la conectividad de las aplicaciónes y genere una alerta en caso de pérdida de conexión.</td>
+            <td>3 Hours</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+         <tr>
+            <td>Tasks-53</td>
+            <td>Conectividad con la Aplicación Web</td>
+            <td>Realizar la conexión de nuestro backend desplegado con la aplicación web desplegada.</td>
+            <td>2 Hours</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+          <tr>
+            <td>Tasks-54</td>
+            <td>Conectividad con la Aplicación Mobile</td>
+            <td>Realizar la conexión de nuestro backend desplegado con la aplicación mobile desplegada.</td>
+            <td>3 Hours</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+          <tr>
+            <td>Tasks-55</td>
+            <td>Realizar pruebas de conectividad</td>
+            <td>Ejecutar pruebas para asegurar que las aplicaciones mantengan conectividad estable en diferentes entornos y condiciones de red.</td>
+            <td>3 Hours</td>
+            <td>0</td>
+            <td>0</td>
+        </tr>
+        <td rowspan="3">US032</td>
+            <td rowspan="3">Agregar un equipo de refrigeracion</td>
+            <td>Tasks-56</td>
+            <td>Realizar una vista donde se visualizen todo los equipos</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>2 Hours</td>
+            <td>Juan Jose Navarro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-57</td>
+            <td>Realizar un formulario para registrar equipos de visualización</td>
             <td>[DESCRIPCIÓN DE LA TAREA]</td>
             <td>3 Hours</td>
-            <td>Ismael Zamora</td>
-            <td>To-do</td>
+            <td>Juan Jose Navarro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-58</td>
+            <td> Visualizacion de los equipos registrados</td>
+            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>3 Hours</td>
+            <td>Juan Jose Navarro</td>
+            <td>Done</td>
         </tr>
     </tbody>
 </table>
