@@ -319,7 +319,7 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             Desarrollé y gestioné las user stories, asegurando que cada una reflejara las necesidades del proyecto y del usuario final. Además, implementé el enfoque de Tactical-Level Domain-Driven Design, lo que nos permitió identificar y organizar los distintos dominios y contextos acotados, como el Bounded Context: Account, mejorando la estructura del sistema. También trabajé en la definición de la Interface Layer y la Infrastructure Layer, facilitando una comunicación clara entre los distintos componentes del sistema. Para finalizar, llevé a cabo sesiones de EventStorming, lo que nos ayudó a identificar eventos clave y procesos dentro del sistema, logrando una visión integral del flujo de trabajo y sus interacciones.</br>
             TP:</br>
             Nuestro equipo mantuvo una colaboración constante, apoyándonos mutuamente en cada etapa del proyecto. Ante cualquier consulta o duda, trabajamos juntos para encontrar soluciones, lo que permitió que cada miembro completara sus tareas individuales de manera efectiva. Este trabajo en equipo nos llevó a entregar un proyecto final bien estructurado y satisfactorio tanto en calidad como en cumplimiento de los plazos.</br>
-            TB2: Se realizó el sprint 2 sobre el D}desarrollo e implementación de la aplicacion mobil y web en entornos relaes para validar sus usabilidad e
+            TB2: </br> Se realizó el sprint 2 sobre el D}desarrollo e implementación de la aplicacion mobil y web en entornos relaes para validar sus usabilidad e
             </br></br>
             Sánchez Ramírez, Diego Antonio</br>
             TB1:</br>
@@ -374,6 +374,8 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
       Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.</br>
       TP:</br>
       Nos enfocamos en construir un entorno de trabajo en equipo que permitiera la participación activa de todos. La planificación de tareas se realizó de forma coordinada, permitiendo cumplir los objetivos de manera eficaz. Este enfoque nos ayudó a alcanzar nuestras metas mientras fomentábamos la colaboración y el apoyo entre los integrantes del grupo.
+      TB2 </br>
+      Se empleó el trabajo colaborativo para realizar el sprint 2 de manera que como equipo era continuar con tareas del desarrollo de las aplicaciones web y mobil y tner un buen resultado.
       </br></br>
       Sánchez Ramírez, Diego Antonio</br>
       TB1:</br>
