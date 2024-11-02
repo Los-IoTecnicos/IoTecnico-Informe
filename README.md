@@ -2442,6 +2442,12 @@ User Goal 3 : Asignar Cámara de refrigeración
 ## 5.5. Applications Prototyping
 
 En esta sección, como equipo, incluimos prototipos de UI para Desktop y Mobile Web Browser con simulación de interacción y navegación, acorde con la propuesta de paths de User Flow Diagrams. Para cada caso, incluimos un screenshot de video y un enlace a un video subido a Microsoft Stream, donde demostramos y explicamos los principales flujos de interacción que cubren los prototipos.
+**Aplicacion web**
+Este prototipo en Figma muestra los principales flujos de interacción de la aplicación, destacando la experiencia del usuario a través de sus funciones clave. En él se visualizan las transiciones entre pantallas, los puntos de interacción más importantes y cómo los usuarios navegan intuitivamente a través de la interfaz.
+<img src="assets/images/imagen.jpg">
+
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f316_upc_edu_pe/EY9qWfLvNtpNpZdtbHwO77sBGuEkSyWtdBqyqQmahRVMKA?e=lgaabc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  
+
 
 # Capítulo VI: Product Implementation, Validation & Deployment
 
