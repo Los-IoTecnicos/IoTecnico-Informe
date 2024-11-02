@@ -325,7 +325,9 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             TB1:</br>
             Lideré el diseño de la arquitectura de software, asegurando que la solución fuera escalable y eficiente. Durante este proceso, llevé a cabo sesiones de EventStorming para mapear los eventos clave dentro del sistema, lo que nos permitió identificar y estructurar mejor los flujos de trabajo. Además, participé en actividades de needfinding, profundizando en las necesidades reales de los usuarios y asegurando que el diseño estuviera alineado con sus expectativas. También realicé un análisis de competidores, evaluando las soluciones actuales en el mercado para identificar oportunidades de mejora y asegurar que nuestro producto tuviera una ventaja competitiva sólida.</br>
             TP:</br>
-            Coordine con el equipo para pode realizar los diferentes puntos de este trabajo parcial, por ejemplo en el intercambio de ideas para la realización de los diagramas de arquitectura de software utilizando Structurizr.
+            Coordine con el equipo para pode realizar los diferentes puntos de este trabajo parcial, por ejemplo en el intercambio de ideas para la realización de los diagramas de arquitectura de software utilizando Structurizr. </br>
+           TB2: </br> Lideré la gestión del tablero Kanban en Trello, asegurando que cada tarea esté organizada y que las responsabilidades estén claramente definidas. Esta herramienta ha sido fundamental para mejorar la organización del proyecto, especialmente en la gestión de tareas relacionadas con IoT. 
+            
             </br></br>
             Navarro Chacon, Juan Jose</br>
             TB1:</br>
@@ -337,6 +339,10 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             específica que fue completada dentro
             del plazo establecido.</br>
             </br></br>
+            TB2: </br>
+       A través de la colaboración constante con los demás miembros, logramos una organización optimizada de tareas, especialmente en el desarrollo de las partes web y móvil del proyecto.
+
+</br>
             Zamora Rivera, Ismael Sebastian</br>
             TB1:</br>
             Durante el desarrollo del proyecto y la fase de identificación del producto, surgieron diversas dificultades. Estos inconvenientes aparecieron debido a los desafíos propios del proceso de trabajo, así como a la evaluación del producto final, lo que requirió un análisis más detallado para implementar las soluciones necesarias.</br>
@@ -345,6 +351,8 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
       </td>
       <td>TB1</br>
       En conclusión, un enfoque colaborativo y multidisciplinario es clave en el desarrollo de soluciones de ingeniería de software. Los estudiantes han destacado la importancia de integrar diversas disciplinas y conocimientos para mejorar cada fase del proceso, desde el diseño inicial y el análisis competitivo hasta la interacción con los usuarios y la arquitectura de software. Este enfoque no solo garantiza que los productos finales sean técnicamente robustos y alineados con las necesidades del mercado, sino que también resalta la importancia de la colaboración y la comunicación efectiva entre áreas especializadas para superar desafíos complejos y alcanzar soluciones innovadoras. Este modelo interdisciplinario no solo eleva la calidad del desarrollo de productos, sino que también prepara a los futuros ingenieros para liderar proyectos en entornos más integrados y tecnológicamente avanzados.
+      Liderazgo Colaborativo en Equipo:
+El equipo adopta un liderazgo compartido, donde cada miembro asume roles de liderazgo según sus habilidades y el momento del proyecto, fomentando la toma de decisiones conjunta y el compromiso. Este enfoque dinámico permite que todos contribuyan a la coordinación y ejecución de tareas clave.
       </td>
     </tr>
     <tr>
@@ -381,7 +389,9 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
       TB1:</br>
       Realizamos reuniones de grupo mediante distintos medios, como Discord o de manera presencial en las sesiones del curso, establecimos limites de fecha de entrega y cumplimiento de objetivos para la base del proyecto</br>
       TP:</br>
-      Realizar como el anterior entregable, reuniones para poder corregir los fallos que tuvimos en dicho entregable. Se considero reforzar mas la planeación de metas y objetivos, ademas de la comunicación, para poder realizar un buen trabajo en conjunto.
+      Realizar como el anterior entregable, reuniones para poder corregir los fallos que tuvimos en dicho entregable. Se considero reforzar mas la planeación de metas y objetivos, ademas de la comunicación, para poder realizar un buen trabajo en conjunto. </br>
+      TB3: </br>
+La  estructura del tablero permitió una visualización clara del flujo de trabajo y ayuda al equipo a priorizar actividades de manera eficiente.  
       </br></br>
       Navarro Chacon, Juan Jose</br>
       TB1:</br>
@@ -394,6 +404,8 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
       mejorar el desempeño del grupo.</br>
       TP:</br>
       Nos apoyamos mutuamente ante cada consulta de cada integrante del equipo, lo cual nos permitió realizar de manera efectiva nuestras  tareas asignadas, tanto individual como grupal y así poder realizar un trabajo satisfactorio.</br>
+      TB3: </br>
+Gracias a esta gestión colaborativa gracias a Trello, hemos logrado maximizar la eficiencia en la realización de las tareas asignadas a estas áreas, manteniendo un flujo constante de avances.
       </br></br>
       Zamora Rivera, Ismael Sebastian</br>
       TB1:</br>
@@ -401,7 +413,10 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
       TP</br>
       Fomentamos un ambiente donde cada miembro pudo participar activamente y compartir ideas, lo que promovió una colaboración efectiva, Asimismo Eetablecimos metas concretas al inicio, lo que facilitó una mejor organización y división de las responsabilidades. Al planificar cada tarea con precisión, logramos cumplir con los objetivos de manera eficiente y alcanzar los resultados esperados dentro del tiempo previsto.</br>
       </td>
-      <td>El equipo consolidó un entorno altamente colaborativo e inclusivo. Se reforzó la comunicación efectiva mediante herramientas como WhatsApp y Discord, manteniendo reuniones interdiarias que facilitaron la coordinación y resolución de dudas. Cada miembro del equipo contribuyó activamente, estableciendo metas concretas y organizando las tareas de manera precisa, lo que permitió un trabajo fluido y alineado con los objetivos del proyecto. Además, la mejora en la planificación y distribución de responsabilidades, sumada al apoyo mutuo, fue clave para cumplir con los plazos y lograr los resultados esperados. El equipo mostró una notable capacidad para trabajar en conjunto, corregir errores y cumplir los objetivos establecidos de manera eficiente.</td>
+      <td>El equipo consolidó un entorno altamente colaborativo e inclusivo. Se reforzó la comunicación efectiva mediante herramientas como WhatsApp y Discord, manteniendo reuniones interdiarias que facilitaron la coordinación y resolución de dudas. Cada miembro del equipo contribuyó activamente, estableciendo metas concretas y organizando las tareas de manera precisa, lo que permitió un trabajo fluido y alineado con los objetivos del proyecto. Además, la mejora en la planificación y distribución de responsabilidades, sumada al apoyo mutuo, fue clave para cumplir con los plazos y lograr los resultados esperados. El equipo mostró una notable capacidad para trabajar en conjunto, corregir errores y cumplir los objetivos establecidos de manera eficiente.
+      Entorno Inclusivo y Cumplimiento de Objetivos:
+El equipo promueve un ambiente inclusivo y abierto a diversas ideas, planificando metas claras en un tablero Kanban en Trello. Esta herramienta organiza y prioriza tareas, facilita el seguimiento del progreso y asegura el cumplimiento de objetivos mediante la responsabilidad compartida.
+      </td>
     </tr>
   </tbody>
 </table>
