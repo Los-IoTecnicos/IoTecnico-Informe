@@ -3908,7 +3908,40 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 <img src="assets/images/Swagger4.png">
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
-En esta sección, se resume el proceso de despliegue realizado durante el Sprint 2. Se detallan actividades como la creación de cuentas, configuración de recursos en proveedores de la nube, y la configuración de proyectos de desarrollo para integración o automatización del despliegue
+
+## Ve a GitHub
+
+1. **Inicia sesión en tu cuenta de GitHub** y crea un nuevo repositorio.
+   - Elige un nombre adecuado para tu landing page y asegúrate de que sea público.
+
+2. **Conecta tu repositorio local al remoto**:
+   - En la terminal, configura tu repositorio remoto:
+
+     ```bash
+     git remote add origin https://github.com/tu_usuario/nombre_del_repositorio.git
+     ```
+
+3. **Sube tus archivos a GitHub**:
+   - Envía tus archivos al repositorio remoto:
+
+     ```bash
+     git push -u origin master
+     ```
+
+## Accede a la configuración de GitHub Pages
+
+1. Dirígete a la pestaña **Settings** de tu repositorio.
+2. Desplázate hacia abajo hasta la sección **GitHub Pages**.
+
+   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=672727b5&is=6725d635&hm=b4d6fb8346fffe7ce5316d0ca3e87a469a7daad30c2af42297298a9805dcf80f&=&format=webp&quality=lossless&width=815&height=411)
+
+### Configura GitHub Pages
+
+1. En la sección **Source**, selecciona la rama `master` (o `main`, dependiendo de tu configuración) y la carpeta raíz (`/`).
+2. Haz clic en **Save**.
+
+   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=672727b5&is=6725d635&hm=fc587bbad64762501d7357dfd2f07ac9120340960814dd1b22127548f8a9988f&=&format=webp&quality=lossless&width=902&height=411)
+
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint
 
@@ -4260,6 +4293,8 @@ Implementar un cuadro de diálogo personalizado dentro de la aplicación, con lo
 
 ### 6.4. Video About-the-Product
 En esta sección, se presenta y describe el contenido del Video About-the-Product, dirigido a los visitantes de la Landing Page y usuarios de las Aplicaciones. El video explica el modelo de negocio y las características principales del software, y contiene al menos un testimonio positivo de un usuario que participó en las entrevistas de validación. Se incluye un screenshot del video, el URL de la versión publicada en Microsoft Stream y YouTube, y la duración del mismo.
+
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
