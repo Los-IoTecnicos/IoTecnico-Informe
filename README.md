@@ -3925,10 +3925,10 @@ Entrevista 1:
   <img src="assets/images/Entrevistaweb1_Empleado.png" width="900" height="600">
   
 - **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/EVJ_0lTi9jFOgSHsuzW0wgcBnkcilVHnLNvRsqcdUJMppg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=62KaZk
-- **Timing de la entrevista:** 
-- **Duración de la entrevista:** 10
 
-**Resumen:** 10 minutos 30 segundos
+- **Duración de la entrevista:** 10 minutos 30 segundos
+
+**Resumen:** 
 
 La entrevista con Esmeralda Aliaga, donde se le presentó la aplicación web Front Chef, se pudo obtener una valiosa retroalimentación sobre su experiencia como usuaria. Durante la prueba, Esmeralda interactuó tanto con la landing page como con las funcionalidades principales del sistema, mostrando una respuesta notablemente positiva hacia la interfaz y usabilidad general. Destacó la intuitividad de la landing page, apreciando particularmente la sección de testimonios que, según ella, genera confianza en la marca. La claridad en la presentación de precios y promociones fue un punto que valoró especialmente, ya que facilita la planificación presupuestaria para potenciales usuarios. En cuanto a la aplicación web, Esmeralda encontró el proceso de registro y la navegación general muy accesibles, sin requerir capacitación adicional para su comprensión. Mostró especial interés en las funcionalidades de gestión de equipos de refrigeración, el sistema de inventario y la gestión de personal, apreciando la capacidad de agregar elementos visuales como fotos de productos. Un aspecto que destacó fue el sistema de roles y permisos, que permite a diferentes miembros del equipo acceder y gestionar distintas áreas del sistema según su nivel de autorización, facilitando la delegación de responsabilidades sin comprometer el control general de las operaciones. Como sugerencia de mejora, Esmeralda propuso la implementación de un control de gastos más detallado y un sistema de seguimiento para productos que se están agotando, enfatizando la importancia del aspecto financiero para la sostenibilidad del negocio. Durante toda la interacción, demostró ser una usuaria metódica y enfocada en la eficiencia, valorando especialmente las características que permiten una gestión remota y autónoma del negocio. Su comodidad con la interacción digital y su apreciación por la accesibilidad multiplataforma refuerzan su perfil como una administradora moderna que busca soluciones tecnológicas que combinen simplicidad con funcionalidad completa para la gestión de restaurantes. La retroalimentación de Esmeralda valida la dirección del desarrollo de Front Chef, mientras que sus sugerencias proporcionan valiosas perspectivas para futuras mejoras del sistema.
 
@@ -3942,7 +3942,7 @@ Entrevista 2:
   <img src="assets/images/Entrevistaweb2_Empleado.png" width="900" height="600">
   
 - **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/ETmvZi3lsZVFgDVky_B5ka8BhqfLo2vjDcPgKOfLuPSfEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lu2YsO
-- **Timing de la entrevista:** 
+
 - **Duración de la entrevista:** 6 minutos 44 segundos
 
 **Resumen:** 
