@@ -3574,58 +3574,9 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
             <td>Leonardo Patrocinio</td>
             <td>Done</td>
         </tr>
-        <td rowspan="6">US031</td>
-            <td rowspan="6">Despliegue y conectividad</td>
-            <td>Tasks-49</td>
-            <td>Configurar el entorno de despliegue</td>
-            <td>Configurar el entorno adecuado para el despliegue de las aplicaciones y asegurar que todos los parámetros de red sean compatibles.</td>
-            <td>2 Hours</td>
-            <td>Falta</td>
-            <td>Falta</td>
-        </tr>
-        <tr>
-            <td>Tasks-50</td>
-            <td>Despliegue del Backend</td>
-            <td>Desplegar el backend de Frost Chef en Render.</td>
-            <td>1 Hours</td>
-            <td>Falta</td>
-            <td>Falta</td>
-        </tr>
-        <tr>
-            <td>Tasks-52</td>
-            <td>Implementar validación de conectividad</td>
-            <td>Programar la lógica que verifique la conectividad de las aplicaciónes y genere una alerta en caso de pérdida de conexión.</td>
-            <td>3 Hours</td>
-            <td>0</td>
-            <td>0</td>
-        </tr>
-         <tr>
-            <td>Tasks-53</td>
-            <td>Conectividad con la Aplicación Web</td>
-            <td>Realizar la conexión de nuestro backend desplegado con la aplicación web desplegada.</td>
-            <td>2 Hours</td>
-            <td>0</td>
-            <td>0</td>
-        </tr>
-          <tr>
-            <td>Tasks-54</td>
-            <td>Conectividad con la Aplicación Mobile</td>
-            <td>Realizar la conexión de nuestro backend desplegado con la aplicación mobile desplegada.</td>
-            <td>3 Hours</td>
-            <td>0</td>
-            <td>0</td>
-        </tr>
-          <tr>
-            <td>Tasks-55</td>
-            <td>Realizar pruebas de conectividad</td>
-            <td>Ejecutar pruebas para asegurar que las aplicaciones mantengan conectividad estable en diferentes entornos y condiciones de red.</td>
-            <td>3 Hours</td>
-            <td>0</td>
-            <td>0</td>
-        </tr>
         <td rowspan="3">US032</td>
             <td rowspan="3">Agregar un equipo de refrigeracion</td>
-            <td>Tasks-56</td>
+            <td>Tasks-49</td>
             <td>Realizar una vista donde se visualizen todo los equipos</td>
             <td>Implementar cards donde se muestren los equipo obtenidos por parte del restaurante</td>
             <td>2 Hours</td>
@@ -3633,7 +3584,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
             <td>Done</td>
         </tr>
         <tr>
-            <td>Tasks-57</td>
+            <td>Tasks-50</td>
             <td>Realizar un formulario para registrar equipos de visualización</td>
             <td>Diseñar e implementar el formulario que permita al usuario describir las condiciones del equipo de refrigeracion</td>
             <td>3 Hours</td>
@@ -3641,7 +3592,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
             <td>Done</td>
         </tr>
         <tr>
-            <td>Tasks-58</td>
+            <td>Tasks-51</td>
             <td> Visualizacion de los equipos registrados</td>
             <td>Visualizar en las cards los equipos añadidos por el usuario</td>
             <td>3 Hours</td>
@@ -3999,6 +3950,7 @@ Commits hechos en el repositorio
 <img src="assets/images/Commits1.PNG">
 
 Collaboration
+<img src="assets/images/CollaborateWeb.PNG">
 
 **App Mobile**
 
@@ -4009,7 +3961,7 @@ Commits hechos en el repositorio
 <img src="assets/images/CommitM.PNG">
 
 Collaboration
-
+<img src="assets/images/CollaborateMobile2.PNG">
 **Backend**
 
 Se ha desarrollado la implementacion del Backend en las siguientes ramas:
@@ -4021,16 +3973,18 @@ Commits hechos en el repositorio
 <img src="assets/images/Commits3B.PNG">
 
 Collaboration
-
+<img src="assets/images/Collaborate.PNG">
 **IOT**
 
 Se ha desarrollado la implementacion del IOT en las siguientes ramas:
-<img src="assets/images/BranchesIOT.PNG">
+<img src="assets/images/BranchesIOT2.PNG">
 
 Commits hechos en el repositorio
-<img src="assets/images/CommitIot.PNG">
+<img src="assets/images/CommitsIOT2.PNG">
 
 Collaboration
+
+<img src="assets/images/CollaborateIOT.PNG">
 
 ### 6.3. Validation Interviews
 En esta sección, el equipo documenta y detalla las entrevistas de validación realizadas durante el proyecto. Las entrevistas incluyen la interacción de usuarios de los segmentos objetivo con la página de aterrizaje y las aplicaciones. Esta sección abarca el diseño de entrevistas, el registro de entrevistas y las evaluaciones según heurísticas, utilizando el formato de evaluación heurística indicado para el proyecto.
