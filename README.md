@@ -3924,8 +3924,8 @@ Entrevista 1:
 
   <img src="assets/images/Entrevistaweb1_Empleado.png" width="900" height="600">
   
-- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/EVJ_0lTi9jFOgSHsuzW0wgcBnkcilVHnLNvRsqcdUJMppg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=62KaZk
-
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYy2HXkP4X9BkYignZidoxcBEGSiglEOcDNAtdDUlb5zDQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=efnRU9
+  
 - **Duración de la entrevista:** 10 minutos 30 segundos
 
 **Resumen:** 
