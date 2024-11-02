@@ -2386,6 +2386,28 @@ User Goal 3 : Asignar Cámara de refrigeración
 
 En esta sección, como equipo, presentamos y explicamos los Mock-ups de las aplicaciones. Nuestro objetivo es mostrar cómo se aplican los principios de diseño, elementos de diseño inclusivo y la arquitectura de información, así como el Design System establecido para nuestros productos digitales. Utilizamos las herramientas indicadas para crear mock-ups que reflejen fielmente la interfaz final de las aplicaciones, asegurando una experiencia de usuario coherente y atractiva.
 
+A continuación, se presentan los mock-ups de la aplicación FrostChef, diseñados para brindar una experiencia de usuario intuitiva y atractiva. Mobile Application Mock-ups
+
+Register
+
+<img src="assets/images/login.png">
+
+Login
+
+<img src="assets/images/login.png">
+
+Add Product
+
+<img src="assets/images/addproduct.png">
+
+Assign
+
+<img src="assets/images/assign.png">
+
+Collaborators
+
+<img src="assets/images/collaborators.png">
+
 ### 5.4.4. Applications User Flow Diagrams
 
 En esta sección, como equipo, presentamos la propuesta de User Flows. Para cada User goal, considerando los User Persona de cada aplicación, desarrollamos User Flows consistentes con los Wireflows de los cuales se derivan. Incluimos los Mock-ups de las vistas o pantallas de las aplicaciones, junto con los flujos que constituyen la ruta esperada (happy path) y las rutas alternativas (unhappy paths). Utilizamos las herramientas indicadas para crear diagramas que detallan los flujos y condiciones especificados, proporcionando una visión clara de la navegación y la interacción del usuario.
