@@ -4311,6 +4311,8 @@ Finalmente, no podemos quedarnos estancados. Tenemos que seguir aprendiendo con 
 ## Enlace al Video
 Video Expo: https://drive.google.com/drive/folders/1XUXWfB3LqDMa2fjlEI7xLkeY8VWUU1Dm?usp=sharing
 
+Video Expo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/EUBDwxfqcGhDlYBnxOuFZI0BhzVK--6kMpiQJ0aa42ZExg?e=xfIuip&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 # Bibliografía
 1. **Arora, C. P. (2018).** *Refrigeration and air conditioning.* McGraw-Hill Education.
 
