@@ -3079,7 +3079,7 @@ En esta sección, como equipo, especificamos los aspectos principales del Sprint
     </tr>
     <tr>
         <th>Sprint Planning Background</th>
-        <td></td>
+        <td><img src="assets/images/Trello.png"></td>
     </tr>
     <tr>
         <th>Date</th>
@@ -3111,19 +3111,27 @@ En esta sección, como equipo, especificamos los aspectos principales del Sprint
     </tr>
     <tr>
         <th>Sprint Goal & User Stories</th>
-        <td></td>
+        <td>15</td>
     </tr>
     <tr>
         <th>Sprint 2 Goal</th>
-        <td> Mejoras en la aplicación web, avance de la aplicación móvil, desarrollo del backend para web y móvil, implementación del edge backend </td>
+        <td>1. Our focus is on setting up the core web and mobile application functionality for inventory management.
+We believe it delivers enhanced control and visibility of inventory levels to restaurant staff.
+This will be confirmed when restaurant personnel can view real-time inventory updates from the application.</br> 2. Our focus is on developing the IoT backend system to monitor inventory temperature and status in real-time.
+We believe it delivers timely alerts and quality assurance to both restaurant staff and maintenance technicians.
+This will be confirmed when users receive alerts when inventory sensors detect irregularities.Our focus is on developing the IoT backend system to monitor inventory temperature and status in real-time.
+We believe it delivers timely alerts and quality assurance to both restaurant staff and maintenance technicians.
+This will be confirmed when users receive alerts when inventory sensors detect irregularities.</br> 3. Our focus is on enabling multi-user access and role-based functionalities in the application for restaurant managers and technicians.
+We believe it delivers improved collaboration and task management for inventory control and maintenance.
+This will be confirmed when managers and technicians can access their respective functionalities and track updates seamlessly. </td>
     </tr>
     <tr>
         <th>Sprint n Velocity</th>
-        <td></td>
+        <td>34</td>
     </tr>
     <tr>
         <th>Sum of Story Points</th>
-        <td></td>
+        <td>32</td>
     </tr>
 </table>
 
