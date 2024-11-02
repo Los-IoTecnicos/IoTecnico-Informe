@@ -163,13 +163,20 @@ _____________________
     <td>Se agregaron las siguientes secciones:
        Organization Systems,Landing Page Wireframe,Applications User Flow Diagrams,Source Code Style Guide & Conventions </td>
   </tr>
-     <tr>
+  <tr>
     <td>V 2.1.3</td>
     <td>015/09/2024</td>
     <td>Piero</td>
     <td>Se agregaron las siguientes secciones:
       Labeling Systems,Landing page Mock-UP,Applications Prototyping,Sofware Deployment Configuration
-    </td>
+  </td>
+  <tr>
+    <td>V 2.2.0</td>
+    <td>01/11/2024</td>
+    <td>Leonardo</td>
+    <td>Se agregaron las siguientes secciones:
+       Sprint Planning 2, Registro de Entrevistas y Evaluaciones según heurísticas </td>
+  </tr>
   </tr>
 
 </tbody>
