@@ -165,33 +165,13 @@ _____________________
   </tr>
      <tr>
     <td>V 2.1.3</td>
-    <td>15/09/2024</td>
+    <td>015/09/2024</td>
     <td>Piero</td>
     <td>Se agregaron las siguientes secciones:
       Labeling Systems,Landing page Mock-UP,Applications Prototyping,Sofware Deployment Configuration
     </td>
-         <tr>
-    <td>V 2.1.4</td>
-    <td>27/09/2024</td>
-    <td>Victor</td>
-    <td>Se agregaron las siguientes secciones:
-      Desarollo de la aplicacion web de nuestro proyecto
-    </td>
-             <tr>
-    <td>V 2.1.5</td>
-    <td>12/10/2024</td>
-    <td>Leo</td>
-    <td>Se agregaron las siguientes secciones:
-     Codificacion de la landingpage de frotchef
-    </td>
   </tr>
 
-  <tr>
-    <td>V 2.1.6</td>
-    <td>17/10/2024</td>
-    <td>Diego</td>
-    <td> Se realizaron el desarrollo e implmentacion de sistema IoT</td>
-  </tr>
 </tbody>
 </table>
 
@@ -3860,11 +3840,72 @@ En esta sección, como equipo, explicamos y presentamos los avances en implement
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review
 En esta sección, el equipo presenta el conjunto de pruebas automatizadas realizadas durante el Sprint 2, incluyendo Unit Tests, Integration Tests y Acceptance Tests. Se detallan las clases y comportamientos asociados a cada test, y se incluyen ejemplos de los archivos .feature y Steps para los tests de BDD. También proporcionamos la ruta del repositorio y los commits relacionados con los avances en testing.
 
+Usamos la herramienta de selenium para testear: 
+
+**Landing page**
+<img src="assets/images/Testing LandingPage.png">
+
+**Aplicacion Web**
+<img src="assets/images/TestingFrontEnt.png">
+
 #### 6.2.2.5. Execution Evidence for Sprint Review
 En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 2. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
 
+**Aplication Web**
+
+ - Inicio de sesion
+ <img src="assets/images/Web1.png">
+
+ - Creacion de cuenta
+ <img src="assets/images/Web2.png">
+
+ - Visualizacion del equipo de refrigeracion
+ <img src="assets/images/Web3.png">
+
+ - Añadir un producto
+ <img src="assets/images/Web4.png">
+
+ - Vista para añadir colaboradores al restaurante
+ <img src="assets/images/Web5.png">
+
+ - Enviar correo al colaborador
+ <img src="assets/images/Web6.png">
+
+ - Peril del dueño del restaurante
+ <img src="assets/images/Web7.png">
+
+**Aplication Mobile**
+
+- Inicio de sesion
+<img src="assets/images/Mobile1.png">
+
+- Menu de Productos
+<img src="assets/images/Mobile2.png">
+
+- Equipo de Refrigeracion
+<img src="assets/images/Mobile3.png">
+
+- Detalles de una unidad de refrigeracion
+<img src="assets/images/Mobile4.png">
+
+- Agregar producto
+<img src="assets/images/Mobile5.png">
+
+- Notificaciones 
+<img src="assets/images/Mobile6.png">
+
+- Creación de cuenta
+<img src="assets/images/Mobile7.png">
+
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
-En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 2. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoin
+En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 2. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
+
+**Usando la herramienta Swagger se pudo documentar, visualizar y consumir nuestros servicios**
+
+<img src="assets/images/Swagger1.png">
+<img src="assets/images/Swagger2.png">
+<img src="assets/images/Swagger3.png">
+<img src="assets/images/Swagger4.png">
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review
 En esta sección, se resume el proceso de despliegue realizado durante el Sprint 2. Se detallan actividades como la creación de cuentas, configuración de recursos en proveedores de la nube, y la configuración de proyectos de desarrollo para integración o automatización del despliegue
@@ -3872,6 +3913,49 @@ En esta sección, se resume el proceso de despliegue realizado durante el Sprint
 #### 6.2.2.8. Team Collaboration Insights during Sprint
 
 En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2
+
+**App Web**
+
+Se ha desarrollado la implementacion de la App Web en  la siguientes ramas:
+<img src="assets/images/BranchesWeb.PNG">
+
+Commits hechos en el repositorio
+<img src="assets/images/Commits.PNG">
+<img src="assets/images/Commits1.PNG">
+
+Collaboration
+
+**App Mobile**
+
+Se ha desarrollado la implementacion de la App Mobile en las siguientes ramas:
+<img src="assets/images/BranchesMobile.PNG">
+
+Commits hechos en el repositorio
+<img src="assets/images/CommitM.PNG">
+
+Collaboration
+
+**Backend**
+
+Se ha desarrollado la implementacion del Backend en las siguientes ramas:
+<img src="assets/images/BranchesBackend.PNG">
+
+Commits hechos en el repositorio
+<img src="assets/images/Commits1B.PNG">
+<img src="assets/images/Commits2B.PNG">
+<img src="assets/images/Commits3B.PNG">
+
+Collaboration
+
+**IOT**
+
+Se ha desarrollado la implementacion del IOT en las siguientes ramas:
+<img src="assets/images/BranchesIOT.PNG">
+
+Commits hechos en el repositorio
+<img src="assets/images/CommitIot.PNG">
+
+Collaboration
 
 ### 6.3. Validation Interviews
 En esta sección, el equipo documenta y detalla las entrevistas de validación realizadas durante el proyecto. Las entrevistas incluyen la interacción de usuarios de los segmentos objetivo con la página de aterrizaje y las aplicaciones. Esta sección abarca el diseño de entrevistas, el registro de entrevistas y las evaluaciones según heurísticas, utilizando el formato de evaluación heurística indicado para el proyecto.
@@ -3944,11 +4028,11 @@ Entrevista 1:
 
   <img src="assets/images/Entrevistaweb1_Empleado.png" width="900" height="600">
   
-- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYy2HXkP4X9BkYignZidoxcBEGSiglEOcDNAtdDUlb5zDQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=efnRU9
-  
-- **Duración de la entrevista:** 10 minutos 30 segundos
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/EVJ_0lTi9jFOgSHsuzW0wgcBnkcilVHnLNvRsqcdUJMppg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=62KaZk
+- **Timing de la entrevista:** 
+- **Duración de la entrevista:** 10
 
-**Resumen:** 
+**Resumen:** 10 minutos 30 segundos
 
 La entrevista con Esmeralda Aliaga, donde se le presentó la aplicación web Front Chef, se pudo obtener una valiosa retroalimentación sobre su experiencia como usuaria. Durante la prueba, Esmeralda interactuó tanto con la landing page como con las funcionalidades principales del sistema, mostrando una respuesta notablemente positiva hacia la interfaz y usabilidad general. Destacó la intuitividad de la landing page, apreciando particularmente la sección de testimonios que, según ella, genera confianza en la marca. La claridad en la presentación de precios y promociones fue un punto que valoró especialmente, ya que facilita la planificación presupuestaria para potenciales usuarios. En cuanto a la aplicación web, Esmeralda encontró el proceso de registro y la navegación general muy accesibles, sin requerir capacitación adicional para su comprensión. Mostró especial interés en las funcionalidades de gestión de equipos de refrigeración, el sistema de inventario y la gestión de personal, apreciando la capacidad de agregar elementos visuales como fotos de productos. Un aspecto que destacó fue el sistema de roles y permisos, que permite a diferentes miembros del equipo acceder y gestionar distintas áreas del sistema según su nivel de autorización, facilitando la delegación de responsabilidades sin comprometer el control general de las operaciones. Como sugerencia de mejora, Esmeralda propuso la implementación de un control de gastos más detallado y un sistema de seguimiento para productos que se están agotando, enfatizando la importancia del aspecto financiero para la sostenibilidad del negocio. Durante toda la interacción, demostró ser una usuaria metódica y enfocada en la eficiencia, valorando especialmente las características que permiten una gestión remota y autónoma del negocio. Su comodidad con la interacción digital y su apreciación por la accesibilidad multiplataforma refuerzan su perfil como una administradora moderna que busca soluciones tecnológicas que combinen simplicidad con funcionalidad completa para la gestión de restaurantes. La retroalimentación de Esmeralda valida la dirección del desarrollo de Front Chef, mientras que sus sugerencias proporcionan valiosas perspectivas para futuras mejoras del sistema.
 
@@ -3962,7 +4046,7 @@ Entrevista 2:
   <img src="assets/images/Entrevistaweb2_Empleado.png" width="900" height="600">
   
 - **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/ETmvZi3lsZVFgDVky_B5ka8BhqfLo2vjDcPgKOfLuPSfEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lu2YsO
-
+- **Timing de la entrevista:** 
 - **Duración de la entrevista:** 6 minutos 44 segundos
 
 **Resumen:** 
@@ -3975,7 +4059,7 @@ En esta sección, se detalla el proceso de evaluación de las sesiones de valida
 
 **Site o App a evaluar:** FrostChef
 
-**Tareas a evaluar:** 
+**Tareas a evaluar: **
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 1. Registro de un nuevo usuario
