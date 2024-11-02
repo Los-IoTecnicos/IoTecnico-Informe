@@ -3357,7 +3357,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
             <td rowspan="3">Generación de reportes de inventario</td>
             <td>Tasks-30</td>
             <td>Crear una una interfaz de los detalles de los insumos</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Visualizar una card donde muestre los detalles de los insumos</td>
             <td>2 Hours</td>
             <td>Juan Jose Navarro</td>
             <td>Done</td>
@@ -3365,7 +3365,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
         <tr>
             <td>Tasks-31</td>
             <td>Generar una información de los estados en la que se encuentra el producto</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Se generara la informacion del estado en la que se encuentran los diversos productos actualmente</td>
             <td>3 Hours</td>
             <td>Juan Jose Navarro</td>
             <td>Done</td>
@@ -3446,7 +3446,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
             <td>Crear el formulario para añadir los productos</td>
             <td>2 Hours</td>
             <td>Victor Diaz</td>
-            <td>To-do</td>
+            <td>Done</td>
         </tr>
         <tr>
             <td rowspan="3">US028</td>
@@ -3571,7 +3571,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
             <td rowspan="3">Agregar un equipo de refrigeracion</td>
             <td>Tasks-56</td>
             <td>Realizar una vista donde se visualizen todo los equipos</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Implementar cards donde se muestren los equipo obtenidos por parte del restaurante</td>
             <td>2 Hours</td>
             <td>Juan Jose Navarro</td>
             <td>Done</td>
@@ -3579,7 +3579,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
         <tr>
             <td>Tasks-57</td>
             <td>Realizar un formulario para registrar equipos de visualización</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Diseñar e implementar el formulario que permita al usuario describir las condiciones del equipo de refrigeracion</td>
             <td>3 Hours</td>
             <td>Juan Jose Navarro</td>
             <td>Done</td>
@@ -3587,7 +3587,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
         <tr>
             <td>Tasks-58</td>
             <td> Visualizacion de los equipos registrados</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Visualizar en las cards los equipos añadidos por el usuario</td>
             <td>3 Hours</td>
             <td>Juan Jose Navarro</td>
             <td>Done</td>
@@ -3613,99 +3613,211 @@ En esta sección, como equipo, explicamos y presentamos los avances en implement
     <tbody>
         <tr>
             <td>Web-Application-Front</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>develop</td>
+            <td>d89806630c1c9a91d073ea00fba3992cd252036b</td>
+            <td>Update side-navigator-bar.component.html</td>
+            <td>-</td>
+            <td>Oct 31,2024</td>
         </tr>
         <tr>
             <td>Web-Application-Front</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>develop</td>
+            <td>adbd14ac00980ccd9304f558f1ef4024cf6598b0</td>
+            <td>Update home.component.ts</td>
+            <td>-</td>
+            <td>Oct 31,2024</td>
         </tr>
         <tr>
             <td>Web-Application-Front</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>develop</td>
+            <td>3564c6b0f897ed729f70890541c6ebec053ffc18</td>
+            <td>Update inventary.component.ts</td>
+            <td>-</td>
+            <td>Nov 1, 2024</td>
         </tr>
         <tr>
             <td>Web-Application-Front</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>develop</td>
+            <td>692aa762b116045b2e48ea827ef6027ff08fe0d5</td>
+            <td>Update home.component.ts</td>
+            <td>-</td>
+            <td>Nov 1, 2024</td>
         </tr>
         <tr>
             <td>Mobile-Application</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>Main</td>
+            <td>fbfc6c9ead4b6fa2ad7cf31e8b394ab3ac369b93</td>
+            <td>Initial Commit</td>
+            <td>-</td>
+            <td>Oct 24, 2024</td>
         </tr>
         <tr>
             <td>Mobile-Application</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
-        </tr>
-        <tr>
-            <td>Mobile-Application</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
-        </tr>
-        <tr>
-            <td>Mobile-Application</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>feature/notifications</td>
+            <td>9a622fcae129b4a78ac8df194bad24bf3bdb8fd1</td>
+            <td>Mobile_Notifications</td>
+            <td>add notifications in mobile</td>
+            <td>Oct 28, 2024</td>
         </tr>
         <tr>
             <td>Backend</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>Main</td>
+            <td>894a234567e0bffde38c95f5d5f99921a9099104</td>
+            <td>Primer Commit</td>
+            <td>-</td>
+            <td>Oct 27,2024</td>
         </tr>
         <tr>
             <td>Backend</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>Main</td>
+            <td>8b107bda46cf02a2d6e9c87d0ba60eaa247c551f</td>
+            <td>add: shared</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
         </tr>
         <tr>
             <td>Backend</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>Main</td>
+            <td>094481d5f324e37a6c4bc046edcd173e71f7385a</td>
+            <td>Update application.properties</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
         </tr>
         <tr>
             <td>Backend</td>
-            <td>[BRANCH NAME]</td>
-            <td>[COMMIT ID]</td>
-            <td>[COMMIT MESSAGE]</td>
-            <td>[COMMIT BODY]</td>
-            <td>[DATE]</td>
+            <td>Main</td>
+            <td>b58c7cad54a3f94b9ee66bff4ebbdb7277f21214</td>
+            <td>feat: add Mockito for UnitTest</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+         <tr>
+            <td>Backend</td>
+            <td>feature/collaborate_&_request</td>
+            <td>4e9c89a953b159b01136705986ff8de4c93a692e</td>
+            <td>add: restaurant commads</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+         <tr>
+            <td>Backend</td>
+            <td>feature/collaborate_&_request</td>
+            <td>9598de9eb8ea5eb77baefe186f10575872e37a66</td>
+            <td>add: restaurant queries</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+         <tr>
+            <td>Backend</td>
+            <td>feature/collaborate_&_request</td>
+            <td>b323b3eb49b39bd3993a9ae406e6491d1242c2d3</td>
+            <td>add: model services</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/collaborate_&_request</td>
+            <td>6ca03a1b26f3d067e24f3fc4962e32f2b4c48403</td>
+            <td>add: command and query services implementation</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/collaborate_&_request</td>
+            <td>fd2d2869c5a02296e5e1bcae10c7636f10de5bdc</td>
+            <td>feat(restaurant): added resources and assemblers for interfaces layer</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+        <tr>
+            <td>Backend</td>
+            <td>feature/collaborate_&_request</td>
+            <td>a229c1bbfea20c73edcb74fec6fbb822bb1152f1</td>
+            <td>feat(restaurant): added controller service for restaurant</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>d470c39c27962ab5c77731404f939d9ce240b7eb</td>
+            <td>feat(coolingunit): added, commands, queries and value objects in domain</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>a5031fe0a8081baeba0558c31cc9fe838050f592</td>
+            <td>feat(coolingunit): added service contracts in domain</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>b515ec3b23fc3e3f4297f3067b94d0b5f0e47158</td>
+            <td>feat(coolingunit): added command and query services implementation</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+           <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>612a48e078006660e16fa193fd6b524aff08d440</td>
+            <td>feat(coolingunit): added resources and assemblers for interfaces layer</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>2f34c01c0cacd903680cee35b6af3ac97d2fe58e</td>
+            <td>feat(coolingUnit): added controller service for coolerUnit</td>
+            <td>-</td>
+            <td>Oct 29, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>68337949701c056995d1d9e469795c8d20b58472</td>
+            <td>feat(inventoryitem): added commands and queries in domain</td>
+            <td>-</td>
+            <td>Oct 30, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>839db786026aa59f89fc4861f50bff619398fc5c</td>
+            <td>feat(inventoryitem): added service contracts in domain</td>
+            <td>-</td>
+            <td>Oct 30, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>66e3877f22502f0b8d7a590afbb3d2d62a7cd137</td>
+            <td>feat(inventoryitem): added command and query services implementation</td>
+            <td>-</td>
+            <td>Oct 30, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>0ed0637bb827f8db59fafbabed66f50641ee2005</td>
+            <td>feat(inventoryitem): added resources and assemblers for interface layer</td>
+            <td>-</td>
+            <td>Oct 30, 2024</td>
+        </tr>
+          <tr>
+            <td>Backend</td>
+            <td>feature/inventory_management</td>
+            <td>d02c64ee34d8809885d07860f6fdfecae19fc399</td>
+            <td>feat:(inventoryitem): added controller service for inventoryitem</td>
+            <td>-</td>
+            <td>Oct 30, 2024</td>
         </tr>
     </tbody>
 </table>
