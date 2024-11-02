@@ -165,13 +165,33 @@ _____________________
   </tr>
      <tr>
     <td>V 2.1.3</td>
-    <td>015/09/2024</td>
+    <td>15/09/2024</td>
     <td>Piero</td>
     <td>Se agregaron las siguientes secciones:
       Labeling Systems,Landing page Mock-UP,Applications Prototyping,Sofware Deployment Configuration
     </td>
+         <tr>
+    <td>V 2.1.4</td>
+    <td>27/09/2024</td>
+    <td>Victor</td>
+    <td>Se agregaron las siguientes secciones:
+      Desarollo de la aplicacion web de nuestro proyecto
+    </td>
+             <tr>
+    <td>V 2.1.5</td>
+    <td>12/10/2024</td>
+    <td>Leo</td>
+    <td>Se agregaron las siguientes secciones:
+     Codificacion de la landingpage de frotchef
+    </td>
   </tr>
 
+  <tr>
+    <td>V 2.1.6</td>
+    <td>17/10/2024</td>
+    <td>Diego</td>
+    <td> Se realizaron el desarrollo e implmentacion de sistema IoT</td>
+  </tr>
 </tbody>
 </table>
 
