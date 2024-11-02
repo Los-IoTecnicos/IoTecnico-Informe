@@ -319,6 +319,7 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             Desarrollé y gestioné las user stories, asegurando que cada una reflejara las necesidades del proyecto y del usuario final. Además, implementé el enfoque de Tactical-Level Domain-Driven Design, lo que nos permitió identificar y organizar los distintos dominios y contextos acotados, como el Bounded Context: Account, mejorando la estructura del sistema. También trabajé en la definición de la Interface Layer y la Infrastructure Layer, facilitando una comunicación clara entre los distintos componentes del sistema. Para finalizar, llevé a cabo sesiones de EventStorming, lo que nos ayudó a identificar eventos clave y procesos dentro del sistema, logrando una visión integral del flujo de trabajo y sus interacciones.</br>
             TP:</br>
             Nuestro equipo mantuvo una colaboración constante, apoyándonos mutuamente en cada etapa del proyecto. Ante cualquier consulta o duda, trabajamos juntos para encontrar soluciones, lo que permitió que cada miembro completara sus tareas individuales de manera efectiva. Este trabajo en equipo nos llevó a entregar un proyecto final bien estructurado y satisfactorio tanto en calidad como en cumplimiento de los plazos.</br>
+            TB2: Se realizó el sprint 2 sobre el D}desarrollo e implementación de la aplicacion mobil y web en entornos relaes para validar sus usabilidad e
             </br></br>
             Sánchez Ramírez, Diego Antonio</br>
             TB1:</br>
