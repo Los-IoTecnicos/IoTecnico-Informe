@@ -310,7 +310,7 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             Desarrollé las correcciones necesarias para garantizar una mejor alineación con las expectativas del proyecto. Presenté los avances en los lineamientos de estilo, la arquitectura de la información, y los mockups de la landing page, destacando cómo estos elementos contribuirán a la experiencia del usuario. También detallé los avances en la configuración del entorno de desarrollo web, la gestión del código fuente, y la guía de estilo y convenciones de código, explicando cómo estas prácticas mejoran la calidad y coherencia del desarrollo.
             </br>
             TB2:</br>
-            Desarrollé el avance de la aplicación móvil, ayudando a implementar funcionalidades clave y optimizando su rendimiento. También avancé con el informe del sprint 2, detallando los logros alcanzados y las áreas a mejorar. Además, realicé evaluaciones heurísticas basadas en entrevistas previas, lo cual me permitió identificar y sugerir ajustes que mejoran la usabilidad de la aplicación desde una perspectiva de usuario
+            Colaboré con el equipo en el desarrollo de la aplicación móvil, implementando funcionalidades clave y optimizando su rendimiento, lo que permitió un liderazgo conjunto en el proyecto.
             </br>
 
 </br>
@@ -356,7 +356,8 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
       Durante la primera entrega, organicé y gestioné documentos clave, como el video de entrevistas y la descripción del startup. También participé en el diseño y priorización del product backlog, asegurando que todas las tareas estuvieran alineadas con los objetivos. Gracias a una planificación clara, el equipo avanzó de manera colaborativa en los capítulos 3 y 4, cumpliendo con los plazos establecidos.</br>
       TP:</br>
       En la segunda entrega, corregí la primera versión de TB1 y mejoré el capítulo 3, enfocándome en las user stories y el product backlog según las indicaciones del profesor. Fomenté una comunicación fluida dentro del equipo mediante WhatsApp y Discord, con reuniones interdiarias que ayudaron a planificar tareas y cumplir objetivos de manera inclusiva.</br>
-      </br></br>
+      </br>
+      </br>
       Patrocinio Escalante, Leonardo Walt</br>
       TB1:</br>
       Nos apoyamos mutuamente revisando los escenarios As-Is y To-Be, logrando identificar mejoras y asegurar la adaptación del diseño al contexto del negocio.</br>
@@ -364,7 +365,7 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
       Nos apoyamos para resolver dudas técnicas y unificar el estilo del código, facilitando el desarrollo efectivo y en equipo.</br>
       </br>
       TB2:</br>
-      Contribuí en el desarrollo de la aplicación móvil, así como en la redacción del informe de progreso del sprint 2. También realicé evaluaciones heurísticas basadas en las entrevistas previas, que sirvieron para optimizar la usabilidad y la experiencia de usuario de la aplicación.
+      Fomenté un ambiente de trabajo colaborativo al avanzar en el informe del sprint 2 y realizar evaluaciones heurísticas, estableciendo metas claras y planificando tareas para cumplir con los objetivos de mejora de usabilidad.
             </br>
       </br>
       Díaz Gonzales, Víctor Yordi</br>
