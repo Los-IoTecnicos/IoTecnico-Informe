@@ -4296,7 +4296,11 @@ Implementar un cuadro de diálogo personalizado dentro de la aplicación, con lo
 En esta sección, se presenta y describe el contenido del Video About-the-Product, dirigido a los visitantes de la Landing Page y usuarios de las Aplicaciones. El video explica el modelo de negocio y las características principales del software, y contiene al menos un testimonio positivo de un usuario que participó en las entrevistas de validación. Se incluye un screenshot del video, el URL de la versión publicada en Microsoft Stream y YouTube, y la duración del mismo.
 
 
-#### 6.2.3.2. Sprint Backlog 2
+### 6.2.3. Sprint 3
+
+En esta sección, como equipo, documentamos y explicamos el progreso alcanzado durante el Sprint 3, tanto en términos del producto como del trabajo colaborativo. Incluimos secciones internas para Sprint Planning, Sprint Backlog, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, y Team Collaboration Insights during Sprint.
+
+#### 6.2.3.2. Sprint Backlog 3
 
 En esta sección, como equipo, presentamos una introducción que resume el objetivo principal del Sprint 3 y un screenshot del Board para el Sprint en la herramienta de control indicada, junto con el URL público del Board. Incluimos una tabla con los User Stories asignados al Sprint y los Work-items/Tasks resultantes.
 
