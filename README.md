@@ -4203,7 +4203,6 @@ Las opciones de mantenimiento se presentan junto con las opciones de monitoreo d
 
 <img src="assets/images/Heuristica1.png" >
 
-
 **Recomendación:**  
 Crear una sección separada exclusivamente para las opciones de mantenimiento, manteniéndola apartada de las funciones de monitoreo diario para mejorar la organización y facilitar la navegación.
 
@@ -4295,6 +4294,392 @@ Implementar un cuadro de diálogo personalizado dentro de la aplicación, con lo
 
 ### 6.4. Video About-the-Product
 En esta sección, se presenta y describe el contenido del Video About-the-Product, dirigido a los visitantes de la Landing Page y usuarios de las Aplicaciones. El video explica el modelo de negocio y las características principales del software, y contiene al menos un testimonio positivo de un usuario que participó en las entrevistas de validación. Se incluye un screenshot del video, el URL de la versión publicada en Microsoft Stream y YouTube, y la duración del mismo.
+
+
+#### 6.2.3.2. Sprint Backlog 2
+
+En esta sección, como equipo, presentamos una introducción que resume el objetivo principal del Sprint 3 y un screenshot del Board para el Sprint en la herramienta de control indicada, junto con el URL público del Board. Incluimos una tabla con los User Stories asignados al Sprint y los Work-items/Tasks resultantes.
+
+
+
+#### 6.2.3.3. Development Evidence for Sprint Review
+
+En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 2. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Repository</th>
+            <th>Branch</th>
+            <th>Commit ID</th>
+            <th>Commit Message</th>
+            <th>Commit Message Body</th>
+            <th>Commit Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+           <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>-</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
+#### 6.2.3.4. Testing Suite Evidence for Sprint Review
+En esta sección, el equipo presenta el conjunto de pruebas automatizadas realizadas durante el Sprint 3, incluyendo Unit Tests, Integration Tests y Acceptance Tests. Se detallan las clases y comportamientos asociados a cada test, y se incluyen ejemplos de los archivos .feature y Steps para los tests de BDD. También proporcionamos la ruta del repositorio y los commits relacionados con los avances en testing.
+
+Usamos la herramienta de selenium para testear: 
+
+**Landing page**
+<img src="assets/images/Testing LandingPage.png">
+
+**Aplicacion Web**
+<img src="assets/images/TestingFrontEnt.png">
+
+#### 6.2.3.5. Execution Evidence for Sprint Review
+En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 2. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
+
+**Aplication Web**
+
+ - Inicio de sesion
+ <img src="assets/images/Web1.png">
+
+ - Creacion de cuenta
+ <img src="assets/images/Web2.png">
+
+ - Visualizacion del equipo de refrigeracion
+ <img src="assets/images/Web3.png">
+
+ - Añadir un producto
+ <img src="assets/images/Web4.png">
+
+ - Vista para añadir colaboradores al restaurante
+ <img src="assets/images/Web5.png">
+
+ - Enviar correo al colaborador
+ <img src="assets/images/Web6.png">
+
+ - Peril del dueño del restaurante
+ <img src="assets/images/Web7.png">
+
+**Aplication Mobile**
+
+- Inicio de sesion
+<img src="assets/images/Mobile1.png">
+
+- Menu de Productos
+<img src="assets/images/Mobile2.png">
+
+- Equipo de Refrigeracion
+<img src="assets/images/Mobile3.png">
+
+- Detalles de una unidad de refrigeracion
+<img src="assets/images/Mobile4.png">
+
+- Agregar producto
+<img src="assets/images/Mobile5.png">
+
+- Notificaciones 
+<img src="assets/images/Mobile6.png">
+
+- Creación de cuenta
+<img src="assets/images/Mobile7.png">
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 3. Se presenta un resumen de los logros terminados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
+
+**Usando la herramienta Swagger se pudo documentar, visualizar y consumir nuestros servicios**
+
+<img src="assets/images/sw1.png">
+<img src="assets/images/sw2.jpg">
+<img src="assets/images/sw3.jpg">
+
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+## Ve a GitHub
+
+1. **Inicia sesión en tu cuenta de GitHub** y crea un nuevo repositorio.
+   - Elige un nombre adecuado para tu landing page y asegúrate de que sea público.
+
+2. **Conecta tu repositorio local al remoto**:
+   - En la terminal, configura tu repositorio remoto:
+
+     ```bash
+     git remote add origin https://github.com/tu_usuario/nombre_del_repositorio.git
+     ```
+
+3. **Sube tus archivos a GitHub**:
+   - Envía tus archivos al repositorio remoto:
+
+     ```bash
+     git push -u origin master
+     ```
+
+## Accede a la configuración de GitHub Pages
+
+1. Dirígete a la pestaña **Settings** de tu repositorio.
+2. Desplázate hacia abajo hasta la sección **GitHub Pages**.
+
+   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=672727b5&is=6725d635&hm=b4d6fb8346fffe7ce5316d0ca3e87a469a7daad30c2af42297298a9805dcf80f&=&format=webp&quality=lossless&width=815&height=411)
+
+### Configura GitHub Pages
+
+1. En la sección **Source**, selecciona la rama `master` (o `main`, dependiendo de tu configuración) y la carpeta raíz (`/`).
+2. Haz clic en **Save**.
+
+   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=672727b5&is=6725d635&hm=fc587bbad64762501d7357dfd2f07ac9120340960814dd1b22127548f8a9988f&=&format=webp&quality=lossless&width=902&height=411)
+
+
+#### 6.2.3.8. Team Collaboration Insights during Sprint
+
+En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2
+
+**App Web**
+
+Se ha desarrollado la implementacion de la App Web en  la siguientes ramas:
+
+
+Commits hechos en el repositorio
+
+
+Collaboration
+
+
+**App Mobile**
+
+Se ha desarrollado la implementacion de la App Mobile en las siguientes ramas:
+
+
+Commits hechos en el repositorio
+
+
+Collaboration
+
+**Backend**
+
+Se ha desarrollado la implementacion del Backend en las siguientes ramas:
+
+
+Commits hechos en el repositorio
+
+
+Collaboration
+
+**IOT**
+
+Se ha desarrollado la implementacion del IOT en las siguientes ramas:
+
+Commits hechos en el repositorio
+
+
+Collaboration
+
 
 
 
