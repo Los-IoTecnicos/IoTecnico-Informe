@@ -4308,7 +4308,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
 
 #### 6.2.3.3. Development Evidence for Sprint Review
 
-En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 2. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
+En esta sección, como equipo, explicamos y presentamos los avances en implementación con relación a los productos de la solución según el alcance del Sprint 3. Incluimos una introducción que resume los principales avances y una tabla con los commits relacionados con la implementación.
 
 <table border="1" cellpadding="8" cellspacing="0">
     <thead>
