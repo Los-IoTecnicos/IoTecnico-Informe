@@ -4300,20 +4300,41 @@ La imagen muestra la interfaz de Swagger utilizada en FrostChef para documentar 
 
 ## Ve a Web App
 
-1. **Accede a la aplicación**:
-   - Haz clic en el siguiente enlace para abrir la aplicación web **FrostChef**: [https://frostchef.vercel.app/Front-End/login](https://frostchef.vercel.app/Front-End/login).
+### Despliegue en Vercel
 
-2. **Inicia sesión en tu cuenta**:
-   - Introduce tu correo electrónico y contraseña en los campos correspondientes.
-   - Haz clic en el botón **"Iniciar Sesión"** para acceder a la plataforma.
+1. **Configura el proyecto en tu máquina local**:
+   - Asegúrate de tener una aplicación React o Next.js lista para desplegar.
 
-3. **Explora las funcionalidades**:
-   - Una vez dentro, navega por las diferentes secciones de la aplicación (menú, equipo, inventario, notificaciones, técnicos) para familiarizarte con sus características y funcionalidades.
+2. **Configura el repositorio en GitHub**:
+   - Inicia sesión en tu cuenta de GitHub y crea un nuevo repositorio.
+   - Conecta tu repositorio local al remoto usando los siguientes comandos:
 
-4. **Gestiona tu cuenta**:
-   - Accede a la sección de **"Cuenta"** para revisar y actualizar tu información personal, cambiar tu contraseña o cerrar sesión.
+     ```bash
+     git remote add origin https://github.com/tu_usuario/nombre_del_repositorio.git
+     git push -u origin main
+     ```
 
----
+3. **Inicia sesión en Vercel**:
+   - Dirígete a [Vercel](https://vercel.com/) y crea una cuenta o inicia sesión si ya tienes una.
+
+4. **Importa el proyecto en Vercel**:
+   - En el dashboard de Vercel, haz clic en **"New Project"**.
+   - Selecciona **"Import Git Repository"** y elige tu repositorio de GitHub que contiene la aplicación.
+
+   ![Importando repositorio en Vercel](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/vercel.png)
+
+5. **Configura los ajustes del proyecto**:
+   - Selecciona la rama que quieres desplegar, generalmente `main`.
+   - Configura cualquier variable de entorno necesaria.
+
+6. **Despliega el proyecto**:
+   - Haz clic en **"Deploy"** para iniciar el despliegue.
+   - Espera a que Vercel compile y despliegue tu aplicación.
+
+7. **Accede a la URL del despliegue**:
+   - Una vez completado el despliegue, Vercel proporcionará una URL donde tu aplicación está alojada. En este caso, podrías acceder a la aplicación en: [https://frostchef.vercel.app/Front-End/login](https://frostchef.vercel.app/Front-End/login).
+
+   ![Despliegue completado en Vercel](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/vercel2.png)
 
 ### 6.2.2.8. Team Collaboration Insights during Sprint
 
