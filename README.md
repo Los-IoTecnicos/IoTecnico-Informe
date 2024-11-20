@@ -4101,25 +4101,176 @@ La imagen muestra la pantalla de inicio de sesión de la aplicación móvil **Fr
 3. **Registro para nuevos usuarios**:  
    Debajo del botón, hay un enlace que dice: "¿No tienes cuenta? Regístrate", proporcionando a los nuevos usuarios una opción clara para crear una cuenta.
 
-<img src="assets/images/Mobile1.png" width="300">
+<div style="text-align: center;">
+    <img src="assets/images/Mobile1.png" width="300">
+</div>
 
 - Menu de Productos
-<img src="assets/images/Mobile2.png">
+La imagen muestra la pantalla del menú de productos en la aplicación móvil **FrostChef**. El diseño es intuitivo y funcional, facilitando la gestión de inventarios en un entorno móvil.
+
+### Elementos destacados:  
+1. **Encabezado de la Sección**:  
+   En la parte superior, se presenta el título "Menú de Productos", junto al logo de la aplicación **FrostChef**, proporcionando una identidad visual clara.
+
+2. **Resumen del Inventario**:  
+   - **Total de Productos**: 
+     - Justo debajo del título, se indica el número total de productos en el inventario (en este caso, "Total de productos: 1").
+
+3. **Listado de Productos**:  
+   - **Detalles del Producto**:  
+     - Se muestra una entrada de producto que incluye el nombre ("Atún"), la marca ("Gloria"), y la cantidad disponible (2 unidades).
+   - **Botón de Acción**:  
+     - Cada producto tiene un botón identificado como "Ver detalle" que permite acceder a más información sobre el producto.
+
+4. **Barra de Navegación**:  
+   En la parte inferior, hay una barra de navegación con iconos para las secciones de "Menú", "Equipo", "Inventarios", "Notificaciones" y "Técnicos".
+
+El diseño asegura una gestión eficiente del inventario, proporcionando una vista clara y accesible de los productos disponibles y permitiendo una fácil navegación por diferentes secciones de la aplicación.
+
+<div style="text-align: center;">
+    <img src="assets/images/Mobile2.png" width="300">
+</div>
+
 
 - Equipo de Refrigeracion
-<img src="assets/images/Mobile3.png">
+
+La imagen muestra la pantalla de **Equipo de Refrigeración** en la aplicación móvil **FrostChef**. El diseño es intuitivo y funcional, ideal para el monitoreo y gestión de equipos de refrigeración en un entorno móvil.
+
+### Elementos destacados:  
+1. **Encabezado de la Sección**:  
+   En la parte superior, se presenta el título "Equipo de Refrigeración", proporcionando una identificación clara de la sección.
+
+2. **Visualización del Equipo**:  
+   - **Refrigerador EA1**:  
+     - Estado: Activo.
+     - Capacidad: 80%.
+   - **Botón de Acción**:  
+     Un botón identificado como "Ver Detalle" permite acceder a más información sobre el refrigerador.
+
+3. **Barra de Navegación**:  
+   En la parte inferior, hay una barra de navegación con iconos para "Menú", "Equipo" (resaltado), "Inventario", "Notificaciones" y "Técnicos".
+
+El diseño asegura una gestión eficiente del equipo de refrigeración, permitiendo un monitoreo fácil y acceso rápido a detalles específicos de cada unidad.
+
+<div style="text-align: center;">
+    <img src="assets/images/Mobile3.png" width="300">
+</div>
+
 
 - Detalles de una unidad de refrigeracion
-<img src="assets/images/Mobile4.png">
+
+La imagen muestra la pantalla de detalles de una unidad de refrigeración en la aplicación móvil **FrostChef**. Este tipo de vista es crucial para el monitoreo y mantenimiento efectivo de los equipos de refrigeración.
+
+### Elementos destacados:
+
+1. **Información del Modelo y Serie**:
+   - **Modelo y Número de Serie**: Estos detalles permiten identificar específicamente el equipo de refrigeración. Es esencial para el seguimiento del rendimiento y para gestionar el inventario de equipos.
+
+2. **Condiciones Operativas**:
+   - **Temperatura y Humedad**: Estos parámetros son críticos para asegurar que los alimentos se almacenen en condiciones óptimas. Monitorear constantemente la temperatura y la humedad ayuda a prevenir el deterioro de los productos.
+
+3. **Historial de Mantenimiento**:
+   - **Último Mantenimiento y Próximo Mantenimiento**: Tener registros claros de cuándo se realizó el último mantenimiento y cuándo se programará el próximo es vital para asegurar la longevidad del equipo y evitar fallos inesperados.
+
+4. **Fecha de Instalación**:
+   - Este dato es útil para saber cuánto tiempo ha estado en uso el equipo, ayudando a planificar reemplazos o actualizaciones necesarias.
+
+5. **Acciones Disponibles**:
+   - **Botón "Enviar Reporte"**: Permite notificar problemas o enviar informes sobre el estado del equipo, facilitando una respuesta rápida ante cualquier inconveniente.
+   - **Botón "Cerrar"**: Para salir de la vista de detalles.
+
+### Contexto del Proyecto:
+Este tipo de interfaz es fundamental en un sistema de gestión de refrigeración como **FrostChef**. Permite a los usuarios tener un control detallado sobre cada unidad, asegurando que se mantengan las condiciones adecuadas de almacenamiento y se realice el mantenimiento necesario en tiempo y forma. Al contar con esta información accesible desde un dispositivo móvil, los responsables del restaurante pueden gestionar los equipos de manera más eficiente y reactiva.
+
+<div style="text-align: center;">
+    <img src="assets/images/Mobile4.png" width="300">
+</div>
+
 
 - Agregar producto
-<img src="assets/images/Mobile5.png">
 
-- Notificaciones 
-<img src="assets/images/Mobile6.png">
+La imagen muestra la pantalla para agregar un producto en la aplicación móvil **FrostChef**. Esta funcionalidad es esencial para mantener el inventario actualizado y preciso, mejorando la gestión de insumos en el restaurante.
+
+### Elementos destacados:
+
+1. **Formulario de Entrada de Datos**:
+   - **Propósito**: Permite a los usuarios ingresar nueva información sobre los productos de manera estructurada.
+   - **Campos Incluidos**:
+     - **Nombre del producto, Categoría, Marca, Cantidad, Fecha de ingreso y de vencimiento, y Detalles del producto**: Estos campos aseguran que toda la información necesaria sobre el producto esté disponible, lo que facilita su seguimiento y control.
+   - **Carga de Fotos**: La opción de subir imágenes del producto ayuda en su identificación visual rápida, lo que es útil tanto para el almacenamiento como para la recuperación de los productos.
+
+2. **Facilidad de Uso y Eficiencia**:
+   - La interfaz está diseñada para ser intuitiva, permitiendo a los usuarios añadir productos rápidamente sin confusión.
+   - **Botón de Acción**: Un botón claramente identificado para confirmar la adición del producto, simplificando el proceso y reduciendo el riesgo de errores.
+
+### Contexto del Proyecto:
+
+Esta función es crucial para el sistema de gestión de inventarios de **FrostChef**:
+- **Precisión en el Inventario**: Al permitir la adición detallada de productos, se asegura que el inventario esté siempre actualizado y preciso.
+- **Mejora de la Gestión de Insumos**: Facilita el seguimiento y la reposición de productos, optimizando el uso de recursos y reduciendo el desperdicio.
+- **Eficiencia Operativa**: Ahorra tiempo al personal del restaurante, permitiéndoles gestionar el inventario de manera más efectiva y con menos esfuerzo.
+
+<div style="text-align: center;">
+    <img src="assets/images/Mobile5.png" width="300">
+</div>
+
+
+- Notificaciones
+
+La pantalla de **Notificaciones** en la aplicación móvil **FrostChef** es una herramienta fundamental para mantener informados a los usuarios sobre eventos críticos y alertas en tiempo real.
+
+### Elementos destacados:
+
+1. **Gestión de Inventario**:
+   - **Alertas de Vencimiento**: Notificaciones que indican cuándo los productos están cerca de su fecha de vencimiento. Esto permite a los usuarios tomar medidas preventivas, como utilizar esos productos primero o ajustar los pedidos de inventario para evitar desperdicios.
+
+2. **Mantenimiento de Equipos**:
+   - **Alertas de Máquina**: Notificaciones sobre problemas detectados en los equipos de refrigeración, como fallos en la temperatura o mal funcionamiento. Estas alertas permiten una acción rápida y eficiente para evitar interrupciones en el servicio y asegurar el mantenimiento de las condiciones óptimas para los alimentos.
+
+### Contexto del Proyecto:
+
+Las notificaciones en **FrostChef** mejoran significativamente la gestión operativa del restaurante al proporcionar:
+
+- **Prevención de Pérdidas**: Las alertas sobre productos próximos a vencer ayudan a gestionar el inventario de manera eficiente, reduciendo el desperdicio y asegurando la frescura de los alimentos.
+- **Respuesta Rápida a Incidentes**: Las notificaciones de problemas en los equipos de refrigeración permiten al personal técnico intervenir rápidamente, minimizando el riesgo de daños a los productos almacenados y evitando fallos en el servicio.
+
+El diseño de esta funcionalidad asegura que los usuarios estén siempre al tanto de los eventos importantes, mejorando la eficiencia y la calidad del servicio en el restaurante.
+
+<div style="text-align: center;">
+    <img src="assets/images/Mobile6.png" width="300">
+</div>
+
 
 - Creación de cuenta
-<img src="assets/images/Mobile7.png">
+
+La funcionalidad de **Creación de Cuenta** en la aplicación móvil **FrostChef** es crucial para incorporar nuevos usuarios a la plataforma, asegurando que tengan acceso a todas las funciones y beneficios que la aplicación ofrece.
+
+### Elementos destacados:
+
+1. **Formulario de Registro**:
+   - **Propósito**: Facilita el registro de nuevos usuarios de manera estructurada y completa.
+   - **Campos Requeridos**:
+     - **Email, Contraseña, Nombre Completo, DNI y Teléfono**: Cada uno de estos campos garantiza que la aplicación capture toda la información esencial para la creación de una cuenta segura y personalizada.
+   - **Mensajes de Error**: Indica claramente cuando un campo obligatorio no ha sido completado, ayudando al usuario a corregir errores antes de enviar el formulario.
+
+2. **Botón "Crear Cuenta"**:
+   - **Acción Principal**: Permite al usuario finalizar el proceso de registro una vez que todos los campos requeridos están completos.
+   - **Feedback Inmediato**: Ofrece retroalimentación instantánea sobre el éxito o fracaso del registro, guiando al usuario en los próximos pasos.
+
+3. **Enlace para Usuarios Existentes**:
+   - **Propósito**: Proporciona una opción para los usuarios que ya tienen una cuenta, redirigiéndolos a la pantalla de inicio de sesión.
+   - **Facilidad de Navegación**: Mejora la experiencia del usuario al ofrecer una ruta clara tanto para nuevos usuarios como para los existentes.
+
+### Contexto del Proyecto:
+
+La pantalla de **Creación de Cuenta** es fundamental para el sistema de gestión de **FrostChef**, ya que:
+- **Aumenta la Base de Usuarios**: Facilita la incorporación de nuevos usuarios, lo cual es vital para la expansión y éxito de la plataforma.
+- **Seguridad y Personalización**: Al capturar información detallada y validarla, asegura que cada cuenta esté protegida y sea personalizada según las necesidades del usuario.
+- **Experiencia de Usuario Optimizada**: La estructura intuitiva y los mensajes de error claros mejoran la usabilidad, reduciendo la frustración y asegurando un proceso de registro suave y eficiente.
+
+<div style="text-align: center;">
+    <img src="assets/images/Mobile7.png" width="300">
+</div>
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 2. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
