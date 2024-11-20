@@ -172,7 +172,7 @@ _____________________
   </td>
   <tr>
     <td>V 2.2.0</td>
-    <td>01/11/2024</td>
+    <td>11/11/2024</td>
     <td>Leonardo</td>
     <td>Se agregaron las siguientes secciones:
        Sprint Planning 2, Registro de Entrevistas y Evaluaciones según heurísticas </td>
@@ -5209,5 +5209,13 @@ Video Expo: https://drive.google.com/drive/folders/1XUXWfB3LqDMa2fjlEI7xLkeY8VWU
 Video Expo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/EUBDwxfqcGhDlYBnxOuFZI0BhzVK--6kMpiQJ0aa42ZExg?e=xfIuip&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Link del video about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h
+
+Link de la organización de GitHub: https://github.com/Los-IoTecnicos
+
+Codigo fuente del backend en github: https://github.com/Los-IoTecnicos/FrostChef-Backend
+
+Codigo fuente del la aplicación web en github: https://github.com/Los-IoTecnicos/Web-Application-Front 
+
+Codigo fuente del la aplicación móbil en github: https://github.com/Los-IoTecnicos/FrostChef-Mobile 
 
 
