@@ -307,6 +307,7 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             </br>
             TF</br>Asumí la responsabilidad del desarrollo del backend, diseñando e implementando los servicios y la arquitectura necesaria para garantizar la eficiencia, escalabilidad y estabilidad de la aplicación.
             </br>
+            </br>
             Patrocinio Escalante, Leonardo Walt</br>
             TB1:</br>
             Desarrollé el perfil de la solución, utilizando el Lean UX Canvas para asegurar que todos los aspectos del producto estuvieran alineados con las necesidades del usuario y los objetivos del negocio. Realicé el mapeo del User Journey y la creación de Empathy Maps para comprender a profundidad las emociones y comportamientos de los usuarios en cada interacción con el sistema. A través de escenarios As-Is y To-Be, capturé el estado actual y futuro de los procesos, lo que nos ayudó a visualizar las mejoras necesarias. Implementé el lenguaje ubicuo para garantizar una comunicación clara entre todos los involucrados en el proyecto, y llevé a cabo sesiones de EventStorming y modelado de flujos de mensajes de dominio para definir cómo los eventos clave y los mensajes dentro del sistema interactúan de manera eficiente, asegurando que el diseño fuera coherente y adaptable.</br>
@@ -330,6 +331,7 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             </br>
             TF:</br>Lideré al equipo en el desarrollo de la aplicación móvil, coordinando la implementación de funcionalidades y asegurando el cumplimiento de los objetivos de rendimiento. Además, colaboré en la elaboración del backend, contribuyendo al diseño y desarrollo de la lógica que conecta la aplicación con los servicios del servidor, garantizando su correcto funcionamiento.
             </br>
+            </br>
             Sánchez Ramírez, Diego Antonio</br>
             TB1:</br>
             Lideré el diseño de la arquitectura de software, asegurando que la solución fuera escalable y eficiente. Durante este proceso, llevé a cabo sesiones de EventStorming para mapear los eventos clave dentro del sistema, lo que nos permitió identificar y estructurar mejor los flujos de trabajo. Además, participé en actividades de needfinding, profundizando en las necesidades reales de los usuarios y asegurando que el diseño estuviera alineado con sus expectativas. También realicé un análisis de competidores, evaluando las soluciones actuales en el mercado para identificar oportunidades de mejora y asegurar que nuestro producto tuviera una ventaja competitiva sólida.</br>
@@ -339,7 +341,6 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
           </br>
           TF:</br>
           
-Aquí te dejo una propuesta para el "studio outcome" de quien lideró el equipo de IoT:
 
 Lideré el equipo de desarrollo de IoT, encargándome del diseño, integración y configuración de dispositivos conectados. Coordiné la implementación de soluciones que permitieron la comunicación efectiva entre el hardware y la plataforma digital, asegurando la interoperabilidad y el rendimiento óptimo del sistema.
 </br>
