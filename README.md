@@ -2886,7 +2886,7 @@ En esta sección, como equipo, especificamos los aspectos principales del Sprint
     </tr>
     <tr>
         <th>Sprint Planning Background</th>
-        <td></td>
+        <td><img src="assets/images/trello_sprint1.png"></td>
     </tr>
     <tr>
         <th>Date</th>
@@ -2909,28 +2909,27 @@ En esta sección, como equipo, especificamos los aspectos principales del Sprint
         <td>Piero Márquez, Víctor Díaz, Leonardo Patrocinio, Juan Navarro y Ismael Zamora</td>
     </tr>
     <tr>
-        <th>Sprint n – 1 Review Summary</th>
-        <td>Se termino de Arreglar los contenidos de los capitulos 1 a 4</td>
-    </tr>
-    <tr>
-        <th>Sprint n – 1 Retrospective Summary</th>
-        <td>Se desplegó el landing page y se utilizará Angular para el desarrollo de la Aplicación Web</td>
-    </tr>
-    <tr>
         <th>Sprint Goal & User Stories</th>
-        <td></td>
+        <td>6</td>
     </tr>
     <tr>
         <th>Sprint n Goal</th>
-        <td>Correción del Informe, despliegue de la Landing page y la Web Application consumiendo una Fake API.</td>
+        <td>Our approach
+It will be in developing a landing page where you will show relevant content of our startup, such as vision, mission, characteristics and who we are. In addition, the web application was developed with functionalities to be able to manage the restaurant's equipment, which includes the affiliated staff and technicians, as well as the status of the refrigeration chambers and their contents.
+
+We believe
+That by developing these products, we can show restaurant owners and technicians a new solution that allows them to better manage the restaurant and be able to monitor the products in real time.
+
+This is going to be confirmed
+When restaurant staff can use the new features and can see the benefits and advantages they have by having greater management of the supplies they have in the cold rooms thanks to our products such as the web application.</td>
     </tr>
     <tr>
         <th>Sprint n Velocity</th>
-        <td></td>
+        <td>18</td>
     </tr>
     <tr>
         <th>Sum of Story Points</th>
-        <td></td>
+        <td>18</td>
     </tr>
 </table>
 
@@ -2995,7 +2994,103 @@ En esta sección, como equipo, explicamos y presentamos los avances en implement
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review
 
-Para esta entrega no se ha presentado un backend funcional, se presentó mediante API falsa, por lo que no se llevarán a cabo pruebas de unidad, integración y aceptación automatizada de webservices relacionados con las historias de usuario.
+Para esta entrega, se realizaron test de aceptación en formato .feature para cada US. A continuación, se mostrarán los siguientes .feature:
+
+### Historia de Usuario: Navegación Intuitiva (US013)
+
+Feature: Navegación entre secciones en la Landing Page
+
+  Scenario: El usuario navega entre las secciones de la Landing Page
+    
+    Given el usuario está en la Landing Page
+    When hace clic en el enlace "Acerca de Nosotros"
+    Then es redirigido a la sección "Acerca de Nosotros"
+    And el contenido de la sección es visible
+    
+    When hace clic en el enlace "Contacto"
+
+    Then es redirigido a la sección "Contacto"
+    And el formulario de contacto es visible
+<br>
+Feature: Búsqueda en la Landing Page
+
+  Scenario: El usuario realiza una búsqueda en la Landing Page
+    
+    Given el usuario está en la Landing Page
+    And el campo de búsqueda está visible
+
+    When ingresa "servicio premium" en el campo de búsqueda
+    And presiona el botón "Buscar"
+
+    Then se muestran los resultados relacionados con "servicio premium"
+    And el enlace "Ver más detalles" está disponible en cada resultado
+
+### Historia de Usuario: Detalles de los Planes de Servicio (US014)
+
+Feature: Comparación de planes de servicio
+
+  Scenario: El usuario compara dos planes de servicio
+
+    Given el usuario está en la sección de "Comparación de Planes"
+
+    When selecciona los planes "Básico" y "Premium" para comparar
+
+    Then se muestra una tabla comparativa con las características de ambos planes
+    And los precios y beneficios específicos de cada plan son visibles
+<br>
+Feature: Acceso a detalles de planes
+
+  Scenario: El usuario accede a más detalles de un plan
+
+    Given el usuario está en la sección "Comparación de Planes"
+
+    When hace clic en el enlace "Más detalles" del plan "Premium"
+    
+    Then es redirigido a una página con información detallada del plan "Premium"
+    And puede ver los beneficios exclusivos del plan
+
+### Historia de Usuario: Testimonios y Casos de Éxito (US015)
+
+Feature: Carrusel de testimonios
+
+  Scenario: El usuario navega por el carrusel de testimonios
+
+    Given el usuario está en la sección de "Testimonios"
+
+    When presiona el botón "Siguiente" en el carrusel
+
+    Then se muestra el siguiente testimonio en el carrusel
+    And el contenido del testimonio es legible
+
+
+### Historia de Usuario: Registro de Inventario (US007)
+
+Feature: Gestión del inventario
+
+  Scenario: El usuario agrega un nuevo elemento al inventario
+
+    Given el usuario está en el "Panel de Inventario"
+    And el botón "Agregar Nuevo" está visible
+
+    When hace clic en "Agregar Nuevo"
+    And completa el formulario con nombre "Producto X", cantidad "10", y categoría "Perecederos"
+    And presiona el botón "Guardar"
+
+    Then el nuevo elemento "Producto X" aparece en la lista de inventario
+<br>
+Feature: Gestión del inventario
+
+  Scenario: El usuario edita un elemento existente del inventario
+
+    Given el usuario está en el "Panel de Inventario"
+    And un elemento llamado "Producto Y" está en la lista
+
+    When hace clic en el botón "Editar" junto al "Producto Y"
+    And cambia la cantidad a "20"
+    And presiona el botón "Guardar"
+
+    Then la cantidad actualizada del "Producto Y" es "20"
+
 
 #### 6.2.1.5. Execution Evidence for Sprint Review
 
@@ -3003,16 +3098,23 @@ Esta sección realizamos un resumen de lo alcanzado en el Sprint 1, presentando 
 Durante este sprint, se completaron los entregables: 
 
 - Primera versión de la Landing Page:
+
+  Landing Page que puede mostrar una información sobre nosotros, nuestra visión y misión. También que
+  es lo que ofrecemos en nuestra startup.
+
   
 <img src="assets/images/LandingPage.jpg">
 
 - Primera versión de la Aplicación Web:
 
+  Se ve la 1ra versión de la aplicación web, donde se encuentran dos vistas las cuales son las siguientes:
+
 Home:
+Vista Preliminar cuando inicias sesión como gerente y staff del restaurante.
   
 <img src="assets/images/WebHome1.jpg">
 
-Inventory:
+Inventory: Vista de los insumos, ademas del formulario para poder agregar un producto.
 
 <img src="assets/images/WebInventory1.jpg">
 
@@ -3085,7 +3187,9 @@ En esta sección, como equipo, especificamos los aspectos principales del Sprint
     </tr>
     <tr>
         <th>Sprint Planning Background</th>
-        <td><img src="assets/images/Trello.png"></td>
+        <td><img src="assets/images/Trello.png"><br>
+        <a href="https://trello.com/invite/b/6712873d172d6b4c004192b6/ATTI449cf309d7ed4ce9ea0f689680a92210907F487B/iot-sprint-backlog-2" class="video-link" target="_blank">Link del Kanban Board</a>
+        </td>
     </tr>
     <tr>
         <th>Date</th>
@@ -3121,15 +3225,14 @@ En esta sección, como equipo, especificamos los aspectos principales del Sprint
     </tr>
     <tr>
         <th>Sprint 2 Goal</th>
-        <td>1. Our focus is on setting up the core web and mobile application functionality for inventory management.
-We believe it delivers enhanced control and visibility of inventory levels to restaurant staff.
-This will be confirmed when restaurant personnel can view real-time inventory updates from the application.</br> 2. Our focus is on developing the IoT backend system to monitor inventory temperature and status in real-time.
-We believe it delivers timely alerts and quality assurance to both restaurant staff and maintenance technicians.
-This will be confirmed when users receive alerts when inventory sensors detect irregularities.Our focus is on developing the IoT backend system to monitor inventory temperature and status in real-time.
-We believe it delivers timely alerts and quality assurance to both restaurant staff and maintenance technicians.
-This will be confirmed when users receive alerts when inventory sensors detect irregularities.</br> 3. Our focus is on enabling multi-user access and role-based functionalities in the application for restaurant managers and technicians.
-We believe it delivers improved collaboration and task management for inventory control and maintenance.
-This will be confirmed when managers and technicians can access their respective functionalities and track updates seamlessly. </td>
+        <td>Our approach
+It will be focused on developing the first versions of our products: the web application, mobile application, cloud & edge service, and embedded IoT system. These tools aim to provide restaurant staff with a more versatile inventory management solution for their products. For instance, the mobile application will allow users to monitor and control inventory directly from their devices, while the web application will offer advanced inventory insights and management capabilities. The cloud & edge service ensures seamless communication between the backend systems and IoT devices, enhancing real-time monitoring.
+
+We believe
+That by delivering these initial versions, we can demonstrate to restaurant staff and maintenance technicians the significant advantages of using our solution. These include enhanced control of refrigeration chambers, optimized inventory tracking, and the ability to monitor product conditions in real time.
+
+This is going to be confirmed
+When restaurant staff can effectively use the new features and see the tangible benefits, such as reduced inventory loss and improved efficiency in monitoring refrigeration systems. For instance, a delay of less than 1 second in system communication between the backend and edge services to the frontend will validate the system's responsiveness and usability.</td>
     </tr>
     <tr>
         <th>Sprint n Velocity</th>
@@ -3144,6 +3247,7 @@ This will be confirmed when managers and technicians can access their respective
 #### 6.2.2.2. Sprint Backlog 2
 
 En esta sección, como equipo, presentamos una introducción que resume el objetivo principal del Sprint 2 y un screenshot del Board para el Sprint en la herramienta de control indicada, junto con el URL público del Board. Incluimos una tabla con los User Stories asignados al Sprint y los Work-items/Tasks resultantes.
+
 
 <table border="1" cellpadding="8" cellspacing="0">
     <thead>
@@ -3615,6 +3719,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
         </tr>
     </tbody>
 </table>
+
 
 #### 6.2.2.3. Development Evidence for Sprint Review
 
@@ -4390,9 +4495,455 @@ Collaboration
 
 En esta sección, como equipo, documentamos y explicamos el progreso alcanzado durante el Sprint 3, tanto en términos del producto como del trabajo colaborativo. Incluimos secciones internas para Sprint Planning, Sprint Backlog, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, y Team Collaboration Insights during Sprint.
 
+
+<table border="1">
+    <tr>
+        <th>Sprint #</th>
+        <td>Sprint 3</td>
+    </tr>
+    <tr>
+        <th>Sprint Planning Background</th>
+        <td><img src="assets/images/trello_sprint3.png">
+        <br>
+        <a href="https://trello.com/invite/b/67128d3e874d515bceecda47/ATTI4fbbb705d105c03c7d0894502b583cc950FDE2D1/iot-spring-backlog-3" class="video-link" target="_blank">Link del Kanban Board</a>
+        </td>
+    </tr>
+    <tr>
+        <th>Date</th>
+        <td>5/11/2024</td>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <td>11:00 AM</td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>UPC Campus San Miguel/ Discord (Virtual)</td>
+    </tr>
+    <tr>
+        <th>Prepared By</th>
+        <td>Diego Sánchez Ramírez</td>
+    </tr>
+    <tr>
+        <th>Attendees (to planning meeting)</th>
+        <td>Piero Márquez, Víctor Díaz, Leonardo Patrocinio, Juan Navarro y Ismael Zamora</td>
+    </tr>
+    <tr>
+        <th>Sprint 2 Review Summary</th>
+        <td> Se realizaron varios moldeamientos a los productos actuales gracias a las entrevistas realizadas durante este Sprint, ademas de realizar las primeras versiones de cada producto(Web Application, Mobile Application, IoT Embedded App, Cloud Service, Edge Service, etc).</td>
+    </tr>
+    <tr>
+        <th>Sprint 2 Retrospective Summary</th>
+        <td> Se evidenció una falta de fuentes confiables al momento de realizar las investigaciones previas para el desarrollo, documentación y despliegue de los productos. Por esta razón, se detallará mejor la documentación del siguiente Sprint</td>
+    </tr>
+    <tr>
+        <th>Sprint Goal & User Stories</th>
+        <td>17</td>
+    </tr>
+    <tr>
+        <th>Sprint 3 Goal</th>
+        <td><strong>Our focus</strong>
+
+is on offering solution main features on video, with team work process and motivations information 
+to new visitors, restaurant inventory management and analytics features in web platform, restaurant 
+chamber inventory for real-time control in mobile app, internal environment sensor data collect and 
+sending with 1 minute-frequency from chamber embedded app, per-2-minute device data aggregation, along 
+with device identity and access management support on edge node, both edge node consolidated data 
+reception on 3-minute interval and edge node identity and access management support on cloud web server,
+ along with physical chamber prototype with a subset of environment sensing capabilites.
+ <br><strong>We Believe</strong><br>
+this will significantly enhance the user experience, including providing a business website for new visitors, and efficient web and mobile applications for restaurant managers, staff, and technical teams. It will also streamline operations with real-time monitoring, robust device management, and actionable insights through analytics.
+ <br><strong>This Will Be Confirmed</strong><br>
+by achieving successful end-to-end data flow between the chamber, edge node, and cloud; delivering functional web and mobile features for inventory management and analytics; and validating the prototype’s sensing capabilities through real-world testing and user feedback. Each segment's contributions will play a key role in meeting these objectives, ensuring high-quality results.
+</td>
+    </tr>
+    <tr>
+        <th>Sprint n Velocity</th>
+        <td>30</td>
+    </tr>
+    <tr>
+        <th>Sum of Story Points</th>
+        <td>62</td>
+    </tr>
+</table>
+
+
 #### 6.2.3.2. Sprint Backlog 3
 
 En esta sección, como equipo, presentamos una introducción que resume el objetivo principal del Sprint 3 y un screenshot del Board para el Sprint en la herramienta de control indicada, junto con el URL público del Board. Incluimos una tabla con los User Stories asignados al Sprint y los Work-items/Tasks resultantes.
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+        <tr>
+            <th colspan="4">Sprint 3</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th colspan="2">User Story</th>
+            <th colspan="2">Work-Item /Task</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation(Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="1">US010</td>
+            <td rowspan="1">Actualización de Software IoT</td>
+            <td>Tasks-01</td>
+            <td>Desarrollo de una función para modificar la sensibilidad  de los sensores</td>
+            <td>A traves del sistema back-end, poder realizar ajustes en la sensibilidad de los sensores.</td>
+            <td>4 Hours</td>
+            <td>Diego Sánchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US026</td>
+            <td rowspan="1">Visualización de Equipos de refrigeración Mobile</td>
+            <td>Tasks-02</td>
+            <td>Implementar lógica para obtener datos de los equipos</td>
+            <td>Desarrollar la conexión con el backend para obtener la información de cada equipo y mostrarla en la sección "Equipment".</td>
+            <td>4 Hours</td>
+            <td>Leo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US027</td>
+            <td rowspan="1">Reporte de Errores en Equipos de refrigeración Mobile</td>
+            <td>Tasks-03</td>
+            <td>Implementar envío y confirmación del reporte (Mobile)</td>
+            <td>Desarrollar la lógica para enviar el reporte de error al backend y mostrar un mensaje de confirmación tras su envío exitoso.</td>
+            <td>6 Hours</td>
+            <td>Leo Patrocinio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US029</td>
+            <td rowspan="1">Registro de inventario Mobile</td>
+            <td>Tasks-03</td>
+            <td>Pruebas de usabilidad</td>
+            <td>Realizar pruebas de usabilidad para asegurar que la interfaz es intuitiva.</td>
+            <td>6 Hours</td>
+            <td>Victor Díaz</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US028</td>
+            <td rowspan="1">Notificaciones de la aplicación mobile</td>
+            <td>Tasks-02</td>
+            <td>Implementar lógica de recepción de notificaciones de error y vencimiento (Mobile)</td>
+            <td>Desarrollar la lógica para recibir notificaciones sobre errores en equipos de refrigeración y vencimiento de productos mediante el backend</td>
+            <td>6 Hours</td>
+            <td>Leo Patrocinio, Victor Díaz</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US016</td>
+            <td rowspan="1">Monitoreo en Tiempo Real Mobile</td>
+            <td>Tasks-02</td>
+            <td>Implementar lógica de recepción de notificaciones de error y vencimiento (Mobile)</td>
+            <td>Desarrollar la lógica para recibir notificaciones sobre errores en equipos de refrigeración y vencimiento de productos mediante el backend</td>
+            <td>6 Hours</td>
+            <td>Leo Patrocinio, Victor Díaz</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US017</td>
+            <td rowspan="1">Alertas de Productos  de Vencimiento Mobile</td>
+            <td>Tasks-02</td>
+            <td>Implementar lógica de recepción de notificaciones de error y vencimiento (Mobile)</td>
+            <td>Desarrollar la lógica para recibir notificaciones sobre errores en equipos de refrigeración y vencimiento de productos mediante el backend</td>
+            <td>6 Hours</td>
+            <td>Leo Patrocinio, Victor Díaz</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US017</td>
+            <td rowspan="1">Alertas de Productos  de Vencimiento Mobile</td>
+            <td>Tasks-02</td>
+            <td>Implementar lógica de recepción de notificaciones de error y vencimiento (Mobile)</td>
+            <td>Desarrollar la lógica para recibir notificaciones sobre errores en equipos de refrigeración y vencimiento de productos mediante el backend</td>
+            <td>6 Hours</td>
+            <td>Leo Patrocinio, Victor Díaz</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-02</td>
+            <td> Implementar lógica para obtener datos de los equipos</td>
+            <td>Desarrollar la conexión con el backend para obtener la información de cada equipo y mostrarla en la sección "Equipment".</td>
+            <td>4 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="11">US004</td>
+            <td rowspan="11">Calibración de Sensores IoT</td>
+            <td>Tasks-02</td>
+            <td>IoT System Design Steps</td>
+            <td>Se realiza los 12 pasos para poder definir que sensores vamos a trabajar en el proyecto</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-03</td>
+            <td>Identificacion de los componentes o addons requeridos</td>
+            <td>Se investiga y diseña los posibles componentes que estaran conectados al microcontrolador para poder solventar las necesidades del proyecto.</td>
+            <td>3 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-04</td>
+            <td>Desarrollo de la topología de los sensores</td>
+            <td>En wokwi, se agregan los componentes necesarios para desarrollar los sensores, ademas de la circutería</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-05</td>
+            <td>Desarrollo de funcionalidad del sensor DHT22 (Temperatura/Humedad)</td>
+            <td>Desarrollar codigo en el sketch.ino para el funcionamiento del sensor de humedad/temperatura DHT22</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-06</td>
+            <td>Desarrollo de funcionalidad del sensor de Proximidad</td>
+            <td>Desarrollar el código en el sketch.ino para el funcionamiento del sensor de proximidad HC-SR04</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-07</td>
+            <td>Desarrollo de la funcionalidad de sensor de gas metano (mq2)</td>
+            <td>Desarrollar código para el funcionamiento del sensor de gas metano MQ2 en sketch.ino</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-08</td>
+            <td>Desarrollo de la funcionalidad de la pantalla LCD cristal</td>
+            <td>Desarrollar código para una pantalla de cristal LCD 16x02 para mostrar resultados al usuario</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-09</td>
+            <td>Desarrollar una concectvidad con el sistema back-end</td>
+            <td>Desarrollar conexión y respuesta de los sensores al sistema back-end y viceversa.</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>Tasks-10</td>
+            <td>Desarrollar endpoints para la lectura de los sensores IoT</td>
+            <td>Poder desarrollar un endpoint que interactue con una tabla que contega los atributos de los sensores.</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>Tasks-11</td>
+            <td> Desarrollar seguridad para los sensores</td>
+            <td>Revisar las direcciones MAC de cada sensores e desarrollar una seguridad ante cualquier manipulación no autorizada de estos.</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>Tasks-12</td>
+            <td>Desarrollo de la funcionalidad de los LEDs</td>
+            <td>Desarrollar LEDs para mostrar indicios de que el sistema de sensores este en buen funcionamiento o no.</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="1">US010</td>
+            <td rowspan="1">Actualización de Software IoT</td>
+            <td>Tasks-13</td>
+            <td>Desarrollo de una función para modificar la sensibilidad  de los sensores</td>
+            <td>A traves del sistema back-end, poder realizar ajustes en la sensibilidad de los sensores.</td>
+            <td>2 Hours</td>
+            <td>Diego Sanchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="6">US023</td>
+            <td rowspan="6">API de equipos de refrigeración</td>
+            <td>Tasks-14</td>
+            <td>Definir el modelo de datos para los equipos de refrigeración</td>
+            <td>Crear el esquema de la base de datos para los equipos de refrigeración, con atributos como tipo de equipo, capacidad, estado, etc.</td>
+            <td>3 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-15</td>
+            <td>Implementar de registro de equipos de refrigeración</td>
+            <td>Crear los endpoints para el registro de los equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-16</td>
+            <td>Visualizacion de detalles  de equipos de refrigeración</td>
+            <td>Crear los endpoints para visualizar los detalles de los equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>Tasks-17</td>
+            <td>Actualizacion de detalles  de equipos de refrigeración</td>
+            <td>Crear los endpoints para actualizar los detalles de los equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>Tasks-18</td>
+            <td>Eliminacion de equipos de refrigeración</td>
+            <td>Crear los endpoints para eliminar los equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+          <tr>
+            <td>Tasks-19</td>
+            <td>Implementar endpoint para reportar fallos en equipos de refrigeración</td>
+            <td>Desarrollar la funcionalidad que permita reportar fallos de equipos de refrigeración.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="5">US025</td>
+            <td rowspan="5">API de gestión de inventarios</td>
+            <td>Tasks-20</td>
+            <td>Definir el modelo de datos para los insumos de inventario</td>
+            <td>Crear el esquema de la base de datos para los insumos, incluyendo atributos como nombre, cantidad, fecha de caducidad, etc.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-21</td>
+            <td>Implementar registro de productos para la gestion de inventario</td>
+            <td>Crear el endpoint para el registro de los productos para la gestion del inventario</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-22</td>
+            <td>Visualizar los detalles de los productos del inventario</td>
+            <td>Crear el endpoint para la visualizacion de los detalles de los productos  del inventario</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-23</td>
+            <td>Eliminar los productos del inventario</td>
+            <td>Crear el endpoint para eliminar los productos del inventario</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+         <tr>
+            <td>Tasks-24</td>
+            <td>Actualizar los detalles de los productos del inventario</td>
+            <td>Crear el endpoint para actualizar los detalles de los productos del inventario</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="5">US021</td>
+            <td rowspan="5">API de gestión del restaurante</td>
+            <td>Tasks-25</td>
+            <td>Definir el modelo de datos para el restaurante</td>
+            <td>Crear el esquema de la base de datos para el restaurante</td>
+            <td>2 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-26</td>
+            <td>Implementacion registro del restaurante</td>
+            <td>Crear el endpoint para el registro del restaurante.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-27</td>
+            <td>Visualizacion de detalles del restaurante</td>
+            <td>Crear el endpoint para la visualizacion de los detalles del restaurante.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-28</td>
+            <td>Actualizacion de detalles del restaurante</td>
+            <td>Crear el endpoint para la actualizacion de los detalles del restaurante.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>Tasks-29</td>
+            <td>Eliminacion del restaurante</td>
+            <td>Crear el endpoint para eliminar el restaurante.</td>
+            <td>1 Hours</td>
+            <td>Piero Marquez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="6">US031</td>
+            <td rowspan="6">Despliegue y conectividad</td>
+            <td>Tasks-01</td>
+            <td>Configurar el entorno de despliegue</td>
+            <td>Configurar el entorno adecuado para el despliegue de las aplicaciones y asegurar que todos los parámetros de red sean compatibles.</td>
+            <td>4 Hours</td>
+            <td>Juan Jose Navarro</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+        <td>Tasks-02</td>
+            <td>Despliegue del Backend</td>
+            <td>Se debe de realizar y desplegar el repositorio del sistema backend y documentarlo</td>
+            <td>2 Hours</td>
+            <td>Victor Díaz, Juan Jose Navarro</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
 
 
 
@@ -5086,7 +5637,7 @@ En esta sección, se presenta y describe el contenido del Video About-the-Produc
 
 Link del video About the Product desde Microsoft Stream: [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h)
 
-![FrostChef](https://media.discordapp.net/attachments/1273824394451615826/1308674465949024268/frost.png?ex=673ecd92&is=673d7c12&hm=8ca6e0e74fd912bb0b1d6beeac7702657359da65642eadfab9b3c193e74885cf&=&format=webp&quality=lossless)
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
