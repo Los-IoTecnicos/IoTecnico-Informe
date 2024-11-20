@@ -3139,6 +3139,7 @@ This will be confirmed when managers and technicians can access their respective
 
 En esta sección, como equipo, presentamos una introducción que resume el objetivo principal del Sprint 2 y un screenshot del Board para el Sprint en la herramienta de control indicada, junto con el URL público del Board. Incluimos una tabla con los User Stories asignados al Sprint y los Work-items/Tasks resultantes.
 
+
 <table border="1" cellpadding="8" cellspacing="0">
     <thead>
         <tr>
@@ -3609,6 +3610,7 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
         </tr>
     </tbody>
 </table>
+
 
 #### 6.2.2.3. Development Evidence for Sprint Review
 
@@ -4299,6 +4301,68 @@ En esta sección, se presenta y describe el contenido del Video About-the-Produc
 ### 6.2.3. Sprint 3
 
 En esta sección, como equipo, documentamos y explicamos el progreso alcanzado durante el Sprint 3, tanto en términos del producto como del trabajo colaborativo. Incluimos secciones internas para Sprint Planning, Sprint Backlog, Development Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, y Team Collaboration Insights during Sprint.
+
+
+<table border="1">
+    <tr>
+        <th>Sprint #</th>
+        <td>Sprint 3</td>
+    </tr>
+    <tr>
+        <th>Sprint Planning Background</th>
+        <td><img src="assets/images/trello_sprint3.png"></td>
+    </tr>
+    <tr>
+        <th>Date</th>
+        <td>5/11/2024</td>
+    </tr>
+    <tr>
+        <th>Time</th>
+        <td>11:00 AM</td>
+    </tr>
+    <tr>
+        <th>Location</th>
+        <td>UPC Campus San Miguel/ Discord (Virtual)</td>
+    </tr>
+    <tr>
+        <th>Prepared By</th>
+        <td>Diego Sánchez Ramírez</td>
+    </tr>
+    <tr>
+        <th>Attendees (to planning meeting)</th>
+        <td>Piero Márquez, Víctor Díaz, Leonardo Patrocinio, Juan Navarro y Ismael Zamora</td>
+    </tr>
+    <tr>
+        <th>Sprint 2 Review Summary</th>
+        <td> Se realizaron varios moldeamientos a los productos actuales gracias a las entrevistas realizadas durante este Sprint, ademas de realizar las primeras versiones de cada producto(Web Application, Mobile Application, IoT Embedded App, Cloud Service, Edge Service, etc).</td>
+    </tr>
+    <tr>
+        <th>Sprint 2 Retrospective Summary</th>
+        <td> Se evidenció una falta de fuentes confiables al momento de realizar las investigaciones previas para el desarrollo, documentación y despliegue de los productos. Por esta razón, se detallará mejor la documentación del siguiente Sprint</td>
+    </tr>
+    <tr>
+        <th>Sprint Goal & User Stories</th>
+        <td>17</td>
+    </tr>
+    <tr>
+        <th>Sprint 3 Goal</th>
+        <td><strong>Our focus</strong>
+
+is on offering solution main features on video, with team work process and motivations information to new visitors, restaurant inventory management and analytics features in web platform, restaurant chamber inventory for real-time control in mobile app, internal environment sensor data collect and sending with 1 minute-frequency from chamber embedded app, per-2-minute device data aggregation, along with device identity and access management support on edge node, both edge node consolidated data reception on X-minute interval and edge node identity and access management support on cloud web server, along with physical chamber prototype with a subset of environment sensing capabilites.<br><strong>We believe</strong><br>
+this will significantly enhance the user experience, like the business website for the visitors, web application & mobile application for restaurant manager, staff and technical staff. Besides, 
+
+</td>
+    </tr>
+    <tr>
+        <th>Sprint n Velocity</th>
+        <td>34</td>
+    </tr>
+    <tr>
+        <th>Sum of Story Points</th>
+        <td>32</td>
+    </tr>
+</table>
+
 
 #### 6.2.3.2. Sprint Backlog 3
 
