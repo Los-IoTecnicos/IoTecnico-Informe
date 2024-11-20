@@ -3844,9 +3844,39 @@ En esta sección, el equipo presenta el conjunto de pruebas automatizadas realiz
 Usamos la herramienta de selenium para testear: 
 
 **Landing page**
+
+En la imagen se muestra un testing suite desarrollado con una herramienta de pruebas automatizadas como Selenium IDE, utilizado para validar el correcto funcionamiento de la página principal del proyecto **frostChef**. Este caso de prueba, llamado *"landingpage"*, realiza una serie de pasos para verificar elementos clave de la navegación:
+
+1. **Abrir la URL** del proyecto en el navegador.
+2. **Ajustar el tamaño de la ventana** del navegador a 1382x736 píxeles para simular una vista de escritorio.
+3. **Simular clics** en diferentes secciones del sitio web, como:
+   - La sección principal identificada por la clase `.container-fluid`.
+   - Los enlaces de navegación "About Us", "Services" y "Promotions".
+
+En la parte inferior, se observa un log que confirma que cada acción se ejecutó correctamente, indicando que los elementos interactivos de la página responden de forma adecuada. Este test asegura que las funcionalidades esenciales de la landing page cumplen con los requisitos establecidos.
+
 <img src="assets/images/Testing LandingPage.png">
 
 **Aplicacion Web**
+
+La imagen muestra un testing suite configurado para la aplicación web **frostChef** utilizando una herramienta de pruebas automatizadas como Selenium IDE. Este caso de prueba, denominado *"Aplicación web"*, evalúa la interacción con elementos clave de la interfaz de usuario para validar su funcionalidad. 
+
+### Detalles de las acciones:
+1. **Ingresar datos**:
+   - Introducir un valor en el campo de correo electrónico identificado como `id=email`.
+   - Introducir un valor en el campo de contraseña identificado como `id=password`.
+
+2. **Interacción con botones**:
+   - Simular clics en botones importantes como el botón de inicio de sesión (`css=.login-button`) y botones de navegación.
+
+3. **Interacciones avanzadas**:
+   - Realizar eventos de *mouse over* para pasar el cursor sobre elementos específicos, como un botón de navegación identificado por `css=.nav-button:nth-child(4)`.
+
+### Log de acciones:
+El log muestra que todas las acciones se ejecutaron correctamente, con cada paso marcado como `OK`. Esto indica que las funcionalidades probadas, como el ingreso de datos en formularios, la navegación por botones y las interacciones con el cursor, funcionan según lo esperado.
+
+Este caso de prueba asegura que los elementos interactivos de la aplicación web permiten al usuario completar tareas clave sin errores.
+
 <img src="assets/images/TestingFrontEnt.png">
 
 #### 6.2.2.5. Execution Evidence for Sprint Review
