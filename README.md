@@ -3921,30 +3921,183 @@ En esta sección, se proporciona un resumen de los logros alcanzados durante el 
 **Aplication Web**
 
  - Inicio de sesion
+
+**Pantalla de Inicio de Sesión de FrostChef**  
+
+La imagen muestra la pantalla de inicio de sesión de la aplicación **FrostChef**. El diseño es minimalista y atractivo, con un fondo en tonos degradados de azul que resalta el formulario en el centro.  
+
+### Elementos destacados:  
+1. **Logo y Nombre de la Aplicación**:  
+   En la parte superior, se presenta el logo de FrostChef, seguido del nombre de la aplicación, lo que da una identidad visual clara.  
+
+2. **Formulario de Inicio de Sesión**:  
+   - **Campos de entrada**:  
+     - Un campo para el correo electrónico con el marcador de posición "Ingrese su correo electrónico".  
+     - Un campo para la contraseña con el marcador de posición "Ingrese su contraseña".  
+   - **Botón de acción**:  
+     Un botón azul identificado como "Iniciar Sesión" que permite al usuario acceder a la plataforma.  
+
+3. **Registro para nuevos usuarios**:  
+   Debajo del botón, hay un enlace que dice: "¿No tienes cuenta? Regístrate aquí", proporcionando a los nuevos usuarios una opción clara para crear una cuenta.  
+
+El diseño equilibra simplicidad y funcionalidad, asegurando una experiencia de usuario clara y eficiente para acceder a la aplicación FrostChef.
+
  <img src="assets/images/Web1.png">
 
  - Creacion de cuenta
+
+La imagen muestra la pantalla de registro de la aplicación **FrostChef**. El diseño es minimalista y atractivo, con un fondo en tonos degradados de azul que resalta el formulario en el centro.
+
+### Elementos destacados:  
+1. **Logo y Nombre de la Aplicación**:  
+   En la parte superior, se presenta el logo de FrostChef, seguido del nombre de la aplicación, lo que da una identidad visual clara.  
+
+2. **Formulario de Registro**:  
+   - **Campos de entrada**:  
+     - Un campo para el correo electrónico con el marcador de posición "Ingrese su email".  
+     - Un campo para la contraseña con el marcador de posición "Ingrese su password".  
+     - Un campo para el nombre completo con el marcador de posición "Ingrese su nombre completo".  
+     - Un campo para el DNI con el marcador de posición "Ingrese su DNI".  
+     - Un campo para el teléfono con el marcador de posición "Ingrese su teléfono".  
+   - **Botón de acción**:  
+     Un botón azul identificado como "Crear Cuenta" que permite al usuario registrarse en la plataforma.  
+
+3. **Inicio de sesión para usuarios existentes**:  
+   Debajo del botón, hay un enlace que dice: "¿Ya tienes cuenta? Iniciar sesión", proporcionando a los usuarios existentes una opción clara para acceder a su cuenta.  
+
+El diseño equilibra simplicidad y funcionalidad, asegurando una experiencia de usuario clara y eficiente para registrarse en la aplicación FrostChef.
+
  <img src="assets/images/Web2.png">
 
  - Visualizacion del equipo de refrigeracion
+
+La imagen muestra una interfaz de usuario de un sistema de gestión de refrigeración llamado **FrostChef**. En la parte superior, hay un menú con las opciones **"Home"**, **"Inventario"** y **"Colaboradores"**. Debajo del menú, se presentan cuatro refrigeradores etiquetados como **EA1, EA2, EA3 y EA4**. Cada refrigerador tiene una imagen, un estado (Activo o En Mantenimiento) y una capacidad en porcentaje, además de un botón que dice **"Ver detalles"**.
+
+### Elementos clave:
+- **Monitoreo en Tiempo Real**: Permite visualizar el estado y la capacidad de cada refrigerador, facilitando la gestión eficiente del espacio y la energía.
+- **Gestión de Inventario**: Proporciona información clara sobre la capacidad disponible, ayudando a planificar el almacenamiento y evitar el desperdicio.
+- **Mantenimiento Proactivo**: Muestra el estado de mantenimiento de los refrigeradores, permitiendo una programación adecuada y evitando fallos inesperados.
+
+Este sistema facilita un control preciso y eficiente del entorno de refrigeración, mejorando la calidad y gestión de los insumos alimentarios en restaurantes.
+
  <img src="assets/images/Web3.png">
 
  - Añadir un producto
+
+La imagen muestra la interfaz de usuario de **FrostChef** para añadir un nuevo producto al inventario. Esta interfaz facilita la gestión de insumos en restaurantes mediante un formulario intuitivo y una lista de productos temporales, lo que permite un control preciso y eficiente.
+
+### Funcionalidades Principales:
+1. **Formulario de Añadir Producto**: 
+   - **Campos Incluidos**: nombre del producto, estado, fecha de ingreso, marca, cantidad, categoría, descripción y opción para subir fotos.
+   - **Botón "Agregar Producto"**: Permite incorporar nuevos insumos al sistema, asegurando que toda la información relevante esté registrada.
+
+2. **Lista de Productos Temporales**:
+   - **Visualización Rápida**: Incluye imagen, nombre, marca y fecha de ingreso de cada producto.
+   - **Opciones de Gestión**: Botones para ver detalles o eliminar productos (etiquetados como "Ver Detalle" y "Borrar").
+
+### Contexto del Proyecto:
+Este sistema mejora la gestión del inventario en restaurantes al proporcionar:
+- **Monitoreo Preciso**: Registra entradas y salidas de productos, optimizando el uso del espacio y reduciendo desperdicios.
+- **Facilidad de Uso**: La interfaz intuitiva simplifica la adición y gestión de productos, mejorando la eficiencia operativa.
+- **Mantenimiento de Calidad**: Ayuda a mantener la frescura de los insumos al permitir un control detallado sobre los productos almacenados.
+
  <img src="assets/images/Web4.png">
 
  - Vista para añadir colaboradores al restaurante
+
+La imagen muestra la pantalla para añadir colaboradores al sistema de gestión del restaurante **FrostChef**. El diseño es claro y funcional, con un enfoque en la facilidad de uso y la eficiencia.
+
+### Elementos destacados:  
+1. **Encabezado de la Sección**:  
+   En la parte superior, se presenta un encabezado claro titulado "Colaboradores", lo que facilita la identificación de la sección.
+
+2. **Perfil de Colaboradores Existentes**:  
+   - **Visualización de Información**:  
+     - Cada colaborador tiene una tarjeta de perfil que incluye su nombre y roles dentro del restaurante.
+   - **Opciones de Gestión**:  
+     - Botones para editar la información del colaborador o eliminar su perfil del sistema.
+
+3. **Añadir Nuevos Colaboradores**:  
+   - **Formulario de Invitación**:  
+     - Un campo para ingresar el correo electrónico del nuevo colaborador.  
+   - **Botón de Acción**:  
+     Un botón identificado como "Mandar invitación" que permite enviar una invitación para unirse al sistema.
+
+El diseño asegura una gestión eficiente del personal, permitiendo tanto la supervisión de colaboradores actuales como la adición rápida y fácil de nuevos miembros al equipo.
+
  <img src="assets/images/Web5.png">
 
  - Enviar correo al colaborador
+
+La imagen muestra la pantalla para enviar correos a colaboradores desde la aplicación **FrostChef**. El diseño es simple y funcional, permitiendo una comunicación eficiente con el equipo.
+
+### Elementos destacados:  
+1. **Encabezado de la Sección**:  
+   En la parte superior, se presenta el encabezado "Colaboradores", facilitando la identificación de la sección de gestión de personal.
+
+2. **Perfil de Colaboradores Existentes**:  
+   - **Visualización de Información**:  
+     - Tarjeta de perfil para cada colaborador con su nombre y roles en el restaurante.
+   - **Opciones de Gestión**:  
+     - Botones para editar la información del colaborador o eliminar su perfil.
+
+3. **Formulario de Enviar Invitación**:  
+   - **Campos de Entrada**:  
+     - Campo para ingresar el correo electrónico del nuevo colaborador.
+   - **Botón de Acción**:  
+     Un botón identificado como "Mandar invitación" que permite enviar una invitación para unirse al equipo.
+
+El diseño asegura una comunicación clara y directa con los colaboradores, facilitando la adición de nuevos miembros y la gestión del personal existente en el restaurante.
+
  <img src="assets/images/Web6.png">
 
  - Peril del dueño del restaurante
+
+La imagen muestra la pantalla de perfil del dueño del restaurante en la aplicación **FrostChef**. El diseño es limpio y profesional, enfocándose en proporcionar información esencial de manera organizada.
+
+### Elementos destacados:
+1. **Foto de Perfil y Nombre del Propietario**:
+   En la parte superior, se presenta una foto del dueño junto con su nombre y título (Propietario), proporcionando una identidad visual clara.
+
+2. **Información de Contacto**:
+   - **Email**: Dirección de correo electrónico del dueño.
+   - **Teléfono**: Número de contacto directo.
+
+3. **Detalles del Restaurante**:
+   - **Nombre del Restaurante**: Identificación clara del establecimiento gestionado.
+   - **Ubicación**: Dirección física del restaurante.
+
+4. **Opciones de Navegación**:
+   En la parte superior, hay un menú con enlaces a "Home", "Inventario" y "Colaboradores" para una navegación eficiente.
+
+5. **Botón de Acción**:
+   En la parte inferior, un botón rojo etiquetado como "Salir" permite al usuario cerrar sesión de manera rápida.
+
+El diseño asegura que toda la información relevante del dueño del restaurante esté fácilmente accesible, facilitando la comunicación y gestión del establecimiento.
+
  <img src="assets/images/Web7.png">
 
 **Aplication Mobile**
 
 - Inicio de sesion
-<img src="assets/images/Mobile1.png">
+
+La imagen muestra la pantalla de inicio de sesión de la aplicación móvil **FrostChef**. El diseño es minimalista y atractivo, con un fondo en tonos degradados de azul que resalta el formulario en el centro.
+
+### Elementos destacados:  
+1. **Logo y Nombre de la Aplicación**:  
+   En la parte superior, se presenta el logo de FrostChef, seguido del nombre de la aplicación, lo que da una identidad visual clara.  
+
+2. **Formulario de Inicio de Sesión**:  
+   - **Campos de entrada**:  
+     - Un campo para el correo electrónico con un ícono de sobre.
+     - Un campo para la contraseña con un ícono de candado.
+   - **Botón de acción**:  
+     Un botón azul identificado como "Iniciar Sesión" que permite al usuario acceder a la plataforma.  
+
+3. **Registro para nuevos usuarios**:  
+   Debajo del botón, hay un enlace que dice: "¿No tienes cuenta? Regístrate", proporcionando a los nuevos usuarios una opción clara para crear una cuenta.
+
+<img src="assets/images/Mobile1.png" width="300">
 
 - Menu de Productos
 <img src="assets/images/Mobile2.png">
@@ -4770,9 +4923,13 @@ Otra cosa importante es que no podemos enfocarnos solo en el software. El hardwa
 
 Finalmente, no podemos quedarnos estancados. Tenemos que seguir aprendiendo con cursos especializados y estar atentos a las nuevas tendencias. Esto evoluciona rápido, así que si no nos mantenemos actualizados, nos quedamos atrás.
 
-## Video About-the-Team
-## Enlace al Video
+## Video About the Product
 
+[Ver Video: ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h )
+
+![FrostChef](https://media.discordapp.net/attachments/1273824394451615826/1308674465949024268/frost.png?ex=673ecd92&is=673d7c12&hm=8ca6e0e74fd912bb0b1d6beeac7702657359da65642eadfab9b3c193e74885cf&=&format=webp&quality=lossless)
+
+## Video About the Team
 
 # Bibliografía
 
