@@ -5066,49 +5066,61 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
-En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2
+ En esta sección, se muestran los avances y la colaboración entre los miembros del equipo durante el Sprint 3. A continuación, se describen las implementaciones realizadas en los diferentes productos del sistema
+---
 
-**App Web**
+#### **App Web**
+En esta sección se muestra cómo se desarrolló la **App Web** a través de diversas ramas en el repositorio, cada una orientada a implementar funcionalidades específicas. Los commits reflejan un progreso constante y la integración de nuevas características y mejoras en la plataforma.
 
-Se ha desarrollado la implementacion de la App Web en  la siguientes ramas:
+**Capturas recomendadas**:
+- **Interfaz de la App Web**: Visualización del equipo de refrigeración trabajando en la interfaz. 
+  ![Interfaz de la App Web](assets/images/Web3.png)
+- **Historial de commits en GitHub/GitLab**: Representación del registro de cambios y avances a través de los commits realizados en el repositorio.
+  ![Historial de commits](https://media.discordapp.net/attachments/1273824394451615826/1308695604330893322/image.png?ex=673ee142&is=673d8fc2&hm=1845bf2acc39f1c07980f36d4e3aa41ecfd63dbcbd0274ece597f4db0a28d2c9&=&format=webp&quality=lossless&width=784&height=411)
+- **Diagrama de flujo del proceso de desarrollo**: Visualización del flujo de trabajo y las etapas de desarrollo.
+  
+---
 
+#### **App Mobile**
+La **App Mobile** se desarrolló en ramas específicas, lo que permitió realizar el trabajo de manera paralela y enfocado en las funcionalidades particulares de la app móvil. Los commits reflejan las iteraciones y los ajustes realizados a lo largo del proceso.
 
-Commits hechos en el repositorio
+**Capturas recomendadas**:
+- **Pantallas de la App Mobile**: Ejemplo de la funcionalidad de agregar producto desde la aplicación móvil.
 
+<div style="text-align: center;">
+  <img src="https://media.discordapp.net/attachments/1273824394451615826/1302165172647100477/image.png?ex=673e3192&is=673ce012&hm=45f39343fc9bdae51424eaf9fb9cf4d042ccf09509228be330b14dd4d9f667e3&=&format=webp&quality=lossless&width=199&height=411" />
+</div>
 
-Collaboration
+- **Historial de commits**: Imagen del historial de commits que refleja el avance y las modificaciones de las funciones móviles.
 
+<div style="text-align: center;">
+  <img src="https://media.discordapp.net/attachments/1273824394451615826/1308695891808485376/image.png?ex=673ee187&is=673d9007&hm=cbfac583377582ade535670bc6e0da35dbee6231a9fedfc5dfb9f160fbbe8f51&=&format=webp&quality=lossless&width=713&height=411" />
+</div>
 
-**App Mobile**
+- **Dispositivos móviles en acción**: Pruebas reales o simuladas de la aplicación móvil en dispositivos reales.
 
-Se ha desarrollado la implementacion de la App Mobile en las siguientes ramas:
+---
 
+#### **Backend**
+El **Backend** fue implementado para garantizar una correcta integración con la base de datos y los servicios de la API. Los commits dan un registro claro de la evolución en el desarrollo de los servicios y funcionalidades del backend.
 
-Commits hechos en el repositorio
+**Capturas recomendadas**:
+- **Estructura de la base de datos**: Diagrama que explica cómo se estructuraron las tablas y relaciones en la base de datos.
+- **Historial de commits en GitHub/GitLab**: Imagen que muestra el avance mediante los commits realizados en el backend.
+  ![Historial de commits](https://media.discordapp.net/attachments/1273824394451615826/1308696972143759370/image.png?ex=673ee288&is=673d9108&hm=b6afe651e789ab35768ee68ac6134e7646c825e01ee607afb6977b7d8da67937&=&format=webp&quality=lossless&width=739&height=411)
+- **API endpoints con la documentación Swagger**: Imagen de los endpoints disponibles para interactuar con la API del backend.
+  ![Documentación Swagger](https://media.discordapp.net/attachments/1273824394451615826/1308697814720843786/image.png?ex=673ee351&is=673d91d1&hm=e033cb4ecaedf86cbc1a12146f2294e3e660588552982ec380c077c3c1a4d19b&=&format=webp&quality=lossless&width=762&height=411)
 
+---
 
-Collaboration
+#### **IOT**
+En esta parte, se detalla cómo se implementó el **IOT** físico, similar a las demostraciones previas en **Wokwy**. Esta implementación consiste en la integración de dispositivos y sensores al sistema para permitir la recolección de datos físicos que alimentan las aplicaciones.
 
-**Backend**
-
-Se ha desarrollado la implementacion del Backend en las siguientes ramas:
-
-
-Commits hechos en el repositorio
-
-
-Collaboration
-
-**IOT**
-
-Se ha desarrollado la implementacion del IOT en las siguientes ramas:
-
-Commits hechos en el repositorio
-
-
-Collaboration
-
-
+**Capturas recomendadas**:
+- **Diagrama de conexiones IOT**: Muestra la interacción entre los diferentes dispositivos y sensores conectados al sistema IOT.
+- **Código de integración IOT**: Fragmentos del código que permiten la conexión entre dispositivos y la aplicación.
+- **Dispositivos en acción**: Imagen de los dispositivos IOT en funcionamiento durante las pruebas de integración.
+  ![Dispositivos IOT](https://media.discordapp.net/attachments/1273824394451615826/1308698179645997096/WhatsApp_Image_2024-11-16_at_12.27.18_PM.jpeg?ex=673ee3a8&is=673d9228&hm=e66107f68c1af76ec95b0f832ca61a6bc1ca54349e6fdcee95419f3fb097aba0&=&format=webp&width=231&height=411)
 
 
 # Conclusiones
