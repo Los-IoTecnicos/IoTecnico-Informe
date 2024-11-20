@@ -4101,9 +4101,7 @@ La imagen muestra la pantalla de inicio de sesión de la aplicación móvil **Fr
 3. **Registro para nuevos usuarios**:  
    Debajo del botón, hay un enlace que dice: "¿No tienes cuenta? Regístrate", proporcionando a los nuevos usuarios una opción clara para crear una cuenta.
 
-<div style="text-align: center;">
-    <img src="assets/images/Mobile1.png" width="300">
-</div>
+<img src="assets/images/Mobile1.png" width="300">
 
 - Menu de Productos
 La imagen muestra la pantalla del menú de productos en la aplicación móvil **FrostChef**. El diseño es intuitivo y funcional, facilitando la gestión de inventarios en un entorno móvil.
@@ -4127,9 +4125,7 @@ La imagen muestra la pantalla del menú de productos en la aplicación móvil **
 
 El diseño asegura una gestión eficiente del inventario, proporcionando una vista clara y accesible de los productos disponibles y permitiendo una fácil navegación por diferentes secciones de la aplicación.
 
-<div style="text-align: center;">
-    <img src="assets/images/Mobile2.png" width="300">
-</div>
+<img src="assets/images/Mobile2.png" width="300">
 
 
 - Equipo de Refrigeracion
@@ -4152,9 +4148,7 @@ La imagen muestra la pantalla de **Equipo de Refrigeración** en la aplicación 
 
 El diseño asegura una gestión eficiente del equipo de refrigeración, permitiendo un monitoreo fácil y acceso rápido a detalles específicos de cada unidad.
 
-<div style="text-align: center;">
-    <img src="assets/images/Mobile3.png" width="300">
-</div>
+<img src="assets/images/Mobile3.png" width="300">
 
 
 - Detalles de una unidad de refrigeracion
@@ -4182,9 +4176,7 @@ La imagen muestra la pantalla de detalles de una unidad de refrigeración en la 
 ### Contexto del Proyecto:
 Este tipo de interfaz es fundamental en un sistema de gestión de refrigeración como **FrostChef**. Permite a los usuarios tener un control detallado sobre cada unidad, asegurando que se mantengan las condiciones adecuadas de almacenamiento y se realice el mantenimiento necesario en tiempo y forma. Al contar con esta información accesible desde un dispositivo móvil, los responsables del restaurante pueden gestionar los equipos de manera más eficiente y reactiva.
 
-<div style="text-align: center;">
-    <img src="assets/images/Mobile4.png" width="300">
-</div>
+<img src="assets/images/Mobile4.png" width="300">
 
 
 - Agregar producto
@@ -4210,9 +4202,7 @@ Esta función es crucial para el sistema de gestión de inventarios de **FrostCh
 - **Mejora de la Gestión de Insumos**: Facilita el seguimiento y la reposición de productos, optimizando el uso de recursos y reduciendo el desperdicio.
 - **Eficiencia Operativa**: Ahorra tiempo al personal del restaurante, permitiéndoles gestionar el inventario de manera más efectiva y con menos esfuerzo.
 
-<div style="text-align: center;">
-    <img src="assets/images/Mobile5.png" width="300">
-</div>
+<img src="assets/images/Mobile5.png" width="300">
 
 
 - Notificaciones
@@ -4236,9 +4226,7 @@ Las notificaciones en **FrostChef** mejoran significativamente la gestión opera
 
 El diseño de esta funcionalidad asegura que los usuarios estén siempre al tanto de los eventos importantes, mejorando la eficiencia y la calidad del servicio en el restaurante.
 
-<div style="text-align: center;">
-    <img src="assets/images/Mobile6.png" width="300">
-</div>
+<img src="assets/images/Mobile6.png" width="300">
 
 
 - Creación de cuenta
@@ -4268,9 +4256,7 @@ La pantalla de **Creación de Cuenta** es fundamental para el sistema de gestió
 - **Seguridad y Personalización**: Al capturar información detallada y validarla, asegura que cada cuenta esté protegida y sea personalizada según las necesidades del usuario.
 - **Experiencia de Usuario Optimizada**: La estructura intuitiva y los mensajes de error claros mejoran la usabilidad, reduciendo la frustración y asegurando un proceso de registro suave y eficiente.
 
-<div style="text-align: center;">
-    <img src="assets/images/Mobile7.png" width="300">
-</div>
+<img src="assets/images/Mobile7.png" width="300">
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 2. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
