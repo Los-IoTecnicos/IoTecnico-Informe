@@ -4286,6 +4286,18 @@ La imagen muestra la interfaz de Swagger utilizada en FrostChef para documentar 
      git push -u origin master
      ```
      
+1. Dirígete a la pestaña **Settings** de tu repositorio.
+2. Desplázate hacia abajo hasta la sección **GitHub Pages**.
+
+   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=672727b5&is=6725d635&hm=b4d6fb8346fffe7ce5316d0ca3e87a469a7daad30c2af42297298a9805dcf80f&=&format=webp&quality=lossless&width=815&height=411)
+
+### Configura GitHub Pages
+
+1. En la sección **Source**, selecciona la rama `master` (o `main`, dependiendo de tu configuración) y la carpeta raíz (`/`).
+2. Haz clic en **Save**.
+
+   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=672727b5&is=6725d635&hm=fc587bbad64762501d7357dfd2f07ac9120340960814dd1b22127548f8a9988f&=&format=webp&quality=lossless&width=902&height=411)
+
 ## Ve a Web App
 
 1. **Accede a la aplicación**:
@@ -4302,19 +4314,6 @@ La imagen muestra la interfaz de Swagger utilizada en FrostChef para documentar 
    - Accede a la sección de **"Cuenta"** para revisar y actualizar tu información personal, cambiar tu contraseña o cerrar sesión.
 
 ---
-
-1. Dirígete a la pestaña **Settings** de tu repositorio.
-2. Desplázate hacia abajo hasta la sección **GitHub Pages**.
-
-   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=672727b5&is=6725d635&hm=b4d6fb8346fffe7ce5316d0ca3e87a469a7daad30c2af42297298a9805dcf80f&=&format=webp&quality=lossless&width=815&height=411)
-
-### Configura GitHub Pages
-
-1. En la sección **Source**, selecciona la rama `master` (o `main`, dependiendo de tu configuración) y la carpeta raíz (`/`).
-2. Haz clic en **Save**.
-
-   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=672727b5&is=6725d635&hm=fc587bbad64762501d7357dfd2f07ac9120340960814dd1b22127548f8a9988f&=&format=webp&quality=lossless&width=902&height=411)
-
 
 ### 6.2.2.8. Team Collaboration Insights during Sprint
 
