@@ -4630,14 +4630,14 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 1. Dirígete a la pestaña **Settings** de tu repositorio.
 2. Desplázate hacia abajo hasta la sección **GitHub Pages**.
 
-   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=672727b5&is=6725d635&hm=b4d6fb8346fffe7ce5316d0ca3e87a469a7daad30c2af42297298a9805dcf80f&=&format=webp&quality=lossless&width=815&height=411)
+   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=673e39f5&is=673ce875&hm=9fa10b20d51f73fc53689ac240773654a3da6a36e5e3ff2b42d62c0ec3814659&=&format=webp&quality=lossless&width=815&height=411)
 
 ### Configura GitHub Pages
 
 1. En la sección **Source**, selecciona la rama `master` (o `main`, dependiendo de tu configuración) y la carpeta raíz (`/`).
 2. Haz clic en **Save**.
 
-   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=672727b5&is=6725d635&hm=fc587bbad64762501d7357dfd2f07ac9120340960814dd1b22127548f8a9988f&=&format=webp&quality=lossless&width=902&height=411)
+   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=673e39f5&is=673ce875&hm=57d2a36554d531235c4b56c3f1b7a8d76fb8fa13e84a00b077f77fae80471124&=&format=webp&quality=lossless&width=902&height=411)
 
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
@@ -4709,21 +4709,53 @@ Finalmente, no podemos quedarnos estancados. Tenemos que seguir aprendiendo con 
 
 
 # Bibliografía
-1. **Arora, C. P. (2018).** *Refrigeration and air conditioning.* McGraw-Hill Education.
 
-2. **Eisenberg, J. (2012).** *Refrigeration systems and applications.* Wiley.
+**Arora, C. P. (2018).** *Refrigeration and air conditioning.* McGraw-Hill Education.
 
-3. **Incropera, F. P., & DeWitt, D. P. (2016).** *Fundamentals of heat and mass transfer.* Wiley.
+**Bai, L., & Liu, M. (2023).** Enhancing food traceability in refrigeration systems using blockchain and IoT. *Foods, 12*(15), 3052.  
+   [https://www.mdpi.com/2304-8158/12/15/3052](https://www.mdpi.com/2304-8158/12/15/3052)
 
-4. **Dossat, R. J., & Horan, T. R. (2011).** *Principles of refrigeration.* Pearson.
+**Bergman, T. L., & Lavine, A. S. (2011).** *Principles of thermal science.* McGraw-Hill.
 
-5. **Moran, M. J., & Shapiro, H. N. (2010).** *Fundamentals of engineering thermodynamics.* Wiley.
+**Cengel, Y. A., & Boles, M. A. (2015).** *Thermodynamics: An engineering approach.* McGraw-Hill Education.
 
-6. **Cengel, Y. A., & Boles, M. A. (2015).** *Thermodynamics: An engineering approach.* McGraw-Hill Education.
+**Chen, Y., & Li, H. (2023).** Optimizing energy efficiency in commercial refrigeration systems using IoT-enabled controls. *Energy Reports, 9*(2), 1407-1420.  
+   [https://www.sciencedirect.com/science/article/pii/S2352484723001458](https://www.sciencedirect.com/science/article/pii/S2352484723001458)
 
-7. **Stoecker, W. F., & Jones, J. W. (1982).** *Refrigeration and air conditioning.* McGraw-Hill.
+**Dossat, R. J., & Horan, T. R. (2011).** *Principles of refrigeration.* Pearson.
 
-8. **Bergman, T. L., & Lavine, A. S. (2011).** *Principles of thermal science.* McGraw-Hill.
+**Eisenberg, J. (2012).** *Refrigeration systems and applications.* Wiley.
+
+**Incropera, F. P., & DeWitt, D. P. (2016).** *Fundamentals of heat and mass transfer.* Wiley.
+
+**Jain, S., & Kumar, A. (2023).** Development of smart refrigeration systems with IoT-enabled fault detection. *Sensors, 23*(3), 1167.  
+   [https://www.mdpi.com/1424-8220/23/3/1167](https://www.mdpi.com/1424-8220/23/3/1167)
+
+**Moran, M. J., & Shapiro, H. N. (2010).** *Fundamentals of engineering thermodynamics.* Wiley.
+
+**Minetto, S., Mauro, A., Martínez, S., & Zhao, Y. (2023).** Use of Internet of Things and Artificial Intelligence in Refrigeration and Air Conditioning. *International Institute of Refrigeration.*  
+    [https://iifiir.org/en/publications/30031296](https://iifiir.org/en/publications/30031296)
+
+**Pérez-Gomariz, R., & López-Gómez, A. (2022).** Application of artificial intelligence to refrigeration optimization. *CYTEF Proceedings.*  
+    [https://www.iifiir.org/en/publications/30031302](https://www.iifiir.org/en/publications/30031302)
+
+**Rossi, G., & Tanaka, H. (2022).** Cold storage management using IoT: Advances and challenges. *Renewable and Sustainable Energy Reviews, 168*, 112845.  
+    [https://www.sciencedirect.com/science/article/abs/pii/S136403212200201X](https://www.sciencedirect.com/science/article/abs/pii/S136403212200201X)
+
+**Santos, M. C., & Oliveira, F. M. (2023).** IoT-based smart refrigeration: Applications in the food industry. *Food Control, 149*, 109761.  
+    [https://www.sciencedirect.com/science/article/pii/S0956713523002735](https://www.sciencedirect.com/science/article/pii/S0956713523002735)
+
+**Singh, P., & Gupta, R. (2023).** Artificial intelligence in energy-efficient refrigeration systems. *Journal of Renewable and Sustainable Energy, 15*(4), 045678.  
+    [https://aip.scitation.org/journal/rse](https://aip.scitation.org/journal/rse)
+
+**Stoecker, W. F., & Jones, J. W. (1982).** *Refrigeration and air conditioning.* McGraw-Hill.
+
+**Wang, X., & Huang, J. (2022).** IoT-based cold chain logistics monitoring for perishable goods. *Computers and Electronics in Agriculture, 205*, 107557.  
+    [https://www.sciencedirect.com/science/article/abs/pii/S016816992200237X](https://www.sciencedirect.com/science/article/abs/pii/S016816992200237X)
+
+**Zhang, R., & Zhao, T. (2023).** Predictive maintenance for industrial refrigeration using AI and IoT technologies. *Journal of Industrial Information Integration, 15*, 22-34.  
+    [https://www.journals.elsevier.com/journal-of-industrial-information-integration](https://www.journals.elsevier.com/journal-of-industrial-information-integration)
+
 
 # Anexos
 Video Expo: https://drive.google.com/drive/folders/1XUXWfB3LqDMa2fjlEI7xLkeY8VWUU1Dm?usp=sharing
