@@ -3924,7 +3924,7 @@ En esta sección, se proporciona un resumen de los logros alcanzados durante el 
 
 **Aplication Web**
 
- - Inicio de sesion
+## Inicio de sesion
 
 **Pantalla de Inicio de Sesión de FrostChef**  
 
@@ -3948,7 +3948,7 @@ El diseño equilibra simplicidad y funcionalidad, asegurando una experiencia de 
 
  <img src="assets/images/Web1.png">
 
- - Creacion de cuenta
+## Creacion de cuenta
 
 La imagen muestra la pantalla de registro de la aplicación **FrostChef**. El diseño es minimalista y atractivo, con un fondo en tonos degradados de azul que resalta el formulario en el centro.
 
@@ -3973,7 +3973,7 @@ El diseño equilibra simplicidad y funcionalidad, asegurando una experiencia de 
 
  <img src="assets/images/Web2.png">
 
- - Visualizacion del equipo de refrigeracion
+## Visualizacion del equipo de refrigeracion
 
 La imagen muestra una interfaz de usuario de un sistema de gestión de refrigeración llamado **FrostChef**. En la parte superior, hay un menú con las opciones **"Home"**, **"Inventario"** y **"Colaboradores"**. Debajo del menú, se presentan cuatro refrigeradores etiquetados como **EA1, EA2, EA3 y EA4**. Cada refrigerador tiene una imagen, un estado (Activo o En Mantenimiento) y una capacidad en porcentaje, además de un botón que dice **"Ver detalles"**.
 
@@ -3986,7 +3986,7 @@ Este sistema facilita un control preciso y eficiente del entorno de refrigeraci�
 
  <img src="assets/images/Web3.png">
 
- - Añadir un producto
+ ## Añadir un producto
 
 La imagen muestra la interfaz de usuario de **FrostChef** para añadir un nuevo producto al inventario. Esta interfaz facilita la gestión de insumos en restaurantes mediante un formulario intuitivo y una lista de productos temporales, lo que permite un control preciso y eficiente.
 
@@ -4007,7 +4007,7 @@ Este sistema mejora la gestión del inventario en restaurantes al proporcionar:
 
  <img src="assets/images/Web4.png">
 
- - Vista para añadir colaboradores al restaurante
+ ## Vista para añadir colaboradores al restaurante
 
 La imagen muestra la pantalla para añadir colaboradores al sistema de gestión del restaurante **FrostChef**. El diseño es claro y funcional, con un enfoque en la facilidad de uso y la eficiencia.
 
@@ -4031,7 +4031,7 @@ El diseño asegura una gestión eficiente del personal, permitiendo tanto la sup
 
  <img src="assets/images/Web5.png">
 
- - Enviar correo al colaborador
+## Enviar correo al colaborador
 
 La imagen muestra la pantalla para enviar correos a colaboradores desde la aplicación **FrostChef**. El diseño es simple y funcional, permitiendo una comunicación eficiente con el equipo.
 
@@ -4055,7 +4055,7 @@ El diseño asegura una comunicación clara y directa con los colaboradores, faci
 
  <img src="assets/images/Web6.png">
 
- - Peril del dueño del restaurante
+ ## Peril del dueño del restaurante
 
 La imagen muestra la pantalla de perfil del dueño del restaurante en la aplicación **FrostChef**. El diseño es limpio y profesional, enfocándose en proporcionar información esencial de manera organizada.
 
@@ -4083,7 +4083,7 @@ El diseño asegura que toda la información relevante del dueño del restaurante
 
 **Aplication Mobile**
 
-- Inicio de sesion
+## Inicio de sesion
 
 <img src="assets/images/Mobile1.png" width="300">
 
@@ -4103,7 +4103,7 @@ La imagen muestra la pantalla de inicio de sesión de la aplicación móvil **Fr
 3. **Registro para nuevos usuarios**:  
    Debajo del botón, hay un enlace que dice: "¿No tienes cuenta? Regístrate", proporcionando a los nuevos usuarios una opción clara para crear una cuenta.
 
-- Menu de Productos
+## Menu de Productos
 
 <img src="assets/images/Mobile2.png" width="300">
   
@@ -4128,7 +4128,7 @@ La imagen muestra la pantalla del menú de productos en la aplicación móvil **
 
 El diseño asegura una gestión eficiente del inventario, proporcionando una vista clara y accesible de los productos disponibles y permitiendo una fácil navegación por diferentes secciones de la aplicación.
 
-- Equipo de Refrigeracion
+## Equipo de Refrigeracion
 
 <img src="assets/images/Mobile3.png" width="300">
 
@@ -4150,7 +4150,7 @@ La imagen muestra la pantalla de **Equipo de Refrigeración** en la aplicación 
 
 El diseño asegura una gestión eficiente del equipo de refrigeración, permitiendo un monitoreo fácil y acceso rápido a detalles específicos de cada unidad.
 
-- Detalles de una unidad de refrigeracion
+## Detalles de una unidad de refrigeracion
 
 <img src="assets/images/Mobile4.png" width="300">
 
@@ -4177,7 +4177,7 @@ La imagen muestra la pantalla de detalles de una unidad de refrigeración en la 
 ### Contexto del Proyecto:
 Este tipo de interfaz es fundamental en un sistema de gestión de refrigeración como **FrostChef**. Permite a los usuarios tener un control detallado sobre cada unidad, asegurando que se mantengan las condiciones adecuadas de almacenamiento y se realice el mantenimiento necesario en tiempo y forma. Al contar con esta información accesible desde un dispositivo móvil, los responsables del restaurante pueden gestionar los equipos de manera más eficiente y reactiva.
 
-- Agregar producto
+## Agregar producto
 
 <img src="assets/images/Mobile5.png" width="300">
 
@@ -4202,7 +4202,7 @@ Esta función es crucial para el sistema de gestión de inventarios de **FrostCh
 - **Mejora de la Gestión de Insumos**: Facilita el seguimiento y la reposición de productos, optimizando el uso de recursos y reduciendo el desperdicio.
 - **Eficiencia Operativa**: Ahorra tiempo al personal del restaurante, permitiéndoles gestionar el inventario de manera más efectiva y con menos esfuerzo.
 
-- Notificaciones
+## Notificaciones
 
 <img src="assets/images/Mobile6.png" width="300">
 
@@ -4225,8 +4225,7 @@ Las notificaciones en **FrostChef** mejoran significativamente la gestión opera
 
 El diseño de esta funcionalidad asegura que los usuarios estén siempre al tanto de los eventos importantes, mejorando la eficiencia y la calidad del servicio en el restaurante.
 
-
-- Creación de cuenta
+## Creación de cuenta
 
 <img src="assets/images/Mobile7.png" width="300">
 
