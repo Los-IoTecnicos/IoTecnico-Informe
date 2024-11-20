@@ -392,6 +392,8 @@ El equipo adopta un liderazgo compartido, donde cada miembro asume roles de lide
       </br>
       TB2:En la tercera entrega, primero se hicieron las correcciones pertinentes del TP, se mejoraron el capitulo 4 y 5. Luego me dedique a actualizar las epics, user stories y product backlog. En esta entrega me encargue de gesitonar el documento .md y fomente una buena comunicacion con mis compañeros mediante nuestros recursos de comunicacion como son WhatsApp y Discord.  </br>
       </br>
+      TF:</br>En esta ultima entregam se hicieron las correciones pertinentes al documento del trabajo, esto se llevo a cabo de manera colaborativa
+      </br>
       Patrocinio Escalante, Leonardo Walt</br>
       TB1:</br>
       Nos apoyamos mutuamente revisando los escenarios As-Is y To-Be, logrando identificar mejoras y asegurar la adaptación del diseño al contexto del negocio.</br>
