@@ -4085,6 +4085,8 @@ El diseño asegura que toda la información relevante del dueño del restaurante
 
 - Inicio de sesion
 
+<img src="assets/images/Mobile1.png" width="300">
+
 La imagen muestra la pantalla de inicio de sesión de la aplicación móvil **FrostChef**. El diseño es minimalista y atractivo, con un fondo en tonos degradados de azul que resalta el formulario en el centro.
 
 ### Elementos destacados:  
@@ -4101,9 +4103,10 @@ La imagen muestra la pantalla de inicio de sesión de la aplicación móvil **Fr
 3. **Registro para nuevos usuarios**:  
    Debajo del botón, hay un enlace que dice: "¿No tienes cuenta? Regístrate", proporcionando a los nuevos usuarios una opción clara para crear una cuenta.
 
-<img src="assets/images/Mobile1.png" width="300">
-
 - Menu de Productos
+
+<img src="assets/images/Mobile2.png" width="300">
+  
 La imagen muestra la pantalla del menú de productos en la aplicación móvil **FrostChef**. El diseño es intuitivo y funcional, facilitando la gestión de inventarios en un entorno móvil.
 
 ### Elementos destacados:  
@@ -4125,10 +4128,9 @@ La imagen muestra la pantalla del menú de productos en la aplicación móvil **
 
 El diseño asegura una gestión eficiente del inventario, proporcionando una vista clara y accesible de los productos disponibles y permitiendo una fácil navegación por diferentes secciones de la aplicación.
 
-<img src="assets/images/Mobile2.png" width="300">
-
-
 - Equipo de Refrigeracion
+
+<img src="assets/images/Mobile3.png" width="300">
 
 La imagen muestra la pantalla de **Equipo de Refrigeración** en la aplicación móvil **FrostChef**. El diseño es intuitivo y funcional, ideal para el monitoreo y gestión de equipos de refrigeración en un entorno móvil.
 
@@ -4148,10 +4150,9 @@ La imagen muestra la pantalla de **Equipo de Refrigeración** en la aplicación 
 
 El diseño asegura una gestión eficiente del equipo de refrigeración, permitiendo un monitoreo fácil y acceso rápido a detalles específicos de cada unidad.
 
-<img src="assets/images/Mobile3.png" width="300">
-
-
 - Detalles de una unidad de refrigeracion
+
+<img src="assets/images/Mobile4.png" width="300">
 
 La imagen muestra la pantalla de detalles de una unidad de refrigeración en la aplicación móvil **FrostChef**. Este tipo de vista es crucial para el monitoreo y mantenimiento efectivo de los equipos de refrigeración.
 
@@ -4176,10 +4177,9 @@ La imagen muestra la pantalla de detalles de una unidad de refrigeración en la 
 ### Contexto del Proyecto:
 Este tipo de interfaz es fundamental en un sistema de gestión de refrigeración como **FrostChef**. Permite a los usuarios tener un control detallado sobre cada unidad, asegurando que se mantengan las condiciones adecuadas de almacenamiento y se realice el mantenimiento necesario en tiempo y forma. Al contar con esta información accesible desde un dispositivo móvil, los responsables del restaurante pueden gestionar los equipos de manera más eficiente y reactiva.
 
-<img src="assets/images/Mobile4.png" width="300">
-
-
 - Agregar producto
+
+<img src="assets/images/Mobile5.png" width="300">
 
 La imagen muestra la pantalla para agregar un producto en la aplicación móvil **FrostChef**. Esta funcionalidad es esencial para mantener el inventario actualizado y preciso, mejorando la gestión de insumos en el restaurante.
 
@@ -4202,10 +4202,9 @@ Esta función es crucial para el sistema de gestión de inventarios de **FrostCh
 - **Mejora de la Gestión de Insumos**: Facilita el seguimiento y la reposición de productos, optimizando el uso de recursos y reduciendo el desperdicio.
 - **Eficiencia Operativa**: Ahorra tiempo al personal del restaurante, permitiéndoles gestionar el inventario de manera más efectiva y con menos esfuerzo.
 
-<img src="assets/images/Mobile5.png" width="300">
-
-
 - Notificaciones
+
+<img src="assets/images/Mobile6.png" width="300">
 
 La pantalla de **Notificaciones** en la aplicación móvil **FrostChef** es una herramienta fundamental para mantener informados a los usuarios sobre eventos críticos y alertas en tiempo real.
 
@@ -4226,10 +4225,10 @@ Las notificaciones en **FrostChef** mejoran significativamente la gestión opera
 
 El diseño de esta funcionalidad asegura que los usuarios estén siempre al tanto de los eventos importantes, mejorando la eficiencia y la calidad del servicio en el restaurante.
 
-<img src="assets/images/Mobile6.png" width="300">
-
 
 - Creación de cuenta
+
+<img src="assets/images/Mobile7.png" width="300">
 
 La funcionalidad de **Creación de Cuenta** en la aplicación móvil **FrostChef** es crucial para incorporar nuevos usuarios a la plataforma, asegurando que tengan acceso a todas las funciones y beneficios que la aplicación ofrece.
 
@@ -4255,8 +4254,6 @@ La pantalla de **Creación de Cuenta** es fundamental para el sistema de gestió
 - **Aumenta la Base de Usuarios**: Facilita la incorporación de nuevos usuarios, lo cual es vital para la expansión y éxito de la plataforma.
 - **Seguridad y Personalización**: Al capturar información detallada y validarla, asegura que cada cuenta esté protegida y sea personalizada según las necesidades del usuario.
 - **Experiencia de Usuario Optimizada**: La estructura intuitiva y los mensajes de error claros mejoran la usabilidad, reduciendo la frustración y asegurando un proceso de registro suave y eficiente.
-
-<img src="assets/images/Mobile7.png" width="300">
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 2. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
