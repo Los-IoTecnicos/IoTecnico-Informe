@@ -394,6 +394,7 @@ El equipo adopta un liderazgo compartido, donde cada miembro asume roles de lide
       </br>
       TF:</br>En esta ultima entregam se hicieron las correciones pertinentes al documento del trabajo, esto se llevo a cabo de manera colaborativa
       </br>
+      </br>
       Patrocinio Escalante, Leonardo Walt</br>
       TB1:</br>
       Nos apoyamos mutuamente revisando los escenarios As-Is y To-Be, logrando identificar mejoras y asegurar la adaptación del diseño al contexto del negocio.</br>
