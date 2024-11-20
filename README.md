@@ -4285,8 +4285,23 @@ La imagen muestra la interfaz de Swagger utilizada en FrostChef para documentar 
      ```bash
      git push -u origin master
      ```
+     
+## Ve a Web App
 
-## Accede a la configuración de GitHub Pages
+1. **Accede a la aplicación**:
+   - Haz clic en el siguiente enlace para abrir la aplicación web **FrostChef**: [https://frostchef.vercel.app/Front-End/login](https://frostchef.vercel.app/Front-End/login).
+
+2. **Inicia sesión en tu cuenta**:
+   - Introduce tu correo electrónico y contraseña en los campos correspondientes.
+   - Haz clic en el botón **"Iniciar Sesión"** para acceder a la plataforma.
+
+3. **Explora las funcionalidades**:
+   - Una vez dentro, navega por las diferentes secciones de la aplicación (menú, equipo, inventario, notificaciones, técnicos) para familiarizarte con sus características y funcionalidades.
+
+4. **Gestiona tu cuenta**:
+   - Accede a la sección de **"Cuenta"** para revisar y actualizar tu información personal, cambiar tu contraseña o cerrar sesión.
+
+---
 
 1. Dirígete a la pestaña **Settings** de tu repositorio.
 2. Desplázate hacia abajo hasta la sección **GitHub Pages**.
