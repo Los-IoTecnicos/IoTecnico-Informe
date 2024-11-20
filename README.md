@@ -172,7 +172,7 @@ _____________________
   </td>
   <tr>
     <td>V 2.2.0</td>
-    <td>01/11/2024</td>
+    <td>11/11/2024</td>
     <td>Leonardo</td>
     <td>Se agregaron las siguientes secciones:
        Sprint Planning 2, Registro de Entrevistas y Evaluaciones según heurísticas </td>
@@ -285,149 +285,145 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
 
 
 ## Student Outcome 
-<table>
-  <thead>
-    <tr>
-      <th>Criterio específico</th>
-      <th>Acciones realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Trabaja en equipo para
-      proporcionar liderazgo en
-      forma conjunta</td>
-      <td>Márquez, Piero Stefano <br/>
-            TB1:<br/>
-            Organicé y gestioné los documentos clave, incluyendo la publicación del video de las entrevistas y la descripción del startup. Además, desarrollé estrategias y tácticas competitivas para posicionarnos frente a los competidores, y participé activamente en el diseño, análisis y registro de entrevistas. También trabajé en la creación y priorización del product backlog, asegurando que todas las tareas estuvieran alineadas con los objetivos del proyecto. Por último, colaboré en los capítulos 3 y 4 del proyecto, contribuyendo de manera significativa a su desarrollo y asegurando el avance según lo planificado.</br>
-            TP</br>
-            Organice la correcion de la primera versidel trabajo tb1 y me encargue de las correciones completas de todo el capitulo tres mejorando las user stories y el product backlong siguiendo las indicaciones del profesor.Tambien se fomento en el grupo tener una comunicacion clara y rapida ante cualquier duda o consulta que tenga algun integrante del equipo se usaron canales como Whatsapp para mensaje y discord para llamadas. Haciendo reuniones interdiarias para dialogar sobre los avances.</br></br>
-            TB2: Colabore con la organizacion del Trello y me encargue de la mayor parte de documentación del Sprint2. Estuve contastantemente coordinando y orientando a mis compañeros en como deberian trabajar en el Trello y la forma correcta de organizar sus Tasks. </br></br>
-            Patrocinio Escalante, Leonardo Walt</br>
-            TB1:</br>
-            Desarrollé el perfil de la solución, utilizando el Lean UX Canvas para asegurar que todos los aspectos del producto estuvieran alineados con las necesidades del usuario y los objetivos del negocio. Realicé el mapeo del User Journey y la creación de Empathy Maps para comprender a profundidad las emociones y comportamientos de los usuarios en cada interacción con el sistema. A través de escenarios As-Is y To-Be, capturé el estado actual y futuro de los procesos, lo que nos ayudó a visualizar las mejoras necesarias. Implementé el lenguaje ubicuo para garantizar una comunicación clara entre todos los involucrados en el proyecto, y llevé a cabo sesiones de EventStorming y modelado de flujos de mensajes de dominio para definir cómo los eventos clave y los mensajes dentro del sistema interactúan de manera eficiente, asegurando que el diseño fuera coherente y adaptable.</br>
-            TP:</br>
-            Desarrollé las correcciones necesarias para garantizar una mejor alineación con las expectativas del proyecto. Presenté los avances en los lineamientos de estilo, la arquitectura de la información, y los mockups de la landing page, destacando cómo estos elementos contribuirán a la experiencia del usuario. También detallé los avances en la configuración del entorno de desarrollo web, la gestión del código fuente, y la guía de estilo y convenciones de código, explicando cómo estas prácticas mejoran la calidad y coherencia del desarrollo.
-            </br>
-            TB2:</br>
-            Colaboré con el equipo en el desarrollo de la aplicación móvil, implementando funcionalidades clave y optimizando su rendimiento, lo que permitió un liderazgo conjunto en el proyecto.
-            </br>
-
-</br>
-            Díaz Gonzales, Víctor Yordi</br>
-            TB1:</br>
-            Desarrollé y gestioné las user stories, asegurando que cada una reflejara las necesidades del proyecto y del usuario final. Además, implementé el enfoque de Tactical-Level Domain-Driven Design, lo que nos permitió identificar y organizar los distintos dominios y contextos acotados, como el Bounded Context: Account, mejorando la estructura del sistema. También trabajé en la definición de la Interface Layer y la Infrastructure Layer, facilitando una comunicación clara entre los distintos componentes del sistema. Para finalizar, llevé a cabo sesiones de EventStorming, lo que nos ayudó a identificar eventos clave y procesos dentro del sistema, logrando una visión integral del flujo de trabajo y sus interacciones.</br>
-            TP:</br>
-            Nuestro equipo mantuvo una colaboración constante, apoyándonos mutuamente en cada etapa del proyecto. Ante cualquier consulta o duda, trabajamos juntos para encontrar soluciones, lo que permitió que cada miembro completara sus tareas individuales de manera efectiva. Este trabajo en equipo nos llevó a entregar un proyecto final bien estructurado y satisfactorio tanto en calidad como en cumplimiento de los plazos.</br>
-            TB2: </br> Se realizó el sprint 2 sobre el desarrollo e implementación de la aplicacion mobil y web en entornos relaes para validar sus usabilidad e
-            </br></br>
-            Sánchez Ramírez, Diego Antonio</br>
-            TB1:</br>
-            Lideré el diseño de la arquitectura de software, asegurando que la solución fuera escalable y eficiente. Durante este proceso, llevé a cabo sesiones de EventStorming para mapear los eventos clave dentro del sistema, lo que nos permitió identificar y estructurar mejor los flujos de trabajo. Además, participé en actividades de needfinding, profundizando en las necesidades reales de los usuarios y asegurando que el diseño estuviera alineado con sus expectativas. También realicé un análisis de competidores, evaluando las soluciones actuales en el mercado para identificar oportunidades de mejora y asegurar que nuestro producto tuviera una ventaja competitiva sólida.</br>
-            TP:</br>
-            Coordine con el equipo para pode realizar los diferentes puntos de este trabajo parcial, por ejemplo en el intercambio de ideas para la realización de los diagramas de arquitectura de software utilizando Structurizr. </br>
-           TB2: </br> Lideré la gestión del tablero Kanban en Trello, asegurando que cada tarea esté organizada y que las responsabilidades estén claramente definidas. Esta herramienta ha sido fundamental para mejorar la organización del proyecto, especialmente en la gestión de tareas relacionadas con IoT. 
-            
-            </br></br>
-            Navarro Chacon, Juan Jose</br>
-            TB1:</br>
-            Trabajé en la definición de las suposiciones de Lean UX, generando declaraciones de hipótesis que nos permitieron validar rápidamente ideas y ajustar el diseño con base en resultados tangibles. Realicé un análisis competitivo para entender cómo nuestra solución se posiciona frente a los competidores, identificando oportunidades de mejora. Desarrollé user stories y creé una matriz de tareas de usuario para mapear las interacciones clave en el sistema. Además, organicé sesiones de EventStorming para modelar los eventos críticos y asegurar que el flujo de información dentro del sistema fuera claro. Utilicé los Bounded Context Canvases y el Context Mapping para definir y visualizar las interacciones entre los diferentes dominios, asegurando que los límites del sistema fueran bien comprendidos y la solución estuviera bien estructurada.</br>
-            TP:</br>
-            Organizamos reuniones para discutir y
-            distribuir los temas de esta entrega. A
-            cada integrante se le asignó una tarea
-            específica que fue completada dentro
-            del plazo establecido.</br>
-            </br></br>
-            TB2: </br>
-       A través de la colaboración constante con los demás miembros, logramos una organización optimizada de tareas, especialmente en el desarrollo de las partes web y móvil del proyecto.
-
-</br>
-            Zamora Rivera, Ismael Sebastian</br>
-            TB1:</br>
-            Durante el desarrollo del proyecto y la fase de identificación del producto, surgieron diversas dificultades. Estos inconvenientes aparecieron debido a los desafíos propios del proceso de trabajo, así como a la evaluación del producto final, lo que requirió un análisis más detallado para implementar las soluciones necesarias.</br>
-            TP</br>
-            Se identificaron diferentes problemas durante el desarrollo del proyecto, y se hicieron las correcciones correspondientes basadas en el feedback recibido de la entrega anterior. Para esta fase, se elaboró el diseño UX/UI, creando el wireframe y el mockup de la aplicación.</br>
-            TB2</br>
-            Se implementearon funcionalidades que permitan conocer al usuario a detalle los productos que contengan cada refrigerador.</br>
-      </td>
-      <td>TB1</br>
-      En conclusión, un enfoque colaborativo y multidisciplinario es clave en el desarrollo de soluciones de ingeniería de software. Los estudiantes han destacado la importancia de integrar diversas disciplinas y conocimientos para mejorar cada fase del proceso, desde el diseño inicial y el análisis competitivo hasta la interacción con los usuarios y la arquitectura de software. Este enfoque no solo garantiza que los productos finales sean técnicamente robustos y alineados con las necesidades del mercado, sino que también resalta la importancia de la colaboración y la comunicación efectiva entre áreas especializadas para superar desafíos complejos y alcanzar soluciones innovadoras. Este modelo interdisciplinario no solo eleva la calidad del desarrollo de productos, sino que también prepara a los futuros ingenieros para liderar proyectos en entornos más integrados y tecnológicamente avanzados.
-      Liderazgo Colaborativo en Equipo:
-El equipo adopta un liderazgo compartido, donde cada miembro asume roles de liderazgo según sus habilidades y el momento del proyecto, fomentando la toma de decisiones conjunta y el compromiso. Este enfoque dinámico permite que todos contribuyan a la coordinación y ejecución de tareas clave.
-      </td>
-    </tr>
-    <tr>
-      <td>Crea un entorno colaborativo e
-      inclusivo, establece metas,
-      planifica tareas y cumple
-      objetivos.</td>
-      <td>Márquez, Piero Stefano <br/>
-      TB1:</br>
-      Durante la primera entrega, organicé y gestioné documentos clave, como el video de entrevistas y la descripción del startup. También participé en el diseño y priorización del product backlog, asegurando que todas las tareas estuvieran alineadas con los objetivos. Gracias a una planificación clara, el equipo avanzó de manera colaborativa en los capítulos 3 y 4, cumpliendo con los plazos establecidos.</br>
-      TP:</br>
-      En la segunda entrega, corregí la primera versión de TB1 y mejoré el capítulo 3, enfocándome en las user stories y el product backlog según las indicaciones del profesor. Fomenté una comunicación fluida dentro del equipo mediante WhatsApp y Discord, con reuniones interdiarias que ayudaron a planificar tareas y cumplir objetivos de manera inclusiva.</br>
-      </br>
-      TB2:En la tercera entrega, primero se hicieron las correcciones pertinentes del TP, se mejoraron el capitulo 4 y 5. Luego me dedique a actualizar las epics, user stories y product backlog. En esta entrega me encargue de gesitonar el documento .md y fomente una buena comunicacion con mis compañeros mediante nuestros recursos de comunicacion como son WhatsApp y Discord.  </br>
-      </br>
-      Patrocinio Escalante, Leonardo Walt</br>
-      TB1:</br>
-      Nos apoyamos mutuamente revisando los escenarios As-Is y To-Be, logrando identificar mejoras y asegurar la adaptación del diseño al contexto del negocio.</br>
-      TP:</br>
-      Nos apoyamos para resolver dudas técnicas y unificar el estilo del código, facilitando el desarrollo efectivo y en equipo.</br>
-      </br>
-      TB2:</br>
-      Fomenté un ambiente de trabajo colaborativo al avanzar en el informe del sprint 2 y realizar evaluaciones heurísticas, estableciendo metas claras y planificando tareas para cumplir con los objetivos de mejora de usabilidad.
-            </br>
-      </br>
-      Díaz Gonzales, Víctor Yordi</br>
-      TB1:</br>
-      Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.</br>
-      TP:</br>
-      Nos enfocamos en construir un entorno de trabajo en equipo que permitiera la participación activa de todos. La planificación de tareas se realizó de forma coordinada, permitiendo cumplir los objetivos de manera eficaz. Este enfoque nos ayudó a alcanzar nuestras metas mientras fomentábamos la colaboración y el apoyo entre los integrantes del grupo.
-      TB2 </br>
-      Se empleó el trabajo colaborativo para realizar el sprint 2 de manera que como equipo era continuar con tareas del desarrollo de las aplicaciones web y mobil y tner un buen resultado.
-      </br></br>
-      Sánchez Ramírez, Diego Antonio</br>
-      TB1:</br>
-      Realizamos reuniones de grupo mediante distintos medios, como Discord o de manera presencial en las sesiones del curso, establecimos limites de fecha de entrega y cumplimiento de objetivos para la base del proyecto</br>
-      TP:</br>
-      Realizar como el anterior entregable, reuniones para poder corregir los fallos que tuvimos en dicho entregable. Se considero reforzar mas la planeación de metas y objetivos, ademas de la comunicación, para poder realizar un buen trabajo en conjunto. </br>
-      TB3: </br>
-La  estructura del tablero permitió una visualización clara del flujo de trabajo y ayuda al equipo a priorizar actividades de manera eficiente.  
-      </br></br>
-      Navarro Chacon, Juan Jose</br>
-      TB1:</br>
-      La colaboración y la comunicación
-      fueron elementos clave durante este
-      proyecto. Trabajamos juntos en tareas
-      específicas, evaluamos los resultados y
-      abordamos los desacuerdos de manera
-      constructiva, siempre con el objetivo de
-      mejorar el desempeño del grupo.</br>
-      TP:</br>
-      Nos apoyamos mutuamente ante cada consulta de cada integrante del equipo, lo cual nos permitió realizar de manera efectiva nuestras  tareas asignadas, tanto individual como grupal y así poder realizar un trabajo satisfactorio.</br>
-      TB3: </br>
-Gracias a esta gestión colaborativa gracias a Trello, hemos logrado maximizar la eficiencia en la realización de las tareas asignadas a estas áreas, manteniendo un flujo constante de avances.
-      </br></br>
-      Zamora Rivera, Ismael Sebastian</br>
-      TB1:</br>
-      Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.</br>
-      TP</br>
-      Fomentamos un ambiente donde cada miembro pudo participar activamente y compartir ideas, lo que promovió una colaboración efectiva, Asimismo Eetablecimos metas concretas al inicio, lo que facilitó una mejor organización y división de las responsabilidades. Al planificar cada tarea con precisión, logramos cumplir con los objetivos de manera eficiente y alcanzar los resultados esperados dentro del tiempo previsto.</br>
-      TB2</br>
-      Contribuí al desarrollo de la sección de visualización de detalles de los refrigeradores, promoviendo un ambiente colaborativo. Además, avancé en el informe del sprint 2, en las funcionalidades de la aplicación y en la documentación del capítulo 5, organizando tareas para mejorar la usabilidad.</br>
-      </td>
-      <td>El equipo consolidó un entorno altamente colaborativo e inclusivo. Se reforzó la comunicación efectiva mediante herramientas como WhatsApp y Discord, manteniendo reuniones interdiarias que facilitaron la coordinación y resolución de dudas. Cada miembro del equipo contribuyó activamente, estableciendo metas concretas y organizando las tareas de manera precisa, lo que permitió un trabajo fluido y alineado con los objetivos del proyecto. Además, la mejora en la planificación y distribución de responsabilidades, sumada al apoyo mutuo, fue clave para cumplir con los plazos y lograr los resultados esperados. El equipo mostró una notable capacidad para trabajar en conjunto, corregir errores y cumplir los objetivos establecidos de manera eficiente.
-      Entorno Inclusivo y Cumplimiento de Objetivos:
-El equipo promueve un ambiente inclusivo y abierto a diversas ideas, planificando metas claras en un tablero Kanban en Trello. Esta herramienta organiza y prioriza tareas, facilita el seguimiento del progreso y asegura el cumplimiento de objetivos mediante la responsabilidad compartida.
-      </td>
-    </tr>
-  </tbody>
+<table border="1">
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Trabaja en equipo para funcionalizar de forma conjunta</td>
+    <td>
+      <p>Márquez, Piero Stefano <br> 
+      TB1:<br> 
+      Organicé y gestioné los documentos clave, incluyendo la publicación del video de las entrevistas y la descripción del startup. Además, desarrollé estrategias y tácticas competitivas para posicionarnos frente a los competidores, y participé activamente en el diseño, análisis y registro de entrevistas. También trabajé en la creación y priorización del product backlog, asegurando que todas las tareas estuvieran alineadas con los objetivos del proyecto. Por último, colaboré en los capítulos 3 y 4 del proyecto, contribuyendo de manera significativa a su desarrollo y asegurando el avance según lo planificado.<br>
+      TP:<br> 
+      Organice la correcion de la primera versidel trabajo tb1 y me encargue de las correciones completas de todo el capitulo tres mejorando las user stories y el product backlong siguiendo las indicaciones del profesor.Tambien se fomento en el grupo tener una comunicacion clara y rapida ante cualquier duda o consulta que tenga algun integrante del equipo se usaron canales como Whatsapp para mensaje y discord para llamadas. Haciendo reuniones interdiarias para dialogar sobre los avances.<br> 
+      TB2:<br> 
+      Colabore con la organizacion del Trello y me encargue de la mayor parte de documentación del Sprint2. Estuve contastantemente coordinando y orientando a mis compañeros en como deberian trabajar en el Trello y la forma correcta de organizar sus Tasks.<br> 
+      TF:<br>  
+      Asumí la responsabilidad del desarrollo del backend, diseñando e implementando los servicios y la arquitectura necesaria para garantizar la eficiencia, escalabilidad y estabilidad de la aplicación.
+      </p>
+      <p>Patrocinio Escalante, Leonardo Walt<br> 
+      TB1:<br> 
+      Desarrollé el perfil de la solución, utilizando el Lean UX Canvas para asegurar que todos los aspectos del producto estuvieran alineados con las necesidades del usuario y los objetivos del negocio. Realicé el mapeo del User Journey y la creación de Empathy Maps para comprender a profundidad las emociones y comportamientos de los usuarios en cada interacción con el sistema. A través de escenarios As-Is y To-Be, capturé el estado actual y futuro de los procesos, lo que nos ayudó a visualizar las mejoras necesarias. Implementé el lenguaje ubicuo para garantizar una comunicación clara entre todos los involucrados en el proyecto, y llevé a cabo sesiones de EventStorming y modelado de flujos de mensajes de dominio para definir cómo los eventos clave y los mensajes dentro del sistema interactúan de manera eficiente, asegurando que el diseño fuera coherente y adaptable.<br>
+      TP:<br> 
+      Desarrollé las correcciones necesarias para garantizar una mejor alineación con las expectativas del proyecto. Presenté los avances en los lineamientos de estilo, la arquitectura de la información, y los mockups de la landing page, destacando cómo estos elementos contribuirán a la experiencia del usuario. También detallé los avances en la configuración del entorno de desarrollo web, la gestión del código fuente, y la guía de estilo y convenciones de código, explicando cómo estas prácticas mejoran la calidad y coherencia del desarrollo.<br> 
+      TB2:<br> 
+      Colaboré con el equipo en el desarrollo de la aplicación móvil, implementando funcionalidades clave y optimizando su rendimiento, lo que permitió un liderazgo conjunto en el proyecto.<br> 
+      TF:<br>  
+      Apoyé al equipo de desarrollo de la aplicación móvil, colaborando en la implementación de diversas funcionalidades y proporcionando soporte técnico para resolver problemas. Mi contribución ayudó a garantizar que el proyecto avanzara de manera fluida y cumpliera con los plazos establecidos.
+      </p>
+      <p>Díaz Gonzales, Víctor Yordi<br> 
+      TB1:<br> 
+      Desarrollé y gestioné las user stories, asegurando que cada una reflejara las necesidades del proyecto y del usuario final. Además, implementé el enfoque de Tactical-Level Domain-Driven Design, lo que nos permitió identificar y organizar los distintos dominios y contextos acotados, como el Bounded Context: Account, mejorando la estructura del sistema. También trabajé en la definición de la Interface Layer y la Infrastructure Layer, facilitando una comunicación clara entre los distintos componentes del sistema. Para finalizar, llevé a cabo sesiones de EventStorming, lo que nos ayudó a identificar eventos clave y procesos dentro del sistema, logrando una visión integral del flujo de trabajo y sus interacciones.<br>
+      TP:<br> 
+      Nuestro equipo mantuvo una colaboración constante, apoyándonos mutuamente en cada etapa del proyecto. Ante cualquier consulta o duda, trabajamos juntos para encontrar soluciones, lo que permitió que cada miembro completara sus tareas individuales de manera efectiva. Este trabajo en equipo nos llevó a entregar un proyecto final bien estructurado y satisfactorio tanto en calidad como en cumplimiento de los plazos.<br> 
+      TB2:<br> 
+      Se realizó el sprint 2 sobre el desarrollo e implementación de la aplicacion mobil y web en entornos relaes para validar sus usabilidades.<br> 
+      TF:<br>
+      Lideré al equipo en el desarrollo de la aplicación móvil, coordinando la implementación de funcionalidades y asegurando el cumplimiento de los objetivos de rendimiento. Además, colaboré en la elaboración del backend, contribuyendo al diseño y desarrollo de la lógica que conecta la aplicación con los servicios del servidor, garantizando su correcto funcionamiento.
+      </p>
+      <p>Sánchez Ramírez, Diego Antonio <br> 
+      TB1:<br> 
+      Lideré el diseño de la arquitectura de software, asegurando que la solución fuera escalable y eficiente. Durante este proceso, llevé a cabo sesiones de EventStorming para mapear los eventos clave dentro del sistema, lo que nos permitió identificar y estructurar mejor los flujos de trabajo. Además, participé en actividades de needfinding, profundizando en las necesidades reales de los usuarios y asegurando que el diseño estuviera alineado con sus expectativas. También realicé un análisis de competidores, evaluando las soluciones actuales en el mercado para identificar oportunidades de mejora y asegurar que nuestro producto tuviera una ventaja competitiva sólida.<br>
+      TP:<br> 
+      Coordine con el equipo para pode realizar los diferentes puntos de este trabajo parcial, por ejemplo en el intercambio de ideas para la realización de los diagramas de arquitectura de software utilizando Structurizr.<br> 
+      TB2:<br> 
+      Lideré la gestión del tablero Kanban en Trello, asegurando que cada tarea esté organizada y que las responsabilidades estén claramente definidas. Esta herramienta ha sido fundamental para mejorar la organización del proyecto, especialmente en la gestión de tareas relacionadas con IoT.<br> 
+      TF:<br>  
+      Lideré el equipo de desarrollo de IoT, encargándome del diseño, integración y configuración de dispositivos conectados. Coordiné la implementación de soluciones que permitieron la comunicación efectiva entre el hardware y la plataforma digital, asegurando la interoperabilidad y el rendimiento óptimo del sistema.
+      </p>
+      <p>Navarro Chacon, Juan Jose <br> 
+      TB1:<br> 
+      Trabajé en la definición de las suposiciones de Lean UX, generando declaraciones de hipótesis que nos permitieron validar rápidamente ideas y ajustar el diseño con base en resultados tangibles. Realicé un análisis competitivo para entender cómo nuestra solución se posiciona frente a los competidores, identificando oportunidades de mejora. Desarrollé user stories y creé una matriz de tareas de usuario para mapear las interacciones clave en el sistema. Además, organicé sesiones de EventStorming para modelar los eventos críticos y asegurar que el flujo de información dentro del sistema fuera claro. Utilicé los Bounded Context Canvases y el Context Mapping para definir y visualizar las interacciones entre los diferentes dominios, asegurando que los límites del sistema fueran bien comprendidos y la solución estuviera bien estructurada.<br>
+      TP:<br> 
+      Organizamos reuniones para discutir y distribuir los temas de esta entrega. A cada integrante se le asignó una tarea específica que fue completada dentro del plazo establecido.<br> 
+      TB2:<br> 
+      A través de la colaboración constante con los demás miembros, logramos una organización optimizada de tareas, especialmente en el desarrollo de las partes web y móvil del proyecto.<br> 
+      TF:<br>  
+      Lideré el equipo en el desarrollo del frontend de la aplicación web, supervisando el diseño e implementación de la interfaz de usuario. Mi enfoque estuvo en asegurar una experiencia de usuario intuitiva y atractiva, cumpliendo con los estándares de diseño y usabilidad del proyecto.
+      </p>
+      <p>Zamora Rivera, Ismael Sebastian <br> 
+      TB1:<br> 
+      Durante el desarrollo del proyecto y la fase de identificación del producto, surgieron diversas dificultades. Estos inconvenientes aparecieron debido a los desafíos propios del proceso de trabajo, así como a la evaluación del producto final, lo que requirió un análisis más detallado para implementar las soluciones necesarias.<br>
+      TP:<br> 
+      Se identificaron diferentes problemas durante el desarrollo del proyecto, y se hicieron las correcciones correspondientes basadas en el feedback recibido de la entrega anterior. Para esta fase, se elaboró el diseño UX/UI, creando el wireframe y el mockup de la aplicación.<br> 
+      TB2:<br> 
+      Se implementearon funcionalidades que permitan conocer al usuario a detalle los productos que contengan cada refrigerador.<br> 
+      TF:<br>  
+      Apoyé al equipo de desarrollo web, contribuyendo en la implementación de diversas funcionalidades del frontend y backend. Mi asistencia incluyó la depuración de código, la optimización de componentes y el soporte para asegurar la integración correcta de las tecnologías utilizadas.
+      </p>
+    </td>
+    <td>En conclusión, un enfoque colaborativo y multidisciplinario es clave en el desarrollo de soluciones de ingeniería de software. Los estudiantes han destacado la importancia de integrar diversas disciplinas y conocimientos para mejorar cada fase del proceso, desde el diseño inicial y el análisis competitivo hasta la interacción con los usuarios y la arquitectura de software. Este enfoque no solo garantiza que los productos finales sean técnicamente robustos y alineados con las necesidades del mercado, sino que también resalta la importancia de la colaboración y la comunicación efectiva entre áreas especializadas para superar desafíos complejos y alcanzar soluciones innovadoras. Este modelo interdisciplinario no solo eleva la calidad del desarrollo de productos, sino que también prepara a los futuros ingenieros para liderar proyectos en entornos más integrados y tecnológicamente avanzados. Liderazgo Colaborativo en Equipo: El equipo adopta un liderazgo compartido, donde cada miembro asume roles de liderazgo según sus habilidades y el momento del proyecto, fomentando la toma de decisiones conjunta y el compromiso. Este enfoque dinámico permite que todos contribuyan a la coordinación y ejecución de tareas clave.</td>
+  </tr>
+  <tr>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td>
+      <p>Márquez, Piero Stefano <br> 
+      TB1:<br> 
+      Durante la primera entrega, organicé y gestioné documentos clave, como el video de entrevistas y la descripción del startup. También participé en el diseño y priorización del product backlog, asegurando que todas las tareas estuvieran alineadas con los objetivos. Gracias a una planificación clara, el equipo avanzó de manera colaborativa en los capítulos 3 y 4, cumpliendo con los plazos establecidos.<br>
+      TP:<br> 
+      En la segunda entrega, corregí la primera versión de TB1 y mejoré el capítulo 3, enfocándome en las user stories y el product backlog según las indicaciones del profesor. Fomenté una comunicación fluida dentro del equipo mediante WhatsApp y Discord, con reuniones interdiarias que ayudaron a planificar tareas y cumplir objetivos de manera inclusiva.<br> 
+      TB2:<br> 
+      En la tercera entrega, primero se hicieron las correcciones pertinentes del TP, se mejoraron el capitulo 4 y 5. Luego me dedique a actualizar las epics, user stories y product backlog. En esta entrega me encargue de gesitonar el documento .md y fomente una buena comunicacion con mis compañeros mediante nuestros recursos de comunicacion como son WhatsApp y Discord.<br> 
+      TF:<br>  
+      En esta ultima entregam se hicieron las correciones pertinentes al documento del trabajo, esto se llevo a cabo de manera colaborativa.
+      </p>
+      <p>Patrocinio Escalante, Leonardo Walt<br> 
+      TB1:<br> 
+      Nos apoyamos mutuamente revisando los escenarios As-Is y To-Be, logrando identificar mejoras y asegurar la adaptación del diseño al contexto del negocio.<br>
+      TP:<br> 
+      Nos apoyamos para resolver dudas técnicas y unificar el estilo del código, facilitando el desarrollo efectivo y en equipo.<br> 
+      TB2:<br> 
+      Fomenté un ambiente de trabajo colaborativo al avanzar en el informe del sprint 2 y realizar evaluaciones heurísticas, estableciendo metas claras y planificando tareas para cumplir con los objetivos de mejora de usabilidad.<br> 
+      TF:<br>  
+      Promoví un entorno de trabajo colaborativo mientras desarrollaba el backend, definiendo objetivos claros y planificando tareas para alcanzar las metas de eficiencia y estabilidad del sistema.
+      </p>
+      <p>Díaz Gonzales, Víctor Yordi<br> 
+      TB1:<br> 
+      Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.<br>
+      TP:<br> 
+      Nos enfocamos en construir un entorno de trabajo en equipo que permitiera la participación activa de todos. La planificación de tareas se realizó de forma coordinada, permitiendo cumplir los objetivos de manera eficaz. Este enfoque nos ayudó a alcanzar nuestras metas mientras fomentábamos la colaboración y el apoyo entre los integrantes del grupo.<br> 
+      TB2:<br> 
+      Se empleó el trabajo colaborativo para realizar el sprint 2 de manera que como equipo era continuar con tareas del desarrollo de las aplicaciones web y mobil y tner un buen resultado.<br> 
+      TF:<br> 
+      Se fomentó el trabajo colaborativo para llevar a cabo el sprint 3, enfocándonos como equipo en continuar con las tareas de desarrollo de las aplicaciones web y móvil, logrando así un buen resultado.
+      </p>
+      <p>Sánchez Ramírez, Diego Antonio <br> 
+      TB1:<br> 
+      Realizamos reuniones de grupo mediante distintos medios, como Discord o de manera presencial en las sesiones del curso, establecimos limites de fecha de entrega y cumplimiento de objetivos para la base del proyecto.<br>
+      TP:<br> 
+      Realizar como el anterior entregable, reuniones para poder corregir los fallos que tuvimos en dicho entregable. Se considero reforzar mas la planeación de metas y objetivos, ademas de la comunicación, para poder realizar un buen trabajo en conjunto.<br> 
+      TB2:<br> 
+      La estructura del tablero permitió una visualización clara del flujo de trabajo y ayuda al equipo a priorizar actividades de manera eficiente.<br> 
+      TF:<br>  
+      La organización del tablero facilitó una visión clara del flujo de trabajo, lo que permitió al equipo priorizar actividades de forma eficiente y mantener un buen ritmo de progreso.
+      </p>
+      <p>Navarro Chacon, Juan Jose <br> 
+      TB1:<br> 
+      La colaboración y la comunicación fueron elementos clave durante este proyecto. Trabajamos juntos en tareas específicas, evaluamos los resultados y abordamos los desacuerdos de manera constructiva, siempre con el objetivo de mejorar el desempeño del grupo.<br>
+      TP:<br> 
+      Nos apoyamos mutuamente ante cada consulta de cada integrante del equipo, lo cual nos permitió realizar de manera efectiva nuestras tareas asignadas, tanto individual como grupal y así poder realizar un trabajo satisfactorio.<br> 
+      TB2:<br> 
+      Gracias a esta gestión colaborativa gracias a Trello, hemos logrado maximizar la eficiencia en la realización de las tareas asignadas a estas áreas, manteniendo un flujo constante de avances.<br> 
+      TF:<br>  
+      Brindamos apoyo constante entre los miembros del equipo, lo cual facilitó la realización eficiente de nuestras tareas, tanto a nivel individual como grupal, contribuyendo a un resultado satisfactorio del trabajo.
+      </p>
+      <p>Zamora Rivera, Ismael Sebastian <br> 
+      TB1:<br> 
+      Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.<br>
+      TP:<br> 
+      Fomentamos un ambiente donde cada miembro pudo participar activamente y compartir ideas, lo que promovió una colaboración efectiva, Asimismo Eetablecimos metas concretas al inicio, lo que facilitó una mejor organización y división de las responsabilidades. Al planificar cada tarea con precisión, logramos cumplir con los objetivos de manera eficiente y alcanzar los resultados esperados dentro del tiempo previsto.<br> 
+      TB2:<br> 
+      Contribuí al desarrollo de la sección de visualización de detalles de los refrigeradores, promoviendo un ambiente colaborativo. Además, avancé en el informe del sprint 2, en las funcionalidades de la aplicación y en la documentación del capítulo 5, organizando tareas para mejorar la usabilidad.<br> 
+      TF:<br>  
+      Fomentamos un ambiente en el que cada miembro pudo participar activamente y compartir ideas, promoviendo así una colaboración efectiva. Establecimos metas concretas desde el inicio, lo cual facilitó la organización y la división de responsabilidades. Gracias a la planificación precisa de cada tarea, logramos cumplir con los objetivos de manera eficiente y alcanzamos los resultados esperados dentro del plazo establecido.
+      </p>
+    </td>
+    <td>El equipo consolidó un entorno altamente colaborativo e inclusivo. Se reforzó la comunicación efectiva mediante herramientas como WhatsApp y Discord, manteniendo reuniones interdiarias que facilitaron la coordinación y resolución de dudas. Cada miembro del equipo contribuyó activamente, estableciendo metas concretas y organizando las tareas de manera precisa, lo que permitió un trabajo fluido y alineado con los objetivos del proyecto. Además, la mejora en la planificación y distribución de responsabilidades, sumada al apoyo mutuo, fue clave para cumplir con los plazos y lograr los resultados esperados. El equipo mostró una notable capacidad para trabajar en conjunto, corregir errores y cumplir los objetivos establecidos de manera eficiente. Entorno Inclusivo y Cumplimiento de Objetivos: El equipo promueve un ambiente inclusivo y abierto a diversas ideas, planificando metas claras en un tablero Kanban en Trello. Esta herramienta organiza y prioriza tareas, facilita el seguimiento del progreso y asegura el cumplimiento de objetivos mediante la responsabilidad compartida.</td>
+  </tr>
 </table>
-
-
 
 
 # 1.1. Startup Profile
@@ -2861,6 +2857,16 @@ Para el despliegue de la Aplicación Web, se utilizo la plataforma Vercel. A con
 - Despliegue Automático: Vercel permite la integración continua (CI/CD), habilitando el despliegue automático en cada commit realizado en el repositorio.
 - Monitorización y Escalado: Vercel ofrece herramientas avanzadas para monitorizar el rendimiento de la Aplicación Web y escalarlo automáticamente según la demanda, asegurando que la aplicación mantenga un funcionamiento óptima bajo cualquier carga de trabajo.
 
+**Despliegue de la Web Services**
+
+Para el despliegue del Web Service, se utiliazara la plataforma Render. A continuación, se detallan los pasos necesarios:
+
+- Configuración del Repositorio: El código fuente del Web Service se almacenará en un repositorio en la plataforma Github.
+- Creación del Proyecto en Render: Se creará un nuevo proyecto en Render vinculado al repositorio que contiene el código fuente del Web Service.
+- Configuración de Variables de Entorno: Render permite configurar fácilmente variables de entorno para el proyecto. Se configurarán de entorno necesarias, como credenciales de base de datos u otras configuraciones específicas del entorno. 
+- Despliegue Automatizado: Una vez configurado el proyecto en Render, se puede habilitar el despliegue automático para el servicio se actualice automáticamente cada vez que se realicen cambios en el repositorio.
+- Monitoreo y Escalado: Render propociona herramientas para monitorear el rendimiento del servicio y escalarlo según sea necesario, asegurando un funcionamiento óptimo en todo momento.
+
 ## 6.2. Landing Page, Services & Applications Implementation
 
 En esta sección, como equipo, explicamos y evidenciamos el proceso de implementación, pruebas, documentación y despliegue del Landing Page, Web Services, Web Applications, Mobile Applications y Embedded Applications. Organizamos el trabajo en Sprints y documentamos el progreso en cada Sprint, incluyendo planificación, backlog, evidencia de desarrollo y colaboración del equipo.
@@ -3276,11 +3282,11 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
             <td rowspan="1">US001</td>
             <td rowspan="1">Monitoreo en Tiempo Real Web</td>
             <td>Tasks-01</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Realizacion de una card donde se mueste la informacion en como se encuentre el equipo</td>
+            <td>Desarrollar la lógica para mostrar la información detallada de cada equipo</td>
             <td>2 Hours</td>
-            <td>Diego Sánchez</td>
-            <td>To-do</td>
+            <td>Jose Navarro</td>
+            <td>Done</td>
         </tr>
         <tr>
         </tr>
@@ -3949,9 +3955,39 @@ En esta sección, el equipo presenta el conjunto de pruebas automatizadas realiz
 Usamos la herramienta de selenium para testear: 
 
 **Landing page**
+
+En la imagen se muestra un testing suite desarrollado con una herramienta de pruebas automatizadas como Selenium IDE, utilizado para validar el correcto funcionamiento de la página principal del proyecto **frostChef**. Este caso de prueba, llamado *"landingpage"*, realiza una serie de pasos para verificar elementos clave de la navegación:
+
+1. **Abrir la URL** del proyecto en el navegador.
+2. **Ajustar el tamaño de la ventana** del navegador a 1382x736 píxeles para simular una vista de escritorio.
+3. **Simular clics** en diferentes secciones del sitio web, como:
+   - La sección principal identificada por la clase `.container-fluid`.
+   - Los enlaces de navegación "About Us", "Services" y "Promotions".
+
+En la parte inferior, se observa un log que confirma que cada acción se ejecutó correctamente, indicando que los elementos interactivos de la página responden de forma adecuada. Este test asegura que las funcionalidades esenciales de la landing page cumplen con los requisitos establecidos.
+
 <img src="assets/images/Testing LandingPage.png">
 
 **Aplicacion Web**
+
+La imagen muestra un testing suite configurado para la aplicación web **frostChef** utilizando una herramienta de pruebas automatizadas como Selenium IDE. Este caso de prueba, denominado *"Aplicación web"*, evalúa la interacción con elementos clave de la interfaz de usuario para validar su funcionalidad. 
+
+### Detalles de las acciones:
+1. **Ingresar datos**:
+   - Introducir un valor en el campo de correo electrónico identificado como `id=email`.
+   - Introducir un valor en el campo de contraseña identificado como `id=password`.
+
+2. **Interacción con botones**:
+   - Simular clics en botones importantes como el botón de inicio de sesión (`css=.login-button`) y botones de navegación.
+
+3. **Interacciones avanzadas**:
+   - Realizar eventos de *mouse over* para pasar el cursor sobre elementos específicos, como un botón de navegación identificado por `css=.nav-button:nth-child(4)`.
+
+### Log de acciones:
+El log muestra que todas las acciones se ejecutaron correctamente, con cada paso marcado como `OK`. Esto indica que las funcionalidades probadas, como el ingreso de datos en formularios, la navegación por botones y las interacciones con el cursor, funcionan según lo esperado.
+
+Este caso de prueba asegura que los elementos interactivos de la aplicación web permiten al usuario completar tareas clave sin errores.
+
 <img src="assets/images/TestingFrontEnt.png">
 
 #### 6.2.2.5. Execution Evidence for Sprint Review
@@ -3959,55 +3995,342 @@ En esta sección, se proporciona un resumen de los logros alcanzados durante el 
 
 **Aplication Web**
 
- - Inicio de sesion
+## Inicio de sesion
+
+**Pantalla de Inicio de Sesión de FrostChef**  
+
+La imagen muestra la pantalla de inicio de sesión de la aplicación **FrostChef**. El diseño es minimalista y atractivo, con un fondo en tonos degradados de azul que resalta el formulario en el centro.  
+
+### Elementos destacados:  
+1. **Logo y Nombre de la Aplicación**:  
+   En la parte superior, se presenta el logo de FrostChef, seguido del nombre de la aplicación, lo que da una identidad visual clara.  
+
+2. **Formulario de Inicio de Sesión**:  
+   - **Campos de entrada**:  
+     - Un campo para el correo electrónico con el marcador de posición "Ingrese su correo electrónico".  
+     - Un campo para la contraseña con el marcador de posición "Ingrese su contraseña".  
+   - **Botón de acción**:  
+     Un botón azul identificado como "Iniciar Sesión" que permite al usuario acceder a la plataforma.  
+
+3. **Registro para nuevos usuarios**:  
+   Debajo del botón, hay un enlace que dice: "¿No tienes cuenta? Regístrate aquí", proporcionando a los nuevos usuarios una opción clara para crear una cuenta.  
+
+El diseño equilibra simplicidad y funcionalidad, asegurando una experiencia de usuario clara y eficiente para acceder a la aplicación FrostChef.
+
  <img src="assets/images/Web1.png">
 
- - Creacion de cuenta
+## Creacion de cuenta
+
+La imagen muestra la pantalla de registro de la aplicación **FrostChef**. El diseño es minimalista y atractivo, con un fondo en tonos degradados de azul que resalta el formulario en el centro.
+
+### Elementos destacados:  
+1. **Logo y Nombre de la Aplicación**:  
+   En la parte superior, se presenta el logo de FrostChef, seguido del nombre de la aplicación, lo que da una identidad visual clara.  
+
+2. **Formulario de Registro**:  
+   - **Campos de entrada**:  
+     - Un campo para el correo electrónico con el marcador de posición "Ingrese su email".  
+     - Un campo para la contraseña con el marcador de posición "Ingrese su password".  
+     - Un campo para el nombre completo con el marcador de posición "Ingrese su nombre completo".  
+     - Un campo para el DNI con el marcador de posición "Ingrese su DNI".  
+     - Un campo para el teléfono con el marcador de posición "Ingrese su teléfono".  
+   - **Botón de acción**:  
+     Un botón azul identificado como "Crear Cuenta" que permite al usuario registrarse en la plataforma.  
+
+3. **Inicio de sesión para usuarios existentes**:  
+   Debajo del botón, hay un enlace que dice: "¿Ya tienes cuenta? Iniciar sesión", proporcionando a los usuarios existentes una opción clara para acceder a su cuenta.  
+
+El diseño equilibra simplicidad y funcionalidad, asegurando una experiencia de usuario clara y eficiente para registrarse en la aplicación FrostChef.
+
  <img src="assets/images/Web2.png">
 
- - Visualizacion del equipo de refrigeracion
+## Visualizacion del equipo de refrigeracion
+
+La imagen muestra una interfaz de usuario de un sistema de gestión de refrigeración llamado **FrostChef**. En la parte superior, hay un menú con las opciones **"Home"**, **"Inventario"** y **"Colaboradores"**. Debajo del menú, se presentan cuatro refrigeradores etiquetados como **EA1, EA2, EA3 y EA4**. Cada refrigerador tiene una imagen, un estado (Activo o En Mantenimiento) y una capacidad en porcentaje, además de un botón que dice **"Ver detalles"**.
+
+### Elementos clave:
+- **Monitoreo en Tiempo Real**: Permite visualizar el estado y la capacidad de cada refrigerador, facilitando la gestión eficiente del espacio y la energía.
+- **Gestión de Inventario**: Proporciona información clara sobre la capacidad disponible, ayudando a planificar el almacenamiento y evitar el desperdicio.
+- **Mantenimiento Proactivo**: Muestra el estado de mantenimiento de los refrigeradores, permitiendo una programación adecuada y evitando fallos inesperados.
+
+Este sistema facilita un control preciso y eficiente del entorno de refrigeración, mejorando la calidad y gestión de los insumos alimentarios en restaurantes.
+
  <img src="assets/images/Web3.png">
 
- - Añadir un producto
+ ## Añadir un producto
+
+La imagen muestra la interfaz de usuario de **FrostChef** para añadir un nuevo producto al inventario. Esta interfaz facilita la gestión de insumos en restaurantes mediante un formulario intuitivo y una lista de productos temporales, lo que permite un control preciso y eficiente.
+
+### Funcionalidades Principales:
+1. **Formulario de Añadir Producto**: 
+   - **Campos Incluidos**: nombre del producto, estado, fecha de ingreso, marca, cantidad, categoría, descripción y opción para subir fotos.
+   - **Botón "Agregar Producto"**: Permite incorporar nuevos insumos al sistema, asegurando que toda la información relevante esté registrada.
+
+2. **Lista de Productos Temporales**:
+   - **Visualización Rápida**: Incluye imagen, nombre, marca y fecha de ingreso de cada producto.
+   - **Opciones de Gestión**: Botones para ver detalles o eliminar productos (etiquetados como "Ver Detalle" y "Borrar").
+
+### Contexto del Proyecto:
+Este sistema mejora la gestión del inventario en restaurantes al proporcionar:
+- **Monitoreo Preciso**: Registra entradas y salidas de productos, optimizando el uso del espacio y reduciendo desperdicios.
+- **Facilidad de Uso**: La interfaz intuitiva simplifica la adición y gestión de productos, mejorando la eficiencia operativa.
+- **Mantenimiento de Calidad**: Ayuda a mantener la frescura de los insumos al permitir un control detallado sobre los productos almacenados.
+
  <img src="assets/images/Web4.png">
 
- - Vista para añadir colaboradores al restaurante
+ ## Vista para añadir colaboradores al restaurante
+
+La imagen muestra la pantalla para añadir colaboradores al sistema de gestión del restaurante **FrostChef**. El diseño es claro y funcional, con un enfoque en la facilidad de uso y la eficiencia.
+
+### Elementos destacados:  
+1. **Encabezado de la Sección**:  
+   En la parte superior, se presenta un encabezado claro titulado "Colaboradores", lo que facilita la identificación de la sección.
+
+2. **Perfil de Colaboradores Existentes**:  
+   - **Visualización de Información**:  
+     - Cada colaborador tiene una tarjeta de perfil que incluye su nombre y roles dentro del restaurante.
+   - **Opciones de Gestión**:  
+     - Botones para editar la información del colaborador o eliminar su perfil del sistema.
+
+3. **Añadir Nuevos Colaboradores**:  
+   - **Formulario de Invitación**:  
+     - Un campo para ingresar el correo electrónico del nuevo colaborador.  
+   - **Botón de Acción**:  
+     Un botón identificado como "Mandar invitación" que permite enviar una invitación para unirse al sistema.
+
+El diseño asegura una gestión eficiente del personal, permitiendo tanto la supervisión de colaboradores actuales como la adición rápida y fácil de nuevos miembros al equipo.
+
  <img src="assets/images/Web5.png">
 
- - Enviar correo al colaborador
+## Enviar correo al colaborador
+
+La imagen muestra la pantalla para enviar correos a colaboradores desde la aplicación **FrostChef**. El diseño es simple y funcional, permitiendo una comunicación eficiente con el equipo.
+
+### Elementos destacados:  
+1. **Encabezado de la Sección**:  
+   En la parte superior, se presenta el encabezado "Colaboradores", facilitando la identificación de la sección de gestión de personal.
+
+2. **Perfil de Colaboradores Existentes**:  
+   - **Visualización de Información**:  
+     - Tarjeta de perfil para cada colaborador con su nombre y roles en el restaurante.
+   - **Opciones de Gestión**:  
+     - Botones para editar la información del colaborador o eliminar su perfil.
+
+3. **Formulario de Enviar Invitación**:  
+   - **Campos de Entrada**:  
+     - Campo para ingresar el correo electrónico del nuevo colaborador.
+   - **Botón de Acción**:  
+     Un botón identificado como "Mandar invitación" que permite enviar una invitación para unirse al equipo.
+
+El diseño asegura una comunicación clara y directa con los colaboradores, facilitando la adición de nuevos miembros y la gestión del personal existente en el restaurante.
+
  <img src="assets/images/Web6.png">
 
- - Peril del dueño del restaurante
+ ## Peril del dueño del restaurante
+
+La imagen muestra la pantalla de perfil del dueño del restaurante en la aplicación **FrostChef**. El diseño es limpio y profesional, enfocándose en proporcionar información esencial de manera organizada.
+
+### Elementos destacados:
+1. **Foto de Perfil y Nombre del Propietario**:
+   En la parte superior, se presenta una foto del dueño junto con su nombre y título (Propietario), proporcionando una identidad visual clara.
+
+2. **Información de Contacto**:
+   - **Email**: Dirección de correo electrónico del dueño.
+   - **Teléfono**: Número de contacto directo.
+
+3. **Detalles del Restaurante**:
+   - **Nombre del Restaurante**: Identificación clara del establecimiento gestionado.
+   - **Ubicación**: Dirección física del restaurante.
+
+4. **Opciones de Navegación**:
+   En la parte superior, hay un menú con enlaces a "Home", "Inventario" y "Colaboradores" para una navegación eficiente.
+
+5. **Botón de Acción**:
+   En la parte inferior, un botón rojo etiquetado como "Salir" permite al usuario cerrar sesión de manera rápida.
+
+El diseño asegura que toda la información relevante del dueño del restaurante esté fácilmente accesible, facilitando la comunicación y gestión del establecimiento.
+
  <img src="assets/images/Web7.png">
 
 **Aplication Mobile**
 
-- Inicio de sesion
-<img src="assets/images/Mobile1.png">
+## Inicio de sesion
 
-- Menu de Productos
-<img src="assets/images/Mobile2.png">
+<img src="assets/images/Mobile1.png" width="300">
 
-- Equipo de Refrigeracion
-<img src="assets/images/Mobile3.png">
+La imagen muestra la pantalla de inicio de sesión de la aplicación móvil **FrostChef**. El diseño es minimalista y atractivo, con un fondo en tonos degradados de azul que resalta el formulario en el centro.
 
-- Detalles de una unidad de refrigeracion
-<img src="assets/images/Mobile4.png">
+### Elementos destacados:  
+1. **Logo y Nombre de la Aplicación**:  
+   En la parte superior, se presenta el logo de FrostChef, seguido del nombre de la aplicación, lo que da una identidad visual clara.  
 
-- Agregar producto
-<img src="assets/images/Mobile5.png">
+2. **Formulario de Inicio de Sesión**:  
+   - **Campos de entrada**:  
+     - Un campo para el correo electrónico con un ícono de sobre.
+     - Un campo para la contraseña con un ícono de candado.
+   - **Botón de acción**:  
+     Un botón azul identificado como "Iniciar Sesión" que permite al usuario acceder a la plataforma.  
 
-- Notificaciones 
-<img src="assets/images/Mobile6.png">
+3. **Registro para nuevos usuarios**:  
+   Debajo del botón, hay un enlace que dice: "¿No tienes cuenta? Regístrate", proporcionando a los nuevos usuarios una opción clara para crear una cuenta.
 
-- Creación de cuenta
-<img src="assets/images/Mobile7.png">
+## Menu de Productos
+
+<img src="assets/images/Mobile2.png" width="300">
+  
+La imagen muestra la pantalla del menú de productos en la aplicación móvil **FrostChef**. El diseño es intuitivo y funcional, facilitando la gestión de inventarios en un entorno móvil.
+
+### Elementos destacados:  
+1. **Encabezado de la Sección**:  
+   En la parte superior, se presenta el título "Menú de Productos", junto al logo de la aplicación **FrostChef**, proporcionando una identidad visual clara.
+
+2. **Resumen del Inventario**:  
+   - **Total de Productos**: 
+     - Justo debajo del título, se indica el número total de productos en el inventario (en este caso, "Total de productos: 1").
+
+3. **Listado de Productos**:  
+   - **Detalles del Producto**:  
+     - Se muestra una entrada de producto que incluye el nombre ("Atún"), la marca ("Gloria"), y la cantidad disponible (2 unidades).
+   - **Botón de Acción**:  
+     - Cada producto tiene un botón identificado como "Ver detalle" que permite acceder a más información sobre el producto.
+
+4. **Barra de Navegación**:  
+   En la parte inferior, hay una barra de navegación con iconos para las secciones de "Menú", "Equipo", "Inventarios", "Notificaciones" y "Técnicos".
+
+El diseño asegura una gestión eficiente del inventario, proporcionando una vista clara y accesible de los productos disponibles y permitiendo una fácil navegación por diferentes secciones de la aplicación.
+
+## Equipo de Refrigeracion
+
+<img src="assets/images/Mobile3.png" width="300">
+
+La imagen muestra la pantalla de **Equipo de Refrigeración** en la aplicación móvil **FrostChef**. El diseño es intuitivo y funcional, ideal para el monitoreo y gestión de equipos de refrigeración en un entorno móvil.
+
+### Elementos destacados:  
+1. **Encabezado de la Sección**:  
+   En la parte superior, se presenta el título "Equipo de Refrigeración", proporcionando una identificación clara de la sección.
+
+2. **Visualización del Equipo**:  
+   - **Refrigerador EA1**:  
+     - Estado: Activo.
+     - Capacidad: 80%.
+   - **Botón de Acción**:  
+     Un botón identificado como "Ver Detalle" permite acceder a más información sobre el refrigerador.
+
+3. **Barra de Navegación**:  
+   En la parte inferior, hay una barra de navegación con iconos para "Menú", "Equipo" (resaltado), "Inventario", "Notificaciones" y "Técnicos".
+
+El diseño asegura una gestión eficiente del equipo de refrigeración, permitiendo un monitoreo fácil y acceso rápido a detalles específicos de cada unidad.
+
+## Detalles de una unidad de refrigeracion
+
+<img src="assets/images/Mobile4.png" width="300">
+
+La imagen muestra la pantalla de detalles de una unidad de refrigeración en la aplicación móvil **FrostChef**. Este tipo de vista es crucial para el monitoreo y mantenimiento efectivo de los equipos de refrigeración.
+
+### Elementos destacados:
+
+1. **Información del Modelo y Serie**:
+   - **Modelo y Número de Serie**: Estos detalles permiten identificar específicamente el equipo de refrigeración. Es esencial para el seguimiento del rendimiento y para gestionar el inventario de equipos.
+
+2. **Condiciones Operativas**:
+   - **Temperatura y Humedad**: Estos parámetros son críticos para asegurar que los alimentos se almacenen en condiciones óptimas. Monitorear constantemente la temperatura y la humedad ayuda a prevenir el deterioro de los productos.
+
+3. **Historial de Mantenimiento**:
+   - **Último Mantenimiento y Próximo Mantenimiento**: Tener registros claros de cuándo se realizó el último mantenimiento y cuándo se programará el próximo es vital para asegurar la longevidad del equipo y evitar fallos inesperados.
+
+4. **Fecha de Instalación**:
+   - Este dato es útil para saber cuánto tiempo ha estado en uso el equipo, ayudando a planificar reemplazos o actualizaciones necesarias.
+
+5. **Acciones Disponibles**:
+   - **Botón "Enviar Reporte"**: Permite notificar problemas o enviar informes sobre el estado del equipo, facilitando una respuesta rápida ante cualquier inconveniente.
+   - **Botón "Cerrar"**: Para salir de la vista de detalles.
+
+### Contexto del Proyecto:
+Este tipo de interfaz es fundamental en un sistema de gestión de refrigeración como **FrostChef**. Permite a los usuarios tener un control detallado sobre cada unidad, asegurando que se mantengan las condiciones adecuadas de almacenamiento y se realice el mantenimiento necesario en tiempo y forma. Al contar con esta información accesible desde un dispositivo móvil, los responsables del restaurante pueden gestionar los equipos de manera más eficiente y reactiva.
+
+## Agregar producto
+
+<img src="assets/images/Mobile5.png" width="300">
+
+La imagen muestra la pantalla para agregar un producto en la aplicación móvil **FrostChef**. Esta funcionalidad es esencial para mantener el inventario actualizado y preciso, mejorando la gestión de insumos en el restaurante.
+
+### Elementos destacados:
+
+1. **Formulario de Entrada de Datos**:
+   - **Propósito**: Permite a los usuarios ingresar nueva información sobre los productos de manera estructurada.
+   - **Campos Incluidos**:
+     - **Nombre del producto, Categoría, Marca, Cantidad, Fecha de ingreso y de vencimiento, y Detalles del producto**: Estos campos aseguran que toda la información necesaria sobre el producto esté disponible, lo que facilita su seguimiento y control.
+   - **Carga de Fotos**: La opción de subir imágenes del producto ayuda en su identificación visual rápida, lo que es útil tanto para el almacenamiento como para la recuperación de los productos.
+
+2. **Facilidad de Uso y Eficiencia**:
+   - La interfaz está diseñada para ser intuitiva, permitiendo a los usuarios añadir productos rápidamente sin confusión.
+   - **Botón de Acción**: Un botón claramente identificado para confirmar la adición del producto, simplificando el proceso y reduciendo el riesgo de errores.
+
+### Contexto del Proyecto:
+
+Esta función es crucial para el sistema de gestión de inventarios de **FrostChef**:
+- **Precisión en el Inventario**: Al permitir la adición detallada de productos, se asegura que el inventario esté siempre actualizado y preciso.
+- **Mejora de la Gestión de Insumos**: Facilita el seguimiento y la reposición de productos, optimizando el uso de recursos y reduciendo el desperdicio.
+- **Eficiencia Operativa**: Ahorra tiempo al personal del restaurante, permitiéndoles gestionar el inventario de manera más efectiva y con menos esfuerzo.
+
+## Notificaciones
+
+<img src="assets/images/Mobile6.png" width="300">
+
+La pantalla de **Notificaciones** en la aplicación móvil **FrostChef** es una herramienta fundamental para mantener informados a los usuarios sobre eventos críticos y alertas en tiempo real.
+
+### Elementos destacados:
+
+1. **Gestión de Inventario**:
+   - **Alertas de Vencimiento**: Notificaciones que indican cuándo los productos están cerca de su fecha de vencimiento. Esto permite a los usuarios tomar medidas preventivas, como utilizar esos productos primero o ajustar los pedidos de inventario para evitar desperdicios.
+
+2. **Mantenimiento de Equipos**:
+   - **Alertas de Máquina**: Notificaciones sobre problemas detectados en los equipos de refrigeración, como fallos en la temperatura o mal funcionamiento. Estas alertas permiten una acción rápida y eficiente para evitar interrupciones en el servicio y asegurar el mantenimiento de las condiciones óptimas para los alimentos.
+
+### Contexto del Proyecto:
+
+Las notificaciones en **FrostChef** mejoran significativamente la gestión operativa del restaurante al proporcionar:
+
+- **Prevención de Pérdidas**: Las alertas sobre productos próximos a vencer ayudan a gestionar el inventario de manera eficiente, reduciendo el desperdicio y asegurando la frescura de los alimentos.
+- **Respuesta Rápida a Incidentes**: Las notificaciones de problemas en los equipos de refrigeración permiten al personal técnico intervenir rápidamente, minimizando el riesgo de daños a los productos almacenados y evitando fallos en el servicio.
+
+El diseño de esta funcionalidad asegura que los usuarios estén siempre al tanto de los eventos importantes, mejorando la eficiencia y la calidad del servicio en el restaurante.
+
+## Creación de cuenta
+
+<img src="assets/images/Mobile7.png" width="300">
+
+La funcionalidad de **Creación de Cuenta** en la aplicación móvil **FrostChef** es crucial para incorporar nuevos usuarios a la plataforma, asegurando que tengan acceso a todas las funciones y beneficios que la aplicación ofrece.
+
+### Elementos destacados:
+
+1. **Formulario de Registro**:
+   - **Propósito**: Facilita el registro de nuevos usuarios de manera estructurada y completa.
+   - **Campos Requeridos**:
+     - **Email, Contraseña, Nombre Completo, DNI y Teléfono**: Cada uno de estos campos garantiza que la aplicación capture toda la información esencial para la creación de una cuenta segura y personalizada.
+   - **Mensajes de Error**: Indica claramente cuando un campo obligatorio no ha sido completado, ayudando al usuario a corregir errores antes de enviar el formulario.
+
+2. **Botón "Crear Cuenta"**:
+   - **Acción Principal**: Permite al usuario finalizar el proceso de registro una vez que todos los campos requeridos están completos.
+   - **Feedback Inmediato**: Ofrece retroalimentación instantánea sobre el éxito o fracaso del registro, guiando al usuario en los próximos pasos.
+
+3. **Enlace para Usuarios Existentes**:
+   - **Propósito**: Proporciona una opción para los usuarios que ya tienen una cuenta, redirigiéndolos a la pantalla de inicio de sesión.
+   - **Facilidad de Navegación**: Mejora la experiencia del usuario al ofrecer una ruta clara tanto para nuevos usuarios como para los existentes.
+
+### Contexto del Proyecto:
+
+La pantalla de **Creación de Cuenta** es fundamental para el sistema de gestión de **FrostChef**, ya que:
+- **Aumenta la Base de Usuarios**: Facilita la incorporación de nuevos usuarios, lo cual es vital para la expansión y éxito de la plataforma.
+- **Seguridad y Personalización**: Al capturar información detallada y validarla, asegura que cada cuenta esté protegida y sea personalizada según las necesidades del usuario.
+- **Experiencia de Usuario Optimizada**: La estructura intuitiva y los mensajes de error claros mejoran la usabilidad, reduciendo la frustración y asegurando un proceso de registro suave y eficiente.
 
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review
 En esta sección, se detalla la documentación de los Endpoints creados y actualizados durante el Sprint 2. Se presenta un resumen de los logros alcanzados en la documentación de los Web Services para este Sprint. La sección incluye una tabla que muestra las acciones implementadas para cada Endpoint
 
 **Usando la herramienta Swagger se pudo documentar, visualizar y consumir nuestros servicios**
 
+La imagen muestra la interfaz de Swagger utilizada en FrostChef para documentar los Endpoints de su API. Swagger proporciona una plataforma interactiva y eficiente para visualizar, documentar y consumir servicios web, lo que facilita tanto el desarrollo como el mantenimiento de la API.
 <img src="assets/images/Swagger1.png">
 <img src="assets/images/Swagger2.png">
 <img src="assets/images/Swagger3.png">
@@ -4033,32 +4356,98 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
      ```bash
      git push -u origin master
      ```
-
-## Accede a la configuración de GitHub Pages
-
+     
 1. Dirígete a la pestaña **Settings** de tu repositorio.
 2. Desplázate hacia abajo hasta la sección **GitHub Pages**.
 
-   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=672727b5&is=6725d635&hm=b4d6fb8346fffe7ce5316d0ca3e87a469a7daad30c2af42297298a9805dcf80f&=&format=webp&quality=lossless&width=815&height=411)
+   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=673e39f5&is=673ce875&hm=9fa10b20d51f73fc53689ac240773654a3da6a36e5e3ff2b42d62c0ec3814659&=&format=webp&quality=lossless&width=815&height=411)
 
 ### Configura GitHub Pages
 
 1. En la sección **Source**, selecciona la rama `master` (o `main`, dependiendo de tu configuración) y la carpeta raíz (`/`).
 2. Haz clic en **Save**.
 
-   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=672727b5&is=6725d635&hm=fc587bbad64762501d7357dfd2f07ac9120340960814dd1b22127548f8a9988f&=&format=webp&quality=lossless&width=902&height=411)
+   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=673e39f5&is=673ce875&hm=57d2a36554d531235c4b56c3f1b7a8d76fb8fa13e84a00b077f77fae80471124&=&format=webp&quality=lossless&width=902&height=411)
+
+## Ve a Web App
+
+### Despliegue en Vercel
+
+1. **Configura el repositorio en GitHub**:
+   - Inicia sesión en tu cuenta de GitHub y crea un nuevo repositorio.
+   - Conecta tu repositorio local al remoto usando los siguientes comandos:
+
+     ```bash
+     git remote add origin https://github.com/tu_usuario/nombre_del_repositorio.git
+     git push -u origin main
+     ```
+
+2. **Inicia sesión en Vercel**:
+   - Dirígete a [Vercel](https://vercel.com/) y crea una cuenta o inicia sesión si ya tienes una.
+
+3. **Importa el proyecto en Vercel**:
+   - En el dashboard de Vercel, haz clic en **"New Project"**.
+   - Selecciona **"Import Git Repository"** y elige tu repositorio de GitHub que contiene la aplicación.
 
 
-#### 6.2.2.8. Team Collaboration Insights during Sprint
+4. **Configura los ajustes del proyecto**:
+   - Selecciona la rama que quieres desplegar, generalmente `main`.
+   - Configura cualquier variable de entorno necesaria.
 
-En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2
+5. **Despliega el proyecto**:
+   - Haz clic en **"Deploy"** para iniciar el despliegue.
+   - Espera a que Vercel compile y despliegue tu aplicación.
+
+6. **Accede a la URL del despliegue**:
+   - Una vez completado el despliegue, Vercel proporcionará una URL donde tu aplicación está alojada. En este caso, podrías acceder a la aplicación en: [https://frostchef.vercel.app/Front-End/login](https://frostchef.vercel.app/Front-End/login).
+
+   <img src="assets/images/Web3.png">
+
+### 6.2.2.8. Team Collaboration Insights during Sprint
+
+En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2.
 
 **App Web**
 
-Se ha desarrollado la implementacion de la App Web en  la siguientes ramas:
+La implementación de la App Web se ha desarrollado en las siguientes ramas del repositorio de GitHub:
+
+- **main**: La rama principal y estable del proyecto.
+- **develop**: Rama de desarrollo donde se integran las nuevas funcionalidades antes de ser fusionadas a la rama principal.
+- **feature/test**: Rama dedicada a pruebas de nuevas funcionalidades y correcciones.
+- **feature/history**: Rama enfocada en el historial de cambios y versiones.
+- **feature/refrigeration_equipment**: Rama dedicada a las funcionalidades del equipo de refrigeración.
+- **feature/collaborate**: Rama para desarrollar características de colaboración entre usuarios.
+- **feature/home**: Rama para la implementación de la página de inicio.
+- **feature/inventory**: Rama dedicada a la gestión del inventario.
+- **feature/account**: Rama enfocada en la administración de cuentas de usuario.
+
+---
+
+La utilización de estas ramas en GitHub ilustra la colaboración estructurada y eficiente del equipo de desarrollo. Cada rama permite a los desarrolladores trabajar en paralelo en distintas características y módulos de la aplicación, lo que facilita la integración continua y minimiza los conflictos de código. Esto asegura un flujo de trabajo más ordenado y productivo, contribuyendo al éxito del Sprint 2.
+
 <img src="assets/images/BranchesWeb.PNG">
 
 Commits hechos en el repositorio
+
+Los commits realizados en el repositorio de GitHub son fundamentales para entender cómo se ha desarrollado y evolucionado el proyecto a lo largo del Sprint. Cada commit representa un conjunto de cambios o adiciones al código fuente, reflejando el progreso y las contribuciones individuales de los miembros del equipo.
+
+### Elementos destacados:
+
+1. **Colaboración del Equipo**:
+   - Los commits muestran una colaboración activa entre los desarrolladores, cada uno contribuyendo con actualizaciones, correcciones y nuevas funcionalidades. Esto asegura que todos los miembros del equipo estén alineados y trabajando en sincronía hacia los objetivos comunes del proyecto.
+
+2. **Seguimiento del Progreso**:
+   - Los mensajes de commit detallan las modificaciones específicas realizadas, proporcionando un historial claro y comprensible de cómo el código ha cambiado. Esto es crucial para la revisión de código y para mantener un registro de las mejoras implementadas.
+
+3. **Gestión de Versiones**:
+   - Los commits se agrupan por fecha y autor, permitiendo un fácil seguimiento de las versiones y facilitando la identificación de cuándo y por quién se realizaron ciertos cambios. Esto ayuda en la gestión del proyecto y en la resolución de conflictos de código.
+
+### Contexto del Proyecto:
+
+El registro detallado de commits es esencial para la transparencia y eficiencia en el desarrollo del software. Permite a los miembros del equipo revisar y entender las contribuciones individuales, facilita la colaboración y asegura que cualquier problema o mejora se pueda rastrear y abordar rápidamente. En resumen, el historial de commits no solo documenta el progreso del proyecto, sino que también fomenta una cultura de trabajo organizada y colaborativa.
+
+---
+
 <img src="assets/images/Commits.PNG">
 <img src="assets/images/Commits1.PNG">
 
@@ -4099,306 +4488,7 @@ Collaboration
 
 <img src="assets/images/CollaborateIOT.PNG">
 
-### 6.3. Validation Interviews
-En esta sección, el equipo documenta y detalla las entrevistas de validación realizadas durante el proyecto. Las entrevistas incluyen la interacción de usuarios de los segmentos objetivo con la página de aterrizaje y las aplicaciones. Esta sección abarca el diseño de entrevistas, el registro de entrevistas y las evaluaciones según heurísticas, utilizando el formato de evaluación heurística indicado para el proyecto.
 
-#### 6.3.1. Diseño de Entrevistas
-En esta sección, detallamos el diseño de las entrevistas que utilizamos para recolectar información clave. Las entrevistas incluyen preguntas principales y complementarias dirigidas a cada segmento de interés. Aplicamos buenas prácticas de diseño de entrevistas y nos centramos en recolectar información demográfica (como género, edad, distrito de residencia, estado civil, familia, ocupación) y otras características (como personalidad, habilidades, marcas e influencias, dispositivos de preferencia, canales digitales de interacción, objetivos, frustraciones y biografía).
-
-**Elementos a incluir en la sesion de validacion:**
-
-**Para la Landing Page:**
-
-1. **Interacción con la Landing Page:**
-
-    - ¿Qué tan fácil o difícil te resultó interactuar con la nueva landing page?
-    - ¿Encontraste toda la información que necesitabas sin problemas?
-    - ¿Qué te parece la apariencia general de la web (colores, diseño, iconos, etc.)?
-    - ¿Hay algo en la interfaz que te haya resultado confuso o que no entendiste de inmediato?
-
-2. **Navegación y Usabilidad:**
-
-    - ¿Sientes que las opciones están bien organizadas para gestionar la refrigeración y el inventario?
-    - ¿Te gustaría que el flujo de ciertas tareas se modificara para ser más intuitivo?
-
-3. **Valor Propuesto:**
-
-    - ¿Crees que el sistema facilita la gestión de la temperatura comparado con el método anterior?
-    - ¿Cómo describirías la diferencia entre este sistema y el que utilizabas antes?
-
-4. **Capacitación y Aprendizaje:**
-
-    - ¿Cuánto tiempo te llevaría familiarizarte con el sistema?
-    - ¿Te sientes cómodo usando el sistema o consideras que necesitas más capacitación?
-
-**Para las Aplicaciones (Web y Móvil):**
-
-5. **User Flows:**
-
-    - ¿Hubo algún paso en particular que te pareció innecesario o difícil de encontrar?
-    - ¿Experimentaste algún problema o error durante el uso del sistema?
-
-6. **Funcionalidades Clave:**
-
-    - ¿Pudiste realizar las tareas de gestión del inventario y monitoreo de la refrigeración fácilmente?
-    - ¿Cómo fue la experiencia al monitorear la temperatura y registrar el inventario en el nuevo sistema?
-    - ¿Cómo calificarías la rapidez y efectividad de las alertas del sistema en situaciones críticas?
-
-7. **Interacción y Diseño:**
-
-    - ¿Qué te parece la experiencia de usar la aplicación para gestionar la refrigeración e inventario?
-    - ¿Prefieres acceder al sistema desde un dispositivo móvil o desde una PC? ¿Por qué?
-
-8. **Feedback del Usuario:**
-
-    - ¿Te parece útil la posibilidad de manejar las funciones de refrigeración e inventario desde un dispositivo móvil?
-    - ¿Hay alguna funcionalidad que consideres que está faltando y que podría facilitarte el trabajo?
-    - ¿Qué te ha gustado más del sistema de gestión de refrigeración e inventario?
-    - ¿Qué cambiarías o mejorarías?
-
-
-#### 6.3.2. Registro de Entrevistas
-En esta sección, se detalla el registro de entrevistas, que incluye la información de los entrevistados y un resumen descriptivo de sus respuestas. Cada entrevista es registrada en video y se proporciona un enlace al video editado junto con el timing y duración de cada entrevista. Se recopilan tanto características objetivas como subjetivas para construir arquetipos basados en esta información.
-
-**Personal de Restaurante**
-
-Entrevista 1:
-- **Nombre completo:** Esmeralda Aliaga Patano
-- **Edad:** 21 años
-- **Distrito:** Surco
-- **Screenshot del video:**
-
-  <img src="assets/images/Entrevistaweb1_Empleado.png" width="900" height="600">
-  
-- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYy2HXkP4X9BkYignZidoxcBEGSiglEOcDNAtdDUlb5zDQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=efnRU9
-- **Duración de la entrevista:** 10 minutos 30 segundos
-
-**Resumen:** 
-
-La entrevista con Esmeralda Aliaga, donde se le presentó la aplicación web Front Chef, se pudo obtener una valiosa retroalimentación sobre su experiencia como usuaria. Durante la prueba, Esmeralda interactuó tanto con la landing page como con las funcionalidades principales del sistema, mostrando una respuesta notablemente positiva hacia la interfaz y usabilidad general. Destacó la intuitividad de la landing page, apreciando particularmente la sección de testimonios que, según ella, genera confianza en la marca. La claridad en la presentación de precios y promociones fue un punto que valoró especialmente, ya que facilita la planificación presupuestaria para potenciales usuarios. En cuanto a la aplicación web, Esmeralda encontró el proceso de registro y la navegación general muy accesibles, sin requerir capacitación adicional para su comprensión. Mostró especial interés en las funcionalidades de gestión de equipos de refrigeración, el sistema de inventario y la gestión de personal, apreciando la capacidad de agregar elementos visuales como fotos de productos. Un aspecto que destacó fue el sistema de roles y permisos, que permite a diferentes miembros del equipo acceder y gestionar distintas áreas del sistema según su nivel de autorización, facilitando la delegación de responsabilidades sin comprometer el control general de las operaciones. Como sugerencia de mejora, Esmeralda propuso la implementación de un control de gastos más detallado y un sistema de seguimiento para productos que se están agotando, enfatizando la importancia del aspecto financiero para la sostenibilidad del negocio. Durante toda la interacción, demostró ser una usuaria metódica y enfocada en la eficiencia, valorando especialmente las características que permiten una gestión remota y autónoma del negocio. Su comodidad con la interacción digital y su apreciación por la accesibilidad multiplataforma refuerzan su perfil como una administradora moderna que busca soluciones tecnológicas que combinen simplicidad con funcionalidad completa para la gestión de restaurantes. La retroalimentación de Esmeralda valida la dirección del desarrollo de Front Chef, mientras que sus sugerencias proporcionan valiosas perspectivas para futuras mejoras del sistema.
-
-
-Entrevista 2:
-- **Nombre completo:** José Espinoza
-- **Edad:** 52 años 
-- **Distrito:** Cercado de Lima
-- **Screenshot del video:**
-
-  <img src="assets/images/Entrevistaweb2_Empleado.png" width="900" height="600">
-  
-- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/ETmvZi3lsZVFgDVky_B5ka8BhqfLo2vjDcPgKOfLuPSfEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lu2YsO
-- **Duración de la entrevista:** 6 minutos 44 segundos
-
-**Resumen:** 
-La entrevista realizada a José Espinoza, un administrador de restaurante de 52 años ubicado en el Cercado de Lima, se obtuvo una valiosa retroalimentación después de que probara la aplicación web Front Chef durante unos días. José demostró una adaptación positiva al sistema, destacando la simplicidad en la interacción inicial con la aplicación y el proceso de registro. Particularmente valoró la visualización inmediata del estado de las máquinas de refrigeración en la página principal, lo que refleja su enfoque en el monitoreo operativo. Su proceso de adaptación fue relativamente rápido, estimando que le tomó entre 2 a 3 días familiarizarse completamente con el sistema, aunque las funciones básicas las dominó en la primera hora de uso. En cuanto al diseño visual, José encontró la interfaz profesional y limpia, aunque sugirió mejorar el contraste en algunos botones para aumentar su visibilidad. Identificó algunos puntos de mejora en la experiencia de usuario, como la necesidad de hacer más intuitivo el acceso a los detalles de mantenimiento y la visualización de productos en cada equipo de refrigeración. Un aspecto significativo de su feedback fue la sugerencia de reorganizar las opciones de mantenimiento en una sección independiente para optimizar el flujo de trabajo diario. En términos de funcionalidad, José destacó la facilidad para realizar tareas básicas de gestión de inventario, aunque sugirió la implementación de campos predeterminados para agilizar el proceso de registro de productos. Mostró especial interés en la capacidad de monitorear parámetros de temperatura y humedad en tiempo real, contrastando positivamente con su método anterior de registro manual. En cuanto a sus hábitos de uso, José manifestó preferir el acceso desde PC para tareas extensas como inventarios completos, mientras aprovecha la versión móvil para verificaciones rápidas durante el servicio, demostrando un enfoque práctico en la gestión operativa. Entre las mejoras sugeridas, destacó la necesidad de incorporar un sistema de escaneo de códigos de barras, predicción de demanda y optimización en la velocidad de carga de algunos formularios. La retroalimentación de José resulta particularmente valiosa al provenir de un usuario con experiencia en la gestión tradicional de restaurantes, quien reconoce el valor agregado de la automatización y el control centralizado que ofrece Front Chef en comparación con los métodos manuales anteriores.
-
-#### 6.3.3. Evaluaciones según heurísticas
-En esta sección, se detalla el proceso de evaluación de las sesiones de validación basado en heurísticas, abarcando aspectos como usabilidad, arquitectura de la información y el diseño inclusivo de la experiencia propuesta. Se utiliza la estructura del formato de evaluación heurística proporcionado en el Anexo D, siguiendo las directrices para evaluar la experiencia del usuario.
-
-**UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**
-
-**Site o App a evaluar:** FrostChef
-
-**Tareas a evaluar: **
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-
-1. Registro de un nuevo usuario
-2. Inicio de sesión en la aplicación
-3. Navegación al home y visualización de máquinas de refrigeración
-4. Acceso a los detalles de una máquina (temperatura, humedad, mantenimiento, etc.)
-5. Registro de un nuevo producto en el inventario
-6. Visualización y gestión de la lista de productos en el inventario
-7. Invitación a un nuevo colaborador (ingreso de correo y rol)
-8. Visualización y edición del perfil del usuario
-9. Cierre de sesión
-
-No están incluidas en esta versión de la evaluación las siguientes tareas:
-1. Generación de reportes de eficiencia en la gestión de temperatura
-2. Configuración de alertas para temperaturas anómalas
-3. Filtro de los productos
-
-
-
-**Escala de severidad:** 
-
-<table>
-  <tr>
-    <th>Nivel</th>
-    <th>Descripción</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
-  </tr>
-</table>
-
-
-**Tabla de Resumen:** 
-<table>
-  <tr>
-    <th>#</th>
-    <th>Problema</th>
-    <th>Escala de severidad</th>
-    <th>Heurística/Principio violado(a)</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Mezcla de opciones de mantenimiento con monitoreo diario</td>
-    <td>2</td>
-    <td>Consistencia y estándares</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Falta de campos predeterminados en formulario de productos</td>
-    <td>2</td>
-    <td>Eficiencia y flexibilidad de uso</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Ausencia de asignación directa de productos a máquinas</td>
-    <td>3</td>
-    <td>Eficiencia y flexibilidad de uso</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Formulario de invitación a colaboradores incompleto</td>
-    <td>2</td>
-    <td>Retroalimentación y visibilidad</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Opciones limitadas de filtrado en inventario</td>
-    <td>2</td>
-    <td>Flexibilidad y eficiencia de uso</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Inconsistencia en el diseño de la ventana de detalles de producto</td>
-    <td>3</td>
-    <td>Consistencia y estándares</td>
-  </tr>
-</table>
-
-
-
-**Descripción de problemas:** 
-
-
-**PROBLEMA #1:** Mezcla de opciones de mantenimiento con monitoreo diario  
-
-**Severidad:** 2   
-
-**Heurística violada:**  Consistencia y estándares
-
-**Problema:**  
-
-Las opciones de mantenimiento se presentan junto con las opciones de monitoreo diario, lo cual puede causar confusión en el usuario, que podría esperar que estén agrupadas de forma más lógica.
-
-<img src="assets/images/Heuristica1.png" >
-
-**Recomendación:**  
-Crear una sección separada exclusivamente para las opciones de mantenimiento, manteniéndola apartada de las funciones de monitoreo diario para mejorar la organización y facilitar la navegación.
-
----
-
-**PROBLEMA #2:** Falta de campos predeterminados en formulario de productos  
-
-**Severidad:** 2
-**Heurística violada:** Eficiencia y flexibilidad de uso
-
-
-**Problema:**  
-El formulario de registro de productos no cuenta con campos predeterminados, lo que obliga a los usuarios a ingresar repetidamente datos comunes y les hace perder tiempo.
-
-<img src="assets/images/Heuristica2.png" >
-
-
-**Recomendación:**  
-Incluir opciones de campos predeterminados en el formulario para agilizar la entrada de datos y reducir la carga de trabajo para el usuario.
-
----
-
-**PROBLEMA #3:** Ausencia de asignación directa de productos a máquinas  
-
-**Severidad:** 3   
-
-**Heurística violada:** Eficiencia y flexibilidad de uso 
-
-**Problema:**  
-Actualmente, al registrar un producto, no es posible asignarlo directamente a una máquina de refrigeración específica, lo cual genera pasos adicionales y retrasa el flujo de trabajo.
-
-<img src="assets/images/Heuristica3.png" >
-
-
-**Recomendación:**  
-Agregar una funcionalidad para asignar un producto a una máquina específica durante el proceso de registro, simplificando así la operación y aumentando la eficiencia.
-
----
-
-**PROBLEMA #4:** Formulario de invitación a colaboradores incompleto   
-
-**Severidad:** 2   
-
-**Heurística violada:** Retroalimentación y visibilidad 
-
-**Problema:**  
-El formulario para invitar a colaboradores es básico y no proporciona suficientes opciones ni una confirmación clara al enviar la invitación, lo cual podría generar dudas en los usuarios sobre el éxito del proceso.
-
-<img src="assets/images/Heuristica4.png" >
-
-
-**Recomendación:**  
-Mejorar el formulario añadiendo más campos relevantes y proporcionando mensajes de confirmación claros al completar el envío.
-
----
-
-**PROBLEMA #5:** Opciones limitadas de filtrado en inventario  
-
-**Severidad:** 2  
-
-**Heurística violada:** Flexibilidad y eficiencia de uso 
-
-**Problema:**  
-
-La sección de inventario ofrece pocas opciones de filtrado, lo cual dificulta la búsqueda específica de productos y puede hacer que los usuarios inviertan más tiempo en localizar lo que necesitan.
-
-<img src="assets/images/Heuristica5.png" >
-
-
-**Recomendación:**  
-Ampliar las opciones de filtrado en la sección de inventario para facilitar una búsqueda y organización más eficaces.
-
----
-
-**PROBLEMA #6:** Inconsistencia en el diseño de la ventana de detalles de producto 
-
-**Severidad:** 3  
-
-**Heurística violada:** Consistencia y estándares
-
-**Problema:**  
-Al seleccionar "Ver Detalle" de un producto, se despliega un cuadro de diálogo que es una notificación del navegador y no un componente de la aplicación web. Esto resulta en una apariencia que no coincide con el diseño de la aplicación, afectando la coherencia visual y estética. La ventana no mantiene el estilo ni los colores característicos de la interfaz, lo que puede dar una impresión de falta de integración en el sistema.
-
-<img src="assets/images/Heuristica6.png" >
-
-
-**Recomendación:**  
-Implementar un cuadro de diálogo personalizado dentro de la aplicación, con los mismos colores, estilos y elementos de interfaz del resto de la página. Esto permitirá mantener la coherencia y mejorar la experiencia de usuario.
-
-### 6.4. Video About-the-Product
-En esta sección, se presenta y describe el contenido del Video About-the-Product, dirigido a los visitantes de la Landing Page y usuarios de las Aplicaciones. El video explica el modelo de negocio y las características principales del software, y contiene al menos un testimonio positivo de un usuario que participó en las entrevistas de validación. Se incluye un screenshot del video, el URL de la versión publicada en Microsoft Stream y YouTube, y la duración del mismo.
 
 
 ### 6.2.3. Sprint 3
@@ -4874,213 +4964,156 @@ En esta sección, como equipo, explicamos y presentamos los avances en implement
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>266813db0c44314d4c5d365c635e4c115287fd62</td>
+            <td>add details</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 10, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>a30ecbac0d96a0672bc5a13faad7e8c6289967c9</td>
+            <td>Update inventary.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 11, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>7dde0576bf61363d89f79bd49821bbcd3b1867b9</td>
+            <td>Update home.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 14, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>4d24e4be37cc8ef8362f6f8ffd806f00ae3fa5b0</td>
+            <td>Update home.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>9c3898541f7f80b35f01bf6ec740da0511c6787b</td>
+            <td>Update home.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 20, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>79d059de8ee04112260456753d58e1e899cfc8c7</td>
+            <td>Update details.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 20, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>FrostChef-Mobile</td>
+            <td>develop</td>
+            <td>2abbc8194e1b71a19e152b3c5d51da69f3b18cd0</td>
+            <td>fix: update login and register details</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
+        </tr> 
+        <tr>
+            <td>FrostChef-Mobile</td>
+            <td>feature/notifications</td>
+            <td>b676b9c8c382a6311e115763a36bcb70efb5d8fb</td>
+            <td>Add new equipments and profile</td>
+            <td>-</td>
+            <td>Nov 15, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>74229e482aa94698e07a85328aa0f973ca5c6ee4</td>
+            <td>feat(auth): add JWT to login and register endpoints</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 14, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>631676ee1cdfc2cabbf45a974516810e1198aec8</td>
+            <td>fix:maven</td>
             <td>-</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>95012ab4984b747c545f9e73b4c01c12da002350</td>
+            <td>add: target</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>4c2c8ec78fafd1ddc2d00aba46450ce951d224e7</td>
+            <td>fix: snapshot</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>58f4f3ca2967fd2542bd9f4f00c25e597b151dec</td>
+            <td>fix:dockerfile and gitignore</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>9c0a2e5ebee4774b46f3b08a94701b980b4ac972</td>
+            <td>add: new free db</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>c3ee7da9dbc79ca1185557829bfecd9025771a89</td>
+            <td>fix:connection</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>e29f54e13eb2844b55ed19c00d106a598a802617</td>
+            <td>update: railway url</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>frostchef_embedded_app</td>
+            <td>develop</td>
+            <td>3dc8288663ee12b5bae7f05c28a7505f1190423e</td>
+            <td>feat: Clean project & improve a LCD Display 16x02</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 16, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>frostchef_embedded_app</td>
+            <td>develop</td>
+            <td>40556ca19b51b7a59e1ccfdefd2adc0a0b9de7ed</td>
+            <td>feat: implemented sensor of proximity (hc-sr04) succesfully!!</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 16, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>frostchef_embedded_app</td>
+            <td>develop</td>
+            <td>0a4bd9552c080771f1bc7f16d50a6e24edb2ec5c</td>
+            <td>fix: Clean project and add comentaries</td>
             <td>-</td>
-            <td></td>
-        </tr>
-           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
+            <td>Nov 16, 2024</td>
     </tbody>
 </table>
 
@@ -5097,52 +5130,94 @@ Usamos la herramienta de selenium para testear:
 <img src="assets/images/TestingFrontEnt.png">
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
-En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 2. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
+En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 3. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
 
 **Aplication Web**
 
  - Inicio de sesion
+   
+   Pantalla de inicio de sesión con un fondo de color azul degradado. En el centro, hay un formulario de inicio de sesión con los siguientes campos y elementos:
+   
  <img src="assets/images/Web1.png">
 
  - Creacion de cuenta
+   
+   Pantalla de creación de cuenta con un fondo de color azul degradado. En el centro, hay un formulario de registro con los siguientes campos y elementos:
+   
  <img src="assets/images/Web2.png">
 
  - Visualizacion del equipo de refrigeracion
+   
+   La sección home muestra una lista de unidades de refrigeración de "FrostChef" con su estado y capacidad actual
+   
  <img src="assets/images/Web3.png">
 
  - Añadir un producto
+
+   Pantalla diseñada para agregar nuevos productos al inventario. Contiene campos para ingresar información relevante y subir fotos del producto.
+   
  <img src="assets/images/Web4.png">
 
  - Vista para añadir colaboradores al restaurante
+
+   Pantalla para invitar y gestionar colaboradores del restaurante, con opción para mandar invitaciones y ver información de contacto existente.
+   
  <img src="assets/images/Web5.png">
 
  - Enviar correo al colaborador
+
+   Pantalla para enviar correos a colaboradores, con campos para "Correo Electrónico" y "Rol", además de un botón "Enviar Invitación".
+   
  <img src="assets/images/Web6.png">
 
  - Peril del dueño del restaurante
+
+   Pantalla con información sobre el propietario, incluyendo foto, nombre, título, email, teléfono, nombre del restaurante y ubicación.
+   
  <img src="assets/images/Web7.png">
 
 **Aplication Mobile**
 
 - Inicio de sesion
+
+  Pantalla de inicio de sesión en la aplicación móvil "Frostched", con campos para "Email" y "Contraseña", y un botón "Iniciar Sesión". También ofrece un enlace para registrarse si no tienes cuenta.
+  
 <img src="assets/images/Mobile1.png">
 
 - Menu de Productos
+
+  Pantalla para gestionar los productos del inventario, mostrando la lista de productos disponibles con opciones para ver detalles adicionales.
+  
 <img src="assets/images/Mobile2.png">
 
 - Equipo de Refrigeracion
+
+  Pantalla móvil de "Frostched" mostrando información sobre unidades de refrigeración. Presenta detalles de estado y capacidad del equipo con opciones para ver más información.
+  
 <img src="assets/images/Mobile3.png">
 
 - Detalles de una unidad de refrigeracion
+
+  Pantalla que muestra información detallada de una unidad de refrigeración específica, incluyendo modelo, número de serie, temperatura, humedad, fechas de mantenimiento y fecha de instalación. También hay opciones para enviar un informe y cerrar la ventana de información.
+  
 <img src="assets/images/Mobile4.png">
 
 - Agregar producto
+
+  Pantalla diseñada para ingresar nuevos productos al inventario, incluyendo detalles relevantes y fotos del producto.
+  
 <img src="assets/images/Mobile5.png">
 
-- Notificaciones 
+- Notificaciones
+
+  Pantalla de la aplicación móvil "Frostched" que muestra dos notificaciones:
+  
 <img src="assets/images/Mobile6.png">
 
 - Creación de cuenta
+
+  Pantalla en la aplicación móvil para crear una cuenta nueva, con campos obligatorios para email, contraseña, nombre completo, DNI y teléfono-
+  
 <img src="assets/images/Mobile7.png">
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
@@ -5151,7 +5226,13 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 **Usando la herramienta Swagger se pudo documentar, visualizar y consumir nuestros servicios**
 
 <img src="assets/images/sw1.png">
+
+Los endpoints enumerados incluyen varios métodos HTTP (GET, POST, DELETE) y admiten operaciones CRUD (Create, Read, Update, Delete)  para manipular productos y máquinas. La documentación proporciona una representación visual de la estructura de la API y las operaciones disponibles.
+
 <img src="assets/images/sw2.jpg">
+
+En esta sección se detallan los endpoints o puntos de acceso relacionados con la autenticación de usuarios, como el registro, inicio de sesión y actualización de cuentas.
+
 <img src="assets/images/sw3.jpg">
 
 
@@ -5181,60 +5262,380 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 1. Dirígete a la pestaña **Settings** de tu repositorio.
 2. Desplázate hacia abajo hasta la sección **GitHub Pages**.
 
-   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=672727b5&is=6725d635&hm=b4d6fb8346fffe7ce5316d0ca3e87a469a7daad30c2af42297298a9805dcf80f&=&format=webp&quality=lossless&width=815&height=411)
+   ![Accediendo a GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/land.png?ex=673e39f5&is=673ce875&hm=9fa10b20d51f73fc53689ac240773654a3da6a36e5e3ff2b42d62c0ec3814659&=&format=webp&quality=lossless&width=815&height=411)
 
 ### Configura GitHub Pages
 
 1. En la sección **Source**, selecciona la rama `master` (o `main`, dependiendo de tu configuración) y la carpeta raíz (`/`).
 2. Haz clic en **Save**.
 
-   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=672727b5&is=6725d635&hm=fc587bbad64762501d7357dfd2f07ac9120340960814dd1b22127548f8a9988f&=&format=webp&quality=lossless&width=902&height=411)
+   ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=673e39f5&is=673ce875&hm=57d2a36554d531235c4b56c3f1b7a8d76fb8fa13e84a00b077f77fae80471124&=&format=webp&quality=lossless&width=902&height=411)
 
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
-En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2
+En esta sección, se muestran los avances y la colaboración entre los miembros del equipo durante el Sprint 3. A continuación, se describen las implementaciones realizadas en los diferentes productos del sistema
+---
 
-**App Web**
+#### **App Web**
+En esta sección se muestra cómo se desarrolló la **App Web** a través de diversas ramas en el repositorio, cada una orientada a implementar funcionalidades específicas. Los commits reflejan un progreso constante y la integración de nuevas características y mejoras en la plataforma.
 
-Se ha desarrollado la implementacion de la App Web en  la siguientes ramas:
+**Capturas recomendadas**:
+- **Interfaz de la App Web**: Visualización del equipo de refrigeración trabajando en la interfaz. 
+  ![Interfaz de la App Web](assets/images/Web3.png)
+- **Historial de commits en GitHub/GitLab**: Representación del registro de cambios y avances a través de los commits realizados en el repositorio.
+  ![Historial de commits](https://media.discordapp.net/attachments/1273824394451615826/1308695604330893322/image.png?ex=673ee142&is=673d8fc2&hm=1845bf2acc39f1c07980f36d4e3aa41ecfd63dbcbd0274ece597f4db0a28d2c9&=&format=webp&quality=lossless&width=784&height=411)
+- **Diagrama de flujo del proceso de desarrollo**: Visualización del flujo de trabajo y las etapas de desarrollo.
+  
+---
+
+#### **App Mobile**
+La **App Mobile** se desarrolló en ramas específicas, lo que permitió realizar el trabajo de manera paralela y enfocado en las funcionalidades particulares de la app móvil. Los commits reflejan las iteraciones y los ajustes realizados a lo largo del proceso.
+
+**Capturas recomendadas**:
+- **Pantallas de la App Mobile**: Ejemplo de la funcionalidad de agregar producto desde la aplicación móvil.
+
+<div style="text-align: center;">
+  <img src="https://media.discordapp.net/attachments/1273824394451615826/1302165172647100477/image.png?ex=673e3192&is=673ce012&hm=45f39343fc9bdae51424eaf9fb9cf4d042ccf09509228be330b14dd4d9f667e3&=&format=webp&quality=lossless&width=199&height=411" />
+</div>
+
+- **Historial de commits**: Imagen del historial de commits que refleja el avance y las modificaciones de las funciones móviles.
+
+<div style="text-align: center;">
+  <img src="https://media.discordapp.net/attachments/1273824394451615826/1308695891808485376/image.png?ex=673ee187&is=673d9007&hm=cbfac583377582ade535670bc6e0da35dbee6231a9fedfc5dfb9f160fbbe8f51&=&format=webp&quality=lossless&width=713&height=411" />
+</div>
+
+- **Dispositivos móviles en acción**: Pruebas reales o simuladas de la aplicación móvil en dispositivos reales.
+
+---
+
+#### **Backend**
+El **Backend** fue implementado para garantizar una correcta integración con la base de datos y los servicios de la API. Los commits dan un registro claro de la evolución en el desarrollo de los servicios y funcionalidades del backend.
+
+**Capturas recomendadas**:
+- **Estructura de la base de datos**: Diagrama que explica cómo se estructuraron las tablas y relaciones en la base de datos.
+- **Historial de commits en GitHub/GitLab**: Imagen que muestra el avance mediante los commits realizados en el backend.
+  ![Historial de commits](https://media.discordapp.net/attachments/1273824394451615826/1308696972143759370/image.png?ex=673ee288&is=673d9108&hm=b6afe651e789ab35768ee68ac6134e7646c825e01ee607afb6977b7d8da67937&=&format=webp&quality=lossless&width=739&height=411)
+- **API endpoints con la documentación Swagger**: Imagen de los endpoints disponibles para interactuar con la API del backend.
+  ![Documentación Swagger](https://media.discordapp.net/attachments/1273824394451615826/1308697814720843786/image.png?ex=673ee351&is=673d91d1&hm=e033cb4ecaedf86cbc1a12146f2294e3e660588552982ec380c077c3c1a4d19b&=&format=webp&quality=lossless&width=762&height=411)
+
+---
+
+#### **IOT**
+En esta parte, se detalla cómo se implementó el **IOT** físico, similar a las demostraciones previas en **Wokwy**. Esta implementación consiste en la integración de dispositivos y sensores al sistema para permitir la recolección de datos físicos que alimentan las aplicaciones.
+
+**Capturas recomendadas**:
+- **Diagrama de conexiones IOT**: Muestra la interacción entre los diferentes dispositivos y sensores conectados al sistema IOT.
+- **Código de integración IOT**: Fragmentos del código que permiten la conexión entre dispositivos y la aplicación.
+- **Dispositivos en acción**: Imagen de los dispositivos IOT en funcionamiento durante las pruebas de integración.
+  ![Dispositivos IOT](https://media.discordapp.net/attachments/1273824394451615826/1308698179645997096/WhatsApp_Image_2024-11-16_at_12.27.18_PM.jpeg?ex=673ee3a8&is=673d9228&hm=e66107f68c1af76ec95b0f832ca61a6bc1ca54349e6fdcee95419f3fb097aba0&=&format=webp&width=231&height=411)
 
 
-Commits hechos en el repositorio
+
+### 6.3. Validation Interviews
+En esta sección, el equipo documenta y detalla las entrevistas de validación realizadas durante el proyecto. Las entrevistas incluyen la interacción de usuarios de los segmentos objetivo con la página de aterrizaje y las aplicaciones. Esta sección abarca el diseño de entrevistas, el registro de entrevistas y las evaluaciones según heurísticas, utilizando el formato de evaluación heurística indicado para el proyecto.
+
+#### 6.3.1. Diseño de Entrevistas
+En esta sección, detallamos el diseño de las entrevistas que utilizamos para recolectar información clave. Las entrevistas incluyen preguntas principales y complementarias dirigidas a cada segmento de interés. Aplicamos buenas prácticas de diseño de entrevistas y nos centramos en recolectar información demográfica (como género, edad, distrito de residencia, estado civil, familia, ocupación) y otras características (como personalidad, habilidades, marcas e influencias, dispositivos de preferencia, canales digitales de interacción, objetivos, frustraciones y biografía).
+
+**Elementos a incluir en la sesion de validacion:**
+
+**Para la Landing Page:**
+
+1. **Interacción con la Landing Page:**
+
+    - ¿Qué tan fácil o difícil te resultó interactuar con la nueva landing page?
+    - ¿Encontraste toda la información que necesitabas sin problemas?
+    - ¿Qué te parece la apariencia general de la web (colores, diseño, iconos, etc.)?
+    - ¿Hay algo en la interfaz que te haya resultado confuso o que no entendiste de inmediato?
+
+2. **Navegación y Usabilidad:**
+
+    - ¿Sientes que las opciones están bien organizadas para gestionar la refrigeración y el inventario?
+    - ¿Te gustaría que el flujo de ciertas tareas se modificara para ser más intuitivo?
+
+3. **Valor Propuesto:**
+
+    - ¿Crees que el sistema facilita la gestión de la temperatura comparado con el método anterior?
+    - ¿Cómo describirías la diferencia entre este sistema y el que utilizabas antes?
+
+4. **Capacitación y Aprendizaje:**
+
+    - ¿Cuánto tiempo te llevaría familiarizarte con el sistema?
+    - ¿Te sientes cómodo usando el sistema o consideras que necesitas más capacitación?
+
+**Para las Aplicaciones (Web y Móvil):**
+
+5. **User Flows:**
+
+    - ¿Hubo algún paso en particular que te pareció innecesario o difícil de encontrar?
+    - ¿Experimentaste algún problema o error durante el uso del sistema?
+
+6. **Funcionalidades Clave:**
+
+    - ¿Pudiste realizar las tareas de gestión del inventario y monitoreo de la refrigeración fácilmente?
+    - ¿Cómo fue la experiencia al monitorear la temperatura y registrar el inventario en el nuevo sistema?
+    - ¿Cómo calificarías la rapidez y efectividad de las alertas del sistema en situaciones críticas?
+
+7. **Interacción y Diseño:**
+
+    - ¿Qué te parece la experiencia de usar la aplicación para gestionar la refrigeración e inventario?
+    - ¿Prefieres acceder al sistema desde un dispositivo móvil o desde una PC? ¿Por qué?
+
+8. **Feedback del Usuario:**
+
+    - ¿Te parece útil la posibilidad de manejar las funciones de refrigeración e inventario desde un dispositivo móvil?
+    - ¿Hay alguna funcionalidad que consideres que está faltando y que podría facilitarte el trabajo?
+    - ¿Qué te ha gustado más del sistema de gestión de refrigeración e inventario?
+    - ¿Qué cambiarías o mejorarías?
 
 
-Collaboration
 
 
-**App Mobile**
+#### 6.3.2. Registro de Entrevistas
+En esta sección, se detalla el registro de entrevistas, que incluye la información de los entrevistados y un resumen descriptivo de sus respuestas. Cada entrevista es registrada en video y se proporciona un enlace al video editado junto con el timing y duración de cada entrevista. Se recopilan tanto características objetivas como subjetivas para construir arquetipos basados en esta información.
 
-Se ha desarrollado la implementacion de la App Mobile en las siguientes ramas:
+**Personal de Restaurante**
 
+Entrevista 1:
+- **Nombre completo:** Esmeralda Aliaga Patano
+- **Edad:** 21 años
+- **Distrito:** Surco
+- **Screenshot del video:**
 
-Commits hechos en el repositorio
+  <img src="assets/images/Entrevistaweb1_Empleado.png" width="900" height="600">
+  
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EYy2HXkP4X9BkYignZidoxcBEGSiglEOcDNAtdDUlb5zDQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=efnRU9
+- **Duración de la entrevista:** 10 minutos 30 segundos
 
+**Resumen:** 
 
-Collaboration
-
-**Backend**
-
-Se ha desarrollado la implementacion del Backend en las siguientes ramas:
-
-
-Commits hechos en el repositorio
-
-
-Collaboration
-
-**IOT**
-
-Se ha desarrollado la implementacion del IOT en las siguientes ramas:
-
-Commits hechos en el repositorio
+La entrevista con Esmeralda Aliaga, donde se le presentó la aplicación web Front Chef, se pudo obtener una valiosa retroalimentación sobre su experiencia como usuaria. Durante la prueba, Esmeralda interactuó tanto con la landing page como con las funcionalidades principales del sistema, mostrando una respuesta notablemente positiva hacia la interfaz y usabilidad general. Destacó la intuitividad de la landing page, apreciando particularmente la sección de testimonios que, según ella, genera confianza en la marca. La claridad en la presentación de precios y promociones fue un punto que valoró especialmente, ya que facilita la planificación presupuestaria para potenciales usuarios. En cuanto a la aplicación web, Esmeralda encontró el proceso de registro y la navegación general muy accesibles, sin requerir capacitación adicional para su comprensión. Mostró especial interés en las funcionalidades de gestión de equipos de refrigeración, el sistema de inventario y la gestión de personal, apreciando la capacidad de agregar elementos visuales como fotos de productos. Un aspecto que destacó fue el sistema de roles y permisos, que permite a diferentes miembros del equipo acceder y gestionar distintas áreas del sistema según su nivel de autorización, facilitando la delegación de responsabilidades sin comprometer el control general de las operaciones. Como sugerencia de mejora, Esmeralda propuso la implementación de un control de gastos más detallado y un sistema de seguimiento para productos que se están agotando, enfatizando la importancia del aspecto financiero para la sostenibilidad del negocio. Durante toda la interacción, demostró ser una usuaria metódica y enfocada en la eficiencia, valorando especialmente las características que permiten una gestión remota y autónoma del negocio. Su comodidad con la interacción digital y su apreciación por la accesibilidad multiplataforma refuerzan su perfil como una administradora moderna que busca soluciones tecnológicas que combinen simplicidad con funcionalidad completa para la gestión de restaurantes. La retroalimentación de Esmeralda valida la dirección del desarrollo de Front Chef, mientras que sus sugerencias proporcionan valiosas perspectivas para futuras mejoras del sistema.
 
 
-Collaboration
+Entrevista 2:
+- **Nombre completo:** José Espinoza
+- **Edad:** 52 años 
+- **Distrito:** Cercado de Lima
+- **Screenshot del video:**
 
+  <img src="assets/images/Entrevistaweb2_Empleado.png" width="900" height="600">
+  
+- **URL del video en Microsoft Stream:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017075_upc_edu_pe/ETmvZi3lsZVFgDVky_B5ka8BhqfLo2vjDcPgKOfLuPSfEw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lu2YsO
+- **Duración de la entrevista:** 6 minutos 44 segundos
+
+**Resumen:** 
+La entrevista realizada a José Espinoza, un administrador de restaurante de 52 años ubicado en el Cercado de Lima, se obtuvo una valiosa retroalimentación después de que probara la aplicación web Front Chef durante unos días. José demostró una adaptación positiva al sistema, destacando la simplicidad en la interacción inicial con la aplicación y el proceso de registro. Particularmente valoró la visualización inmediata del estado de las máquinas de refrigeración en la página principal, lo que refleja su enfoque en el monitoreo operativo. Su proceso de adaptación fue relativamente rápido, estimando que le tomó entre 2 a 3 días familiarizarse completamente con el sistema, aunque las funciones básicas las dominó en la primera hora de uso. En cuanto al diseño visual, José encontró la interfaz profesional y limpia, aunque sugirió mejorar el contraste en algunos botones para aumentar su visibilidad. Identificó algunos puntos de mejora en la experiencia de usuario, como la necesidad de hacer más intuitivo el acceso a los detalles de mantenimiento y la visualización de productos en cada equipo de refrigeración. Un aspecto significativo de su feedback fue la sugerencia de reorganizar las opciones de mantenimiento en una sección independiente para optimizar el flujo de trabajo diario. En términos de funcionalidad, José destacó la facilidad para realizar tareas básicas de gestión de inventario, aunque sugirió la implementación de campos predeterminados para agilizar el proceso de registro de productos. Mostró especial interés en la capacidad de monitorear parámetros de temperatura y humedad en tiempo real, contrastando positivamente con su método anterior de registro manual. En cuanto a sus hábitos de uso, José manifestó preferir el acceso desde PC para tareas extensas como inventarios completos, mientras aprovecha la versión móvil para verificaciones rápidas durante el servicio, demostrando un enfoque práctico en la gestión operativa. Entre las mejoras sugeridas, destacó la necesidad de incorporar un sistema de escaneo de códigos de barras, predicción de demanda y optimización en la velocidad de carga de algunos formularios. La retroalimentación de José resulta particularmente valiosa al provenir de un usuario con experiencia en la gestión tradicional de restaurantes, quien reconoce el valor agregado de la automatización y el control centralizado que ofrece Front Chef en comparación con los métodos manuales anteriores.
+
+#### 6.3.3. Evaluaciones según heurísticas
+En esta sección, se detalla el proceso de evaluación de las sesiones de validación basado en heurísticas, abarcando aspectos como usabilidad, arquitectura de la información y el diseño inclusivo de la experiencia propuesta. Se utiliza la estructura del formato de evaluación heurística proporcionado en el Anexo D, siguiendo las directrices para evaluar la experiencia del usuario.
+
+**UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture**
+
+**Site o App a evaluar:** FrostChef
+
+**Tareas a evaluar:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un nuevo usuario
+2. Inicio de sesión en la aplicación
+3. Navegación al home y visualización de máquinas de refrigeración
+4. Acceso a los detalles de una máquina (temperatura, humedad, mantenimiento, etc.)
+5. Registro de un nuevo producto en el inventario
+6. Visualización y gestión de la lista de productos en el inventario
+7. Invitación a un nuevo colaborador (ingreso de correo y rol)
+8. Visualización y edición del perfil del usuario
+9. Cierre de sesión
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Generación de reportes de eficiencia en la gestión de temperatura
+2. Configuración de alertas para temperaturas anómalas
+3. Filtro de los productos
+
+
+
+**Escala de severidad:** 
+
+<table>
+  <tr>
+    <th>Nivel</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+  </tr>
+</table>
+
+
+**Tabla de Resumen:** 
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problema</th>
+    <th>Escala de severidad</th>
+    <th>Heurística/Principio violado(a)</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Mezcla de opciones de mantenimiento con monitoreo diario</td>
+    <td>2</td>
+    <td>Consistencia y estándares</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Falta de campos predeterminados en formulario de productos</td>
+    <td>2</td>
+    <td>Eficiencia y flexibilidad de uso</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Ausencia de asignación directa de productos a máquinas</td>
+    <td>3</td>
+    <td>Eficiencia y flexibilidad de uso</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Formulario de invitación a colaboradores incompleto</td>
+    <td>2</td>
+    <td>Retroalimentación y visibilidad</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Opciones limitadas de filtrado en inventario</td>
+    <td>2</td>
+    <td>Flexibilidad y eficiencia de uso</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Inconsistencia en el diseño de la ventana de detalles de producto</td>
+    <td>3</td>
+    <td>Consistencia y estándares</td>
+  </tr>
+</table>
+
+
+
+**Descripción de problemas:** 
+
+
+**PROBLEMA #1:** Mezcla de opciones de mantenimiento con monitoreo diario  
+
+**Severidad:** 2   
+
+**Heurística violada:**  Consistencia y estándares
+
+**Problema:**  
+
+Las opciones de mantenimiento se presentan junto con las opciones de monitoreo diario, lo cual puede causar confusión en el usuario, que podría esperar que estén agrupadas de forma más lógica.
+
+<img src="assets/images/Heuristica1.png" >
+
+**Recomendación:**  
+Crear una sección separada exclusivamente para las opciones de mantenimiento, manteniéndola apartada de las funciones de monitoreo diario para mejorar la organización y facilitar la navegación.
+
+---
+
+**PROBLEMA #2:** Falta de campos predeterminados en formulario de productos  
+
+**Severidad:** 2
+**Heurística violada:** Eficiencia y flexibilidad de uso
+
+
+**Problema:**  
+El formulario de registro de productos no cuenta con campos predeterminados, lo que obliga a los usuarios a ingresar repetidamente datos comunes y les hace perder tiempo.
+
+<img src="assets/images/Heuristica2.png" >
+
+
+**Recomendación:**  
+Incluir opciones de campos predeterminados en el formulario para agilizar la entrada de datos y reducir la carga de trabajo para el usuario.
+
+---
+
+**PROBLEMA #3:** Ausencia de asignación directa de productos a máquinas  
+
+**Severidad:** 3   
+
+**Heurística violada:** Eficiencia y flexibilidad de uso 
+
+**Problema:**  
+Actualmente, al registrar un producto, no es posible asignarlo directamente a una máquina de refrigeración específica, lo cual genera pasos adicionales y retrasa el flujo de trabajo.
+
+<img src="assets/images/Heuristica3.png" >
+
+
+**Recomendación:**  
+Agregar una funcionalidad para asignar un producto a una máquina específica durante el proceso de registro, simplificando así la operación y aumentando la eficiencia.
+
+---
+
+**PROBLEMA #4:** Formulario de invitación a colaboradores incompleto   
+
+**Severidad:** 2   
+
+**Heurística violada:** Retroalimentación y visibilidad 
+
+**Problema:**  
+El formulario para invitar a colaboradores es básico y no proporciona suficientes opciones ni una confirmación clara al enviar la invitación, lo cual podría generar dudas en los usuarios sobre el éxito del proceso.
+
+<img src="assets/images/Heuristica4.png" >
+
+
+**Recomendación:**  
+Mejorar el formulario añadiendo más campos relevantes y proporcionando mensajes de confirmación claros al completar el envío.
+
+---
+
+**PROBLEMA #5:** Opciones limitadas de filtrado en inventario  
+
+**Severidad:** 2  
+
+**Heurística violada:** Flexibilidad y eficiencia de uso 
+
+**Problema:**  
+
+La sección de inventario ofrece pocas opciones de filtrado, lo cual dificulta la búsqueda específica de productos y puede hacer que los usuarios inviertan más tiempo en localizar lo que necesitan.
+
+<img src="assets/images/Heuristica5.png" >
+
+
+**Recomendación:**  
+Ampliar las opciones de filtrado en la sección de inventario para facilitar una búsqueda y organización más eficaces.
+
+---
+
+**PROBLEMA #6:** Inconsistencia en el diseño de la ventana de detalles de producto 
+
+**Severidad:** 3  
+
+**Heurística violada:** Consistencia y estándares
+
+**Problema:**  
+Al seleccionar "Ver Detalle" de un producto, se despliega un cuadro de diálogo que es una notificación del navegador y no un componente de la aplicación web. Esto resulta en una apariencia que no coincide con el diseño de la aplicación, afectando la coherencia visual y estética. La ventana no mantiene el estilo ni los colores característicos de la interfaz, lo que puede dar una impresión de falta de integración en el sistema.
+
+<img src="assets/images/Heuristica6.png" >
+
+
+**Recomendación:**  
+Implementar un cuadro de diálogo personalizado dentro de la aplicación, con los mismos colores, estilos y elementos de interfaz del resto de la página. Esto permitirá mantener la coherencia y mejorar la experiencia de usuario.
+
+### 6.4. Video About-the-Product
+En esta sección, se presenta y describe el contenido del Video About-the-Product, dirigido a los visitantes de la Landing Page y usuarios de las Aplicaciones. El video explica el modelo de negocio y las características principales del software, y contiene al menos un testimonio positivo de un usuario que participó en las entrevistas de validación. Se incluye un screenshot del video, el URL de la versión publicada en Microsoft Stream y YouTube, y la duración del mismo.
+
+Link del video About the Product desde Microsoft Stream: [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h)
 
 
 
@@ -5243,7 +5644,13 @@ Collaboration
 
 **Conclusiones**
 
-En este inicio de proyecto, es natural enfrentar desafíos relacionados con la planificación y la coordinación del equipo. La falta de claridad en la asignación de fechas de entrega puede afectar el ritmo del desarrollo y la calidad de los entregables. Esto resalta la importancia de establecer un marco organizativo sólido desde el principio, donde se definan responsabilidades claras y se distribuyan tareas de manera equitativa, ajustando los tiempos según las capacidades de cada miembro. Mejorar la comunicación y el seguimiento de los avances, quizás mediante el uso de herramientas ágiles, permitirá al equipo adaptarse mejor a imprevistos y optimizar el trabajo colaborativo.
+En esta etapa inicial del proyecto, se han identificado desafíos relacionados con la planificación y coordinación del equipo, los cuales son comunes en proyectos complejos. Sin embargo, hemos implementado una solución tecnológica que aborda directamente las necesidades críticas del sector gastronómico: un sistema avanzado de refrigeración para restaurantes. Esta solución se enfoca en mejorar la precisión del control de temperaturas, optimizar la gestión de inventarios y garantizar la seguridad alimentaria mediante el uso de sensores, software especializado y microprocesadores.
+
+La implementación del sistema permite el monitoreo en tiempo real, ajustes automáticos de temperatura, programación de ciclos de enfriamiento y gestión eficiente de inventarios, incluyendo alertas de vencimiento. Estas funcionalidades no solo mejoran la calidad y frescura de los alimentos, sino que también aportan beneficios tangibles a los restaurantes al reducir el desperdicio y garantizar la satisfacción del cliente.
+
+La eficacia de esta solución se demuestra mediante reportes históricos y análisis de tendencias, que permiten evaluar continuamente el desempeño del sistema. Además, las alertas proactivas y el control automatizado eliminan riesgos asociados a errores humanos, estableciendo un nuevo estándar de eficiencia y confiabilidad en la industria de la refrigeración. Al implementar esta tecnología, hemos logrado una plataforma robusta y escalable que beneficia tanto a los restaurantes como a sus clientes.
+
+Esta solución no solo mejora la operación diaria de los establecimientos gastronómicos, sino que también contribuye a la sostenibilidad y competitividad del sector, consolidando a IOTécnicos como un actor clave en la transformación tecnológica de la industria.
 
 **Recomendaciones**
 
@@ -5255,30 +5662,78 @@ Otra cosa importante es que no podemos enfocarnos solo en el software. El hardwa
 
 Finalmente, no podemos quedarnos estancados. Tenemos que seguir aprendiendo con cursos especializados y estar atentos a las nuevas tendencias. Esto evoluciona rápido, así que si no nos mantenemos actualizados, nos quedamos atrás.
 
-## Video About-the-Team
-## Enlace al Video
-Video Expo: https://drive.google.com/drive/folders/1XUXWfB3LqDMa2fjlEI7xLkeY8VWUU1Dm?usp=sharing
 
-Video Expo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/EUBDwxfqcGhDlYBnxOuFZI0BhzVK--6kMpiQJ0aa42ZExg?e=xfIuip&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+## Video About the Team
+Link del video about the team por Microsoft Stream:  [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/Eejt2aiuyuZCgpMf0tlYxuoB1RJ9PgJfE77qz0IjczDQUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GrvNTm)
+
+![FrostChef](https://cdn.discordapp.com/attachments/1273824394451615826/1308812975767031808/image.png?ex=673f4e91&is=673dfd11&hm=a12f8747c47b1a26d2f24b5331f780d956d3c9eb1feb00d2b805869c4d3ef2af&)
 
 # Bibliografía
-1. **Arora, C. P. (2018).** *Refrigeration and air conditioning.* McGraw-Hill Education.
 
-2. **Eisenberg, J. (2012).** *Refrigeration systems and applications.* Wiley.
+**Arora, C. P. (2018).** *Refrigeration and air conditioning.* McGraw-Hill Education.
 
-3. **Incropera, F. P., & DeWitt, D. P. (2016).** *Fundamentals of heat and mass transfer.* Wiley.
+**Bai, L., & Liu, M. (2023).** Enhancing food traceability in refrigeration systems using blockchain and IoT. *Foods, 12*(15), 3052.  
+   [https://www.mdpi.com/2304-8158/12/15/3052](https://www.mdpi.com/2304-8158/12/15/3052)
 
-4. **Dossat, R. J., & Horan, T. R. (2011).** *Principles of refrigeration.* Pearson.
+**Bergman, T. L., & Lavine, A. S. (2011).** *Principles of thermal science.* McGraw-Hill.
 
-5. **Moran, M. J., & Shapiro, H. N. (2010).** *Fundamentals of engineering thermodynamics.* Wiley.
+**Cengel, Y. A., & Boles, M. A. (2015).** *Thermodynamics: An engineering approach.* McGraw-Hill Education.
 
-6. **Cengel, Y. A., & Boles, M. A. (2015).** *Thermodynamics: An engineering approach.* McGraw-Hill Education.
+**Chen, Y., & Li, H. (2023).** Optimizing energy efficiency in commercial refrigeration systems using IoT-enabled controls. *Energy Reports, 9*(2), 1407-1420.  
+   [https://www.sciencedirect.com/science/article/pii/S2352484723001458](https://www.sciencedirect.com/science/article/pii/S2352484723001458)
 
-7. **Stoecker, W. F., & Jones, J. W. (1982).** *Refrigeration and air conditioning.* McGraw-Hill.
+**Dossat, R. J., & Horan, T. R. (2011).** *Principles of refrigeration.* Pearson.
 
-8. **Bergman, T. L., & Lavine, A. S. (2011).** *Principles of thermal science.* McGraw-Hill.
+**Eisenberg, J. (2012).** *Refrigeration systems and applications.* Wiley.
+
+**Incropera, F. P., & DeWitt, D. P. (2016).** *Fundamentals of heat and mass transfer.* Wiley.
+
+**Jain, S., & Kumar, A. (2023).** Development of smart refrigeration systems with IoT-enabled fault detection. *Sensors, 23*(3), 1167.  
+   [https://www.mdpi.com/1424-8220/23/3/1167](https://www.mdpi.com/1424-8220/23/3/1167)
+
+**Moran, M. J., & Shapiro, H. N. (2010).** *Fundamentals of engineering thermodynamics.* Wiley.
+
+**Minetto, S., Mauro, A., Martínez, S., & Zhao, Y. (2023).** Use of Internet of Things and Artificial Intelligence in Refrigeration and Air Conditioning. *International Institute of Refrigeration.*  
+    [https://iifiir.org/en/publications/30031296](https://iifiir.org/en/publications/30031296)
+
+**Pérez-Gomariz, R., & López-Gómez, A. (2022).** Application of artificial intelligence to refrigeration optimization. *CYTEF Proceedings.*  
+    [https://www.iifiir.org/en/publications/30031302](https://www.iifiir.org/en/publications/30031302)
+
+**Rossi, G., & Tanaka, H. (2022).** Cold storage management using IoT: Advances and challenges. *Renewable and Sustainable Energy Reviews, 168*, 112845.  
+    [https://www.sciencedirect.com/science/article/abs/pii/S136403212200201X](https://www.sciencedirect.com/science/article/abs/pii/S136403212200201X)
+
+**Santos, M. C., & Oliveira, F. M. (2023).** IoT-based smart refrigeration: Applications in the food industry. *Food Control, 149*, 109761.  
+    [https://www.sciencedirect.com/science/article/pii/S0956713523002735](https://www.sciencedirect.com/science/article/pii/S0956713523002735)
+
+**Singh, P., & Gupta, R. (2023).** Artificial intelligence in energy-efficient refrigeration systems. *Journal of Renewable and Sustainable Energy, 15*(4), 045678.  
+    [https://aip.scitation.org/journal/rse](https://aip.scitation.org/journal/rse)
+
+**Stoecker, W. F., & Jones, J. W. (1982).** *Refrigeration and air conditioning.* McGraw-Hill.
+
+**Wang, X., & Huang, J. (2022).** IoT-based cold chain logistics monitoring for perishable goods. *Computers and Electronics in Agriculture, 205*, 107557.  
+    [https://www.sciencedirect.com/science/article/abs/pii/S016816992200237X](https://www.sciencedirect.com/science/article/abs/pii/S016816992200237X)
+
+**Zhang, R., & Zhao, T. (2023).** Predictive maintenance for industrial refrigeration using AI and IoT technologies. *Journal of Industrial Information Integration, 15*, 22-34.  
+    [https://www.journals.elsevier.com/journal-of-industrial-information-integration](https://www.journals.elsevier.com/journal-of-industrial-information-integration)
+
 
 # Anexos
+Video Expo parcial desde Microsoft Stream: [Exposición Parcial](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/ESudh---4rhIr2ifqHgq7nYBp3uVkM-TnuKol5PA30v2Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RicYAG)
 
+Video Expo TB2 desde Microsoft Stream: [Exposición TB2](https://upcedupe-my.sharepoint.com/personal/u202021367_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202021367%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2Dws71%2DLosIoTecnicos%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1b8d10ac%2D2a96%2D4ca1%2D8014%2De98e6e9aa3aa)
+
+Video Expo Final desde Microsoft Stream:  [Exposición Final](https://upcedupe-my.sharepoint.com/personal/u202021367_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202021367%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2Dws71%2DLosIoTecnicos%2Dexpo%2Dtf%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1e286721%2Ddd27%2D43a4%2D845b%2D984b9147a8b4)
+
+Link del video about the team desde Microsoft Stream:  [About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/Eejt2aiuyuZCgpMf0tlYxuoB1RJ9PgJfE77qz0IjczDQUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GrvNTm)
+
+Link del video about the product desde Microsoft Stream: [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h)
+
+Link de la organización de GitHub: https://github.com/Los-IoTecnicos
+
+Codigo fuente del backend en github: https://github.com/Los-IoTecnicos/FrostChef-Backend
+
+Codigo fuente del la aplicación web en github: https://github.com/Los-IoTecnicos/Web-Application-Front 
+
+Codigo fuente del la aplicación móbil en github: https://github.com/Los-IoTecnicos/FrostChef-Mobile 
 
 
