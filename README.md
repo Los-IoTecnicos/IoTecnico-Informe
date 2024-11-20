@@ -5084,6 +5084,10 @@ Implementar un cuadro de diálogo personalizado dentro de la aplicación, con lo
 ### 6.4. Video About-the-Product
 En esta sección, se presenta y describe el contenido del Video About-the-Product, dirigido a los visitantes de la Landing Page y usuarios de las Aplicaciones. El video explica el modelo de negocio y las características principales del software, y contiene al menos un testimonio positivo de un usuario que participó en las entrevistas de validación. Se incluye un screenshot del video, el URL de la versión publicada en Microsoft Stream y YouTube, y la duración del mismo.
 
+Link del video About the Product desde Microsoft Stream: [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h)
+
+![FrostChef](https://media.discordapp.net/attachments/1273824394451615826/1308674465949024268/frost.png?ex=673ecd92&is=673d7c12&hm=8ca6e0e74fd912bb0b1d6beeac7702657359da65642eadfab9b3c193e74885cf&=&format=webp&quality=lossless)
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
@@ -5107,11 +5111,6 @@ Otra cosa importante es que no podemos enfocarnos solo en el software. El hardwa
 
 Finalmente, no podemos quedarnos estancados. Tenemos que seguir aprendiendo con cursos especializados y estar atentos a las nuevas tendencias. Esto evoluciona rápido, así que si no nos mantenemos actualizados, nos quedamos atrás.
 
-## Video About the Product
-
-Link del video About the Product desde Microsoft Stream: [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h)
-
-![FrostChef](https://media.discordapp.net/attachments/1273824394451615826/1308674465949024268/frost.png?ex=673ecd92&is=673d7c12&hm=8ca6e0e74fd912bb0b1d6beeac7702657359da65642eadfab9b3c193e74885cf&=&format=webp&quality=lossless)
 
 ## Video About the Team
 Link del video about the team por Microsoft Stream:  [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/Eejt2aiuyuZCgpMf0tlYxuoB1RJ9PgJfE77qz0IjczDQUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GrvNTm)
