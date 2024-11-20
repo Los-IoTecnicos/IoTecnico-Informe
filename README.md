@@ -5109,11 +5109,14 @@ Finalmente, no podemos quedarnos estancados. Tenemos que seguir aprendiendo con 
 
 ## Video About the Product
 
-**Ver Video**: [Haz clic aquí para ver el video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h)
+Link del video About the Product desde Microsoft Stream: [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h)
 
 ![FrostChef](https://media.discordapp.net/attachments/1273824394451615826/1308674465949024268/frost.png?ex=673ecd92&is=673d7c12&hm=8ca6e0e74fd912bb0b1d6beeac7702657359da65642eadfab9b3c193e74885cf&=&format=webp&quality=lossless)
 
 ## Video About the Team
+Link del video about the team por Microsoft Stream:  [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/Eejt2aiuyuZCgpMf0tlYxuoB1RJ9PgJfE77qz0IjczDQUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GrvNTm)
+
+![FrostChef](https://cdn.discordapp.com/attachments/1273824394451615826/1308812975767031808/image.png?ex=673f4e91&is=673dfd11&hm=a12f8747c47b1a26d2f24b5331f780d956d3c9eb1feb00d2b805869c4d3ef2af&)
 
 # Bibliografía
 
@@ -5165,11 +5168,15 @@ Finalmente, no podemos quedarnos estancados. Tenemos que seguir aprendiendo con 
 
 
 # Anexos
-Video Expo: https://drive.google.com/drive/folders/1XUXWfB3LqDMa2fjlEI7xLkeY8VWUU1Dm?usp=sharing
+Video Expo parcial desde Microsoft Stream: [Exposición Parcial](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/ESudh---4rhIr2ifqHgq7nYBp3uVkM-TnuKol5PA30v2Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=RicYAG)
 
-Video Expo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/EUBDwxfqcGhDlYBnxOuFZI0BhzVK--6kMpiQJ0aa42ZExg?e=xfIuip&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video Expo TB2 desde Microsoft Stream: [Exposición TB2](https://upcedupe-my.sharepoint.com/personal/u202021367_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202021367%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2Dws71%2DLosIoTecnicos%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1b8d10ac%2D2a96%2D4ca1%2D8014%2De98e6e9aa3aa)
 
-Link del video about the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h
+Video Expo Final desde Microsoft Stream:  [Exposición Final](https://upcedupe-my.sharepoint.com/personal/u202021367_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202021367%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2Dws71%2DLosIoTecnicos%2Dexpo%2Dtf%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1e286721%2Ddd27%2D43a4%2D845b%2D984b9147a8b4)
+
+Link del video about the team desde Microsoft Stream:  [About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202021367_upc_edu_pe/Eejt2aiuyuZCgpMf0tlYxuoB1RJ9PgJfE77qz0IjczDQUw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=GrvNTm)
+
+Link del video about the product desde Microsoft Stream: [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c384_upc_edu_pe/EbxpksVVsvhFpIpc9JO7yuwBEgpjJ_JMApI6qZku99cpvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=swln5h)
 
 Link de la organización de GitHub: https://github.com/Los-IoTecnicos
 
