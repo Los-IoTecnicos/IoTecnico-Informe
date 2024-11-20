@@ -2901,6 +2901,16 @@ Para el despliegue de la Aplicación Web, se utilizo la plataforma Vercel. A con
 - Despliegue Automático: Vercel permite la integración continua (CI/CD), habilitando el despliegue automático en cada commit realizado en el repositorio.
 - Monitorización y Escalado: Vercel ofrece herramientas avanzadas para monitorizar el rendimiento de la Aplicación Web y escalarlo automáticamente según la demanda, asegurando que la aplicación mantenga un funcionamiento óptima bajo cualquier carga de trabajo.
 
+**Despliegue de la Web Services**
+
+Para el despliegue del Web Service, se utiliazara la plataforma Render. A continuación, se detallan los pasos necesarios:
+
+- Configuración del Repositorio: El código fuente del Web Service se almacenará en un repositorio en la plataforma Github.
+- Creación del Proyecto en Render: Se creará un nuevo proyecto en Render vinculado al repositorio que contiene el código fuente del Web Service.
+- Configuración de Variables de Entorno: Render permite configurar fácilmente variables de entorno para el proyecto. Se configurarán de entorno necesarias, como credenciales de base de datos u otras configuraciones específicas del entorno. 
+- Despliegue Automatizado: Una vez configurado el proyecto en Render, se puede habilitar el despliegue automático para el servicio se actualice automáticamente cada vez que se realicen cambios en el repositorio.
+- Monitoreo y Escalado: Render propociona herramientas para monitorear el rendimiento del servicio y escalarlo según sea necesario, asegurando un funcionamiento óptimo en todo momento.
+
 ## 6.2. Landing Page, Services & Applications Implementation
 
 En esta sección, como equipo, explicamos y evidenciamos el proceso de implementación, pruebas, documentación y despliegue del Landing Page, Web Services, Web Applications, Mobile Applications y Embedded Applications. Organizamos el trabajo en Sprints y documentamos el progreso en cada Sprint, incluyendo planificación, backlog, evidencia de desarrollo y colaboración del equipo.
@@ -3212,11 +3222,11 @@ En esta sección, como equipo, presentamos una introducción que resume el objet
             <td rowspan="1">US001</td>
             <td rowspan="1">Monitoreo en Tiempo Real Web</td>
             <td>Tasks-01</td>
-            <td>[TÍTULO DE LA TAREA]</td>
-            <td>[DESCRIPCIÓN DE LA TAREA]</td>
+            <td>Realizacion de una card donde se mueste la informacion en como se encuentre el equipo</td>
+            <td>Desarrollar la lógica para mostrar la información detallada de cada equipo</td>
             <td>2 Hours</td>
-            <td>Diego Sánchez</td>
-            <td>To-do</td>
+            <td>Jose Navarro</td>
+            <td>Done</td>
         </tr>
         <tr>
         </tr>
@@ -4518,7 +4528,7 @@ En esta sección, se detalla el proceso de evaluación de las sesiones de valida
 
 **Site o App a evaluar:** FrostChef
 
-**Tareas a evaluar: **
+**Tareas a evaluar:**
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
 1. Registro de un nuevo usuario
