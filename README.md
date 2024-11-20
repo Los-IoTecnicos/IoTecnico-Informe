@@ -285,189 +285,145 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
 
 
 ## Student Outcome 
-<table>
-  <thead>
-    <tr>
-      <th>Criterio específico</th>
-      <th>Acciones realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Trabaja en equipo para
-      proporcionar liderazgo en
-      forma conjunta</td>
-      <td>Márquez, Piero Stefano <br/>
-            TB1:<br/>
-            Organicé y gestioné los documentos clave, incluyendo la publicación del video de las entrevistas y la descripción del startup. Además, desarrollé estrategias y tácticas competitivas para posicionarnos frente a los competidores, y participé activamente en el diseño, análisis y registro de entrevistas. También trabajé en la creación y priorización del product backlog, asegurando que todas las tareas estuvieran alineadas con los objetivos del proyecto. Por último, colaboré en los capítulos 3 y 4 del proyecto, contribuyendo de manera significativa a su desarrollo y asegurando el avance según lo planificado.</br>
-            TP</br>
-            Organice la correcion de la primera versidel trabajo tb1 y me encargue de las correciones completas de todo el capitulo tres mejorando las user stories y el product backlong siguiendo las indicaciones del profesor.Tambien se fomento en el grupo tener una comunicacion clara y rapida ante cualquier duda o consulta que tenga algun integrante del equipo se usaron canales como Whatsapp para mensaje y discord para llamadas. Haciendo reuniones interdiarias para dialogar sobre los avances.</br></br>
-            TB2: Colabore con la organizacion del Trello y me encargue de la mayor parte de documentación del Sprint2. Estuve contastantemente coordinando y orientando a mis compañeros en como deberian trabajar en el Trello y la forma correcta de organizar sus Tasks. </br>
-            </br>
-            TF</br>Asumí la responsabilidad del desarrollo del backend, diseñando e implementando los servicios y la arquitectura necesaria para garantizar la eficiencia, escalabilidad y estabilidad de la aplicación.
-            </br>
-            </br>
-            Patrocinio Escalante, Leonardo Walt</br>
-            TB1:</br>
-            Desarrollé el perfil de la solución, utilizando el Lean UX Canvas para asegurar que todos los aspectos del producto estuvieran alineados con las necesidades del usuario y los objetivos del negocio. Realicé el mapeo del User Journey y la creación de Empathy Maps para comprender a profundidad las emociones y comportamientos de los usuarios en cada interacción con el sistema. A través de escenarios As-Is y To-Be, capturé el estado actual y futuro de los procesos, lo que nos ayudó a visualizar las mejoras necesarias. Implementé el lenguaje ubicuo para garantizar una comunicación clara entre todos los involucrados en el proyecto, y llevé a cabo sesiones de EventStorming y modelado de flujos de mensajes de dominio para definir cómo los eventos clave y los mensajes dentro del sistema interactúan de manera eficiente, asegurando que el diseño fuera coherente y adaptable.</br>
-            TP:</br>
-            Desarrollé las correcciones necesarias para garantizar una mejor alineación con las expectativas del proyecto. Presenté los avances en los lineamientos de estilo, la arquitectura de la información, y los mockups de la landing page, destacando cómo estos elementos contribuirán a la experiencia del usuario. También detallé los avances en la configuración del entorno de desarrollo web, la gestión del código fuente, y la guía de estilo y convenciones de código, explicando cómo estas prácticas mejoran la calidad y coherencia del desarrollo.
-            </br>
-            TB2:</br>
-            Colaboré con el equipo en el desarrollo de la aplicación móvil, implementando funcionalidades clave y optimizando su rendimiento, lo que permitió un liderazgo conjunto en el proyecto.
-            </br>
-            TF:</br>
-            Apoyé al equipo de desarrollo de la aplicación móvil, colaborando en la implementación de diversas funcionalidades y proporcionando soporte técnico para resolver problemas. Mi contribución ayudó a garantizar que el proyecto avanzara de manera fluida y cumpliera con los plazos establecidos.
-            </br>
-
-</br>
-            Díaz Gonzales, Víctor Yordi</br>
-            TB1:</br>
-            Desarrollé y gestioné las user stories, asegurando que cada una reflejara las necesidades del proyecto y del usuario final. Además, implementé el enfoque de Tactical-Level Domain-Driven Design, lo que nos permitió identificar y organizar los distintos dominios y contextos acotados, como el Bounded Context: Account, mejorando la estructura del sistema. También trabajé en la definición de la Interface Layer y la Infrastructure Layer, facilitando una comunicación clara entre los distintos componentes del sistema. Para finalizar, llevé a cabo sesiones de EventStorming, lo que nos ayudó a identificar eventos clave y procesos dentro del sistema, logrando una visión integral del flujo de trabajo y sus interacciones.</br>
-            TP:</br>
-            Nuestro equipo mantuvo una colaboración constante, apoyándonos mutuamente en cada etapa del proyecto. Ante cualquier consulta o duda, trabajamos juntos para encontrar soluciones, lo que permitió que cada miembro completara sus tareas individuales de manera efectiva. Este trabajo en equipo nos llevó a entregar un proyecto final bien estructurado y satisfactorio tanto en calidad como en cumplimiento de los plazos.</br>
-            TB2: </br> Se realizó el sprint 2 sobre el desarrollo e implementación de la aplicacion mobil y web en entornos relaes para validar sus usabilidad e
-            </br>
-            TF:</br>Lideré al equipo en el desarrollo de la aplicación móvil, coordinando la implementación de funcionalidades y asegurando el cumplimiento de los objetivos de rendimiento. Además, colaboré en la elaboración del backend, contribuyendo al diseño y desarrollo de la lógica que conecta la aplicación con los servicios del servidor, garantizando su correcto funcionamiento.
-            </br>
-            </br>
-            Sánchez Ramírez, Diego Antonio</br>
-            TB1:</br>
-            Lideré el diseño de la arquitectura de software, asegurando que la solución fuera escalable y eficiente. Durante este proceso, llevé a cabo sesiones de EventStorming para mapear los eventos clave dentro del sistema, lo que nos permitió identificar y estructurar mejor los flujos de trabajo. Además, participé en actividades de needfinding, profundizando en las necesidades reales de los usuarios y asegurando que el diseño estuviera alineado con sus expectativas. También realicé un análisis de competidores, evaluando las soluciones actuales en el mercado para identificar oportunidades de mejora y asegurar que nuestro producto tuviera una ventaja competitiva sólida.</br>
-            TP:</br>
-            Coordine con el equipo para pode realizar los diferentes puntos de este trabajo parcial, por ejemplo en el intercambio de ideas para la realización de los diagramas de arquitectura de software utilizando Structurizr. </br>
-           TB2: </br> Lideré la gestión del tablero Kanban en Trello, asegurando que cada tarea esté organizada y que las responsabilidades estén claramente definidas. Esta herramienta ha sido fundamental para mejorar la organización del proyecto, especialmente en la gestión de tareas relacionadas con IoT. 
-          </br>
-          TF:</br>
-          
-
-Lideré el equipo de desarrollo de IoT, encargándome del diseño, integración y configuración de dispositivos conectados. Coordiné la implementación de soluciones que permitieron la comunicación efectiva entre el hardware y la plataforma digital, asegurando la interoperabilidad y el rendimiento óptimo del sistema.
-</br>
-    </br>
-            Navarro Chacon, Juan Jose</br>
-            TB1:</br>
-            Trabajé en la definición de las suposiciones de Lean UX, generando declaraciones de hipótesis que nos permitieron validar rápidamente ideas y ajustar el diseño con base en resultados tangibles. Realicé un análisis competitivo para entender cómo nuestra solución se posiciona frente a los competidores, identificando oportunidades de mejora. Desarrollé user stories y creé una matriz de tareas de usuario para mapear las interacciones clave en el sistema. Además, organicé sesiones de EventStorming para modelar los eventos críticos y asegurar que el flujo de información dentro del sistema fuera claro. Utilicé los Bounded Context Canvases y el Context Mapping para definir y visualizar las interacciones entre los diferentes dominios, asegurando que los límites del sistema fueran bien comprendidos y la solución estuviera bien estructurada.</br>
-            TP:</br>
-            Organizamos reuniones para discutir y
-            distribuir los temas de esta entrega. A
-            cada integrante se le asignó una tarea
-            específica que fue completada dentro
-            del plazo establecido.</br>
-            TB2: </br>
-             A través de la colaboración constante con los demás miembros, logramos una organización optimizada de tareas, especialmente en el desarrollo de las partes web y móvil del proyecto.
-            </br>
-            TF:</br>
-            Lideré el equipo en el desarrollo del frontend de la aplicación web, supervisando el diseño e implementación de la interfaz de usuario. Mi enfoque estuvo en asegurar una experiencia de usuario intuitiva y atractiva, cumpliendo con los estándares de diseño y usabilidad del proyecto.
-            </br>
-
-</br>
-            Zamora Rivera, Ismael Sebastian</br>
-            TB1:</br>
-            Durante el desarrollo del proyecto y la fase de identificación del producto, surgieron diversas dificultades. Estos inconvenientes aparecieron debido a los desafíos propios del proceso de trabajo, así como a la evaluación del producto final, lo que requirió un análisis más detallado para implementar las soluciones necesarias.</br>
-            TP</br>
-            Se identificaron diferentes problemas durante el desarrollo del proyecto, y se hicieron las correcciones correspondientes basadas en el feedback recibido de la entrega anterior. Para esta fase, se elaboró el diseño UX/UI, creando el wireframe y el mockup de la aplicación.</br>
-            TB2</br>
-            Se implementearon funcionalidades que permitan conocer al usuario a detalle los productos que contengan cada refrigerador.</br>
-            TF:</br>
-            Apoyé al equipo de desarrollo web, contribuyendo en la implementación de diversas funcionalidades del frontend y backend. Mi asistencia incluyó la depuración de código, la optimización de componentes y el soporte para asegurar la integración correcta de las tecnologías utilizadas.
-            </br>
-      </td>
-      <td>TB1</br>
-      En conclusión, un enfoque colaborativo y multidisciplinario es clave en el desarrollo de soluciones de ingeniería de software. Los estudiantes han destacado la importancia de integrar diversas disciplinas y conocimientos para mejorar cada fase del proceso, desde el diseño inicial y el análisis competitivo hasta la interacción con los usuarios y la arquitectura de software. Este enfoque no solo garantiza que los productos finales sean técnicamente robustos y alineados con las necesidades del mercado, sino que también resalta la importancia de la colaboración y la comunicación efectiva entre áreas especializadas para superar desafíos complejos y alcanzar soluciones innovadoras. Este modelo interdisciplinario no solo eleva la calidad del desarrollo de productos, sino que también prepara a los futuros ingenieros para liderar proyectos en entornos más integrados y tecnológicamente avanzados.
-      Liderazgo Colaborativo en Equipo:
-El equipo adopta un liderazgo compartido, donde cada miembro asume roles de liderazgo según sus habilidades y el momento del proyecto, fomentando la toma de decisiones conjunta y el compromiso. Este enfoque dinámico permite que todos contribuyan a la coordinación y ejecución de tareas clave.
-      </td>
-    </tr>
-    <tr>
-      <td>Crea un entorno colaborativo e
-      inclusivo, establece metas,
-      planifica tareas y cumple
-      objetivos.</td>
-      <td>Márquez, Piero Stefano <br/>
-      TB1:</br>
-      Durante la primera entrega, organicé y gestioné documentos clave, como el video de entrevistas y la descripción del startup. También participé en el diseño y priorización del product backlog, asegurando que todas las tareas estuvieran alineadas con los objetivos. Gracias a una planificación clara, el equipo avanzó de manera colaborativa en los capítulos 3 y 4, cumpliendo con los plazos establecidos.</br>
-      TP:</br>
-      En la segunda entrega, corregí la primera versión de TB1 y mejoré el capítulo 3, enfocándome en las user stories y el product backlog según las indicaciones del profesor. Fomenté una comunicación fluida dentro del equipo mediante WhatsApp y Discord, con reuniones interdiarias que ayudaron a planificar tareas y cumplir objetivos de manera inclusiva.</br>
-      </br>
-      TB2:En la tercera entrega, primero se hicieron las correcciones pertinentes del TP, se mejoraron el capitulo 4 y 5. Luego me dedique a actualizar las epics, user stories y product backlog. En esta entrega me encargue de gesitonar el documento .md y fomente una buena comunicacion con mis compañeros mediante nuestros recursos de comunicacion como son WhatsApp y Discord.  </br>
-      </br>
-      TF:</br>En esta ultima entregam se hicieron las correciones pertinentes al documento del trabajo, esto se llevo a cabo de manera colaborativa
-      </br>
-      </br>
-      Patrocinio Escalante, Leonardo Walt</br>
-      TB1:</br>
-      Nos apoyamos mutuamente revisando los escenarios As-Is y To-Be, logrando identificar mejoras y asegurar la adaptación del diseño al contexto del negocio.</br>
-      TP:</br>
-      Nos apoyamos para resolver dudas técnicas y unificar el estilo del código, facilitando el desarrollo efectivo y en equipo.</br>
-      </br>
-      TB2:</br>
-      Fomenté un ambiente de trabajo colaborativo al avanzar en el informe del sprint 2 y realizar evaluaciones heurísticas, estableciendo metas claras y planificando tareas para cumplir con los objetivos de mejora de usabilidad.
-            </br>
-      TF:</br>
+<table border="1">
+  <tr>
+    <th>Criterio específico</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>Trabaja en equipo para funcionalizar de forma conjunta</td>
+    <td>
+      <p>Márquez, Piero Stefano <br> 
+      TB1:<br> 
+      Organicé y gestioné los documentos clave, incluyendo la publicación del video de las entrevistas y la descripción del startup. Además, desarrollé estrategias y tácticas competitivas para posicionarnos frente a los competidores, y participé activamente en el diseño, análisis y registro de entrevistas. También trabajé en la creación y priorización del product backlog, asegurando que todas las tareas estuvieran alineadas con los objetivos del proyecto. Por último, colaboré en los capítulos 3 y 4 del proyecto, contribuyendo de manera significativa a su desarrollo y asegurando el avance según lo planificado.<br>
+      TP:<br> 
+      Organice la correcion de la primera versidel trabajo tb1 y me encargue de las correciones completas de todo el capitulo tres mejorando las user stories y el product backlong siguiendo las indicaciones del profesor.Tambien se fomento en el grupo tener una comunicacion clara y rapida ante cualquier duda o consulta que tenga algun integrante del equipo se usaron canales como Whatsapp para mensaje y discord para llamadas. Haciendo reuniones interdiarias para dialogar sobre los avances.<br> 
+      TB2:<br> 
+      Colabore con la organizacion del Trello y me encargue de la mayor parte de documentación del Sprint2. Estuve contastantemente coordinando y orientando a mis compañeros en como deberian trabajar en el Trello y la forma correcta de organizar sus Tasks.<br> 
+      TF:<br>  
+      Asumí la responsabilidad del desarrollo del backend, diseñando e implementando los servicios y la arquitectura necesaria para garantizar la eficiencia, escalabilidad y estabilidad de la aplicación.
+      </p>
+      <p>Patrocinio Escalante, Leonardo Walt<br> 
+      TB1:<br> 
+      Desarrollé el perfil de la solución, utilizando el Lean UX Canvas para asegurar que todos los aspectos del producto estuvieran alineados con las necesidades del usuario y los objetivos del negocio. Realicé el mapeo del User Journey y la creación de Empathy Maps para comprender a profundidad las emociones y comportamientos de los usuarios en cada interacción con el sistema. A través de escenarios As-Is y To-Be, capturé el estado actual y futuro de los procesos, lo que nos ayudó a visualizar las mejoras necesarias. Implementé el lenguaje ubicuo para garantizar una comunicación clara entre todos los involucrados en el proyecto, y llevé a cabo sesiones de EventStorming y modelado de flujos de mensajes de dominio para definir cómo los eventos clave y los mensajes dentro del sistema interactúan de manera eficiente, asegurando que el diseño fuera coherente y adaptable.<br>
+      TP:<br> 
+      Desarrollé las correcciones necesarias para garantizar una mejor alineación con las expectativas del proyecto. Presenté los avances en los lineamientos de estilo, la arquitectura de la información, y los mockups de la landing page, destacando cómo estos elementos contribuirán a la experiencia del usuario. También detallé los avances en la configuración del entorno de desarrollo web, la gestión del código fuente, y la guía de estilo y convenciones de código, explicando cómo estas prácticas mejoran la calidad y coherencia del desarrollo.<br> 
+      TB2:<br> 
+      Colaboré con el equipo en el desarrollo de la aplicación móvil, implementando funcionalidades clave y optimizando su rendimiento, lo que permitió un liderazgo conjunto en el proyecto.<br> 
+      TF:<br>  
+      Apoyé al equipo de desarrollo de la aplicación móvil, colaborando en la implementación de diversas funcionalidades y proporcionando soporte técnico para resolver problemas. Mi contribución ayudó a garantizar que el proyecto avanzara de manera fluida y cumpliera con los plazos establecidos.
+      </p>
+      <p>Díaz Gonzales, Víctor Yordi<br> 
+      TB1:<br> 
+      Desarrollé y gestioné las user stories, asegurando que cada una reflejara las necesidades del proyecto y del usuario final. Además, implementé el enfoque de Tactical-Level Domain-Driven Design, lo que nos permitió identificar y organizar los distintos dominios y contextos acotados, como el Bounded Context: Account, mejorando la estructura del sistema. También trabajé en la definición de la Interface Layer y la Infrastructure Layer, facilitando una comunicación clara entre los distintos componentes del sistema. Para finalizar, llevé a cabo sesiones de EventStorming, lo que nos ayudó a identificar eventos clave y procesos dentro del sistema, logrando una visión integral del flujo de trabajo y sus interacciones.<br>
+      TP:<br> 
+      Nuestro equipo mantuvo una colaboración constante, apoyándonos mutuamente en cada etapa del proyecto. Ante cualquier consulta o duda, trabajamos juntos para encontrar soluciones, lo que permitió que cada miembro completara sus tareas individuales de manera efectiva. Este trabajo en equipo nos llevó a entregar un proyecto final bien estructurado y satisfactorio tanto en calidad como en cumplimiento de los plazos.<br> 
+      TB2:<br> 
+      Se realizó el sprint 2 sobre el desarrollo e implementación de la aplicacion mobil y web en entornos relaes para validar sus usabilidades.<br> 
+      TF:<br>
+      Lideré al equipo en el desarrollo de la aplicación móvil, coordinando la implementación de funcionalidades y asegurando el cumplimiento de los objetivos de rendimiento. Además, colaboré en la elaboración del backend, contribuyendo al diseño y desarrollo de la lógica que conecta la aplicación con los servicios del servidor, garantizando su correcto funcionamiento.
+      </p>
+      <p>Sánchez Ramírez, Diego Antonio <br> 
+      TB1:<br> 
+      Lideré el diseño de la arquitectura de software, asegurando que la solución fuera escalable y eficiente. Durante este proceso, llevé a cabo sesiones de EventStorming para mapear los eventos clave dentro del sistema, lo que nos permitió identificar y estructurar mejor los flujos de trabajo. Además, participé en actividades de needfinding, profundizando en las necesidades reales de los usuarios y asegurando que el diseño estuviera alineado con sus expectativas. También realicé un análisis de competidores, evaluando las soluciones actuales en el mercado para identificar oportunidades de mejora y asegurar que nuestro producto tuviera una ventaja competitiva sólida.<br>
+      TP:<br> 
+      Coordine con el equipo para pode realizar los diferentes puntos de este trabajo parcial, por ejemplo en el intercambio de ideas para la realización de los diagramas de arquitectura de software utilizando Structurizr.<br> 
+      TB2:<br> 
+      Lideré la gestión del tablero Kanban en Trello, asegurando que cada tarea esté organizada y que las responsabilidades estén claramente definidas. Esta herramienta ha sido fundamental para mejorar la organización del proyecto, especialmente en la gestión de tareas relacionadas con IoT.<br> 
+      TF:<br>  
+      Lideré el equipo de desarrollo de IoT, encargándome del diseño, integración y configuración de dispositivos conectados. Coordiné la implementación de soluciones que permitieron la comunicación efectiva entre el hardware y la plataforma digital, asegurando la interoperabilidad y el rendimiento óptimo del sistema.
+      </p>
+      <p>Navarro Chacon, Juan Jose <br> 
+      TB1:<br> 
+      Trabajé en la definición de las suposiciones de Lean UX, generando declaraciones de hipótesis que nos permitieron validar rápidamente ideas y ajustar el diseño con base en resultados tangibles. Realicé un análisis competitivo para entender cómo nuestra solución se posiciona frente a los competidores, identificando oportunidades de mejora. Desarrollé user stories y creé una matriz de tareas de usuario para mapear las interacciones clave en el sistema. Además, organicé sesiones de EventStorming para modelar los eventos críticos y asegurar que el flujo de información dentro del sistema fuera claro. Utilicé los Bounded Context Canvases y el Context Mapping para definir y visualizar las interacciones entre los diferentes dominios, asegurando que los límites del sistema fueran bien comprendidos y la solución estuviera bien estructurada.<br>
+      TP:<br> 
+      Organizamos reuniones para discutir y distribuir los temas de esta entrega. A cada integrante se le asignó una tarea específica que fue completada dentro del plazo establecido.<br> 
+      TB2:<br> 
+      A través de la colaboración constante con los demás miembros, logramos una organización optimizada de tareas, especialmente en el desarrollo de las partes web y móvil del proyecto.<br> 
+      TF:<br>  
+      Lideré el equipo en el desarrollo del frontend de la aplicación web, supervisando el diseño e implementación de la interfaz de usuario. Mi enfoque estuvo en asegurar una experiencia de usuario intuitiva y atractiva, cumpliendo con los estándares de diseño y usabilidad del proyecto.
+      </p>
+      <p>Zamora Rivera, Ismael Sebastian <br> 
+      TB1:<br> 
+      Durante el desarrollo del proyecto y la fase de identificación del producto, surgieron diversas dificultades. Estos inconvenientes aparecieron debido a los desafíos propios del proceso de trabajo, así como a la evaluación del producto final, lo que requirió un análisis más detallado para implementar las soluciones necesarias.<br>
+      TP:<br> 
+      Se identificaron diferentes problemas durante el desarrollo del proyecto, y se hicieron las correcciones correspondientes basadas en el feedback recibido de la entrega anterior. Para esta fase, se elaboró el diseño UX/UI, creando el wireframe y el mockup de la aplicación.<br> 
+      TB2:<br> 
+      Se implementearon funcionalidades que permitan conocer al usuario a detalle los productos que contengan cada refrigerador.<br> 
+      TF:<br>  
+      Apoyé al equipo de desarrollo web, contribuyendo en la implementación de diversas funcionalidades del frontend y backend. Mi asistencia incluyó la depuración de código, la optimización de componentes y el soporte para asegurar la integración correcta de las tecnologías utilizadas.
+      </p>
+    </td>
+    <td>En conclusión, un enfoque colaborativo y multidisciplinario es clave en el desarrollo de soluciones de ingeniería de software. Los estudiantes han destacado la importancia de integrar diversas disciplinas y conocimientos para mejorar cada fase del proceso, desde el diseño inicial y el análisis competitivo hasta la interacción con los usuarios y la arquitectura de software. Este enfoque no solo garantiza que los productos finales sean técnicamente robustos y alineados con las necesidades del mercado, sino que también resalta la importancia de la colaboración y la comunicación efectiva entre áreas especializadas para superar desafíos complejos y alcanzar soluciones innovadoras. Este modelo interdisciplinario no solo eleva la calidad del desarrollo de productos, sino que también prepara a los futuros ingenieros para liderar proyectos en entornos más integrados y tecnológicamente avanzados. Liderazgo Colaborativo en Equipo: El equipo adopta un liderazgo compartido, donde cada miembro asume roles de liderazgo según sus habilidades y el momento del proyecto, fomentando la toma de decisiones conjunta y el compromiso. Este enfoque dinámico permite que todos contribuyan a la coordinación y ejecución de tareas clave.</td>
+  </tr>
+  <tr>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td>
+      <p>Márquez, Piero Stefano <br> 
+      TB1:<br> 
+      Durante la primera entrega, organicé y gestioné documentos clave, como el video de entrevistas y la descripción del startup. También participé en el diseño y priorización del product backlog, asegurando que todas las tareas estuvieran alineadas con los objetivos. Gracias a una planificación clara, el equipo avanzó de manera colaborativa en los capítulos 3 y 4, cumpliendo con los plazos establecidos.<br>
+      TP:<br> 
+      En la segunda entrega, corregí la primera versión de TB1 y mejoré el capítulo 3, enfocándome en las user stories y el product backlog según las indicaciones del profesor. Fomenté una comunicación fluida dentro del equipo mediante WhatsApp y Discord, con reuniones interdiarias que ayudaron a planificar tareas y cumplir objetivos de manera inclusiva.<br> 
+      TB2:<br> 
+      En la tercera entrega, primero se hicieron las correcciones pertinentes del TP, se mejoraron el capitulo 4 y 5. Luego me dedique a actualizar las epics, user stories y product backlog. En esta entrega me encargue de gesitonar el documento .md y fomente una buena comunicacion con mis compañeros mediante nuestros recursos de comunicacion como son WhatsApp y Discord.<br> 
+      TF:<br>  
+      En esta ultima entregam se hicieron las correciones pertinentes al documento del trabajo, esto se llevo a cabo de manera colaborativa.
+      </p>
+      <p>Patrocinio Escalante, Leonardo Walt<br> 
+      TB1:<br> 
+      Nos apoyamos mutuamente revisando los escenarios As-Is y To-Be, logrando identificar mejoras y asegurar la adaptación del diseño al contexto del negocio.<br>
+      TP:<br> 
+      Nos apoyamos para resolver dudas técnicas y unificar el estilo del código, facilitando el desarrollo efectivo y en equipo.<br> 
+      TB2:<br> 
+      Fomenté un ambiente de trabajo colaborativo al avanzar en el informe del sprint 2 y realizar evaluaciones heurísticas, estableciendo metas claras y planificando tareas para cumplir con los objetivos de mejora de usabilidad.<br> 
+      TF:<br>  
       Promoví un entorno de trabajo colaborativo mientras desarrollaba el backend, definiendo objetivos claros y planificando tareas para alcanzar las metas de eficiencia y estabilidad del sistema.
-      </br>
-      </br>
-      Díaz Gonzales, Víctor Yordi</br>
-      TB1:</br>
-      Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.</br>
-      TP:</br>
-      Nos enfocamos en construir un entorno de trabajo en equipo que permitiera la participación activa de todos. La planificación de tareas se realizó de forma coordinada, permitiendo cumplir los objetivos de manera eficaz. Este enfoque nos ayudó a alcanzar nuestras metas mientras fomentábamos la colaboración y el apoyo entre los integrantes del grupo.
-      TB2 </br>
-      Se empleó el trabajo colaborativo para realizar el sprint 2 de manera que como equipo era continuar con tareas del desarrollo de las aplicaciones web y mobil y tner un buen resultado.
-      </br>
-      TF:</br>
+      </p>
+      <p>Díaz Gonzales, Víctor Yordi<br> 
+      TB1:<br> 
+      Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.<br>
+      TP:<br> 
+      Nos enfocamos en construir un entorno de trabajo en equipo que permitiera la participación activa de todos. La planificación de tareas se realizó de forma coordinada, permitiendo cumplir los objetivos de manera eficaz. Este enfoque nos ayudó a alcanzar nuestras metas mientras fomentábamos la colaboración y el apoyo entre los integrantes del grupo.<br> 
+      TB2:<br> 
+      Se empleó el trabajo colaborativo para realizar el sprint 2 de manera que como equipo era continuar con tareas del desarrollo de las aplicaciones web y mobil y tner un buen resultado.<br> 
+      TF:<br> 
       Se fomentó el trabajo colaborativo para llevar a cabo el sprint 3, enfocándonos como equipo en continuar con las tareas de desarrollo de las aplicaciones web y móvil, logrando así un buen resultado.
-      </br>
-      </br>
-      Sánchez Ramírez, Diego Antonio</br>
-      TB1:</br>
-      Realizamos reuniones de grupo mediante distintos medios, como Discord o de manera presencial en las sesiones del curso, establecimos limites de fecha de entrega y cumplimiento de objetivos para la base del proyecto</br>
-      TP:</br>
-      Realizar como el anterior entregable, reuniones para poder corregir los fallos que tuvimos en dicho entregable. Se considero reforzar mas la planeación de metas y objetivos, ademas de la comunicación, para poder realizar un buen trabajo en conjunto. </br>
-      TB2: </br>
-La  estructura del tablero permitió una visualización clara del flujo de trabajo y ayuda al equipo a priorizar actividades de manera eficiente.  
-      </br>
-      TF:</br>
+      </p>
+      <p>Sánchez Ramírez, Diego Antonio <br> 
+      TB1:<br> 
+      Realizamos reuniones de grupo mediante distintos medios, como Discord o de manera presencial en las sesiones del curso, establecimos limites de fecha de entrega y cumplimiento de objetivos para la base del proyecto.<br>
+      TP:<br> 
+      Realizar como el anterior entregable, reuniones para poder corregir los fallos que tuvimos en dicho entregable. Se considero reforzar mas la planeación de metas y objetivos, ademas de la comunicación, para poder realizar un buen trabajo en conjunto.<br> 
+      TB2:<br> 
+      La estructura del tablero permitió una visualización clara del flujo de trabajo y ayuda al equipo a priorizar actividades de manera eficiente.<br> 
+      TF:<br>  
       La organización del tablero facilitó una visión clara del flujo de trabajo, lo que permitió al equipo priorizar actividades de forma eficiente y mantener un buen ritmo de progreso.
-      </br>
-      </br>
-      Navarro Chacon, Juan Jose</br>
-      TB1:</br>
-      La colaboración y la comunicación
-      fueron elementos clave durante este
-      proyecto. Trabajamos juntos en tareas
-      específicas, evaluamos los resultados y
-      abordamos los desacuerdos de manera
-      constructiva, siempre con el objetivo de
-      mejorar el desempeño del grupo.</br>
-      TP:</br>
-      Nos apoyamos mutuamente ante cada consulta de cada integrante del equipo, lo cual nos permitió realizar de manera efectiva nuestras  tareas asignadas, tanto individual como grupal y así poder realizar un trabajo satisfactorio.</br>
-      TB2: </br>
-Gracias a esta gestión colaborativa gracias a Trello, hemos logrado maximizar la eficiencia en la realización de las tareas asignadas a estas áreas, manteniendo un flujo constante de avances.
-      </br>
-      TF:</br>
+      </p>
+      <p>Navarro Chacon, Juan Jose <br> 
+      TB1:<br> 
+      La colaboración y la comunicación fueron elementos clave durante este proyecto. Trabajamos juntos en tareas específicas, evaluamos los resultados y abordamos los desacuerdos de manera constructiva, siempre con el objetivo de mejorar el desempeño del grupo.<br>
+      TP:<br> 
+      Nos apoyamos mutuamente ante cada consulta de cada integrante del equipo, lo cual nos permitió realizar de manera efectiva nuestras tareas asignadas, tanto individual como grupal y así poder realizar un trabajo satisfactorio.<br> 
+      TB2:<br> 
+      Gracias a esta gestión colaborativa gracias a Trello, hemos logrado maximizar la eficiencia en la realización de las tareas asignadas a estas áreas, manteniendo un flujo constante de avances.<br> 
+      TF:<br>  
       Brindamos apoyo constante entre los miembros del equipo, lo cual facilitó la realización eficiente de nuestras tareas, tanto a nivel individual como grupal, contribuyendo a un resultado satisfactorio del trabajo.
-      </br>
-      </br>
-      Zamora Rivera, Ismael Sebastian</br>
-      TB1:</br>
-      Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.</br>
-      TP</br>
-      Fomentamos un ambiente donde cada miembro pudo participar activamente y compartir ideas, lo que promovió una colaboración efectiva, Asimismo Eetablecimos metas concretas al inicio, lo que facilitó una mejor organización y división de las responsabilidades. Al planificar cada tarea con precisión, logramos cumplir con los objetivos de manera eficiente y alcanzar los resultados esperados dentro del tiempo previsto.</br>
-      TB2</br>
-      Contribuí al desarrollo de la sección de visualización de detalles de los refrigeradores, promoviendo un ambiente colaborativo. Además, avancé en el informe del sprint 2, en las funcionalidades de la aplicación y en la documentación del capítulo 5, organizando tareas para mejorar la usabilidad.</br>}
-      TF:</br>Fomentamos un ambiente en el que cada miembro pudo participar activamente y compartir ideas, promoviendo así una colaboración efectiva. Establecimos metas concretas desde el inicio, lo cual facilitó la organización y la división de responsabilidades. Gracias a la planificación precisa de cada tarea, logramos cumplir con los objetivos de manera eficiente y alcanzamos los resultados esperados dentro del plazo establecido.</br>
-      </td>
-      <td>El equipo consolidó un entorno altamente colaborativo e inclusivo. Se reforzó la comunicación efectiva mediante herramientas como WhatsApp y Discord, manteniendo reuniones interdiarias que facilitaron la coordinación y resolución de dudas. Cada miembro del equipo contribuyó activamente, estableciendo metas concretas y organizando las tareas de manera precisa, lo que permitió un trabajo fluido y alineado con los objetivos del proyecto. Además, la mejora en la planificación y distribución de responsabilidades, sumada al apoyo mutuo, fue clave para cumplir con los plazos y lograr los resultados esperados. El equipo mostró una notable capacidad para trabajar en conjunto, corregir errores y cumplir los objetivos establecidos de manera eficiente.
-      Entorno Inclusivo y Cumplimiento de Objetivos:
-El equipo promueve un ambiente inclusivo y abierto a diversas ideas, planificando metas claras en un tablero Kanban en Trello. Esta herramienta organiza y prioriza tareas, facilita el seguimiento del progreso y asegura el cumplimiento de objetivos mediante la responsabilidad compartida.
-      </td>
-    </tr>
-  </tbody>
+      </p>
+      <p>Zamora Rivera, Ismael Sebastian <br> 
+      TB1:<br> 
+      Durante el desarrollo del proyecto, analizamos diversas soluciones técnicas para implementar las funcionalidades requeridas. A través de la investigación y la discusión en equipo, seleccionamos las tecnologías más adecuadas que se ajustaran tanto a los objetivos del proyecto como a las limitaciones de tiempo y recursos.<br>
+      TP:<br> 
+      Fomentamos un ambiente donde cada miembro pudo participar activamente y compartir ideas, lo que promovió una colaboración efectiva, Asimismo Eetablecimos metas concretas al inicio, lo que facilitó una mejor organización y división de las responsabilidades. Al planificar cada tarea con precisión, logramos cumplir con los objetivos de manera eficiente y alcanzar los resultados esperados dentro del tiempo previsto.<br> 
+      TB2:<br> 
+      Contribuí al desarrollo de la sección de visualización de detalles de los refrigeradores, promoviendo un ambiente colaborativo. Además, avancé en el informe del sprint 2, en las funcionalidades de la aplicación y en la documentación del capítulo 5, organizando tareas para mejorar la usabilidad.<br> 
+      TF:<br>  
+      Fomentamos un ambiente en el que cada miembro pudo participar activamente y compartir ideas, promoviendo así una colaboración efectiva. Establecimos metas concretas desde el inicio, lo cual facilitó la organización y la división de responsabilidades. Gracias a la planificación precisa de cada tarea, logramos cumplir con los objetivos de manera eficiente y alcanzamos los resultados esperados dentro del plazo establecido.
+      </p>
+    </td>
+    <td>El equipo consolidó un entorno altamente colaborativo e inclusivo. Se reforzó la comunicación efectiva mediante herramientas como WhatsApp y Discord, manteniendo reuniones interdiarias que facilitaron la coordinación y resolución de dudas. Cada miembro del equipo contribuyó activamente, estableciendo metas concretas y organizando las tareas de manera precisa, lo que permitió un trabajo fluido y alineado con los objetivos del proyecto. Además, la mejora en la planificación y distribución de responsabilidades, sumada al apoyo mutuo, fue clave para cumplir con los plazos y lograr los resultados esperados. El equipo mostró una notable capacidad para trabajar en conjunto, corregir errores y cumplir los objetivos establecidos de manera eficiente. Entorno Inclusivo y Cumplimiento de Objetivos: El equipo promueve un ambiente inclusivo y abierto a diversas ideas, planificando metas claras en un tablero Kanban en Trello. Esta herramienta organiza y prioriza tareas, facilita el seguimiento del progreso y asegura el cumplimiento de objetivos mediante la responsabilidad compartida.</td>
+  </tr>
 </table>
-
-
 
 
 # 1.1. Startup Profile
