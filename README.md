@@ -329,7 +329,7 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             Coordine con el equipo para pode realizar los diferentes puntos de este trabajo parcial, por ejemplo en el intercambio de ideas para la realización de los diagramas de arquitectura de software utilizando Structurizr. </br>
            TB2: </br> Lideré la gestión del tablero Kanban en Trello, asegurando que cada tarea esté organizada y que las responsabilidades estén claramente definidas. Esta herramienta ha sido fundamental para mejorar la organización del proyecto, especialmente en la gestión de tareas relacionadas con IoT. 
             
-            </br></br>
+  </br>
             Navarro Chacon, Juan Jose</br>
             TB1:</br>
             Trabajé en la definición de las suposiciones de Lean UX, generando declaraciones de hipótesis que nos permitieron validar rápidamente ideas y ajustar el diseño con base en resultados tangibles. Realicé un análisis competitivo para entender cómo nuestra solución se posiciona frente a los competidores, identificando oportunidades de mejora. Desarrollé user stories y creé una matriz de tareas de usuario para mapear las interacciones clave en el sistema. Además, organicé sesiones de EventStorming para modelar los eventos críticos y asegurar que el flujo de información dentro del sistema fuera claro. Utilicé los Bounded Context Canvases y el Context Mapping para definir y visualizar las interacciones entre los diferentes dominios, asegurando que los límites del sistema fueran bien comprendidos y la solución estuviera bien estructurada.</br>
@@ -339,9 +339,8 @@ TP: En esta segunda entrega, el equipo ha mejorado significativamente en la crea
             cada integrante se le asignó una tarea
             específica que fue completada dentro
             del plazo establecido.</br>
-            </br></br>
             TB2: </br>
-       A través de la colaboración constante con los demás miembros, logramos una organización optimizada de tareas, especialmente en el desarrollo de las partes web y móvil del proyecto.
+             A través de la colaboración constante con los demás miembros, logramos una organización optimizada de tareas, especialmente en el desarrollo de las partes web y móvil del proyecto.
 
 </br>
             Zamora Rivera, Ismael Sebastian</br>
