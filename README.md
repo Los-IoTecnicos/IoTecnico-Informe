@@ -4757,213 +4757,156 @@ En esta sección, como equipo, explicamos y presentamos los avances en implement
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>266813db0c44314d4c5d365c635e4c115287fd62</td>
+            <td>add details</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 10, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>a30ecbac0d96a0672bc5a13faad7e8c6289967c9</td>
+            <td>Update inventary.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 11, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>7dde0576bf61363d89f79bd49821bbcd3b1867b9</td>
+            <td>Update home.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 14, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>4d24e4be37cc8ef8362f6f8ffd806f00ae3fa5b0</td>
+            <td>Update home.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>9c3898541f7f80b35f01bf6ec740da0511c6787b</td>
+            <td>Update home.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 20, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Web-Application-Front</td>
+            <td>develop</td>
+            <td>79d059de8ee04112260456753d58e1e899cfc8c7</td>
+            <td>Update details.component.ts</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 20, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>FrostChef-Mobile</td>
+            <td>develop</td>
+            <td>2abbc8194e1b71a19e152b3c5d51da69f3b18cd0</td>
+            <td>fix: update login and register details</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
+        </tr> 
+        <tr>
+            <td>FrostChef-Mobile</td>
+            <td>feature/notifications</td>
+            <td>b676b9c8c382a6311e115763a36bcb70efb5d8fb</td>
+            <td>Add new equipments and profile</td>
+            <td>-</td>
+            <td>Nov 15, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>74229e482aa94698e07a85328aa0f973ca5c6ee4</td>
+            <td>feat(auth): add JWT to login and register endpoints</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 14, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>631676ee1cdfc2cabbf45a974516810e1198aec8</td>
+            <td>fix:maven</td>
             <td>-</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>95012ab4984b747c545f9e73b4c01c12da002350</td>
+            <td>add: target</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>4c2c8ec78fafd1ddc2d00aba46450ce951d224e7</td>
+            <td>fix: snapshot</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>58f4f3ca2967fd2542bd9f4f00c25e597b151dec</td>
+            <td>fix:dockerfile and gitignore</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>9c0a2e5ebee4774b46f3b08a94701b980b4ac972</td>
+            <td>add: new free db</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>c3ee7da9dbc79ca1185557829bfecd9025771a89</td>
+            <td>fix:connection</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Backend-FrostChef</td>
+            <td>develop</td>
+            <td>e29f54e13eb2844b55ed19c00d106a598a802617</td>
+            <td>update: railway url</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 15, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>frostchef_embedded_app</td>
+            <td>develop</td>
+            <td>3dc8288663ee12b5bae7f05c28a7505f1190423e</td>
+            <td>feat: Clean project & improve a LCD Display 16x02</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 16, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>frostchef_embedded_app</td>
+            <td>develop</td>
+            <td>40556ca19b51b7a59e1ccfdefd2adc0a0b9de7ed</td>
+            <td>feat: implemented sensor of proximity (hc-sr04) succesfully!!</td>
             <td>-</td>
-            <td></td>
+            <td>Nov 16, 2024</td>
         </tr>
           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>frostchef_embedded_app</td>
+            <td>develop</td>
+            <td>0a4bd9552c080771f1bc7f16d50a6e24edb2ec5c</td>
+            <td>fix: Clean project and add comentaries</td>
             <td>-</td>
-            <td></td>
-        </tr>
-           <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>-</td>
-            <td></td>
-        </tr>
+            <td>Nov 16, 2024</td>
     </tbody>
 </table>
 
