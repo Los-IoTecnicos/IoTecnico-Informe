@@ -4259,6 +4259,7 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 
 **Usando la herramienta Swagger se pudo documentar, visualizar y consumir nuestros servicios**
 
+La imagen muestra la interfaz de Swagger utilizada en FrostChef para documentar los Endpoints de su API. Swagger proporciona una plataforma interactiva y eficiente para visualizar, documentar y consumir servicios web, lo que facilita tanto el desarrollo como el mantenimiento de la API.
 <img src="assets/images/Swagger1.png">
 <img src="assets/images/Swagger2.png">
 <img src="assets/images/Swagger3.png">
@@ -4300,16 +4301,51 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
    ![Configurando la fuente de GitHub Pages](https://media.discordapp.net/attachments/1273824394451615826/1302174178241155212/land2.png?ex=672727b5&is=6725d635&hm=fc587bbad64762501d7357dfd2f07ac9120340960814dd1b22127548f8a9988f&=&format=webp&quality=lossless&width=902&height=411)
 
 
-#### 6.2.2.8. Team Collaboration Insights during Sprint
+### 6.2.2.8. Team Collaboration Insights during Sprint
 
-En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2
+En esta sección, como equipo, mostramos cómo se han desarrollado las actividades de implementación. Se evidencia la participación del equipo de desarrollo durante el Sprint 2.
 
 **App Web**
 
-Se ha desarrollado la implementacion de la App Web en  la siguientes ramas:
+La implementación de la App Web se ha desarrollado en las siguientes ramas del repositorio de GitHub:
+
+- **main**: La rama principal y estable del proyecto.
+- **develop**: Rama de desarrollo donde se integran las nuevas funcionalidades antes de ser fusionadas a la rama principal.
+- **feature/test**: Rama dedicada a pruebas de nuevas funcionalidades y correcciones.
+- **feature/history**: Rama enfocada en el historial de cambios y versiones.
+- **feature/refrigeration_equipment**: Rama dedicada a las funcionalidades del equipo de refrigeración.
+- **feature/collaborate**: Rama para desarrollar características de colaboración entre usuarios.
+- **feature/home**: Rama para la implementación de la página de inicio.
+- **feature/inventory**: Rama dedicada a la gestión del inventario.
+- **feature/account**: Rama enfocada en la administración de cuentas de usuario.
+
+---
+
+La utilización de estas ramas en GitHub ilustra la colaboración estructurada y eficiente del equipo de desarrollo. Cada rama permite a los desarrolladores trabajar en paralelo en distintas características y módulos de la aplicación, lo que facilita la integración continua y minimiza los conflictos de código. Esto asegura un flujo de trabajo más ordenado y productivo, contribuyendo al éxito del Sprint 2.
+
 <img src="assets/images/BranchesWeb.PNG">
 
 Commits hechos en el repositorio
+
+Los commits realizados en el repositorio de GitHub son fundamentales para entender cómo se ha desarrollado y evolucionado el proyecto a lo largo del Sprint. Cada commit representa un conjunto de cambios o adiciones al código fuente, reflejando el progreso y las contribuciones individuales de los miembros del equipo.
+
+### Elementos destacados:
+
+1. **Colaboración del Equipo**:
+   - Los commits muestran una colaboración activa entre los desarrolladores, cada uno contribuyendo con actualizaciones, correcciones y nuevas funcionalidades. Esto asegura que todos los miembros del equipo estén alineados y trabajando en sincronía hacia los objetivos comunes del proyecto.
+
+2. **Seguimiento del Progreso**:
+   - Los mensajes de commit detallan las modificaciones específicas realizadas, proporcionando un historial claro y comprensible de cómo el código ha cambiado. Esto es crucial para la revisión de código y para mantener un registro de las mejoras implementadas.
+
+3. **Gestión de Versiones**:
+   - Los commits se agrupan por fecha y autor, permitiendo un fácil seguimiento de las versiones y facilitando la identificación de cuándo y por quién se realizaron ciertos cambios. Esto ayuda en la gestión del proyecto y en la resolución de conflictos de código.
+
+### Contexto del Proyecto:
+
+El registro detallado de commits es esencial para la transparencia y eficiencia en el desarrollo del software. Permite a los miembros del equipo revisar y entender las contribuciones individuales, facilita la colaboración y asegura que cualquier problema o mejora se pueda rastrear y abordar rápidamente. En resumen, el historial de commits no solo documenta el progreso del proyecto, sino que también fomenta una cultura de trabajo organizada y colaborativa.
+
+---
+
 <img src="assets/images/Commits.PNG">
 <img src="assets/images/Commits1.PNG">
 
