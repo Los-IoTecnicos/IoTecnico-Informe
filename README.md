@@ -4579,52 +4579,94 @@ Usamos la herramienta de selenium para testear:
 <img src="assets/images/TestingFrontEnt.png">
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
-En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 2. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
+En esta sección, se proporciona un resumen de los logros alcanzados durante el Sprint 3. Se incluyen capturas de pantalla de las principales vistas implementadas, y se añade un enlace a un video que muestra y explica la visualización y navegación logradas durante este Sprint.
 
 **Aplication Web**
 
  - Inicio de sesion
+   
+   Pantalla de inicio de sesión con un fondo de color azul degradado. En el centro, hay un formulario de inicio de sesión con los siguientes campos y elementos:
+   
  <img src="assets/images/Web1.png">
 
  - Creacion de cuenta
+   
+   Pantalla de creación de cuenta con un fondo de color azul degradado. En el centro, hay un formulario de registro con los siguientes campos y elementos:
+   
  <img src="assets/images/Web2.png">
 
  - Visualizacion del equipo de refrigeracion
+   
+   La sección home muestra una lista de unidades de refrigeración de "FrostChef" con su estado y capacidad actual
+   
  <img src="assets/images/Web3.png">
 
  - Añadir un producto
+
+   Pantalla diseñada para agregar nuevos productos al inventario. Contiene campos para ingresar información relevante y subir fotos del producto.
+   
  <img src="assets/images/Web4.png">
 
  - Vista para añadir colaboradores al restaurante
+
+   Pantalla para invitar y gestionar colaboradores del restaurante, con opción para mandar invitaciones y ver información de contacto existente.
+   
  <img src="assets/images/Web5.png">
 
  - Enviar correo al colaborador
+
+   Pantalla para enviar correos a colaboradores, con campos para "Correo Electrónico" y "Rol", además de un botón "Enviar Invitación".
+   
  <img src="assets/images/Web6.png">
 
  - Peril del dueño del restaurante
+
+   Pantalla con información sobre el propietario, incluyendo foto, nombre, título, email, teléfono, nombre del restaurante y ubicación.
+   
  <img src="assets/images/Web7.png">
 
 **Aplication Mobile**
 
 - Inicio de sesion
+
+  Pantalla de inicio de sesión en la aplicación móvil "Frostched", con campos para "Email" y "Contraseña", y un botón "Iniciar Sesión". También ofrece un enlace para registrarse si no tienes cuenta.
+  
 <img src="assets/images/Mobile1.png">
 
 - Menu de Productos
+
+  Pantalla para gestionar los productos del inventario, mostrando la lista de productos disponibles con opciones para ver detalles adicionales.
+  
 <img src="assets/images/Mobile2.png">
 
 - Equipo de Refrigeracion
+
+  Pantalla móvil de "Frostched" mostrando información sobre unidades de refrigeración. Presenta detalles de estado y capacidad del equipo con opciones para ver más información.
+  
 <img src="assets/images/Mobile3.png">
 
 - Detalles de una unidad de refrigeracion
+
+  Pantalla que muestra información detallada de una unidad de refrigeración específica, incluyendo modelo, número de serie, temperatura, humedad, fechas de mantenimiento y fecha de instalación. También hay opciones para enviar un informe y cerrar la ventana de información.
+  
 <img src="assets/images/Mobile4.png">
 
 - Agregar producto
+
+  Pantalla diseñada para ingresar nuevos productos al inventario, incluyendo detalles relevantes y fotos del producto.
+  
 <img src="assets/images/Mobile5.png">
 
-- Notificaciones 
+- Notificaciones
+
+  Pantalla de la aplicación móvil "Frostched" que muestra dos notificaciones:
+  
 <img src="assets/images/Mobile6.png">
 
 - Creación de cuenta
+
+  Pantalla en la aplicación móvil para crear una cuenta nueva, con campos obligatorios para email, contraseña, nombre completo, DNI y teléfono-
+  
 <img src="assets/images/Mobile7.png">
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
@@ -4633,7 +4675,13 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 **Usando la herramienta Swagger se pudo documentar, visualizar y consumir nuestros servicios**
 
 <img src="assets/images/sw1.png">
+
+Los endpoints enumerados incluyen varios métodos HTTP (GET, POST, DELETE) y admiten operaciones CRUD (Create, Read, Update, Delete)  para manipular productos y máquinas. La documentación proporciona una representación visual de la estructura de la API y las operaciones disponibles.
+
 <img src="assets/images/sw2.jpg">
+
+En esta sección se detallan los endpoints o puntos de acceso relacionados con la autenticación de usuarios, como el registro, inicio de sesión y actualización de cuentas.
+
 <img src="assets/images/sw3.jpg">
 
 
@@ -4675,7 +4723,7 @@ En esta sección, se detalla la documentación de los Endpoints creados y actual
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 
- En esta sección, se muestran los avances y la colaboración entre los miembros del equipo durante el Sprint 3. A continuación, se describen las implementaciones realizadas en los diferentes productos del sistema
+En esta sección, se muestran los avances y la colaboración entre los miembros del equipo durante el Sprint 3. A continuación, se describen las implementaciones realizadas en los diferentes productos del sistema
 ---
 
 #### **App Web**
