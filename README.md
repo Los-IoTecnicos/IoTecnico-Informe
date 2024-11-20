@@ -4284,7 +4284,6 @@ La imagen muestra la interfaz de Swagger utilizada en FrostChef para documentar 
    - En el dashboard de Vercel, haz clic en **"New Project"**.
    - Selecciona **"Import Git Repository"** y elige tu repositorio de GitHub que contiene la aplicación.
 
-   ![Importando repositorio en Vercel](https://media.discordapp.net/attachments/1273824394451615826/1302174177805209632/vercel.png)
 
 4. **Configura los ajustes del proyecto**:
    - Selecciona la rama que quieres desplegar, generalmente `main`.
@@ -4297,7 +4296,7 @@ La imagen muestra la interfaz de Swagger utilizada en FrostChef para documentar 
 6. **Accede a la URL del despliegue**:
    - Una vez completado el despliegue, Vercel proporcionará una URL donde tu aplicación está alojada. En este caso, podrías acceder a la aplicación en: [https://frostchef.vercel.app/Front-End/login](https://frostchef.vercel.app/Front-End/login).
 
-   ![Despliegue completado en Vercel](https:/github.com/Los-IoTecnicos/IoTecnico-Informe/blob/main/assets/images/Web3.png)
+   <img src="assets/images/Web3.png">
 
 ### 6.2.2.8. Team Collaboration Insights during Sprint
 
